@@ -6,6 +6,7 @@
 | Basque       | `eu`           |
 | Bengali      | `bn`           |
 | Bulgarian    | `bg`           |
+| Catalan      | `ca`           |
 | Cantonese    | `yr`           |
 | Chinese      | `zh`           |
 | Danish       | `da`           |
