@@ -148,4 +148,5 @@
 
 Notes: 
 
-- UD_Arabic_NYUAD is blank in UD 2.15 
+- UD_Arabic_NYUAD is blank in UD 2.15
+- UD_English-GUMReddit is blank in UD 2.15
