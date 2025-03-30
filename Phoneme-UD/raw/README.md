@@ -6,7 +6,7 @@
 | Basque       | `eu`           |
 | Bengali      | `bn`           |
 | Bulgarian    | `bg`           |
-| Cantonese    |                |
+| Cantonese    | `yr`           |
 | Chinese      | `zh`           |
 | Danish       | `da`           |
 | Dutch        | `nl`           |
@@ -99,11 +99,15 @@
 | Language             | ISO 639-1 Code |
 |----------------------|----------------|
 | Apurina              |   `apu`        |
+| Assyrian             |   `aii`        |
+| Azerbaijani          |   `az`         |
 | Abaza                |                |
 | Bambara              | `bm`           |
-| Bororo               |                |
+| Bavaria              | `bar`          |
+| Bororo               |  `bor`         |
 | Breton               | `br`           |
-| Buryat               |                |
+| Buryat               |   `bxr`        |
+| Cappadocian          |   `cpg`        |
 | Turkish-German       |                |
 | Paumari              |                |
 | Pashto               | `ps`           |
