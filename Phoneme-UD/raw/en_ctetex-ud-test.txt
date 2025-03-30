@@ -1,0 +1,896 @@
+The interoperable interface model defining both the NPAC to Local SMS and the
+SOA to NPAC SMS shall be specified in terms of ISO 10165-4, "Guideline for the
+Definition of Managed Objects (GDMO)”. 
+
+Lag Frames – The BE shall receive LTA or Speed Dump Lag Frames from the
+Correlator. For a detailed description of the two dump formats see Reference 8,
+pages 69 to 71. This will most likely be in the form of one or more frames per
+UDP/IP packet 
+
+The system shall strictly separate transient or volatile batch operation control
+records – e.g. bridge records to be included in a report – from more static
+control record – e.g. currently checked-out bridges.19 
+
+The complexity of the text search algorithm shall not exceed O(n2) for n nodes.
+
+The system shall be compatible with a centralized HVAC (Heating, Ventilation and
+Air Conditioning) systems: gas, oil, electricity, solar, or a combination of two
+or more. The system shall adhere to the standards, policies and procedures of
+the American Society of Heating, Refrigerating and Air-Conditioning Engineers
+[ASHRAE 2010]. 
+
+NPAC SMS shall allow NPAC personnel to view Service Provider data. 
+
+The TCS shall, as a minimum, have the functionality to provide the following
+control capabilities: 1. Send and receive tactical communication messages.
+[SSS222] 2. Send and receive annotated and un-annotated digital imagery.
+[SSS223] 3. Establish digital communication and when completed terminate
+communications to the C4I systems specified in Section 3.2.5 [SSS224]. 4.
+Establish and when completed terminate digital communication to peripheral
+devices. [SSS225] 
+
+An FAQ section – a set of “Frequently Asked Questions” about use and maintenance
+of the DigitalHome System (e.g., “How do I change my password?”, “Where to I go
+to get DigitalHome support?”). 
+
+Systems supporting OM must be able to create and send messages for laboratory
+test requests. This requirement is identified as a key performance measure for
+assessing preparedness as described in PHIN Preparedness Key Performance
+Measures, available at www.cdc.gov/phin. 
+
+Upon activation of the registration function, a USSD message (see section 11)
+shall be sent by the Cab radio. (M) 
+
+When displaying the VIL Precipitation Mosaic data or CIWS Echo Tops Mosaic data
+in an animated loop, the system shall display the following: a. Absolute time of
+the day associated with the image being displayed b. Relative time (+/- min) of
+the image being displayed with respect to the current time. 
+
+The presence test shall [SRS184] also ascertain that all processors are
+executing the same 50 Hz, 10 Hz and 1 Hz frames. 
+
+NPAC SMS shall accept the following optional fields from the new Service
+Provider or NPAC personnel for an active Subscription Version to be modified: •
+Billing Service Provider ID • End-User Location - Value • End-User Location -
+Type 
+
+For other software exceptions, regardless of whether or not a user written
+exception handling routine is invoked, if an exception occurs, the scheduler
+shall [SRS173], after making available the error type and context data to the
+application, resume processing (after the exception-handling routine runs, if
+provided) at the initialization point of the offending task. 
+
+As part of System Initialization , the Boot ROM shall [SRS234] be configured to,
+after completing IBIT, call the manufacturer-supplied VxWorks Board Support
+Package (BSP) initialization software followed by a call to the FTSS System
+Initialization software. 
+
+The integrated aircraft system shall meet all the requirements of this SRD and
+Appendix A. The integration of the Enhanced ALQ-172 and LBJ with the AC-130U and
+MC-130H aircraft shall not compromise their ability to safely accomplish all
+intended operational missions defined in their respective System Specifications.
+The terms "minimize changes" and "not significantly degrade" are used in this
+context throughout this SRD. 
+
+All equipment shall not degrade photochemically when exposed to solar radiation
+of up to 1200 W/m2. (M) 
+
+The following train data shall be sent from the on board to the trackside: (M)
+Train running number STM ready for use train gauge Max. axle load status of air
+tight system type of el. power accepted international train category max. train
+speed train length. 
+
+The TCS shall allow the operator to set the LOL delay timer(s) during mission
+planning. [SSS075] The LOL delay is the time from when the AV detects an
+unplanned LOL to the time it initiates LOL procedures. 
+
+When the train is stationary or after a certain time (e.g. the time for "route
+releasing" of the overlap, the release speed calculation shall be based on the
+distance to the danger point (if calculated on-board). The condition for this
+change shall be defined for each target as infrastructure data. (M) 
+
+User's will be able to pick up a tile from the wall if it is their turn. If they
+choose to pick up, the MultiMahjongClient must send this information to the
+MultiMahjongServer. 
+
+The Cab radio shall provide a means for the driver to terminate calls which he
+is authorised to terminate (ie all calls except Railway emergency calls not
+initiated by the driver and shunting group calls). (M) 
+
+All users of the system shall login using some form of unique identification.
+(e.g., username and password) 
+
+If the FCP is configured as a triplex, and if the NEFU is not still active (3
+NEs active total), and another failure in the FCP FCR is diagnosed, Redundancy
+Management shall [SRS284] mask out the processors on the failed FCR. The NE will
+remain in the CT and no recovery will take place. Note that a failed FCR could
+be diagnosed using any method, including (but not limited to) Continuous BIT,
+ICP presence test, or NE syndrome analysis. 
+
+Have map be able to show quantity of pumpage. Hover over or click a point in the
+map and see the average rolling 12, peak month, and max month compared to the
+pumpage of the well. Also get the cumulative quantities for an area you enter
+manually. 
+
+For recovery from abnormal termination, TCS shall prompt the operator to select
+the type of recovery to be executed: (1)Resume in the Same Modes And Data;
+(2)Resume in the Same Modes but Review and Modify the Command Data as Necessary;
+or, (3) Perform a Command Shutdown and Startup Via the Normal Startup Mode.
+[SSS031] 
+
+NPAC SMS shall require one of the following data items to identify the Service
+Provider data to be modified: Service Provider ID or Service Provider Name The
+Service Provider ID is required over the SOA to NPAC SMS interface and the NPAC
+SMS to Local SMS interface. 
+
+The user shall be able to hide a set of selected displayed nodes. The HATS-GUI
+shall change the display by removing the selected nodes from the display and
+changing the parent and descendant nodes of the removed nodes to nodes with
+hidden descendants and parents, respectively. 
+
+Each link displayed on the map shall be color coded to provide a graphical
+depiction of speeds. A configuration file shall be provided to specify specific
+speed values. The color coding shall be as follows: · Green - speeds > TBD MPH ·
+Yellow - speeds between TBD and TBD MPH · Red – speeds below TBD MPH 
+
+The Startup State shall be comprised of the following modes: Normal Startup Mode
+and Recovery Startup Mode. [SSS017] 
+
+The HATS-GUI shall allow the user to select the colors for types of displayed
+nodes in a displayed graph. At a minimum, the system shall provide eight colors
+(red, yellow, white, black, green, blue, orange, and violet) for displayed
+nodes. 
+
+When the user selects “Submit” on the “Create Flight Plan” screen, the FPMS
+shall do the following: a. Check that all entries are valid according to any
+constraints given in Table 2; b. Save the flight plan in the knowledge base, and
+c. Submit the flight plan file to the TGF for approval. 
+
+20% of all downloads as specified in R6-28.1, R6-28.2, R6-29.1 and R6-29.2 will
+be processed via range activations. 
+
+When the THEMAS system is initialized, it shall first turn off all the heating
+and cooling units. Then , it shall check all the thermostats and determine if
+any thermostat’s settings require a heating or cooling unit to be turned on back
+on. 
+
+The integrated aircraft system, excluding the Group B, shall have a service life
+of 30,000 hours using the AC-130U and MC-130H System Specification defined
+mission profiles. New, modified, and affected structure shall be designed to
+achieve the desired service life. Installation of the Enhanced ALQ-172 and LBJ
+shall not shorten the service lives of the AC-130U and MC-130H aircraft. 
+
+The THEMAS system shall ensure the temperature reported by a given thermostat
+shall not exceed a maximum deviation value of 3 degrees Fahrenheit. 
+
+When the user selects “Custom Route,” the FPMS shall display the “Custom Route”
+screen, as shown in Fig. 4, with the following fields populated from the flight
+plan data entries: a) Departure time b) Speed c) Departure point city, latitude,
+and longitude d) Departure point true course and distance are blank e)
+Destination city, latitude and longitude 
+
+System Initialization shall [SRS215] call an application initialization function
+to allow the application to (at least) create tasks, create communication
+sockets, initialize the vehicle mode, and initialize memory alignment allowance.
+
+The TCS flight route planner shall include, as a minimum, the following flight
+planning tools: 1. Weight and balance take off data calculations. [SSS083] 2.
+Fuel Calculations. [SSS084] 3. Terrain avoidance warning for line of sight
+flights. [SSS085] 4. Minimum data link reception altitude calculations for line
+of sight flights. [SSS554] 5. Payload search area information such as: visual
+acuity range due to atmospheric conditions, diurnal transition periods for
+thermal imagery, and lunar and solar terrain shadowing. [SSS086] 6. Ability to
+designate flight corridors and restricted air space. [SSS087] 
+
+The “Create Flight Plan” screen shall display the labels and GUI elements as
+described in Table 2. 
+
+When the system rejects one or more TOS options in the TOS message, the system
+shall send a TOS Error message to the originator of the TOS message identifying
+the reason(s) for error(s). 
+
+The utility timer shall [SRS256] have a resolution equal to or better than 60.6
+nanoseconds. 
+
+Each waypoint shall be identified with a unique name consisting of five letters
+beginning with the characters “VP.” 
+
+Continuous BIT shall [SRS097] detect a failed ICP processor by detecting the
+absence of a periodic message for 2 consecutive minor cycles. 
+
+Each active display window shall have a mouse cursor, which indicates the
+location of the pointing device in the window. 
+
+NPAC SMS shall require one of the following network data download choices: •
+npa-nxx-data (with one of the two selections below) - npa-nxx-range - all • lrn
+data (with one of the two selections below) - lrn-range - all • all network data
+• npa-nxx-x-data (with one of the two selections below) - npa-nxx-x-range - all
+
+Continuous BIT shall [SRS094] reset the processor’s built-in watchdog timer at
+50 Hz. A failure to reset the watchdog timer within the allotted time (nominally
+1.6 seconds) will generate a processor reset. 
+
+All EIRENE mobile equipment shall conform to [EN 60950] (Safety of Information
+Technology Equipment), including Electrical Business Equipment, 1993, plus
+amendments A1 and A2. (M) 
+
+Module Features – The CMIB shall contain 64 Mbytes or greater of SDRAM, IDE hard
+disk interface, minimum of one serial and one parallel interface, PCI/ISA buses,
+100BaseT network interface, capacity to boot and run a generic COTS operating
+system in a near real-time environment from local non-volatile storage. 
+
+There shall be exactly one file describing the lexical specification of inputs
+associated with an application. It shall have the file extension .spec. 
+
+If a failure in an FCR other than the NEFU is diagnosed when the FCP is
+configured as a degraded triplex, no action shall [SRS254] be taken. Note that a
+failed FCR could be diagnosed using any method, including (but not limited to)
+Continuous BIT, ICP presence test, or NE syndrome analysis. 
+
+If the user selects the “Create Flight Plan” button, the system shall display
+the “Create Flight Plan” screen with a form for data entry as noted in Table 2.
+
+Handheld mobile equipment shall be capable of withstanding the following levels
+of continuous sinusoidal vibration: (M) - frequency range: 5-200 Hz; -
+peak-to-peak amplitude: 7.5 mm; - peak acceleration: 1.5g. 
+
+For the NEFU, if errors are identified after the processor has been masked out,
+and if at least 4 NEs are still active, the NE shall [SRS283] be removed from
+the configuration and recovery will be attempted. Note that the NEFU recovery
+does not depend on whether alignment is permitted. 
+
+NPAC SMS shall allow the following data to be modified in a pending, or conflict
+Subscription Version for a “porting to original” port by the new Service
+Provider or NPAC personnel: • Due Date - New Service Provider date on which
+“port to original” is planned to occur. 
+
+Hardware Visual Health Monitoring – The carrier board for the CMIB shall have an
+externally visible indicator (LED or other) that will provide a user with a
+physical indication of CMIB operational status (red = fault, green = ok). 
+
+Auto-correction – the CMCS shall be self-monitoring. It will be capable of
+detecting, reporting on and automatically taking action to remedy or lessen the
+impact of, at a minimum, the following types of abnormal conditions: processor
+hardware failure, operating system hangs or crashes, temperature or voltage
+deviations, computational performance below minimum specifications,
+computational error rates above maximum specification, internal communications
+failures, and external (with the EVLA M&C) communications disruptions. 
+
+Communication services shall [SRS064] provide the following error handling
+information as feedback to the "message queue" API calls: a) notification of
+invalid or out of range application specified parameters on all operations, b)
+notification of an attempt to create a broadcast message queue, c) message queue
+"open" of end point ( SENDER/RECEIVER ) by non-assigned virtual group, d)
+message queue is full when performing a send operation, e)
+connection/transmission error, f) FTSS unable to create/open message queue, and
+g) notification that a received message was truncated to the buffer size
+provided. 
+
+The “Route Details” screen shall display the routes content as shown in Fig. 3.
+
+For MPCC/FTSS interfaces see the Radstone MPCC01 Firmware Manual, Pub
+#YD681MPCC1, and Radstone MPCC01 Hardware Manual, Pub #HH681MPCC1. The telemetry
+serial line on the MPCC cards will be configured as follows: • Mode: 0x1103 o
+SLDC Mode o Buffered Transfer o Single Frame Transfer o Report a Break
+character, but do not close the RX channel o Normal Operation - Note: CRC is
+always generated in SDLC mode • Baud Speed: 2,097,152 bps • Buffer size: 13,000
+bytes • No parity, 1 stop bit, 8 bit chars: 0x80 The command serial line on the
+MPCC cards will be configured as follows: • Mode: 0x1103 o SLDC Mode o Buffered
+Transfer o Single Frame Transfer o Report a Break character, but do not close
+the RX channel o Normal Operation - Note: CRC is always generated in SDLC mode •
+Buffer size: 332 bytes • Baud Speed: 1,048,576 bps • No parity, 1 stop bit, 8
+bit chars: 0x80 
+
+NPAC SMS shall, upon broadcasting the delete of the Subscription Version to EDR
+Local SMSs, and create of Subscription Version to non-EDR Local SMSs, set the
+status of the previously active Subscription Version being disconnected due to
+the port-to-original request to: (Previously SV-423.3) • Active, if ALL EDR and
+non-EDR Local SMSs, fail the broadcast. • Old, for all other cases. 
+
+The THEMAS shall provide the ability for the supervisor to select between two
+different types of reports: 1) the operational history of the THEMAS system for
+the past twelve months and 2) a statistical summary for any selected mont h. 
+
+NPAC SMS shall support one of the digital signature algorithms listed in the OIW
+Stable Implementation Agreement, Part 12, 1995. 
+
+For the AC-130U only, externally mounted LRUs shall withstand the pressure
+pulses from normal operational firing combinations of the 25mm, 40mm, and 105mm
+guns at the location on the aircraft appropriate to the mountings the LRU. The
+magnitude of the gunblast shall be that of the pointing and firing rate of each
+gun that produces the maximum pressure pulses, or resonant conditions, within or
+on the LRU. The possible combinations of firings are: 25mm & 40 mm; 25mm &
+105mm; 40mm & 105mm; and each singly (25mm, 40mm, 105mm). 
+
+Report on any water use amounts sold or given from one permit to another permit,
+especially reclaimed water (reclaimed water can be taken away, depending on the
+contract. It is kind-of-like “leasing” the water, but can be taken away). 
+
+It shall be possible to send information regarding the inhibition of the
+following different types of brake(M): - Regenerative brake, - Eddy current
+brake, - Magnetic shoe brake. 
+
+The Function Codes used in association with Maintenance Services Team Numbers
+(CT=6) shall conform to table 9A-2. (M) 
+
+Continuous BIT shall [SRS096] diagnose the faulty FCR within 1 second after
+detecting a failure. 
+
+When the user selects “Edit” and a flight plan has not been selected, FPMS shall
+display a standard OK message box that states “Flight plan has not been
+selected.” 
+
+Fourier Transform Processing – The BE shall be able to perform Fourier Transform
+the lag set time series. A power-of-two complex-to-complex Fast Fourier
+Transform with retention of all output positive and negative frequencies will be
+used. This process must be able to accept as input the output of any of the time
+domain processes. 
+
+The algorithmic accuracy of all flight planning calculations shall not deviate
+by more than 10% when compared with a mission flown by a validated 6
+degree-of-freedom air vehicle simulator. [SSS090] 
+
+When executing in the Normal Startup Mode, the TCS shall provide the system
+functionality necessary to initialize the system to place it in the Operations
+State within 60 seconds from the time power is supplied and the TCS application
+is launched. [SSS024] 
+
+Hardware identification – The CMIB shall be capable of reading a 16-bit
+identifier from the host correlator board. This identifier will be used to form
+a unique IP address for CMIB network addressing and allow carry over IP
+addressing for hot swap modules. 
+
+The 3D pose estimation of the camera mounted on the WM could be computed based
+on the image stream, with a mean error not larger than 1 cm translation and 5°
+rotation, with a minimum of 30 frame/sec 
+
+For displayed graph windows, the keyboard cursor location shall move according
+the following rules: • A left arrow key moves the cursor to the next unhidden
+node to the left. The node to the left does not need to be a sibling of the
+current node, but it does need to be at the same level as the current node. If
+there are no nodes to the left, the cursor does not move. • A right arrow key
+moves the cursor to the next unhidden node to the right. The node to the right
+does not need to be a sibling of the current node, but it does need to be at the
+same level as the current node. If there are no nodes to the right, the cursor
+does not move. • An up arrow key moves the cursor to the closest ancestor that
+is not hidden. If there is no such node, the cursor does not move. • An down
+arrow key moves the cursor to the leftmost, nearest descendant that is not
+hidden. If there is no such node, the cursor does not move. 
+
+The system shall determine that a flight is RVSM non-conformant in the future if
+all of the following conditions are met: a. The system has a filed flight plan
+for the flight b. The flight does not have one of the RVSM equipment suffixes c.
+The flight is predicted to be between the static adaptable parameters FL-Lower
+and FL-Upper, at any time in the flight's future. 
+
+Determine for epoch data the astrometric parameter (with instrumental and
+reduction errors): transit times and field angles in each CCD mean transit time
+and field angle for the transit.Gate activation and signal loss due to window
+cutoff must be taken into account. 
+
+The network shall terminate the ongoing VGCS/VBS call if it receives the 3-digit
+sequence “***” transmitted via DTMF signals. (M) 
+
+Redundancy Management shall [SRS104] implement the following strategies to
+reconfigure hardware resources: a) degrade the FCP virtual group, b)
+re-integrate an FCP processor into the FCP virtual group, c) re-integrate a
+Network Element, or d) mask a Network Element. 
+
+The Development and Maintenance Environment shall be available to at least 25
+developers 85% of the time during normal business hours over any consecutive
+twelve month period. Normal business hours are 8am to 4pm Eastern Time, Monday
+through Friday. 
+
+The GUI shall run on Windows 2000, Sun Solaris 8, and Linux operating systems
+without modification of the Java code. 
+
+Systems supporting OM must be able to store laboratory result(s) and link the
+result(s) to the original laboratory test request. More information about
+receiving and linking laboratory test requests is found in section 2.5 System
+Integration and Data Exchange of this document. 
+
+The map shall be capable of displaying the following for a DMS: 1. Location 2.
+Current Message 
+
+NPAC SMS shall validate that the old Service Provider in the create message is
+the Service Provider to which the TN’s NPA-NXX is assigned (as stored in the
+NPAC SMS service provider data tables) if there is currently no active
+Subscription Version for the TN in the NPAC SMS. 
+
+When a TOS Message is received and it does not include at least one option
+containing a route that can be parsed from departure to destination based on the
+syntax for ICAO field 15c, the system shall reject the TOS message. 
+
+When the MMI is switched on, the configuration shall be determined by the time
+elapsed since the MMI was last switched off: (M) - less than t minutes – the MMI
+shall power up with the same configuration as when it was last powered down; -
+greater than t minutes – the MMI shall power up with default settings. 
+
+There are two events that shall result in an alarm condition: 1) an invalid
+temperature value is reported from a thermostat, or 2) the reported temperature
+has exceeded the defined limits. This process shall determine which alarm event
+is to be generated. 
+
+A transaction rate of 2 CMIP transactions (sustained) per second shall be
+supported by each SOA to NPAC SMS interface association. 
+
+Upon activation of this function, the Cab radio shall provide the driver with a
+list of ‘generic’ staff, eg: (M) - chief conductor; - conductor 1; - conductor
+2; - catering staff 1. 
+
+The NDE Ingest capability shall not be interrupted for more than 2 hours in any
+consecutive 24 hour period and no more than 4 hours in any consecutive 30 day
+period. 
+
+The DigitalHome shall be equipped with various environmental controllers and
+sensors (temperature controller-sensors: thermostats, humidity
+controller-sensors: humidistats, contact sensors, security sound and light
+alarms, and power switches). 
+
+Transparency – 3.7.1, above, shall be accomplished in manner that is transparent
+to processing, communications and I/O software functions with the possible
+exception of recompilation of executables. 
+
+The test facility shall ensure a volume of 5 m (L)x 3.5 m (W)x 3 m (H) in order
+to allow the integration of the test bench and all required components for the
+regular performance of the demonstration 
+
+If the failed FCP processor has not synced in 2.5 seconds after the surviving
+triplex has detected the loss of the FCP, then the surviving triplex shall
+[SRS178], within 1 second, send a single voted VMEbus reset through the NE to
+the failed FCP. 
+
+When the system receives a Flight Plan message or an Airline Flight Create
+message to create a new flight that has: a. Same flight ID as an existing
+flight, and b. Same destination (but with different origin) as that existing
+flight, And that existing flight has: c. A departure time within 10 hours prior
+to the new flight's departure time, and d. A status of "cancelled", i.e.
+'diversion cancelled', the system shall identify the new flight to be an 'auto'
+Diversion Recovery flight. 
+
+The mechanical interface shall withstand, in connected mode, all mechanical
+loads induced by the demonstration operations: - Axial Force: 250 / 160 N -
+Radial Force: 250 / 160 N - Bending Moment: 204 / 84 Nm - Torsion: TBD Nm As
+function of the gravity compensation of the SM (TBC). 
+
+RAM scrub shall [SRS187] be capable of scrubbing at least 10 megabytes every 8
+minutes, given at least 1% of the CPU is available for this processing. 
+
+The ETCS trainborne equipment shall be capable of supervising the following
+operational states: (M) 1. Full Supervision operation 2. Partial Supervision
+operation - Staff Responsible operation - On Sight operation - Unfitted Line
+operation - Train Trip operation - Post Trip operation 3. National operation
+(STM) 4. Tandem operation 5. Multiple operation 6. Shunting operation 7. Stand
+By operation 8. Reversing operation 
+
+Both the SOA to NPAC SMS and the NPAC SMS to Local SMS interfaces shall be
+available on a 24 by 7 basis, consistent with other availability requirements in
+this specification. 
+
+Continuous BIT shall [SRS095] exercise the presence test at 50 Hz to ensure that
+all processors in the FCP virtual group are synchronized. 
+
+The System shall comply with ESPC (DoC/NOAA/NESDIS) procedures and policies as
+stated in the NOAA IT Security Manual 212-1300, Version 3.3, dated May 15, 2007.
+
+When the network has detected the 3-digit DTMF sequence “###” transmitted via
+DTMF from a controller terminal and if the controller was not previously talking
+it should indicate its recognition by playing a single DTMF grant tone “#” of
+duration of 100ms ± 5ms to be sent to that controller terminal only. (O) 
+
+The system administrator shall be able to configure the recalculation behavior
+of the derived data. The options shall include 1) do nothing, 2) alert user that
+recalculation is required and give option to recalculate before update/save, and
+3) recalculate silently with no confirmation prompt when user saves the
+inspection. 
+
+A DH user shall be able to set the thermostat temperatures to between 60 ° F and
+80 ° F, inclusive, at one degree increments. 
+
+Track the movement of lapsed quantities in an area, including: • Which permit
+and well obtained the lapsed quantities. • Where the lapsed quantities are
+located. • Why the quantities are lapsed (i.e. expired, cancelled, retired). •
+What MFL zone the lapsed quantities are in. 
+
+Continuous BIT shall [SRS098] report all diagnosed failures and recovery actions
+to the application for incorporation in the telemetry stream. 
+
+The following minimum values shall apply: (M) - coverage probability of 95%
+based on a coverage level of 38.5 dBmV/m (-98 dBm) for voice and non-safety
+critical data; - coverage probability of 95% based on a coverage level of 41.5
+dBmV/m (-95 dBm) on lines with ETCS levels 2/3 for speeds lower than or equal to
+220km/h. 
+
+If the HATS-GUI attempts to start a HATS-SML program and fails, the HATS-GUI
+shall notify the user by displaying the following message: “Unable to start
+HATS-SML.” The HATS-GUI shall provide any other details related to the failure
+that are available from the Host OS. Examples of information available from an
+operating system include indications that a specified file does ot exist, that a
+file cannot be opened due to file protection violations, or that errors occurred
+during I/O operations. 
+
+If an FCR is diagnosed as faulty during Startup, Redundancy Management shall
+[SRS102] exclude the FCP in the faulty channel from the initial FCP virtual
+group configuration. 
+
+Organizational maintenance consists of fault detection & isolation, faulty
+component removal & replacement, and system checkout. Maintenance personnel
+shall use Built in Test (BIT) to facilitate LBJ maintenance and verify equipment
+condition and operability. Adjustments and alignments shall not be required
+after LRU replacement. The equipment installation shall be designed to permit
+modular replacement without removal of adjacent modules. The integrated aircraft
+system installation shall not interfere with removal/replacement of other
+aircraft systems. 
+
+Continuous BIT, in conjunction with Redundancy Management and Scheduler
+operations running in the 50 Hz rategroup after the application tasks, shall
+[SRS091] take less than 2 milliseconds under nominal no-fault conditions. 
+
+NPAC SMS shall accept the following optional fields from NPAC personnel or the
+new Service Provider upon Subscription Version creation for an Inter-Service
+Provider port: - Billing Service Provider ID - End User Location - Value - End
+User Location - Type 
+
+Report compliance on a permit (not wells). Crop reports on permits (not wells).
+
+How the ASPERA-3 and MEX OA data and exactly what data sets are to be
+distributed to each Co-I shall be determined by the needs and resources
+available six months prior to MEX launch. The distribution mechanisms shall be
+clearly defined/described in the APAF Operation Procedures Document. 
+
+The user shall not be required to log in or authenticate his/her identity when
+using the system. 
+
+NPAC SMS shall receive the Service Provider ID, a request to view subscription
+data, and optionally the subscription data status types to be returned (e.g.,
+active only, active or pending) for queries regarding subscription data for a
+specific Service Provider. 
+
+RAM scrub shall [SRS043] actively trigger the EDAC function by cyclically
+reading (and writing back if an error is found) all used RAM. 
+
+Systems supporting OM must have the capability to capture data about locations
+involved in an OM investigation, including: name (if applicable), type (e.g.,
+floor, building, room, store), street address, city, state, zip code, country,
+GPS coordinates, and other specific details (e.g., a specific building on a
+campus, a business branch location, a local chapter’s meeting hall) 
+
+The ground segment shall know at any moment the status of the different modules
+of the modular spacecraft. This information is passed through two types of
+telemetries: - Periodic telemetry with standardized packets. - Asynchronous
+telemetry with error message. 
+
+Monitor Compute Errors – The BE shall trap, flag and repair inf’s, NaN’s,
+underflows, overflows and other computation errors. Accumulate computation error
+statistics and compare against tolerances. Report all out of tolerance
+conditions. 
+
+Input – The BE System shall be capable of accepting an aggregate data input
+stream from the Correlator of a minimum of 1.6 Gbytes/sec. This must be done
+simultaneously with the output stream, but not necessarily over the same
+interconnects. This is an initial deployment specification and will be increased
+over time. 
+
+Report the per capita daily water figures for the permitted amount, reported
+amount and adjusted number for per utility. The formula for adjusted gross
+capita is: WD + IM - EX -TL - SU - EM / Population where: WD = ground water &
+surface water withdrawals IM = water imported/bought from another supplier EX =
+Water exported/sold to other suppliers TL = treatment loss (typically R/O or
+sand filtration SU = Significant uses EM = Environmental mitigation, if required
+as a District permit condition. Population = Functional population 
+
+NPAC SMS shall notify NPAC personnel upon successful creation of the new Service
+Provider. 
+
+Redundancy Management shall [SRS208], within 60 milliseconds after 1.5 minutes
+has elapsed since the voted reset was sent to the failed channel, if the voted
+reset fails to recover the failed channel and alignment is still allowed,
+request from the application a power cycle of the channel. (Note that NEFU
+recovery does not depend on whether alignment is permitted.) 
+
+In the Normal Operations Mode the TCS shall support the following functions:
+[SSS037] 1. Mission Planning 2. Mission Control and Monitoring 3. Payload
+Product Management 4. Target Coordinate Development 5. C4I Systems Interface 
+
+The tool shall change the archive field in the Species Habitat Feature and
+species habitat records to TRUE. 
+
+The SOF integrated aircraft system shall have sufficient structural integrity,
+based on the original design criteria, to insure optimum system performance in
+its operating environment over its service life. All new/modified
+safety-of-flight, maintenance critical, and mission critical structures, which
+are flight and/or pressure load design driven, shall have static margins of
+safety greater than or equal to 0.25 if not structurally proof tested to
+ultimate load. The Rremaining aircraft components (not on a critical parts list,
+crash load design driven, and previous existing structure) shall not be degraded
+below 0.0 (positive) static margin of safety. 
+
+Continuous BIT shall [SRS093] execute on the FCP virtual group. 
+
+The System shall be compliant with the OMB Federal Enterprise Architecture (FEA)
+according to the documents dated December 2006, and available from
+http://www.whitehouse.gov/omb/egov/a-2-EAModelsNEW2.html . 
+
+The map user shall be able to alter the current magnification (zoom level) of
+the map. 
+
+The “Aircraft” screen interface shall display a checkbox followed by the
+following summary of the aircraft: Name, Aircraft ID, Aircraft Model number,
+Aircraft Color. 
+
+For the NEFU, if the first failure is diagnosed, Redundancy Management shall
+[SRS245] issue a configuration update to mask out the failed processor. Note
+that the NE is allowed to remain in the configuration and no recovery will take
+place. Note also that the failed NEFU could be diagnosed using any method,
+including (but not limited to) ICP presence test, or NE syndrome analysis. 
+
+Noise consideration on: • Flux noise (Poisson noise, total detection noise,...)
+• CCD combination noise for (RVS) • Wavelength calibration • Multi-transit
+combination noise (only for combined data)should be added 
+
+The system shall provide the capability for user groups to be combined and
+de-combined. 
+
+System Initialization, from hardware reset to starting of the 50 Hz timer, shall
+[SRS015] take no longer than 1.5 minutes. 
+
+Network Protocol – The interface between the CMIB, MCCC, and CPCC shall be
+Ethernet (IEEE 802.3 compliant) of 100 Mbits/sec or better data rate. 
+
+The DMI shall indicate the result of the self-test. (M) 
+
+NPAC SMS shall notify all accepting Local SMSs and SOAs of the NPA-NXX,
+effective date, and owning Service Provider when a new NPA-NXX involved in an
+NPA Split, is being ported for the first time, after the start of permissive
+dialing, immediately after creation validation of a Subscription Version. 
+
+NPAC SMS shall broadcast all additions, modifications, and deletions of NPAC
+Customer names via the NPAC SMS to Local SMS interface and/or SOA to NPAC SMS
+interface. 
+
+The View/Select Text menu item shall provide an interface for selecting
+pretty-printed text or text strings associated with SDT displays. 
+
+The ceiling speed value for the unfitted operation is determined by the lower
+value out of - Maximum train speed - National value for unfitted operation (M) 
+
+Redundancy Management shall [SRS117] reintegrate a processor that is temporarily
+disabled during a time when alignment was not permitted, when alignment is
+subsequently permitted. Redundancy Management picks up where it left off in
+these attempts. For example, if Redundancy Management is at 1 minute in its 1.5
+minute wait for a channel after the first power cycle request, and alignment is
+not allowed, when alignment is subsequently allowed Redundancy Management will
+wait another half minute and then try the next power cycle request. 
+
+NPAC SMS shall require NPAC personnel to specify a TN Range (NPA-NXX-xxxx
+through yyyy, where yyyy is greater than xxxx) to identify multiple subscription
+versions that contain a Failed SP List with one or more SPIDS, to be resent. 
+
+NPAC SMS shall update the status of the Subscription Version(s) and the Block,
+specified in the re-send request for a Block Creation, Modification, or
+Deletion, at the completion of the re-send to the Local SMS, and a response from
+the Local SMS or if retries have been exhausted, from a sending status, as
+defined in RR3-137.1, RR3-137.2 RR3-137.3, and RR3-137.4. (Previously SV-515) 
+
+NPAC SMS's login procedure shall be able to be reliably initiated by the user,
+i.e., a trusted communications path should exist between NPAC SMS and the user
+during the login procedure. 
+
+When a user selects the Application/Select menu item, the HATS-GUI shall display
+a list of directory names in the current working directory, allow a user to
+navigate the directory structure, and allow a user to select a previously
+created application. This application becomes the currently selected
+application. 
+
+NPAC SMS shall support the Service Providers’ acknowledgment via 2 secure
+electronic forms, Email or FTP using encryption mechanisms. 
+
+Support Services shall [SRS257] use no more than 5.2 milliseconds of FCP
+processing time to move the telemetry data to the FCC-MPCC board and complete
+communication and error handling for the FCC-MPCC board. 
+
+The “Start Flight” screen shall display the flight plan(s) scheduled for the
+current date using the interface as shown in Fig. 7. 
+
+When a valid Airline Flight Modify message is received for a flight having the
+flight status of "planned" or "active", the system shall update the existing
+flight entry in the flight data retained by the system. 
+
+EIRENE mobile equipment shall be capable of operating over a standard range of
+temperatures from -20°C to +55°C. (M) 
+
+As a minimum, the LBJ processors shall have an average of 50 percent spare
+memory and 50 percent spare throughput. As a goal, the spare memory and
+throughput should both be 75 percent. 
+
+When displaying the VIL Precipitation Mosaic data, the system shall provide the
+capability to display the number of the precipitation levels as the following:
+a. Up to six levels (1, 2, 3, 4, 5, 6) for displaying the past and current data
+in Standard Mode b. Up to eight levels (1a, 1b, 1c, 2, 3, 4, 5, 6) for
+displaying the past and current data in Winter Mode c. Up to four levels (1, 2,
+3-4, 5+) for displaying the forecasted data in Standard Mode d. Up to three
+levels (1a, 1b, 1c+) for displaying the forecasted data in Winter Mode. 
+
+The HATS-GUI shall collect process exit codes from HATS-SML processes. Process
+exit codes of 0 indicate nominal completion of the process. Process exit codes
+other than 0 indicate failure. 
+
+Once an Center is selected, the user shall be able to select a CCTV from a list
+and provide the following information: · Target CCTV · Device control including:
+- Pan - Tilt - Zoom 
+
+Within each GSM-R network, the following relationships between the MSISDN
+Subscriber Number and the National EIRENE Number can be identified: - the MSISDN
+Subscriber Number shall be equal to the National EIRENE Number for Call Type =
+8; (M) - the MSISDN number may be equal to the National EIRENE Number for any
+other Call Type. (O) 
+
+The Cab radio shall arbitrate between calls when: - an incoming call is received
+whilst the Cab radio is in an on-going call; (M) - a Cab radio user attempts to
+initiate a call whilst the Cab radio is in an on-going call. (M) 
+
+When actual route data is not available, the system shall retain as part of the
+flight intent data, the most probable previously used route data associated with
+the city-pair, user group, and/or aircraft type of subject flight. 
+
+ESPC Operations shall provide an interface between NDE and the NPOESS Mission
+Management Center (MMC) such that 100% of the NDE inquiries to the MMC and NDE
+replies to MMC requests are received by the MMC in a time not to exceed that
+specified in the ICD, and that 100% of the notifications and inquiries from the
+MMC to NDE are received by NDE in a time not to exceed that specified by the
+ICD. 
+
+The user shall be able to enter a WHERE clause of the SQL query in the Find and
+the Filter window and run a query against the bridges in the database. The query
+will be verified by the application and SQL errors will be reported to the user
+for correction. This capability shall be an application privilege. Bridge-level
+security of the user shall be applied automatically. 
+
+The components of the modular spacecraft: subsystems, interfaces and structures
+shall be able to withstand the space environment for the whole duration of the
+mission. 
+
+The Cab radio shall support a ‘shunting mode’ of operation that provides a link
+assurance tone to reassure users of the integrity of the communication link (see
+section 14). (M) 
+
+The equipment shall be capable of coping with temperature variations of up to
++/- 1°C/minute. (M) 
+
+Redundancy Management shall [SRS101] define an initial mapping of physical
+hardware to virtual group identifiers consisting of 1 quadruplex FCP virtual
+group and 5 ICP simplexes. 
+
+The system shall be able to provide information about the state of a power
+switch (OFF or ON), indicating the whether an appliance connected to the power
+switch is OFF or ON. 
+
+The scheduler shall [SRS181] set the 50 Hz interval timer to a count down value
+so as to cause the next minor frame interrupt at 20 msec from the previous
+interrupt congruently in all operational FCPs. 
+
+The CO must respond within 1 minute in both single and multi player modes. 
+
+There is a quality of service requirement for handover executions (eg a break of
+10s would clearly be unacceptable to the user). 300ms represents our current
+best estimate of the QoS figure, although this will need to be confirmed through
+user trials. (I) 
+
+Transfer to Shunting on driver’s selection shall only be possible when
+stationary. (M) 
+
+The Enhanced ALQ-172 and LBJ installation shall be designed to meet the
+requirements of MIL-STD-464 Paragraphs 5.2, 5.7.1, 5.7.2, 5.8, 5.10 through
+5.10.2, and 5.10.4. 
+
+ASPERA-3 and MEX OA IDFS data and any APAF-generated intermediate files of
+ASPERA-3 and MEX OA cleaned-up telemetry shall be provided to all ASPERA-3
+Co-I’s. 
+
+RAM scrub shall [SRS044] report detected errors to the application, congruently
+on all channels, via an API service for inclusion in the telemetry stream. 
+
+NPAC SMS shall default the long Initial Concurrence Window tunable parameter to
+9 business hours. 
+
+When the user selects “Delete” and a route has been selected, FPMS shall display
+a standard Yes-No message box that states “Are you sure that you want to delete
+this route?” 
+
+The WM shall be able to parse information from/to its data interface through the
+two SI extremities and translate it in its own local bus for Real-Timer monitor
+and control of its joins. 
+
+The installation of the Enhanced ALQ-172 and LBJ shall: Operate during
+accelerations: Per AC-130U and MC-130H design parameters. Operate after
+accelerations: Per AC-130U and MC-130H design parameters. Crash loads: All fixed
+and removable equipment and their subcomponent installations, should be able to
+withstand the aircraft design load factors or the following load factors,
+whichever are greater: Longitudinal: 9.0 forward, 1.5 aft Lateral: 1.5 right and
+left Vertical: 4.5 down, 2.0 up 
+
+The scheduler shall [SRS035] provide rate groups that execute at 50 Hz, 10 Hz
+and 1 Hz., with a drift rate no greater than 50 microseconds per second, and
+with a jitter no greater than 330 microseconds. 
+
+The system shall convert the following CIWS weather products to a quantized form
+before making the data available for display: a. VIL Precipitation Mosaic b. VIL
+Precipitation Forecast Mosaic c. CIWS Echo Tops Mosaic d. CIWS Echo Tops
+Forecast Mosaic. 
+
+The structure of the modules shall be able to carry its own mass under the
+gravity force and the loads introduced by the “walking” robot-system during the
+manipulation of the SMs. 
+
+Track and measure alternative source projects (note: some of these may be
+included in table 8): • Surface water or stormwater projects. • Reclaimed water
+(reuse water). • Augmented surface water (reservoirs, harvesting of high flows
+(floodwaters). • ASR (Aquifer storage recovery) • Desalination. • Conservation
+(defined as a beneficial reduction of water use resulting in: o modification of
+water use practices, o reduction of unaccounted-for losses, or o installation
+and maintenance of low volume water use systems, processes, fixtures, or
+devices. 
+
+NPAC SMS shall allow Service Providers to add/delete the NPA-NXX and/or LRN data
+via the NPAC SMS to Local SMS interface and SOA to NPAC SMS interface provided
+the changes do not cause mass updates to the Subscription Versions. 
+
+Card 1 of the Google Glass screen shall display the text “ETA: “directly below
+the text “RTA; “of the next waypoint that the pilot is approaching, followed by
+a number value that represents the real-time ETA value for that waypoint. 
+
+The train shall leave Partial Supervision when the trainborne equipment is not
+operative any longer, when Shunting is selected or when Full Supervision is
+available. (M) 
+
+Initialization of the TCS HWCIs shall include startup of HWCIs [SSS542],
+download of software [SSS026], startup of CSCIs [SSS027], execution of Startup
+FD/L [SSS025], and establishment of the state of readiness of all interfaces.
+[SSS028] 
+
+Any APAF-generated intermediate files of ASPERA-3 and MEX OA cleaned-up
+telemetry that are electronically distributed shall be provided to the ASPERA-3
+Co-I’s within 24 hours of acquiring ASPERA-3 and MEX OA telemetry as long as the
+transmission and processing are error-free. 
+
+Systems supporting OM must support dynamically defined associations between
+entities for the purpose of defining relationships. For example,
+person-to-person (e.g., family relationship, exposure relationship),
+person-to-place (e.g., household, common place), animal-to-person,
+object-to-place, person-to-travel. 
+
+RAM scrub shall [SRS275] not scrub the area used for telemetry data. 
+
+The TCS will provide the hardware and software necessary to allow the operator
+to conduct the following major functions 1) mission planning, 2) mission control
+and monitoring, 3) payload product management, 4) targeting, and 5) C4I system
+interface. 
+
+When the system receives an IADE message, the system shall acceptance check
+those fields of the received message having possible ranges of values, for being
+within their pre-defined range. 
+
+The SVC OBC shall be able to detect and use additional functional modules (plug
+& play principle) 
+
+When a valid NAS Cancellation message or an IADE Flight Plan Cancellation
+message is received for a flight having the status of "planned" and no Flight
+Create or Flight Modify message has been received for the flight and no other
+flight plan exists for the flight in a "non-cancelled" status, the system shall
+update the flight's status to "cancelled". 
+
+The FPMS shall obtain the list of airports from the airport.xml file upon
+initialization of the system. 
+
+Characters * and # may be used locally to gain access to special facilities such
+as short code dialling. However, these arrangements do not form part of the
+network numbering plan. (I) 
+
+The HATS-GUI shall display 1,000,000 node SDTs in the same amount of time, plus
+or minus two seconds, as it takes to display a 10,000 node SDT. 
+
+Security - Network routers/switches shall be employed at the MCCCEVLA M&C
+interface level (or higher) to protect the MCCC from unauthorized access and
+irrelevant network traffic. 
+
+Data Invalid – The BE shall replace all invalid data with zero values. 
