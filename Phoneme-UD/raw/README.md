@@ -110,7 +110,6 @@
 | Buryat               |   `bxr`        |
 | Cebuano          |   `ceb`        |
 | Chinese-Beginners          |   `zh`        |
-
 | Chukchi          |   `ckt`        |
 | Coptic          |   `cop`        |
 | Cappadocian          |   `cpg`        |
