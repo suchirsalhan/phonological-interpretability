@@ -94,10 +94,11 @@
 | Latin            | `la`           |
 | Coptic           |                |
 
-## 📝 To Do
+## 📝 To Do: Very Low Resource Languages
 
 | Language             | ISO 639-1 Code |
 |----------------------|----------------|
+| Apurina              |   `apu`        |
 | Abaza                |                |
 | Bambara              | `bm`           |
 | Bororo               |                |
