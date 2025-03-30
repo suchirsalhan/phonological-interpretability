@@ -93,9 +93,9 @@
 | Old Irish        |                |
 | Low Saxon        |                |
 | Latin            | `la`           |
-| Coptic           |                |
 
-## 📝 To Do: Very Low Resource Languages
+## 📝 To Phonemize: Very Low Resource Languages
+
 
 | Language             | ISO 639-1 Code |
 |----------------------|----------------|
@@ -108,7 +108,13 @@
 | Bororo               |  `bor`         |
 | Breton               | `br`           |
 | Buryat               |   `bxr`        |
+| Cebuano          |   `ceb`        |
+| Chinese-Beginners          |   `zh`        |
+
+| Chukchi          |   `ckt`        |
+| Coptic          |   `cop`        |
 | Cappadocian          |   `cpg`        |
+| Egyptian          |   `ey`        |
 | Turkish-German       |                |
 | Paumari              |                |
 | Pashto               | `ps`           |
