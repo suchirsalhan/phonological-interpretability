@@ -83,8 +83,8 @@
 
 | Language         | ISO 639-1 Code |
 |------------------|----------------|
-| Ancient Greek    |                |
-| Akkadian         |                |
+| Ancient Greek    | `grc`          |
+| Akkadian         |  `hbo`         |
 | Ancient Hebrew   |                |
 | Umbrian          |                |
 | Sanskrit         | `sa`           |
