@@ -97,46 +97,74 @@
 ## 📝 To Phonemize: Very Low Resource Languages
 
 
-| Language             | ISO 639-1 Code |
-|----------------------|----------------|
-| Apurina              |   `apu`        |
-| Assyrian             |   `aii`        |
-| Azerbaijani          |   `az`         |
-| Abaza                |                |
-| Bambara              | `bm`           |
-| Bavaria              | `bar`          |
-| Bororo               |  `bor`         |
-| Breton               | `br`           |
-| Buryat               |   `bxr`        |
-| Cebuano          |   `ceb`        |
-| Chinese-Beginners          |   `zh`        |
-| Chukchi          |   `ckt`        |
-| Coptic          |   `cop`        |
-| Cappadocian          |   `cpg`        |
-| Egyptian          |   `ey`        |
-| Turkish-German       |                |
-| Paumari              |                |
-| Pashto               | `ps`           |
-| Ottoman-Turkish      |                |
-| Neapolitan           |                |
-| Nayini               |                |
-|  Naija               |                |
-| Mundurunku           |                |
-| Naija                |                |
-| Moksha               |                |
-| Middle French        |                |
-| Livvi                |                |
-| Latalian-Cairo       |                |
-| Kyrgyz               | `ky`           |
-| Komi                 |                |
-| Kiche                |                |
-| Karo                 |                |
-| Karelian             |                |
-| Gheg                 |                |
-| Galician             | `gl`           |
-| Frisian              | `fy`           |
-| Faroese              | `fo`           |
-
+| Language                    | ISO 639-1 Code |
+|-----------------------------|---------------|
+| Apurina                     | `apu`         |
+| Assyrian                    | `aii`         |
+| Azerbaijani                 | `az`          |
+| Abaza                       |               |
+| Bambara                     | `bm`          |
+| Bavaria                     | `bar`         |
+| Bororo                      | `bor`         |
+| Breton                      | `br`          |
+| Buryat                      | `bxr`         |
+| Cebuano                     | `ceb`         |
+| Chinese-Beginners           | `zh`          |
+| Chukchi                     | `ckt`         |
+| Coptic                      | `cop`         |
+| Cappadocian                 | `cpg`         |
+| Egyptian                    | `ey`          |
+| Turkish-German              |               |
+| Paumari                     |               |
+| Pashto                      | `ps`          |
+| Ottoman-Turkish             |               |
+| Neapolitan                  |               |
+| Nayini                      |               |
+| Naija                       |               |
+| Mundurunku                  |               |
+| Moksha                      |               |
+| Middle French               |               |
+| Livvi                       |               |
+| Latalian-Cairo              |               |
+| Kyrgyz                      | `ky`          |
+| Komi                        |               |
+| Kiche                       |               |
+| Karo                        |               |
+| Karelian                    |               |
+| Gheg                        |               |
+| Galician                    | `gl`          |
+| Frisian                     | `fy`          |
+| Faroese                     | `fo`          |
+| Yupik                       | `ess`         |
+| Yoruba                      | `yo`          |
+| Yakut                       | `sah`         |
+| Xibe                        | `sjo`         |
+| Xavante                     | `xav`         |
+| Wolof                       | `wo`          |
+| Nahuatl                     | `nhi`         |
+| Western Armenian            | `hyw`         |
+| Warlpiri                    | `wbp`         |
+| Welsh                       | `cy`          |
+| Veps                        |               |
+| Upper Sorbian               |               |
+| Umbrian                     |               |
+| Tupinamba                   |               |
+| Twsana-Popapolelo           |               |
+| Teko                        |               |
+| Tatar                       |               |
+| Swiss German                |               |
+| Telegu English              | `qte`         |
+| Swiss Sign Language         | `ssg`         |
+| Soi                         | `soj`         |
+| South Arabic Leventine      | `ajp`         |
+| Slovenian                   | `sl`          |
+| Slovak                      | `sk`          |
+| Sami (Skolt Sami Geillagas) | `sms`         |
+| Sinhala                     | `si`          |
+| Serbian                     | `sr`          |
+| Scottish Gaelic             | `gd`          |
+| Sanskrit Vedic              | `sa`          |
+| UFAL Sanskrit               | `sa`          |
 ## 🧏 Miscellaneous
 
 | Language               | ISO 639-1 Code |
