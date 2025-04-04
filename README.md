@@ -1,8 +1,9 @@
 # PhonologyGYM: A Phonological Interpretability Benchmark
 
-# Probing Emergent Phonology in Phoneme Language Models. 
+Phonotactically real, Minimal Pairs targeting phonologically contrastive datasets.
 
-Phonotactically real, Pairwise relationship
+## Probing Emergent Phonology in Phoneme Language Models. 
+
 - Real Pseudowords generated using Wuggy 
 - **First-Order Violations:** Phonological Minimal Pairs – Assimilation, Dissimilation based on P-BASE
 - **Second-Order Violations:** Feeding, Bleeding and Counterbleeding
@@ -10,7 +11,7 @@ Phonotactically real, Pairwise relationship
 Evaluation using Relative normalised cross-entropy, normalised. Measure between real word and non-word  
 
 
-# Preprocessing 
+## Preprocessing 
 
 We use Wuggy pseudowords and systematise features from P-BASE, a phonological database from Jeff Mielke et al. 
 
