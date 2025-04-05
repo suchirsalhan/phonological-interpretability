@@ -1,0 +1,1195 @@
+Alte polimorfisme induse de enzime de restricție în gena VDR sunt BsmI (alele b
+și B) și ApaI (alele a și A) în intron 8 și o substituție C - T silențioasă
+(care nu determină modificarea aminoacidului codificat) în exonul 9 care induce
+un situs Taq1 (alele T și T). Corelate cu funcția cunoscută a ICAM-1 în
+răspunsul imun la om și cu implicarea sa în patogeneza T1DM la șoarecii NOD,
+rezultatele noastre sugerează puternic că ICAM-1 ar putea fi implicat în
+patogeneza T1DM la om și că unele din mutațiile din gena ICAM-1 de pe cromozomul
+19p13 ar putea contribui la susceptibilitatea genetică pentru T1DM. Pentru T2DM,
+va fi vorba de o combinație între genele asociate defectului secretor insulinic
+și respectiv cele asociate insulinorezistenței. În ceea ce privește acestea din
+urmă, va fi vorba de gene asociate metabolismului glucidic, gene asociate
+metabolismului lipidic, gene legate de mecanismul de acțiune al insulinei, gene
+ale obezității. Alte date, cum ar fi asocierea cu HLA DR3 și DR4 la
+afro-americani cu T2DM dar care au prezentat cetoacidoză inaugurală [88],
+respectiv cu HLA A33, DR2 sau DR9 la femei afro-americane cu diabet gestațional
+ce au necesitat insulinoterapie [1], se referă mai degrabă la forma de DZ care a
+fost ulterior etichetată drept LADA. Aceste tulburări, denumite și insulinopatii
+sunt totuși rare și nu pot explica decât o mică parte din cazurile de T2DM [74].
+Cu toate acestea, polimorfismele genei GLUT4 sunt rare în populația generală și
+au aceeași frecvență la diabetici și nediabetici [14,17], datele actuale
+infirmând implicarea sa în susceptibilitatea pentru T2DM. Cu toate acestea,
+studiul genei adenozin dezaminazei pe un lot mare de familii din Marea Britanie
+și Italia nu a putut dovedi implicarea acesteia în predispoziția genetică pentru
+T2DM [9]. Administrată in vivo la animale dar și la om, această moleculă a
+dovedit a avea un puternic efect de stimulare a secreției insulinice beta
+celulare dependentă de insulină. Ulterior au fost efectuate mai multe studii pe
+loturi de rude sănătoase ale pacienților cu T2DM, unele dintre acestea (dar nu
+toate) stabilind existența unei asociații între alela 972Arg și prezența
+insulinorezistenței [58]. Mai recent s-a dovedit că la purtătorii alelei 972Arg,
+celulele beta au un conținut scăzut de insulină, un număr redus de granule
+secretorii mature și o capacitate insulinosecretorie redusă [58]. A fost descris
+și un polimorfism al genei IRS2 (substituția glicină - aspartat în poziția 1057)
+dar acesta nu s-a dovedit a fi asociat cu T2DM [13] și nici cu alterarea
+capacității insulinosecretorii beta celulare [42]. Astfel schimbarea
+nucleotidică din poziția 1020 a genei și care antrenează substituția metioninei
+cu izoleucină în lanțul proteic s-a dovedit a fi asociată cu insulinorezistența
+la subiecții homozigoți pentru această mutație [41]. Lipoproteinlipaza este o
+enzimă hidrolitică activă la nivelul endoteliului vascular și reprezintă enzima
+limitantă de viteză pentru clearance din circulație al lipoproteinelor bogate în
+trigliceride, atât VLDL cât și chilomicroni. Prin rolul lor important, atât în
+formarea cât și în metabolizarea lipoproteinelor plasmatice, apoproteinele sunt
+puternic implicate în reglarea metabolismului lipidic, defectele lor putând
+antrena profunde perturbări ale profilului lipidic. Analiza acestora pe un lot
+de 63 familii/698 subiecți a indicat un posibil efect asupra capacității
+insulinosecretorii dar nu și asupra sensibilității țesuturilor la insulină sau a
+riscului de T2DM [30]. Studiile pe culturi de celule au arătat că PGC-1
+stimulează biogeneza mitocondriilor iar la nivelul celor preexistente stimulează
+lanțul respirator mitocondrial prin inducția moleculelor de tip UCP2 și a
+factorilor respiratori nucleari [29]. Prin prisma strânsei corelații
+etiopatogenice dintre obezitate și T2DM, gena leptinei și, implicit, și a
+receptorului său au devenit gene candidate și pentru T2DM. Este interesant de
+notat că mai recent, alela 64Arg a fost asociată și cu insulinemie à jeun
+crescută și nivel crescut al AGL plasmatici, ambele elemente importante ale
+sindromului de insulinorezistență [18]. În această regiune a cromozomului fost
+de altfel identificați mai mulți markeri asociați cu obezitatea și T2DM la
+șoareci. Un alt polimorfism (- 55 C/T din exonul 1 al genei) s-a dovedit a fi
+implicat în susceptibilitatea T2DM. Și mai recent (iulie 2002), un grup de
+cercetători japonezi a descris un alt polimorfism – Ile164Tre la nivelul
+exonului 3. Aceste tulburări au în comun semne și simptome care reflectă aportul
+inadecvat de glucoză la nivel cerebral și activarea simultană a sistemului
+simpato-adrenergic. Ocazional hipoglicemia poate fi indusă de unele tumori,
+incluzând tumori pancreatice insulare, secretoare de insulină, dar și tumori
+non-insulare care secretă factori de creștere insulin-like (15). Descărcarea
+promptă de glucagon și adrenalină (hormoni cu acțiune puternic glicogenolitică)
+poate readuce ea singură glicemia la normal. În momentul atingerii pragului
+hipoglicemic simptomatic (~ 40-50 mg/dl) vor apare semnele de alertare
+simpato-adrenergică iar în stadii mai avansate și semnele de neuroglicopenie
+(23). Centrul de control al reacției neuro-hormonale la hipoglicemie este situat
+în regiunea noradrenergică a hipotalamusului (1,7). În condițiile scăderii
+glicemiei sub 50 mg/dl, nivelul glucozei în celula nervoasă va scădea paralel cu
+glicemia, ceea ce va duce (datorită imposibilității folosirii altor substrate
+energetice) la scăderea producției de ATP și a transportului ionic
+transmembranar dependent de ATP (Na/K ATPaza), proces similar cu cel întâlnit în
+condiții de hipoxie cerebrală. Cel de al doilea tip de transport, operant în
+neuroni și celulele gliale, se face și el fără consum energetic și operează la
+50% din capacitatea sa, la o concentrație foarte joasă a glucozei în sânge de ~
+0.2-0.4 mmol/l, fiind deosebit de important în condiții de hipoglicemie. Cu
+excepția glutamatului, aspartatului, N-acetilaspartatului și acidului
+gamaaminobutiric, care se găsesc în creier în concentrație mai mare decât în
+sânge, ceilalți aminoacizi se află în concentrații egale cu cele din plasmă.
+Acidul glutamic, precursorul acidului gamaaminobutiric joacă și rolul de
+acceptor pentru amoniacul produs în exces sau ajuns aici prin difuziune din
+circulația generală. Sinteza acidului glutamic în creier poate să se realizeze
+prin aminarea acidului alfacetoglutaric, produs în cursul ciclului Krebs. Chiar
+glucoza, după ce trece în sectorul cerebral, este utilizată pentru sinteza
+aminoacizilor proveniți din cetoacizi (alanină, aspartat, gamaaminobutirat și
+mai ales glutamat). In vivo însă, disponibilitatea de aminoacizi pentru
+asigurarea necesarului energetic cerebral este mult limitată de transportul mai
+dificil al acestora prin bariera hematoencefalică, comparativ cu transportul
+rapid al glucozei. Clasic, creierul a fost inclus printre țesuturile
+insulinoindependente. De aceea semnele simpato-adrenergice pot fi șterse sau
+chiar lipsesc, tabloul fiind dominat de simptomele neuroglicopenice (tulburări
+psihice, semne neurologice etc.). Obișnuit, orice scădere a glicemiei sub limita
+inferioară a normalului se însoțește de o inhibare a secreției de insulină cu
+scăderea insulinemiei plasmatice și menținerea în limite normale a raportului.
+Cauza hipoglicemiei ce apare în cursul tratamentului insulinic cunoscut la un
+pacient diabetic este evidentă. Hipoglicemia indusă de sulfoniluree mimează și
+mai bine insulinomul deoarece acestea determină și creșterea peptidului C În
+acest caz, singurul element diagnostic este detectarea în plasmă sau în urină a
+sulfonilureelor (mai ușoară pentru cele din prima generație dar foarte dificilă
+pentru cele din a doua generație). În cazul insulinomului este prezent tabloul
+clinic al unei hipoglicemii subacute sau cronice, dominat de simptomele
+neuroglicopenice. Foarte rar tumorile secretante de insulină pot fi localizate
+extrapancreatic, caz în care poate fi utilă determinarea insulinei în sângele
+recoltat din vena portă. Tratamentul este prin excelență chirurgical, rata de
+succes fiind mare în insulinoamele benigne unice (cele mai frecvente). În caz că
+probele de laborator nu pot confirma o valoare glicemică scăzută în momentul
+prezenței simptomelor specifice (obiectivate medical), tulburările pot fi
+încadrate în Sindromul postprandial idiopatic. În absența diabetului zaharat,
+folosirii intempestive de substanțe hipoglicemiante (inclusiv insulină) și a
+insulinoamelor, existența unei tumori non-insulare trebuie serios luată în
+considerație. Rezultatul este incapacitatea ficatului de a produce suficientă
+glucoză (în special prin inhibarea gluconeogenezei) și creșterea captării
+glucozei la nivel muscular cu apariția hipoglicemiei. În acest moment peptidul C
+poate prezenta valori variabile. În acest caz apar manifestări hipoglicemice
+care pot ridica probleme dificile de diagnostic diferențial cu insulinomul.
+Reticulul endoplasmic rugos abundent explică bazofilia intensă a hepatocitului,
+observată în momente de activitate metabolică intensă. În această concepție,
+unitatea morfologică a ficatului se suprapune cu modul de organizare al unei
+glande exocrine și este reprezentată de lobulul portal - o zonă de formă
+triunghiulară, care are în centrul său un spațiu port, iar la vârfuri trei vene
+centrolobulare. Procesul are ca scop furnizarea de substrate energetice în
+primul rând țesuturilor insulinoindependente (creier, sânge, măduvă
+hematopoetică, țesuturi glucodependente) dar și țesuturilor insulinodependente
+(mușchi, țesut adipos, țesuturi glucoindependente) în condițiile menținerii unei
+glicemii constante (în medie 80-90 mg/dl). Ulterior, rata glicogenolizei
+hepatice se reduce progresiv, până la epuizarea depozitelor și este activată
+concomitent gluconeogeneza, în special sub acțiunea creșterii concentrației de
+glucagon în vena portă. Un alt factor reglator important al gluconeogenezei este
+glucoza în sine. Trebuie menționat că principalele sedii ale gluconeogenezei la
+mamifere în general sunt ficatul și cortexul renal. Aminoacizii glucoformatori
+provin din proteine, în special din cele musculare și viscerale. Gluconeogeneza
+din lipide nu folosește acizi grași deoarece oxidarea acestora nu furnizează
+substraturi glucogene. În vena portă scade și mai mult concentrația insulinei și
+crește semnificativ nivelul glucagonului. Explicația acestei constatări ar fi
+capacitatea hepatocitelor de a utiliza alternativ substrate pentru glicoliză și
+gluconeogeneză (figura 5). Sinteza de novo de acizi grași din glucoză are loc în
+special la nivelul ficatului (care conține cantități importante de citrat liază)
+de unde sunt exportați după esterificare la trigliceride sub formă de
+lipoproteine cu densitate foarte mică (VLDL) către diverse țesuturi, în special
+mușchi și țesut adipos. Ficatul are un rol foarte important în captarea și
+sinteza locală a diferitelor fracțiuni lipidice, catabolizarea acestora sau
+incorporarea în lipoproteine, care vor fi transportate prin sânge către alte
+celule. Transferul acetil-CoA din mitocondrii în citosol necesită mai multe
+reacții (ciclul malat-citrat). Enzima cheie a sintezei de trigliceride în ficat
+este glicerol kinaza, care este extrem de activă în hepatocite. Ele sunt
+incorporate în VLDL împreună cu alte lipide și proteine și secretate în plasmă,
+din care țesuturile extrahepatice își procură acizii grași. Un alt mecanism
+reglator este conversia enzimei prin fosforilare-defosforilare, forma
+defosforilată având activitate catalitică. În acest sens, se știe că în perioade
+interprandiale de scurtă durată (43259 ore) ficatul poate utiliza aproximativ un
+sfert din acizii grași pe care îi primește. Acizii grași rezultați din lipoliză
+sunt utilizați de ficat (și de majoritatea țesuturilor extrahepatice)
+diferențiat în funcție de concentrația plasmatică a acestora și de starea
+hormonală a organismului. Acizii biliari sintetizați în ficat se numesc acizi
+biliari primari (acidul colic și dezoxicolic). Tot în ficat, acizii biliari sunt
+conjugați cu glicocol sau taurină rezultând acizii glicocolic, taurocolic,
+glicochenodezoxicolic și taurochenodezoxicolic. Rezultă că 20-30 g de acizi
+biliari parcurg circuitul enterohepatic zilnic din care se pierd prin fecale
+aproximativ 0,5 g/zi. Are un rol esențial în sinteza transferinei,
+apoproteinelor, factorilor coagulării, a unor factori aparținând sistemului
+complement și fibrinolitic. Astfel, în ficat și rinichi s-a evidențiat că
+biosinteza glutationului face parte dintr-un ciclu (numit gama-glutamil) care
+cuprinde pe lângă biosinteza acestui compus și degradarea sa simultană cu
+transferul aminoacizilor prin membrana celulară. Pacienții cu boli hepatice au
+risc mai mare de acidoză lactică deoarece nivelele serice a jeun ale
+glicerolului și ale altor precursori gluconeogenetici sunt mari (2,3,10,22).
+Homeostazia glicemică este asigurată de mecanisme de control multiple. Insulina
+se detașează printre factorii hipoglicemianți, care mai cuprind somatomedinele
+și într-o oarecare măsură somatostatinul. Prostaglandinele sau prezența în
+plasmă a unor antagoniști nehormonali ai insulinei (de regulă de natură imună)
+pot și ei să interfere cu acțiunea hipoglicemiantă a insulinei sau pot media
+alte mecanisme hipoglicemiante. Efectele antagonizante față de insulină par a fi
+localizate la nivel de postreceptor. Nu este exclus ca activitatea acestor
+enzime să fie secundară afluxului hepatic crescut de aminoacizi glucoformatori
+eliberați în țesutul muscular sub acțiunea cortizolului. Cortizolul facilitează
+și accentuează efectul hiperglicemiant al glucagonului și adrenalinei (efect
+permisiv), întrucât absența lui previne creșterile glicemice previzibile ale
+celor doi hormoni de contrareglare. Efectul este mai marcat la animalele
+hipofizectomizate, și în mod paradoxal la diabetici (7). GH este totuși secretat
+în sânge și prezența sa poate fi cuatificată prin metoda ELISA. În această grupă
+de tulburări există unele relativ specifice diabeticilor, ca de exemplu cele
+care însoțesc gangrena diabetică, abcesele la locul injecțiilor cu insulină sau
+colecistita emfizematoasă, dar care reprezintă o minoritate față de episoadele
+infecțioase virale, microbiene sau fungice care pot interveni la un pacient
+diabetic (3,4,7). Infecțiile constituie o cauză frecventă de decompensare
+metabolică, în țara noastră ocupând prima poziție pe lista factorilor ce induc
+comele cetoacidotice sau hiperosmolare. Riscul pentru amputarea unui picior
+crește progresiv de la 10% până la 90%, în funcție de prezența diferiților
+factori predictibili pentru amputație (dezechilibru metabolic cronic, neuropatie
+diabetică, deformări ale piciorului, ischemia vaselor mici și amputație
+anterioară). Candidoza bucală asimptomatică (75% la diabetici față de 35% la
+nediabetici) se întâlnește mai frecvent la pacienții tratați cu antibiotice.
+Candida albicans vaginală (manifestată prin prurit vaginal, eritem în regiunea
+genitală și uneori pustule) sau prezentă în căile urinare (uneori asimptomatică,
+evidențiabilă numai în culturi) are, de regulă, origine externă. Intervenția
+chirugicală de debridare și de înlăturare a țesuturilor necrozate trebuie
+efectuată sub acoperire antibiotică intensivă. Întucât regiunea scrotală are un
+potențial de regenerare bun, vindecarea poate fi uneori neașteptat de rapidă.
+Vindecarea tuberculozei este mai dificilă la diabetic, după cum și echilibrarea
+diabetului este mai greu de realizat, datorită necesarului insulinic mai mare și
+a stării de nutriție deficitare a acestor bolnavi (13). Ele se datoresc aproape
+exclusiv lipsei de supraveghere a pacienților agitați, aflați sub perfuzie cu
+soluții hipertone (clorură de potasiu, bicarbonat de sodiu, soluții alcaline,
+glucoză hipertonă) care, transvazate în țesutul subcutanat în cantități
+semnificative, pot produce necroze (uneori întinse), cu pierdere de substanță,
+care se vindecă greu (14). Hemodializa, presupune uneori un acces temporar cu un
+cateter gros la nivelul venelor femurale sau subclavii, a căror cateterizare
+prelungită (mai multe zile sau săptămâni) presupune un risc suplimentar de
+infecție locală cu potențial de generalizare. Contaminarea bacteriană cea mai
+frecventă are loc în timpul schimbării flacoanelor cu soluții dializabile. Dacă
+infecțiile cutanate din jurul cateterului sunt ușor de identificat, cele
+pericateterale profunde pot fi destul de greu de diagnosticat. Tratamentul se
+face cu antibiotic administrat parenteral (asociere de Penicilină
+antiPseudomonas și aminoglicozidă), la care se adaugă terapie topică locală
+picături antipseudomonas și tratament chirurgical – debridare locală. Deși e
+greu de demonstrat o incidență mai crescută a acestei infecții la diabetici față
+de nondiabetici, infecțiile severe și fulminante produse de organisme care
+prezintă emisie de gaze se produc mai frecvent la diabetici – din 136 cazuri de
+colecistită emfizematoasă, 38_% au avut diabet zaharat. Definiția clasică a
+nefropatiei diabetice se baza pe o eliminare urinară medie de proteine (din trei
+colecții/24 h) de peste 0,5 g/24h (care corespunde unei eliminări de albumină de
+peste 300 mg/24 h sau 200 &b.mu;g/minut), la un pacient cu mai mult de 43322 ani
+vechime a diabetului și de regulă în prezența retinopatiei. Un studiu recent pe
+durata a 7 ani, efectuat pe pacienți spitalizați cu T2DM [130] a arătat că boala
+coronariană ischemică a constituit cauza de deces la 72% dintre pacienții cu MA,
+comparativ cu 39% dintre pacienții normoalbuminurici. Mai multe studii
+populaționale prospective, efectuate pe subiecți clinic sănătoși [263,61], au
+evidențiat faptul că o eliminare urinară crescută de albumină, chiar sub limita
+definitorie pentru MA, reprezintă un factor de risc independent pentru
+morbiditatea și mortalitatea cardio-vasculară (RR = 2,43134,2). Studiind relația
+dintre MA și factorii de risc descriși clasic pentru ateroscleroză și patologia
+cardio-vasculară. Includerea MA printre manifestările sindromului X a fost o
+problemă controversată, atât datorită prevalenței sale relativ scăzute, în
+special la populația non-diabetică, cât și faptului că nu a putut fi demonstrată
+o relație cauzală directă (ci numai o corelație statistică), între MA și
+insulinorezistență. În sens invers, 63% dintre pacienții cu RD proliferativă au
+fost proteinurici, față de numai 20% din grupul fără RD. Același lucru este
+valabil pentru comunitățile formate din populații de origine indi-asiatică care
+trăiesc în diferite țări europene. TA sistolică peste 140 mmHg este factor de
+risc (după ajustare pentru nivelul albuminuriei la debutul studiului) numai
+pentru pacienții cu T1DM, ca și prezența medicației antihipertensive.
+Insulinorezistența periferică este definită ca o situație în care o concentrație
+normală de insulină produce un răspuns biologic suboptimal. În afară de riscul
+pentru BDR, izoforma ECA determinată de genotipul DD pare a fi asociată cu o
+creștere semnificativă a riscului cardio-vascular, atât la non-diabetici cât și
+la pacienții diabetici. Acestea pot prezenta modificări ale activității,
+determinate genetic, care au fost implicate atât ca markeri cât și ca mecanisme
+patogenetice în apariția BDR. Acest sistem este format dintr-o familie de 6
+izoforme, care constituie unul dintre transportoarele ionice transmembranare
+majore, cu rolul de a permite accesul intracelular al Na în schimbul exportului
+de protoni (H), deținând astfel în bună măsură controlul pH și volumului
+celular, ca și reglarea reabsorbției proximale a sodiului. Printre mecanismele
+de activare, cele mai importante par să fie glucocorticoizii și factorii de
+creștere (bFGF), iar dintre inhibitori sistemul cAMP/proteinkinaza A, PTH și
+forbol-esterii [205]. PTH, la concentrații suprafiziologice, ca și anumiți
+mediatori farmacologici (dopamina) produc scăderea populației de receptor la
+nivelul marginii în perie și reincorporarea acestuia în endozomii citoplasmatici
+prin endocitoză, semnalul celular primar fiind creșterea cAMP citoplasmatic. Din
+cele de mai sus rezultă că reglarea activității STNH-1 este asigurată în esență
+prin exprimarea genică a unor polimorfisme individuale, respectiv prin mesageri
+celulari (citokine, interleukine) care ar modifica structura tridimensională a
+TM sau a cozilor intracelulare. Acest mecanism ar putea avea implicații (care nu
+au fost totuși demonstrate direct până în prezent) asupra proliferării celulelor
+mezangiale, manifestare precoce caracteristică BDR. Obținerea experimentală a
+unei inactivări a genei nefrinei [34 *], ca și administrarea de anticorpi
+antinefrină [164], a condus la ștergerea proceselor podocitare și proteinurie
+severă. Utilizarea acestui nou marker pentru studiile viitoare ar putea
+evidenția o relație chiar mai puternică între sindromul dismetabolic, T2DM, BDR
+și tulburările de nutriție intrauterină. Presiunea intraglomerulară este
+rezultanta relațiilor dintre fluxul plasmatic renal (FPR) și calibrul (tonusul)
+arteriolelor glomerulare aferentă și eferentă. Creșterea secreției ANP se
+datorează în special reabsorbției proximale crescute a sodiului prin
+hiperactivitatea STNH. Diabetul zaharat și hipertensiunea arterială sunt două
+afecțiuni profund intercorelate, care acționează sinergic pentru producerea
+leziunilor macro - și microvasculare [172]. Valorile normale ale TA sunt
+considerate cele sub 140/90 mmHG, dacă este vorba despre determinarea
+ascultatorică repetată a TA în mai multe momente ale zilei (așa numita TA
+clinică), respectiv de maximum 130/85 mmHg (medie zilnică) în cazul determinării
+ambulatorii a TA. După apariția proteinuriei clinice, TAA crește semnificativ
+față de stadiul microalbuminuric, iar ritmul circadian al TA este sever
+perturbat. Modificările TAA, chiar cele precoce (non-dipper) sunt considerate un
+factor important de risc pentru mortalitatea cardio-vasculară și generală, atât
+la pacienții cu T1DM cât și cu T2DM. Sunt însă necesare în continuare ghiduri
+terapeutice clare pentru stabilirea momentului optim al introducerii terapiei
+antihipertensive. Alte studii au evidențiat atât creșterea importantă a
+expresiei GLUT-1 la nivelul parenchimului renal începând din stadiile precoce
+ale diabetului zaharat experimental cât și rolul important pe care această
+modificare pare să îl joace în creșterea producției de matrix extracelular și a
+unor componente specifice ale membranei bazale glomerulare, cum este
+fibronectina. Acest rol important al stresului oxidativ în acumularea de AGE în
+IRC este susținut și de corelațiile semnificative care au fost găsite între
+concentrația AGE și ale markerilor procesului oxidativ, cum sunt produșii
+avansați de oxidare a proteinelor sau markerii de peroxidare a lipidelor. Dacă
+această ipoteză este valabilă, atunci ar putea constitui o explicație a
+evoluției mai rapide a IRC la pacienții diabetici, deoarece este evident că la
+aceștia rata de producție, concentrația și durata producției AGE sunt cu mult
+mai mari, comparativ cu pacienții non-diabetici. Aceste molecule mici se găsesc
+în sânge legate de diferite proteine, cum este complexul CMV-Hb, și prin
+determinarea lor în dinamică pot fi markeri valoroși ai progresiei BDR. PKC este
+constituit dintr-o familie de serin - și treonin-kinaze și este în prezent
+socotit cel mai important mesager de transducție intracelulară a semnalelor
+hormonale, ale citokinelor și mediatorilor lipidici. Pe de altă parte, ROS par
+să constituie o altă verigă importantă de legătură între mecanismele
+hemodinamice și metabolice în patogeneza BDR, deoarece s-a pus în evidență
+faptul că ROS mediază producerea de hormoni vasoactivi, cum este endotelina
+[34]. Principalul efect al acestor fenomene este accelerarea procesului de
+glicoxidare a lipidelor și proteinelor (inclusiv al substanțelor de tip
+lipoproteic), cu apariția în circulație a produșilor complecși de glicoxidare
+(GOP, glycoxidation products), fie cu greutate moleculară mare (HMW-AOPPs, high
+molecular weight-advanced oxidation protein products), fie cu greutate
+moleculară joasă (complexe tardive peptide-AGE). În final, există produși
+carbonilici care rezultă din căile de metabolizare non-oxidativă a glucidelor,
+cum sunt 3-deoxiglucozona și 3,4 deoxiglucozon-ena. Un alt proces a cărui
+importanță este tot mai mult relevată în ultimii ani, pe lângă rolul
+pro-aterogenic și proglomerulosclerotic direct al LDLox, este și răspunsul imun
+direcționat împotriva neoepitopilor rezultați din aceste modificări structurale
+ale lipoproteinelor. Recent s-a demonstrat că inhibitorii ACE scad rata de
+progresie a leziunilor renale independent de rolul lor antihipertensiv, efect
+numit de renoprotecție și care se explică prin blocarea acțiunilor locale
+metabolice ale AGT II. Totuși, cele două mecanisme au putut fi separate
+experimental și s-a demonstrat că renoprotecția pe termen lung se datorează în
+special inactivării mecanismelor AGT II-dependente [3]. ATR1 fac parte, din
+punct de vedere biochimic, din familia receptorilor celulari protein G -
+dependenți (fără activitate protein-kinazică intrinsecă), fiind distribuiți din
+abundență practic în toate organele și țesuturile. Insulinorezistența periferică
+are la bază mecanisme celulare complexe care acționează atât înainte cât și după
+legarea insulinei de receptorii celulari, însă defectele post-receptor par a
+avea o semnificație patogenetică mai mare la pacienții hiperglicemici, iar
+dintre acestea cel mai important este scăderea ratei de sinteză a glicogenului
+muscular printr-o alterare a activității glicogen-sintetazei musculare (probabil
+determinată genetic). Rezultatele obținute prin măsurarea fluxului arterial la
+picior (LBF-leg blood flow) după infuzia intraarterială de metacholină, care
+stimulează eliberarea de NO din endoteliu, și de nitroprusiat de Na (donor de
+NO) au arătat că obezitatea este asociată cu scăderea vasodilatației
+endotelio-dependentă, dar reactivitatea vasculară la efectul direct al NO
+(endotelio-independent, testul cu nitroprusiat) este păstrată. Concomitent, se
+produc hipertrofia ventriculară stângă (HVS) și a septului interventricular, cu
+creșterea presiunii de filtrare în vederea menținerii adecvate a fluxului
+sanguin. Particularitățile structurale ale peretelui coronarian explică
+incidența crescută a aterosclerozei coronare și a mortalității asociate, boala
+trivasculară având o incidență de 61% la peste 68 de ani, ceea ce justifică
+bypass aortocoronarian ca unul dintre cele mai frecvent aplicate procedee ale
+chirurgiei cardiovasculare (2). Procesul de îmbătrânire, influențat de o
+multitudine de factori genetici și de mediu cuantificați prin incidențe
+variabile în populația generală, contribuie semnificativ la apariția bolilor
+noncardiace cronice multiple cu posibile complicații ca pneumonia, insuficiența
+renală acută (IRA), accidentul vascular cerebral (AVC), demența, factori ce
+cresc semnificativ mortalitatea postoperatorie. Evaluarea completă a
+comorbidităților și excluderea focarelor potențiale de infecție anterior
+intervenției este obligatorie, rezultatele obținute condiționând conduita
+terapeutică ulterioară. Decizia privind modalitatea de abord terapeutic în boala
+coronariană depinde de prognosticul individual al pacientului determinat
+concomitent de factorii cardiaci și noncardiaci și de opțiunile și expertiza
+echipei terapeutice multidisciplinare (cardiologi, chirurgi cardio-vasculari,
+cardiologi intervenționiști, anesteziști, radiologi). În cazul pacienților
+suferinzi de afecțiuni oncologice sau hematologice se impune o estimare atentă a
+raportului risc - beneficii (trombocitopenie și acțiune protrombotică a
+afecțiunii în sine sau a chimioterapiei, speranță de viață redusă). Leziunile
+coronarografice se clasifică conform TIMI (tabelul 21.3). Majoritatea
+pacienților vârstnici care suferă evenimente coronariene acute nu sunt candidați
+la tratamentul intervențional întrucât adesea prezentarea este tardivă, cu
+simptome atipice, electrocardiograma (ECG) nu permite stabilirea cu precizie a
+diagnosticului, și există comordibități multiple. Angioplastia percutană
+transluminală (APTL) presupune introducerea unor catetere cu balonaș în dreptul
+stenozei coronariene și dilatarea vasului spre dimensiunile normale. Indicațiile
+APTL includ pacienții cu stenoză proximală discretă sau cu risc operator
+crescut, infarcte STEMI/NSTEMI cu ischemie și sunt discutabile în cazul anginei
+cronice stabile sau ale afectării multivasculare deoarece metoda se adresează
+specific leziunilor focale. Deși abordul chirurgical este licit, în majoritatea
+cazurilor cu afectare uni - sau bivasculară, se preferă APTL. În cazul afectării
+trivasculare, aplicarea scorului SYNTAX și a scorului de risc Mayo Clinic
+orientează abordarea terapeutică. Complicațiile APTL asociază infarctul
+miocardic acut (IMA) postprocedural prin disecția vasului și ocluzie, tamponada
+cardiacă prin perforarea vasului, tulburări de ritm, accidente embolice
+cerebrale, sângerare și hematom local (artera femurală sau radială), lezarea
+nervului femural, radial sau ulnar, infecții locale. Datorită progresului tehnic
+al ultimilor decenii, indicațiile angioplastiei simple, cu plasarea de stenturi
+clasice sau de nouă generație (eluting stent), rotablație, brahiterapie sunt
+mult lărgite, aprecierea corectă a celei mai eficiente metode terapeutice
+efectuându-se în centre multidisciplinare, prin aportul coroborat al unei echipe
+pluridisciplinare formate din cardiologi intervenționiști și chirurgi cardiaci.
+Principiul revascularizației chirurgicale a miocardului este de a aduce sânge
+distal de stenoză sau obstrucție prin realizarea de BAC. Cu excepția anginei
+cronice stabile, avantajul chirurgiei de revascularizare este cert la pacienții
+cu afectarea coronarei stângi, boală trivasculară și disfuncție VS, boală
+bivasculară cu afectare ADA și ischemie severă și afectare multivasculară.
+Metodele specifice chirurgiei coronariene variază de la BAC clasic pe cord oprit
+(on-pump coronary artery bypass graft) și circulație extracorporeală (CEC)
+efectuat prin sternotomie mediană, la tehnicile pe cord bătând (off-pump
+coronary artery bypass graft) în care abordul se face prin sternotomie mediană
+limitată sau minitoracotomii, revascularizație transmiocardică cu laser
+(transmiocardial revascularization), BAC efectuat pe cale endoscopică sau
+chirurgie robotică (7) (caseta 21.2). Alte indicații de revascularizare
+chirurgicală presupun angina instabilă, angina precoce postinfarct, infarct acut
+cu șoc cardiogen, eșecul APTL, reintervenții pentru recurența simptomatologiei
+(rezervată cazurilor cu simptomatologie refractară), stenoze coronariene la
+pacienți care au indicație chirurgicală cardiacă pentru alte patologii
+(valvulopatii, miomectomie septală, defecte septale, anomalii congenitale ale
+arterelor coronariene, defecte septale). Prezența leziunilor coronariene crește
+semnificativ mortalitatea perioperatorie la pacienții ce necesită chirurgie
+valvulară concomitentă (caseta 21.3). AMIS are cea mai bună permeabilitate pe
+termen lung (95% la 15 ani postoperator), urmată de artera radială și vena
+safenă, care urmează aceeași cale evolutivă fiziopatologică ateromatoasă cu
+arterele coronare (permeabilitate la 15 ani doar de 65%) (15). Indicația
+chirurgicală de BAC pe cord bătând o constituie leziunile monovasculare pe ADA
+și artera coronară dreaptă sau plurivasculare, când se dorește evitarea CEC, fie
+datorită severității patologiei pacientului, fie datorită preferinței
+chirurgului. În vederea evaluării acurateței anastomozelor se indică angiografie
+intraoperatorie de control (17). PCI, alternativă rezonabilă la BAC pentru mulți
+pacienți, se preferă în abord inițial și se indică în cazul afectărilor
+multivasculare cu păstrarea funcției VS, fără augmentarea semnificativă a
+riscului de infarct miocardic sau moarte. Trialurile nonrandomizate sunt supuse
+subiectivității biasului și pledează în favoarea PCI, în condițiile avantajelor
+oferite de tehnica medicală modernă. Revascularizarea transmiocardică cu laser
+se indică în situațiile în care metodele clasice de revascularizare nu sunt
+posibile datorită afectării difuze a vaselor mici, și presupune sternotomie
+mediană sau abordare percutană, în laboratorul de cateterism. Eficiența metodei
+nu este cert demonstrată în trialurile de specialitate, deși există un număr
+limitat de studii care demonstrează ameliorarea clinică și a contractilității
+miocardice postintervenționale (18). Complicațiile mecanice postinfarct
+miocardic care beneficiază de tratament chirurgical sunt defectul septal
+ventricular (DSV) prin necroza septului, ruptura miocardică cu tamponadă
+cardiacă, insuficiența mitrală acută prin ruptura de mușchi papilari sau
+cordaje, anevrismul de VS, cardiomiopatia dilatativă. Ruptura miocardică
+constituie o urgență majoră care pune în pericol viața pacientului prin
+instalarea șocului cardiogen, cu tamponadă cardiacă, obiectivată ecocardiografic
+și angiografic. Diagnosticul de certitudine este ecocardiografic și permite
+bilanțul preoperator complet, urmat de elaborarea unei strategii preoperatorii
+certe, respectiv revascularizarea chirurgicală a cordului și valvuloplastia
+mitrală cu inel Carpentier, cu prognostic favorabil (9). În funcție de
+dimensiunea cavității anevrismale se poate instala diskinezia cu formare de
+trombi parietali, care acționează concomitent ca focare emboligene. Lungi
+perioade asimptomatice pot fi întrerupte de crize anginoase sau IM cu prognostic
+fatal. Teritorii de miocard devascularizate secundar unor stenoze proximale
+strânse pot fi definitiv compromise prin infarcte întinse, în condițiile
+tratamentului chirurgical adecvat și precoce. Riscul de mortalitate
+perioperatorie depinde de starea cordului și a celorlalte organe vitale, în
+intervențiile elective cu FEVS peste 40% fiind de 43102% (caseta 21.4) (7). În
+cursul primei luni postoperator, principala complicație care poate surveni o
+constituie tromboza secundară unei etiologii plurifactoriale, rezultată din
+lezarea iatrogenă a endoteliului în timpul prelevării și anastomozei grefei
+(figura 21.4). Distensia hiperpresională a grefelor venoase și proprietățile lor
+protrombotice reduse cresc rata atrițiilor precoce a grefelor venoase. Din acest
+motiv, selectarea și evaluarea cu precizie a lungimii venei este un criteriu
+esențial în menținerea patenței grefei. Hiperplaziile miointimale determină în
+primele luni postoperatorii stenozarea progresivă a grefelor venoase, astfel
+încât în decurs de 43388 ani de la intervenție, peste două treimi dintre grefe
+se ocluzionează, iar jumătate dintre cele permeabile sunt semnificativ
+stenozate. Pacienții care necesită reintervenție chirurgicală au un risc crescut
+de mortalitate și morbiditate perioperatorie, necesită suport tehnic și un
+consum economic adiacent semnificativ crescut (21). Un factor care influențează
+nefast permeabilitatea la distanță a arterei radiale îl constituie numărul
+crescut de clipsuri necesar în timpul scheletizării/recoltării.
+Pseudoanevrismele se pot forma în decurs de 6 luni postoperator, cel mai
+frecvent la nivelul situsurilor anastomotice proximal și distal. Formarea
+precoce a pseudoanevrismului poate fi asociată alterărilor la nivelul plăgii
+chirurgicale sau tensiunilor în anastomoză ce determină ruptura suturilor.
+Complicațiile iatrogene pot determina ocluzia directă sau indirectă a grefelor
+prin formarea de trombi, disecție la manipulare, debit sanguin crescut prin
+artera coronară nativă. Factorii chirurgicali de risc de infecție loco-regională
+sunt numeroși și asociază practicarea unor intervenții chirurgicale laborioase,
+defecte de închidere a sternului, transfuzii sanguine, reexplorări precoce
+pentru controlul hemoragiei (10). BAC se asociază cu complicații neurologice (6%
+dintre cazuri), dintre care AVC este cea mai debilitantă, în ciuda agenților
+cardioplegici și ameliorării tehnicii chirurgicale din ultimele decenii.
+Creșterea riscului de AVC odată cu vârsta se corelează cu prevalența patologiei
+aortice, ce poate determina embolii perioperatorii de la nivelul plăcilor (risc
+de 2%). Patofiziologia multifactorială a deficitelor neurocognitive poate fi
+explicată prin scăderea perfuziei cerebrale în timpul intervenției chirurgicale.
+Fibrilația atrială (FA), cea mai frecventă complicație după chirurgia cardiacă,
+crește morbiditatea intraspitalicească, prelungește timpul de spitalizare și are
+efecte adverse asupra reabilitării pacientului. Disfuncția renală postoperatorie
+(4,1% dintre cazuri) este o complicație severă post-BAC cu bypass
+cardiopulmonar, vârsta fiind un factor predictiv pozitiv important (22).
+Complicații gastrointestinale de tipul hemoragii digestive, ischemie
+mezenterică, pancreatite, colecistite, ulcer perforat, ileus survin în 0,43163%
+dintre cazuri, mecanismul fiziopatologic fiind reprezentat de vasoconstricția și
+hipoperfuzia în teritoriul splanhnic. Mortalitatea postoperatorie
+intraspitalicească în primele 30 zile este de aproximativ 43103% și depinde de
+dotarea tehnică, experiența echipei medicale, vârsta bolnavului, severitatea
+bolii, vechimea și gradul de afectare a funcției ventriculare, comorbidități,
+complexitatea intervenției și dificultățile apărute în efectuarea ei etc.
+Scorurile de risc permit aprecierea prealabilă a riscului operator în fiecare
+caz (23). În intervalul 2000-2010, au fost efectuate la IBCV Iași 1.148 de
+intervenții de bypass aortocoronarian, dintre care 33 în regim de urgență și 28
+intervenții pe cord bătând. Metodele chirurgicale sau intervenționale nu sunt
+opozabile, ci, aplicate corect, cu indicații stricte, urmând protocoalele
+internaționale, se pot completa (concomitent sau succesiv) într-o terapie
+complexă, favorabilă evoluției bolii și a pacientului. Modelul final este
+determinat de numărul și poziția arterelor - țintă și poate fi influențat de
+factori adiacenți cum ar fi vârsta pacientului, tipul de intervenție (circulație
+extracorporeală sau pe cord bătând), gradul de ateromatoză aortică calcifiantă
+și statusul valvular/chirurgia valvulară. Statusul fizic și mental preoperator
+favorabil în cazul pacienților cu disfuncții ventriculare severe acute și
+cronice se încadrează într-un risc operator acceptabil în termeni de mortalitate
+(21 de decese imediate, respectiv 2%), morbiditate și speranță de viață chiar
+dacă complicațiile peroperatorii sunt mai frecvente comparativ cu cele
+înregistrate la pacienții tineri. Din punctul nostru de vedere, aserțiunea
+potrivit căreia revascularizarea arterială crește mortalitatea perioperatorie și
+morbiditatea, în particular riscul de leziuni miocardice și respiratorii, este
+nefondată. Beneficiile pe termen lung ale oricărei strategii agresive de
+revascularizare prin APTL sau BAC versus tratament medical unimodal pledează în
+favoarea chirurgiei cardiace, aserțiune demonstrată în termeni de ameliorare
+funcțională și creștere a calității vieții. Progresele din domeniul protecției
+terapeutice miocardice, tehnicile chirurgiei minim invazive, alegerea grefelor
+și dezvoltarea mijloacelor tehnice peroperatorii ameliorează considerabil
+prognosticul actului chirurgical și fac ca vârsta limită maximală a pacienților
+care beneficiază de chirurgia coronariană să fie în continuă creștere. Stenoza
+aortică, regurgitarea mitrală organică și funcțională (ischemică) și
+regurgitarea tricuspidiană sunt cele mai frecvente boli valvulare la adulții
+vârstnici. Obstrucția tractului de ejecție al ventriculului stâng (VS) la adulți
+este cel mai frecvent consecința stenozei valvulare aortice, mai rar fiind
+incriminate bolile subvalvulare sau supravalvulare. Este detectată în mod
+obișnuit la ecocardiografia efectuată pentru alte indicații, deși unii pacienți
+pot prezenta un suflu mezosistolic de ejecție. Mulți dintre factorii de risc
+pentru ateroscleroză se asociază cu scleroza valvulară aortică, ceea ce a condus
+la sugestia că valvulopatia aortică degenerativă, calcificantă, este
+asemănătoare procesului aterosclerotic. În plus, nu există date suficient de
+convingătoare că tratamentul cu statine poate încetini progresia bolii dacă s-a
+instalat deja obstrucția valvulară, chiar ușoară. De exemplu, mutațiile în
+reglatorul NOTCH1 se asociază cu o varietate de anomalii valvulare aortice, ca
+bicuspidia cu sau fără anevrism de aortă toracică, și cu calcificări severe ale
+valvelor aortice transmise după un pattern autosomal dominant (21). Agregarea
+familială a stenozei aortice calcificante cu transmitere aparent autosomal
+dominantă a fost raportată într-un studiu din Franța (22). Alți factori de risc
+pentru stenoza aortică degenerativă sunt polimorfismele genelor pentru
+apolipoproteina E, interleukina-10, receptorul vitaminei D și enzima de
+conversie (23). Pe măsură ce se dezvoltă stenoza aortică, velocitatea
+anterogradă rămâne normală și există doar un gradient minim transvalvular până
+când aria orificiului ajunge la mai puțin de jumătate din valoarea normală.
+Procesul stenotic este progresiv și conduce la modificări adaptative ale
+ventriculului stâng. Debitul cardiac și volumul VS telediastolic sunt menținute
+mult timp normale, în ciuda unui gradient presional sistolic între ventriculul
+stâng și sistemul arterial periferic. Totuși, pe măsură ce severitatea stenozei
+și hipertrofia ventriculului stâng (HVS) progresează, VS devine mai puțin
+compliant și presiunea telediastolică crește, chiar dacă dimensiunea
+ventriculului rămâne normală. Majoritatea pacienților cu stenoză aortică devin
+simptomatici înainte de debutul disfuncției sistolice ventriculare stângi. În
+plus, creșterea marcată a presiunii intraventriculare stângi poate produce sau
+exacerba regurgitarea mitrală. Totuși, în prezența unei stenoze aortice severe,
+chiar simptomele cardiace ușoare impun intervenția chirurgicală promptă,
+întrucât supraviețuirea medie în absența înlocuirii valvulare este de numai
+43134 ani, cu un risc crescut de moarte subită cardiacă (9). Sincopa (sau
+presincopa) este frecventă în stenoza aortică, în special după efort. În timp ce
+stenoza aortică este una dintre cele mai frecvente etiologii ale sincopei la
+bolnavii vârstnici, adesea diagnosticul nu este clar datorită bolii
+cerebrovasculare concomitente, a tulburărilor de conducere și ischemiei. Deși în
+bicuspidia aortică un suflu ejecțional este frecvent întâlnit, acesta este rar
+întâlnit în stenoza aortică senilă. Intensitatea zgomotului 2 este adesea
+diminuată, iar pulsul carotidian are aspect parvus et tardus. De aceea, testele
+non-invazive sunt importante pentru diagnostic. La pacienții cu stenoză aortică
+ușoară (velocitate transvalvulară 43133,9 m/s), ecocardiografia trebuie repetată
+la fiecare 43164 ani, la cei cu stenoză moderată (velocitate transvalvulară
+43162,9 m/s) la fiecare 43102 ani, iar la cei cu stenoză severă asimptomatică
+(velocitate transvalvulară > 4 m/s) la fiecare 43263 luni (29). Datele provenite
+din studii ecocardiografice au relevat o prevalență crescută a stenozei aortice
+severe cu gradient mic la pacienții vârstnici, în special femei (30). Scorul de
+calcificare al valvei aortice determinat computer-tomografic poate fi util
+pentru diagnosticul stenozei aortice severe la această categorie de pacienți.
+Deoarece bolnavii vârstnici cu stenoză aortică degenerativă asociază frecvent
+boală aterosclerotică, inclusiv boală coronariană, se recomandă evaluarea și
+managementul factorilor asociați de risc cardiovascular (de exemplu,
+dislipidemia). Diureticele scad presarcina, necesară pentru menținerea debitului
+cardiac, de aceea trebuie utilizate cu precauție. Vasodilatatoarele
+(hidralazina, nitroglicerina, nifedipina), în prezența unei stenoze valvulare
+fixe, pot reduce tensiunea arterială (TA) sistemică și presiunea de perfuzie
+coronariană, de aceea trebuie evitate sau folosite cu prudență. Deoarece datele
+referitoare la administrarea blocantelor de calciu la bolnavii cu stenoză
+aortică sunt limitate, acestea trebuie folosite cu precauție. La bolnavii care
+nu sunt candidați pentru tratament chirurgical din cauza comorbidităților sau la
+cei care au refuzat acest tratament se poate face tratament medicamentos
+paliativ. Într un studiu, pacienții cu vârsta de 80 de ani și peste au prezentat
+o mortalitate perioperatorie mai mare decât cei cu vârsta între 65 și 75 de ani
+(14% versus 4%) (33). Pacienții vârstnici care supraviețuiesc perioadei
+perioperatorii au prognostic bun, așa cum a relevat un studiu retrospectiv care
+a urmărit evoluția după înlocuirea valvei aortice la 1.1 de pacienți cu vârsta
+de 80 de ani și peste (34). Principalele probleme ale valvelor mecanice sunt
+riscul de tromboembolism și hemoragie cauzată de anticoagularea de lungă durată,
+în timp ce problema valvelor biologice este durabilitatea lor limitată datorată
+degenerării valvei. Cu toate acestea, longevitatea unei bioproteze este invers
+proporțională cu vârsta. Într un studiu, rata estimată de deteriorare
+structurală a bioprotezei aortice la 15 ani a variat de la 63% la cei cu vârsta
+între 40 și 49 de ani la 10% la cei peste 70 de ani (36). Speranța de viață a
+octogenarilor este mai mică decât durata de viață a unei bioproteze, de aceea
+protezele biologice sunt de regulă cea mai bună alegere la bolnavii vârstnici
+(10). Vârsta a reprezentat un determinant al riscului, cu un odds ratio de 2,3
+pentru fiecare 10 ani de creștere a vârstei. Cele mai frecvente cauze de
+insuficiență aortică cronică la adulții vârstnici sunt dilatarea aortei
+ascendente ca rezultat al HTA sau al bolii aortice primare, scleroza calcifiantă
+aortică și rareori bicuspidia aortică. O categorie specială este reprezentată de
+regurgitarea aortică periprotetică după TAVI, probabil datorată unei slabe
+toleranțe la suprasarcina de volum în prezența unei disfuncții diastolice
+ventriculare stângi semnificative la această categorie de pacienți. În Marea
+Britanie, TAVI Registry, care a inclus 870 de pacienți, la 61% dintre aceștia
+s-a observat un anumit grad de insuficiență aortică paravalvulară, la 13,6%
+dintre pacienți regurgitarea fiind moderată sau severă (46). În ciuda unei
+incidențe crescute a regurgitării aortice ușoare post-TAVI, încă nu există
+criterii specifice de evaluare pentru regurgitarea aortică, iar mecanismele
+fiziopatologice sunt încă discutate. Vârsta înaintată este un factor de risc
+pentru mortalitatea perioperatorie și pe termen lung. De asemenea, punctul de
+vedere conform căruia chirurgia este recomandată doar anumitor categorii de
+vârstnici s-a modificat, având în vedere succesul intervențiilor la pacienți cu
+comorbidități. Dezvoltarea tehnicilor percutane dă posibilitatea extinderii
+alternativelor terapeutice la această categorie de pacienți. Autorii atrag
+atenția că descoperirea regurgitării ecocardiografice nu este echivalentă cu
+regurgitarea boală, dar urmărirea în evoluție ar fi utilă (5). Clasificarea
+comună etiologică împarte valvulopatia în Im ischemică și non-ischemică. În
+țările dezvoltate predomină cauza degenerativă, care la vârstnici se referă la
+deficiența fibroelastică și mai rar la calcificarea de inel valvular mitral.
+Apare în mod tipic la pacienții peste 60 de ani cu un istoric clinic de scurtă
+durată sau asimptomatici până în momentul rupturii cordajului, când clinic se
+ascultă Im holosistolică. În mod specific apare prolaps izolat, segmentul
+implicat fiind îngroșat prin modificări mixomatoase cu acumulare de
+mucopolizaharide, destins, elongat. Procesul este încapsulat de o zonă de
+fibroză, dar la limita cu miocardul infiltrat se descriu zone cu agregate
+plachetare și hematii, substanțe lipidice (33). De asemenea există similitudini
+cu osteogeneza, procesul fiind reglat de expresia de către valve a markerilor de
+diferențiere osteoblastică (34). În mod tipic este afectată valva mitrală
+posterioară și se poate prezenta ca o masă/cavitate, uneori mobilă, care poate
+emboliza și care se pretează la diagnostic diferențial cu tumori, abces, tromb
+(35-37). Interesant este și mecanismul care asociază CIM cu boala cronică de
+rinichi, și anume stimularea diferențierii celulelor musculare netede vasculare
+în fenotip osteoclastic de către nivelurile crescute de fosfat (39). Frecvența
+este raportată foarte diferit între studii, pentru că și populația selecționată
+este heterogenă ca vârstă și comorbidități. Forțele de închidere scad prin
+reducerea contractilității și disincronismul segmentelor bazale VS, contracția
+sistolică alterată a inelului, reducerea sincronismului între mușchii papilari.
+Elementul central nu este disfuncția mușchiului papilar, ci deplasarea sa
+apicală și postero-laterală consecutivă remodelării ischemice a VS. Volumul
+acestei zone este în relație cu aria orificiului regurgitant. În Im acută,
+orificiul regurgitant convertește cea mai mare parte a energiei VS în energie
+potențială, care se reflectă în presiune crescută într-un AS necompliant (unda V
+amplă). La vârstnici, progresia spre edem pulmonar acut este cu atât mai facilă
+cu cât creșterea de presiune surprinde un AS remodelat structural, fibrozat,
+rigidizat, dar mai ales o circulație venoasă pulmonară cu presiuni crescute
+(50). În Im cronică, AS este compliant, presiunea scade (unda V este mai puțin
+amplă), iar energia ventriculară este convertită în cea mai mare parte în
+energie kinetică, tradusă prin VR crescut (14). Pe de altă parte, dispneea și
+astenia fizică pot fi interpretate fals în contextul bronhopneumopatiei
+obstructive cronice (BPOC) sau al alterării statusului neuro-psihic, mai ales
+dacă pacientul nu are antecedente documentate cardiovasculare. În Im
+funcțională, crește în perioadele de contracție izovolumică și de relaxare, în
+care presiunea ventriculară asupra apoziției valvelor este mai redusă. De aceea,
+o fracție de ejecție de 50-60% semnifică disfuncție patentă, care trebuie
+suspectată dacă diametrul telesistolic VS este crescut (60,61). Metoda
+principală rămâne ecocardiografia transtoracică (ETT) deoarece oferă informații
+complete asupra cauzei, mecanismului, extinderii leziunilor și posibilităților
+de reparare a valvei, asupra consecințelor hemodinamice, în timp ce
+ecocardiografia transesofagiană (ETE) are indicație la pacienții cu fereastră
+ecografică slabă și este de importanță particulară intraoperator. Examinarea
+necesită informații despre funcția sistolică, o FE ≤ 60% semnifică disfuncție
+sistolică la fel ca și diametrul telesistolic de 40-45 mm, volumul AS este
+parametrul recomandat (un volum de cel puțin 40 ml/m2 este indicator de dilatare
+severă) cu valoare prognostică și de predicție a instalării fibrilației atriale
+(14). Ecocardiografia este de obicei suficientă pentru diagnostic, deoarece
+apreciază și consecințele hemodinamice, respectiv severitatea Im sau evaluarea
+gradientului transvalvular în situația în care calcificarea se extinde la valva
+anterioară și îi limitează mișcarea. Valoare de parametru hemodinamic are și
+activarea peptidelor natriuretice, în particular a peptidului de tip B (12,13).
+Deși la ora actuală nu există date comparative din trialuri randomizate asupra
+supraviețuirii la vârstnici, numeroase studii prospective raportează beneficiul
+consistent al chirurgiei valvulare și tehnicilor percutane în termeni de
+ameliorare a calității vieții, evoluției clinice și creșterii supraviețuirii
+(9,72 74). Datele pro susțin vasodilatatoarele pe baza observațiilor
+experimentale care arată că în Im organică este activat sistemul
+renină-angiotensină-aldosteron local miocardic, iar drogurile care blochează
+sistemul stabilizează afecțiunea (14). Desigur că la vârstnici aceste resurse
+terapeutice trebuie inițiate, dar mai ales monitorizate, având în vedere
+modificarea metabolizării drogurilor, disfuncția renală latentă și alte
+comorbidități, răspunsul hemodinamic particular. De aceea, fragilitatea este
+considerată cel mai important factor de decizie terapeutică la vârstnic, cu
+condiția de a o diferenția de comorbidități și dizabilități (82). Afilalo și
+colaboratorii săi raportează că viteza de mers ca indice de fragilitate,
+definită ca timp ≥ 6 secunde necesar pentru a parcurge 5 m, este un predictor
+independent de mortalitate intraspitalicească sau de morbidități majore,
+determinând triplarea riscului postchirurgical. BPOC, DZ, hemodializa
+preoperatorie, endocardita, necesitatea corecției concomitente a leziunilor
+coronariene au fost identificați ca predictori independenți pentru mortalitatea
+tardivă (86). Riscul chirurgical în sine ține de posibilitatea de reparare
+valvulară și este crescut dacă este necesar și BAC, reparare tricupsidiană sau
+proceduri adresate corecției fibrilației atriale. Pentru Im ischemică, evoluția
+postoperatorie rămâne suboptimală în ciuda performanțelor tehnice, cu rate
+înalte de mortalitate și insuficiență cardiacă, legate de coexistența bolii
+coronariene, a comorbidităților vasculare, disfuncției ventriculare
+preexistente. Autorii menționează însă necesitatea combinării cu BAC în 50%
+dintre cazuri și cu repararea concomitentă tricuspidiană la o treime dintre
+pacienți. Un raport recent susține faptul că postoperator, la octogenari,
+calitatea vieții este suboptimală, în strânsă relație cu condiția preoperatorie
+a pacientului. Analiza celor 191 de cazuri din statistica lui Seeburger și a
+colaboratorilor săi susține non-inferioritatea procedurii versus chirurgie
+invazivă, cu scăderea necesarului de transfuzii și a perioadei de spitalizare.
+Sub această limită, alegerea va fi individualizată în funcție de comorbidități,
+de succesul estimat al tratamentului anticoagulant corect și de contraindicații,
+de speranța de viață (12,13). Atitudinea watchful wait susține urmărirea clinică
+și ecografică a pacienților până la indicația de clasă I a ghidurilor, în baza
+studiului lui Rosenhek și al colaboratorilor săi (98). Ghidul european 2012
+susține indicația (clasa IIb) la pacienți care au risc operator scăzut, sunt în
+ritm sinusal, au dimensiuni crescute ale AS (volum indexat > 60 ml/m 2) și
+presiune sistolică la efort în artera pulmonară ≥ 60 mmHg (12). Metoda necesită
+însă o foarte bună selecție a pacientului pe criterii ecocardiografice stricte,
+reduce gradul de Im mai puțin eficient decât chirurgia, nu sunt date suficiente
+referitoare la durabilitate. În consecință, pacientul vârstnic cu deficiență
+fibroelastică bine selecționat ar putea fi candidat pentru această procedură. În
+SUA, metoda nu este aprobată pentru uz clinic și are indicație de clasă IIb în
+ghidul american 2014 la pacienții sever simptomatici (clasa NYHA III-IV) cu Im
+primară, speranță de viață rezonabilă, dar risc operator prohibitiv din cauza
+comorbidităților severe. În forma subacută de EI, germenele se localiza pe valve
+structural modificate sau pe leziuni cardiace congenitale, cu manifestări
+clinice trenante, torpide și cu evoluție către deces în câteva luni. Stenoza
+aortică degenerativă, bicuspidia aortică și bolile mitrale degenerative
+(prolapsul mitral cu insuficiență mitrală sau calcificarea de inel mitral), mai
+frecvente la vârstnici, sunt factori predispozanți pentru EI (8). Persoanele
+peste 60 de ani fac într-o proporție mai mare EI asociată îngrijirilor medicale,
+EI nozocomială sau non-nozocomială. Incidența EI pe proteze valvulare este de
+43104% în primul an postoperator și rămâne de 1%/an ulterior. Manifestările
+embolice, splenomegalia, leziunile tegumentare (noduli Osler, leziuni Janeway)
+sau hemoragiile conjunctivale sunt mai mai rare la vârstnici (7). Apariția
+blocurilor atrioventriculare pe electrocardiogramă este sugestivă pentru
+formarea unui abces pe septul interventricular. Examenul ecocardiografic și
+hemoculturile rămân elemente esențiale de diagnostic. În formele de EI
+nozocomială scade prevalența stafilococului auriu și există o tendință de
+creștere a infecției cu stafilococ coagulazo-negativ, cu stafilococ auriu
+meticilino-rezistent și cu enterococ (depistat recent ca germene responsabil de
+infecție la 51% dintre cazuri într-un studiu clinic) (21). În EI asociată
+stimulatoarelor cardiace și defibrilatoarelor, hemoculturile sunt pozitive în
+77% dintre cazuri, cei mai frecvenți germeni fiind stafilococii (S. aureus în
+formele acute și S. epidemitis în cele subacute) (22,23). Examenul
+ecocardiografic este un criteriu major de diagnostic al bolii dacă pune în
+evidență vegetații, abcese sau dehiscențe ale protezelor valvulare. În prezența
+leziunilor valvulare degenerative, a calcificărilor valvulare sau a protezelor
+valvulare, mai frecvente la vârstnici față de populația generală, sensibilitatea
+diagnostică a ecocardiografiei transtoracice (ETT) pentru decelarea
+modificărilor patognomonice a EI scade de la 63% la 45% (25). Vegetațiile mai
+mici sau absente ar putea explica frecvența mai scăzută a manifestărilor
+vasculare, inclusiv a celor embolice, deși valva mitrală este mai frecvent
+afectată. Vârstnicii cu EI au o tendință mai mare de a dezvolta abcese
+intracardiace sau complicații paravalvulare la nivelul protezelor valvulare (7).
+Ecocardiografia transesofagiană (ETE) are o sensibilitate superioară ETT
+(90-100%) în detectarea vegetațiilor mici (< 5 mm), în special în prezența
+calcificărilor valvulare sau de inel mitral, care scad sensibilitatea ETT.
+Ecocardiografia transesofagiană este superioară celei transtoracice în
+diagnosticul abceselor perivalvulare, fistulelor, perforațiilor valvulare sau al
+EI pe proteze valvulare. Un examen ecocardiografic negativ nu exclude
+diagnosticul de EI. Când există suspiciune clinică ridicată de EI, iar
+ecocardiografia inițială este negativă, e necesar ca examenul ecocardiografic să
+se repete după 43291 zile. Criteriile Duke de diagnostic al EI se bazează pe
+date clinice, ecocardiografice și microbiologice și au o sensibilitate și
+specificitate de aproximativ 80% în diagnosticul bolii (28). În populația
+generală, mortalitatea în EI variază între 9,6% și 26%, predictorii
+prognosticului fiind determinați de particularitățile bolnavului, de germenele
+infecțios, de prezența complicațiilor și a modificărilor ecocardiografice
+(tabelul 24.3) (2). Într-un studiu care a inclus 557 de bolnavi cu EI, la 34%
+boala a fost asociată îngrijirilor medicale, 46% având forme non-nozocomiale
+(33). Un factor cu impact asupra mortalității la vârstnicii cu EI este numărul
+mai mic de bolnavi care beneficiază de tratament chirurgical, datorită riscului
+operator crescut legat de vârsta avansată și de prezența comorbidităților. În
+formele mai puțin severe, cu evoluție subacută, mai ales dacă bolnavii au făcut
+anterior tratament antibiotic, tratamentul poate fi început după câteva zile,
+după ce s-au recoltat zilnic 43134 hemoculturi. În EI pe valve native cu
+streptococi sensibili la peniciline, bolnavii vârstnici ar putea beneficia de
+tratament cu beta-lactamine timp mai îndelungat, de 4 săptămâni, în loc de
+asocierea de aminoglicozide, pentru scăderea riscului de toxicitate renală. În
+EI cu enterococ, în care se impune asocierea unui aminoglicozid, este necesară
+supravegherea funcției renale și monitorizarea nivelului seric al
+aminoglicozidului. Administrarea antibioticelor nefrotoxice pe o perioadă de
+timp mai scurtă ar putea preveni insuficiența renală. Într-un studiu danez
+publicat recent, la vârstnicii cu EI cu Enterococcus faecalis sensibil la
+gentamicină, administrarea gentamicinei timp de 2 săptămâni în loc de 4
+săptămâni s-a asociat cu o evoluție similară a bolii, dar cu funcție renală mai
+bună la sfârșitul tratamentului (37). Bolnavii cu EI și complicații neurologice
+embolice în faza activă a EI nu au indicație de tratament antiagregant și/sau
+anticoagulant (2). La bolnavii care erau sub tratament antiagregant anterior
+apariției EI nu se recomandă întreruperea acestuia decât dacă apar sângerări
+majore. Bolnavii cu EI aflați sub tratament anticoagulant cronic au risc mare de
+sângerare intracraniană, iar anticoagularea se va continua doar dacă este strict
+indicată. Bolnavii cu EI care fac un accident ischemic cerebral embolic fără
+hemoragie intracerebrală și care au indicație fermă de anticoagulare vor fi
+tratați cu heparină nefracționată timp de două săptămâni, cu monitorizarea
+strictă a coagulării, și vor fi reevaluați ulterior (2). Chirurgia de urgență
+este indicată în insuficiența cardiacă acută (edem pulmonar acut sau șoc
+cardiogen) sau în insuficiențele valvulare severe asociate cu semne
+ecocardiografice de deteriorare hemodinamică (2). Rezultatele unui registru
+francez desfășurat timp de un an a arătat scăderea mortalității
+intraspitalicești (de la 21,6% în 1991 la 16,6% în 1999), scădere datorată în
+parte precocității intervențiilor chirurgicale în raport cu evoluția bolii
+(49,7% față de 31,2%) (6). Bolnavii vârstnici operați au avut o mortalitate
+intraspitalicească de 9,1% față de mortalitatea de 18,2% a bolnavilor tratați
+medicamentos (39). Predictorii independenți de mortalitate în EI la vârstnici
+sunt vârsta, embolismul cerebral major, sepsisul și EI pe proteze valvulare (2).
+Prezența comorbidităților, care au impact negativ asupra supraviețuirii, fac
+parte din motivele pentru care intervențiile chirurgicale la vârstnici sunt mai
+puțin frecvente. Procedurile care necesită profilaxie antibiotică sunt
+procedurile stomatologice care necesită manipularea gingivală, periapicală sau
+perforația mucoasei bucale (tabelele 24.1 și 24.11) (2). Deși, la vârstnici, 30%
+dintre cazurile de EI apar legate de proceduri de îngrijiri medicale
+(nozocomiale și non-nozocomiale), nu se indică o profilaxie antibiotică de
+rutină în aceste circumstanțe. Particularitățile chirurgiei cardiace și ale
+perioadei perioperatorii se reflectă în creșterea riscului la persoanele
+vârstnice. Frecvent, pacienții chirurgicali sunt supuși ecocardiografiei
+transesofagiene (ETE) pre - și intraoperatorii, ceea ce poate crește riscul de
+dezvoltare a disfagiei și a riscului de pneumonie de aspirație. În consecință,
+pacientul vârstnic, deși cu indicații și beneficii clare pentru chirurgia
+cardiacă valvulară, devine o dată în plus fragil prin necesitatea abordării
+atente a comorbidităților. Recesul fiecărei cuspe se numește sinusul lui
+Valsalva și prezintă ostiile arterelor coronare. SA, mult timp asimptomatică, se
+manifestă prin angină pectorală, sincopă și moarte subită, iar în stadii
+avansate de decompensare cardiacă, prin dispnee de efort și de repaus,
+palpitații cauzate de instalarea fibrilației atriale (FA), embolie cerebrală sau
+sistemică prin microemboli generați de ruperea plăcilor calcare, astenie și risc
+de grefare a endocarditei infecțioase (EI). Spre deosebire de pacienții tineri,
+rezerva funcțională la vârste peste 85 de ani este semnificativ diminuată în
+condițiile comorbidităților redutabile de tipul diabetului zaharat (DZ),
+hipertensiunii arteriale (HTA), aterosclerozei cu afectare plurivasculară, chiar
+dacă pacienții rămân mult timp asimptomatici (4). Apariția simptomatologiei
+(angină pectorală, sincopă, dispnee), accentuată la grupele de vârstă peste 65
+de ani, asociată cu simptome caracteristice comorbidităților, marchează debutul
+decompensării cardiace și reprezintă momentul deciziei operatorii în vederea
+prevenirii morții subite și, implicit, a prelungirii intervalului de
+supraviețuire. Speranța de viață fără tratament chirugical din momentul
+apariției simptomelor este de 43102 ani la pacienții cu fenomene de insuficiență
+cardiacă, 43134 ani la cei cu sincope, 43195 ani în cazul anginei pectorale.
+Până în prezent, concepția generală a chirurgilor cardiovasculari și a
+cardiologilor a fost că pacienții cu vârste de peste 80 de ani, cu multiple
+comorbidități și fracție de ejecție (FE) VS redusă, sunt grevați de un
+prognostic nefast după protezare valvulară, motiv pentru care intervenția
+chirurgicală este refuzată în 30-48% dintre cazuri conform studiilor de
+specialitate. În aceste cazuri, în centre specializate, se practică
+valvuloplastia cu balon, care ameliorează temporar simptomatologia, restenoza
+producându-se în 43263 luni sau înlocuirea valvulară transcateter (TAVI) (4).
+Testele preoperatorii standard includ analize de laborator, ecocardiografie,
+ecografie Doppler carotidiană, electrocardiogramă (ECG), cateterism cardiac,
+consulturi interclinice pentru evaluarea comorbidităților sau identificarea unor
+eventuale contraindicații ale intervenției chirurgicale. În cazul particular al
+pacienților în etate, evaluarea preoperatorie poate include examinarea
+computer-tomografică (CT) fără administrare de substanță de contrast pentru
+evaluarea gradului de calcificare al aortei ascendente în vederea clampării.
+TAVI constituie o alternativă la chirurgia cardiacă deschisă la vârstnici cu
+disfuncție VS severă, comorbidități multiple cum ar fi calcificări importante
+ale aortei ascendente (aortă de porțelan) care fac imposibilă clamparea,
+afectare radică sau ciroză hepatică. În prezent sunt disponibile două tipuri de
+proteze, una expandabilă cu balon (Edwards Sapien XT, Edwards Lifesciences),
+alta autoexpandabilă (CoreValve, Medtronic). Proteza poate fi implantată pe cale
+retrogradă (transfemurală sau transaxilară) sau anterogradă (transapicală)
+(9,10). Înlocuirea sau repararea valvei aortice se face sub circulație
+extracorporeală (CEC) și este determinată de preferința individuală a
+chirurgului operator (tabelul 25.2). Abordul este clasic prin sternotomie
+mediană și presupune canularea arterială a aortei ascendente, canularea venoasă
+prin canulă unică introdusă în atriul drept (AD), cardioprotecția în normotermie
+sau hipotermie moderată (30 0C) prin administrarea de cardioplegice în ostiile
+coronare și retrograd, prin sinusul coronarian. În toate cazurile se clampează
+direct aorta și se administrează antifibrinolitice. Utilizarea atentă a
+substanțelor nefrotoxice poate preveni insuficiența renală postoperatorie.
+Mortalitatea operatorie în intervențiile elective este sub 3%, crescând la
+vârstele extreme, în condițiile intervențiilor în urgență, prezenței
+endocarditei și comorbidităților multiple (caseta 25.2) (12). Pacienții
+vârstnici cu comorbidități asociate sunt potențiali beneficiari de bioprotezare
+valvulară aortică prin chirurgie deschisă sau TAVI, în termeni de morbiditate și
+mortalitate postoperatorie în limite acceptabile. Insuficiența aortică (IA)
+definește incompetența cuspelor aortice secundară unor procese patologice care
+determină închiderea incompletă a orificiului aortic în timpul diastolei
+ventriculare cu regurgitare acută sau cronică a VS. În regurgitarea aortică
+progresivă, VS se adaptează prin dilatare, cu creșterea complianței pentru
+menținerea presiunii telediastolice în limite normale. Ecocardiografia
+transesofagiană (ETE) este esențială în definirea anatomiei valvei și a aortei
+ascendente în special când se preconizează o intervenție cu prezervarea valvei.
+În cazul instalării acute prin ruperea cuspelor, evoluția este severă spre șoc
+cardiogen și deces dacă nu se intervine de urgență. În cazul prezenței - HTA, se
+indică tratament antihipertensiv cu inhibitori ai enzimei de conversie (IEC) și
+blocanți ai canalelor de calciu. Odată instalată, decompensarea ventriculară
+reduce șansele recuperării funcției cardiace și supraviețuirii postoperatorii.
+Alegerea tehnicii chirurgicale depinde de asocierea eventuală a anevrismului de
+aortă ascendentă, caracteristicile cuspelor aortice, prezența comorbidităților,
+speranța de viață și posibilitatea administrării tratamentului anticoagulant.
+Procedeul Bentall se practică în caz de ectazie anuloaortică. În IA asociată cu
+anevrism sau disecție de aortă ascendentă se pot înlocui în bloc valva aortică,
+rădăcina aortei și aorta ascendentă prin operația Bentall, cu reimplantarea
+arterelor coronare. Când cuspele aortice sunt integre, se indică reconstrucția
+rădăcinii aortice prin tehnica David, care presupune plastia valvei aortice și
+plasarea unui tub de Dacron ce înlocuiește aorta ascendentă și în care se
+reimplantează arterele coronare. Procesul endocarditic poate determina
+distrucția masivă a rădăcinii aortice, ceea ce impune reconstrucția complexă. Pe
+cât este posibil se evită materialele plastice sau valvele mecanice
+caracterizate prin susceptibilitate crescută la reinfecție, utilizându-se valve
+biologice homogrefe sau xenogrefe. Insuficiența aortică acută secundară unor
+procese patologice agresive cum ar fi disecția de aortă și endocardita, sau
+posttraumatică, determină decompensarea rapidă a VS cu edem pulmonar acut și șoc
+cardiogen, ceea ce impune intervenția chirurgicală de urgență. Modificarea
+sistemului valvular mitral cu reducerea diametrului orificiului mitral determină
+incompetența valvulară cu alterarea fluxului atrioventricular diastolic și
+hipertensiune pulmonară (HTP) consecutivă. Afectarea degenerativă determină
+alterări ale aparatului valvular cu rupturi de cordaje, elongarea cordajelor,
+exces de țesut la nivelul cuspelor și dilatarea inelului valvular (14).
+Afectarea reumatică determină îngroșarea cuspelor, calcificări ale cuspelor și
+cordajelor, scurtarea și fuzionarea cordajelor. Afectarea ischemică determină
+tracțiunea cuspelor și cordajelor secundar retracției mușchilor papilari în
+regiunea de infarctizare. Există situații ce pot asocia boala Barlow, prolaps de
+valvă mitrală, deficit fibroelastic și sindrom Marfan, manifeste prin
+regurgitare mitrală care, în absența tratamentului, progresează spre
+insuficiență cardiacă și deces, ceea ce face licită aplicarea repertoriului
+tehnicilor chirurgicale de corectare a defectului. SM asimptomatică nu necesită
+tratament în condiții de păstrare a ritmului sinusal. Betablocantele și
+blocantele de canale de calciu ameliorează toleranța la efort prin prelungirea
+diastolei și, astfel, a timpului de umplere ventriculară. În cazul în care se
+preferă protezarea valvulară, aceasta se face cu păstrarea aparatului
+subvalvular, rezecția acestuia fiind rezervată calcificărilor severe. Conform
+ESC, tratamentul chirurgical sau intervențional al SM se indică la pacienți cu
+SM moderată sau severă (aria orificiului valvular < 1,5 cm2 sau < 1,7-1,8 cm2 în
+cazul particular al pacienților cu suprafața corporală mare), simptomatici, cu
+HTP, aflați în ritm sinusal sau FA (8). Tratamentul chirurgical se indică și la
+pacienți asimptomatici cu afectare severă, în vederea obținerii unui rezultat
+postoperator mai favorabil. În unele situații, metoda permite ameliorarea și
+temporarizarea protezării valvulare. Avantajul acestei tehnici constă în
+corecția concomitentă a modificărilor aparatului subvalvular. Prezența trombului
+mitral sau regurgitare mitrală + 2 contraindică acest procedeu. Înlocuirea
+valvei mitrale reprezintă metoda chirurgicală prin care cuspele mitrale,
+cordajele modificate patologic, fibrozate, aglutinate sunt excizate și înlocuite
+cu o valvă mecanică sau biologică. Înlocuirea valvei mitrale se face prin abord
+clasic, respectiv sternotomie mediană cu ajutorul CEC, sau prin toracotomii
+minime drepte asistate videoscopic, folosind sistemul Heart Port. Prezervarea
+aparatului subvalvular asigură mentenanța continuității anulo-ventriculare și
+păstrarea funcției VS. Supraviețuirea la 10 ani este de 95%, în absența
+reintervenției de 84% și fără accidente tromboembolice în proporție de 91% (18).
+Din punctul de vedere al debutului fenomenelor de regurgitare, Im poate fi
+acută, brusc instalată, prin rupturi cuspale sau de cordaje, și cronică, cu
+progresie lentă a regurgitării. În Im acută, volumul regurgitant încarcă brusc
+AS și circulația pulmonară și determină edem pulmonar și șoc cardiogen cu
+potențial evolutiv letal iminent, în absența intervenției chirurgicale. În Im
+cronică se produce hipertrofie excentrică adaptativă a VS, dilatare AS,
+mecanismele compensatorii menținând contextul asimptomatic sau oligosimptomatic
+pentru o lungă perioadă de timp. Dilatarea AS și FA cresc la 43393% incidența
+complicațiilor embolice cerebrale și periferice, mai ales la pacienții
+vârstnici. Medicația vasodilatatoare, antiaritmică în cazul FA, diuretice,
+tratamentul anticoagulant ameliorează statusul clinic al pacientului, dar nu
+trebuie să întârzie decizia chirurgicală până la decompensarea severă a VS. În
+Im acut instalată, nitroprusiatul reduce postsarcina și fracția regurgitantă.
+Coronarografia apreciază și cuantifică volumul de sânge regurgitant, severitatea
+disfuncției VS și repercursiunile acesteia asupra cordului drept, HTP sau
+regurgitare tricuspidiană. Remodelarea valvulară se preferă ori de câte ori
+contextul clinico-paraclinic o permite (90%), atunci când anatomia
+loco-regională și experiența chirurgului sunt favorabile, deși literatura de
+specialitate este discrepantă referitor la beneficiul metodei la pacienții
+vârstnici. Anomaliile de cordaje se rezolvă prin alungirea, scurtarea sau
+transpoziția segmentelor cuspale opuse, sau prin înlocuire, metode cu
+durabilitate bună pe termen lung. Dimensiunea inelului sau benzii de
+anuloplastie se determină prin măsurarea cuspei anterioare, distanței
+intercomisurale și/sau distanței intertrigonale. În cazurile în care se impune,
+excizia segmentelor prolabate se face prin rezecție triangulară sau
+quadrangulară cu/fără plastie cuspală (figura 25.4). În regurgitarea mitrală
+postendocarditică se încearcă prezervarea valvei indemne după excizia părții
+infectate și refacerea aparatului mitral cu cât mai puțin material străin pentru
+a evita reinfecția. Tehnic, aceasta se realizează prin plierea cuspei
+posterioare cu firele de fixare ale protezei. La nivel mondial sunt în curs de
+dezvoltare tehnici de reparare percutanată cu rezultate favorabile pe trialuri
+experimentale la animale (21). Valoarea medie a euroSCORE la pacienții tratați a
+fost de 3,45%. Performanțele tehnicilor chirurgicale ale ultimilor ani în
+remodelarea valvulară cu păstrarea aparatului subvalvular mitral, aplicate în
+stadii incipiente de boală, limitează disfuncția ventriculară stângă și se
+asociază cu o rată scăzută a complicațiilor postoperatorii, în termeni de AVC,
+timp de spitalizare, recuperare postoperatorie. Experiența noastră relevă o
+scădere a timpului de CEC, scăderea intervalului de clampare și implicit a
+mortalității perioperatorii. Supraviețuirea la 5 ani este de 89,4%, bioprotezele
+fiind considerate elective datorită alterării structurale evidente la pacienții
+vârstnici și absența necesității tratamentului anticoagulant de lungă durată.
+Tehnicile de prezervare cordală oferă avantaje adiționale în menținerea funcției
+ventriculare stângi. ST recunoaște drept cauze etiologia reumatismală,
+congenitală, atrezia tricuspidiană, tumorile AD, rar fibroza endomiocardică sau
+endocardita tricuspidiană cu vegetații. Este igieno-dietetic, hiposodat,
+diuretic, poate ameliora temporar starea clinică. Tentează normalizarea fluxului
+sanguin prin comisurotomie directă digitală sau chirurgicală și protezare cu
+valvă biologică la pacienții cu gradient transvalvular > 5 mmHg. Indicațiile
+chirurgicale se referă la pacienți cu simptome clasa III-IV NYHA, congestie
+hepatică, ascită și edeme periferice refractare la restricție hidrosalină și
+diuretice. Insuficiența tricuspidiană (IT) definește închiderea incompletă a
+orificiului tricuspidian în timpul sistolei, cu regurgitarea sângelui din VD în
+AD și este de obicei rezultatul dilatării VD și a inelului tricuspidian în boala
+mitrală, HTP primare sau secundare, infarctului miocardic al VD sau boli
+congenitale ca stenoza pulmonară (SP). IT funcțională poate complica hipertrofia
+VD de orice cauză, inclusiv infarctele miocardice inferioare care implică VD, și
+este frecvent întâlnită în stadii avansate de insuficiență cardiacă datorată
+cardiopatiei reumatismale sau congenitale, bolii cardiace ischemice,
+cardiomiopatiilor, cu HTP severă sau în cordul pulmonar. În caz de regurgitare
+tricuspidiană funcțională de grad II/III, fără HTP severă, se reface leziunea
+determinantă a hipertrofiei VD (SM, stenoza pulmonară, boală coronariană). În
+caz de regurgitare severă se indică plastie tricuspidiană cu inel (Carpentier)
+sau tehnica DeVega (bicuspidizare). Stenoza pulmonară (SP) este o valvulopatie
+definită prin îngustarea orificiului sigmoidian pulmonar și crearea unui
+obstacol în evacuarea VD. Orificiul trunchiului pulmonar, de formă circulară,
+este situat superior, anterior și la stânga orificiului atrioventricular drept,
+la extremitatea infundibului pulmonar. Segmentul VD cuprins între creasta
+supraventriculară și orificiul trunchiului pulmonar, de forma unui trunchi de
+con, de aspect neted, este denumit con arterial (infundibul pulmonar).
+Intervenția chirurgicală de înlocuire a două sau trei valve (plastie valvulară)
+este grevată de risc chirurgical crescut, iar rezultatul postoperator este
+condiționat de afectarea cardiacă preoperatorie. Nivelul de anticoagulante
+trebuie adaptat în funcție de criteriile de trombogenitate ale protezei și
+caracteristicile fizico-clinice ale pacientului. Sunt impuse de necesitatea
+realizării unei circulații sanguine eficiente, cu flux central non-turbulent,
+fără gradient. Formarea de trombi valvulari și embolia cerebrală sau periferică
+reprezintă probleme delicate ale protezării valvulare, motiv pentru care se
+indică tratament anticoagulant pe termen lung. Deși riscul hemoragic este mai
+mare la vârstnici, anticoagularea trebuie aplicată, dar strict individualizată.
+Colmatarea valvei presupune formarea de trombi ce alterează funcționalitatea
+mecanică valvulară și constituie o urgență medico-chirurgicală, cu potențial
+risc vital. În caz contrar se impune intervenția chirurgicală, cu extracția
+trombilor, cu sau fără reprotezare valvulară. Evaluarea ecocardiografică a
+bolnavilor cu IC a relevat prevalența crescută a formelor de IC în care fracția
+de ejecție (FE) a ventriculului stâng (VS) era în limite normale. La nivelul
+cordului, modificările structurale miocitare și fibroza matriciei extracelulare
+cresc rigiditatea VS și determină disfuncție diastolică cu tulburări de relaxare
+și complianță ventriculară. Disfuncția diastolică nu este izolată, se însoțește
+de disfuncție sistolică longitudinală ventriculară, prin afectarea fibrelor
+musculare subendocardice, deși FE ventriculară rămâne în limite normale. Pentru
+menținerea unui debit cardiac adecvat în repaus și mai ales la efort, umplerea
+ventriculului rigid și nedilatabil, cu o capacitate de sucțiune a sângelui
+scăzută, trebuie să se facă prin presiuni de umplere crescute. Rigiditatea
+crescută ventriculară și arterială afectează cuplajul ventriculo-arterial, care
+este normal în repaus, dar devine anormal la efort. Creșterea postsarcinii
+ventriculare crește travaliul cardiac și consumul miocardic de oxigen. Pentru
+menținerea debitului cardiac, umplerea ventriculară trebuie să se facă la
+presiuni de umplere crescute, deoarece VS necompliant are o revervă scăzută de
+presarcină. Frecvența cardiacă nu crește adecvat în timpul efortului, din cauza
+scăderii numărului de receptori beta-adrenergici la nivel cardiac și a
+diminuării răspunsului cronotrop la stimularea beta-adrenergică. În prezent
+există tendința de a considera IC cu FE păstrată ca o entitate de sine
+stătătoare și care se manifestă, ea însăși, prin mai multe fenotipuri clinice.
+Valvulopatiile regurgitante sunt de asemenea mai frecvente la această categorie
+de pacienți, mai ales insuficiența mitrală (Im) degenerativă cu regurgitație
+severă și cardiomiopatiile hipertrofice și restrictive. Tusea cronică, seacă,
+echivalent al dispneei, este frecventă. Modificările toracice, cifoza și
+creșterea diametrului toracic antero-posterior, cât și asocierea
+bronhopneumopatiei obstructive conice (BPOC) determină scăderea intensității
+suflurilor cardiace, care pot fi interpretate ca fiind sufluri fără semnificație
+hemodinamică. SA degenerativă severă se asociază frecvent cu HTA la vârstnici,
+iar caracterele clasice ale pulsului din SA, parvus et tardus, sunt absente. La
+vârstnici, boala cardiacă ischemică se însoțește mai rar de durere anginoasă și
+debutează frecvent prin insuficiență ventriculară stângă acută (13-15). În
+concluzie, lipsa de specificitate a simptomelor și semnelor de IC, cât și
+prezența comorbidităților pot întârzia diagnosticul IC la vârstnici. Prezența
+comorbidităților reprezintă o particularitate a IC la vârstnici. FA este
+prezentă la 30-35% dintre bolnavii vârstnici cu IC, determinând deteriorarea
+hemodinamică, agravarea manifestărilor de IC și risc crescut de accidente
+vasculare cardio-embolice. Disfuncția renală poate să se agraveze la vârstnicii
+cu IC în urma tratamentului diuretic, cu inhibitori ai enzimei de conversie a
+angiotensinei, sartani, antialdosteronice sau antiinflamatoare nesteroidiene.
+Bolnavii cu IC au un risc crescut de cădere, prin frecvența crescută a
+hipotensiunii arteriale ortostatice. Hipotensiunea arterială ortostatică este
+consecința atât a modificărilor fiziopatologice induse de IC, cât și a
+tratamentului medicamentos cu vasodilatatoare, diuretice sau betablocante.
+Tratamentul anticoagulant, administrat frecvent pentru prevenirea accidentelor
+tromboembolice asociate cu FA, crește riscul complicațiilor hemoragice, implicit
+a celor posttraumatice. Bolnavii cu IC care au frecvent FA au un risc crescut de
+demență vasculară prin microembolii recurente. Modificările senzorului
+(afectarea auditivă și vizuală) la vârstnici fac dificil tratamentul
+medicamentos și igieno-dietetic al IC. Dispneea și astenia fizică pot fi
+influențate de prezența comorbidităților (BPOC, anemie), de reducerea
+activității fizice sau de tulburări de memorie. Evaluarea paraclinică prin
+examen radiologic pulmonar, ecografie cardiacă și biomarkeri serici ai IC capătă
+o importanță deosebită în diagnosticul IC la vârstnici. Examenul ecocardiografic
+a devenit o tehnică indispensabilă în diagnosticul IC deoarece cuantifică
+remodelarea cardiacă, funcția sistolică ventriculară (exprimată cel mai frecvent
+prin FE a VS) și presiunile de umplere ventriculare. Determinarea valorilor
+serice ale peptidelor natriuretice, BNP și NT-proBNP, a contribuit în mod
+substanțial la confirmarea diagnosticului de IC, atât în formele de IC cu FE
+scăzută, cât și în formele de IC cu FE păstrată. Peptidele natriuretice au
+concentrații serice crescute în ambele forme de IC, dar valorile sunt mult
+crescute în IC cu FE scăzută față de IC cu FE păstrată. La vârstnicii cu IC,
+concentrațiile serice ale BNP și NT-proBNP trebuie interpretate în funcție de
+vârsta și sexul bolnavilor, deoarece valorile peptidelor natriuretice sunt mai
+mari la vârstnici și la femei, în absența IC. Mortalitatea intraspitalicească
+este mai mare la bolnavii cu IC cu FE scăzută față de bolnavii cu IC cu FE
+păstrată. Pe termen lung, atât mortalitatea, cât și respitalizările la 60 și la
+90 de zile de la diagnostic sunt similare între cele două forme de IC. Bolnavii
+vârstnici cu IC cu FE păstrată decedează într-o proporție mai mare prin cauze
+non-cardiovasculare decât bolnavii cu IC cu FE scăzută (30). Acest fapt reflectă
+impactul negativ pe care îl au comorbiditățile asupra mortalității în IC cu FE
+păstrată. Tratamentul non-farmacologic este complex și presupune educația
+bolnavilor și a familiilor acestora despre nivelul de activitate fizică, regimul
+dietetic hiposodat, controlul greutății, depistarea decompensărilor și a
+factorilor precipitanți. Diureticele și medicația tonicardiacă sunt utile în
+ameliorarea simptomelor, fără să influențeze însă supraviețuirea bolnavilor.
+Farmacocinetica și farmacodinamica medicamentelor sunt modificate la vârstnici
+față de tineri. Administrarea medicamentelor pentru condițiile comorbide poate
+avea efecte negative asupra evoluției IC, iar polifarmacia crește riscul
+interacțiunilor medicamentoase. Asocierea de inhibitori ai enzimei de conversie
+a angiotensinei sau sartani cu spironolactonă sau cu diuretice pot determina
+creșterea retenției azotate sau hiperpotasemie. În studiul SENIORS, nebivololul,
+un betablocant selectiv cu efecte vasodilatatorii, nu a avut însă efect pozitiv
+pe end-point primar de spitalizări și mortalitate la bolnavii vârstnici cu IC.
+Se așteaptă rezultatele unui alt mare trial, TOPCAT (Aldosterone Antagonist
+Therapy for Adults With Heart Failure and Preserved Systolic Function), care
+evaluează efectele spironolactonei, antagonist de aldosteron, la aproape 3.5 de
+bolnavi cu IC și FE păstrată (35). În studiul DIG (Digitalis Intervention Group)
+a fost evaluat tratamentul cu digoxin în IC. La sfârșitul studiului nu au fost
+diferențe semnificative pe end-point prespecificate la bolnavii sub tratament
+activ față de placebo. Tratamentul digitalic este indicat la bolnavii cu IC cu
+FE păstrată și FA, în asociere cu betablocante sau blocante ale canalelor de
+calciu, pentru controlul frecvenței ventriculare. Abordarea multidisciplinară a
+bolnavilor vârstnici, care să se adreseze atât IC, cât și comorbidități asociate
+acestui sindrom este esențială. Insuficiența cardiacă (IC) reprezintă principala
+cauză de spitalizare a pacienților peste 65 de ani, iar mortalitatea
+intraspitalicească este în continuare nedorit de mare. ICA presupune cel mai
+adesea internarea de urgență a pacienților, mortalitatea intraspitalicească
+fiind raportată între 5 și 15% (1). Teoretic, congestia hemodinamică poate
+contribui la progresia IC prin activarea neuro-hormonală și prin producerea
+ischemiei subendocardice, care, la rândul său, poate antrena insuficiență
+mitrală (Im) cu efect pe geometria ventriculului stâng (VS). Atunci când
+diagnosticul este incert, determinarea nivelului plasmatic al hormonilor
+natriuretici și alte metode paraclinice pot fi utile pentru diagnosticul
+pozitiv. Persistența ortopneei la externare se asociază cu un risc înalt de
+reinternare. În tabelul 27.1 este prezentată valoarea diagnostică a markerilor
+clinici ai congestiei. Ralurile pulmonare indică un exces volemic, dar absența
+lor nu este un marker sensibil al absenței congestiei. Refluxul hepato-jugular
+poate fi folosit pentru a evidenția creșterea presiunii în sistemul venos, fiind
+credibil și sensibil totodată. Peptidele natriuretice BNP și NT-pro-BNP s-au
+dovedit utile pentru diferențierea dispneei de origine cardiacă de alte cauze de
+dispnee. Totuși, trebuie notat că, prin comparație cu dozarea hormonilor
+natriuretici, FE a VS este un element prognostic slab (3). Elementele
+ecocardiografice importante din punct de vedere diagnostic sunt acele date care
+reflectă presiunile de umplere ventriculare. Pentru VD se va folosi ca surogat
+dimensiunea venei cave și gradul său de compresie cu inspirul, iar pentru
+aprecierea presiunii de umplere a VS se va recurge la evaluarea umplerii pasive
+a VS estimată optim prin raportul E/E ’ (8). Anemia este mai frecventă la
+bolnavi cu IC cronică agravată și se mai poate datora hemodiluției sau agravării
+disfuncției renale. În ultima perioadă s-au studiat o serie de biomarkeri
+renali, care se eliberează din cauza injuriei renale ischemice. Markerii de
+injurie miocardică (troponinele cardiace I și T) au valori crescute mai ales la
+pacienții cu ICA de cauză coronariană ischemică. Utilizarea troponinei T înalt
+sensibile (hs-troponin T) a crescut sensibilitatea metodei până la 92%,
+constituind și un indicator al riscului de deces. Pentru evaluarea pacientului
+cu ICA se mai utilizează creatinkinaza MB, miozina-1 cu lanțuri ușoare.
+Adrenomedulina și precursorul său sunt sintetizate în inimă, glande suprarenale,
+plămâni și rinichi, având proprietăți vasodilatatoare, inotrope și natriuretice.
+Pentru pacienții intens dispneici, cu semne clinice de edem pulmonar acut, se
+recomandă ventilația non-invazivă cu presiune pozitivă. Conform studiilor,
+această metodă îmbunătățește rapid simptomele, scade necesitatea de intubare și
+reduce mortalitatea (11,12). Celor mai mulți pacienți li se recomandă o
+restricție de sodiu de 2 g/zi, cu rol important în recăpătarea euvolemiei. La
+bolnavii care asociază hiponatremie ușoară în contextul supraîncărcării volemice
+este recomandată și o restricție de lichide de < 2 l/zi. După această terapie
+inițială, următoarele măsuri terapeutice necesită o apreciere corectă a
+statusului hemodinamic și volemic al pacientului. Ameliorarea simptomelor de
+congestie trebuie obținută fără apariția reacțiilor adverse (cel mai adesea
+hipotensiunea arterială și deteriorarea funcției renale), ceea ce presupune
+monitorizarea atentă a dozelor și efectelor pentru a evita supradozarea. De
+menționat însă că și subdozarea este adesea întâlnită în practică medicală.
+Ultrafiltrarea rămâne a fi luată în considerare coform ghidului Societății
+Europene de Cardiologie 2012 ca o opțiune terapeutică în cazul persistenței
+semnelor clinice de congestie după tratamentul standard aplicat la pacientul cu
+debit urinar < 20 ml/oră. Stimularea receptorului V1 produce vasoconstricție,
+agregare trombocitară și are acțiune mitogenică asupra celulelor musculare
+netede din peretele vascular. La acestea se adaugă și normalizarea valorilor Na
++ la pacienții hiponatremici. Utilizarea tolvaptanului, care acționează pe
+receptorul V2 în studiul EVEREST (15), nu a arătat o scădere a ratei de
+reinternare și a mortalității. În Japonia a fost aprobată de curând utilizarea
+mozavaptanului, care este de asemenea blocant de receptori V2. Conivaptanul,
+antagonist de receptori V1 și V2 vasopresinici, este aprobat de FDA (Food and
+Drug Administration) pentru tratamentul hiponatremiei la bolnavi cu ICA, care nu
+au putut fi controlați cu medicația diuretică. Acesta are un profil asemănător
+cu tolvaptanul, dar nu ameliorează semnele și simptomele de IC. De menționat că
+tolvaptanul este aprobat atât în SUA, cât și în Europa, dar numai pentru
+tratamentul hiponatremiei. Induc diureza prin inhibarea reabsorbției sodiului și
+a apei la nivelul tubului proximal și mențin sau cresc RFG prin acțiunea asupra
+arteriolei aferente. Aceștia au avut o ameliorare a simptomatologiei, creșterea
+diurezei și menținerea RFG comparativ cu pacientii tratați cu placebo. În anul
+2010, Massie și colaboratorii săi au publicat un studiu ce a inclus aproximativ
+2 de pacienți cu ICA la care s-a administrat comparativ rolofilina 30 mg/zi sau
+placebo. În studiul HFA Hotline (2010) a fost utilizat tonapofilin (BG9928), dar
+studiul a fost întrerupt deoarece nu s-a constatat ameliorări semnificative ale
+dispneei sau reducerea greutății corporale. Nitroglicerina este cel mai cunoscut
+și cel mai utilizat vasodilatator, scăzând atât presarcina, cât și postsarcina.
+Se recomandă ca pacienții la care nu s-au înregistrat efecte favorabile
+hemodinamic la doza de 200 µg/kgc să fie considerați non-responsivi. Mecanismul
+de acțiune în ICA este oarecum neclar, deși se pare că realizează o
+venodilatație moderată, scăderea presarcinii și în plus reduce anxietatea și
+scade eliberarea de catecolamine cu efect vasoconstrictor. Cu toate acestea,
+analizele rezultate din Acute Decompensated Heart Failure National Registry
+sugerează că utilizarea morfinei la acești pacienți a fost însoțită de creșterea
+mortalității intraspitalicești. Neseritidul a fost evaluat extensiv de-a lungul
+ultimului deceniu, în special la pacienții cu ICA și disfuncție sistolică,
+administrarea sa fiind asociată cu reducerea presiunilor de umplere ventriculară
+(într-o manieră dependentă de doză), reducerea rezistențelor sistemice și
+pulmonare și creșterea debitului cardiac (17). Încă din 2001, AHA recomandă în
+ghiduri utilizarea neseritidului pentru tratamentul ICA. În studiul VMAC (18)
+s-au evaluat comparativ efectele nitroglicerinei și neseretidului versus terapia
+standard la pacienții internați pentru agravarea fenomenelor de IC. Reacțiile
+adverse ale utilizării neseritidului sunt hipotensiunea arterială (dependentă de
+doză), cefaleea și alterarea funcției renale. Ularitide/uradilatin este un
+peptid natriuretic izolat din urina umană. De asemenea, scade reabsorbția de
+sodiu și inhibă renina, aldosteronul și secreția de vasopresină. În acest studiu
+de faza IIb s-a constatat o ameliorare rapidă a dispneei, precum și o rată
+scăzută a mortalității la pacienții care au primit tratament cu relaxin
+comparativ cu placebo. Ca efect hemodinamic crește debitul cardiac și reduce
+ușor rezistența vasculară sistemică și pulmonară. În caz de ICA, istaroximul
+crește presiunea arterială sistolică și scade frecvența cardiacă. 
