@@ -23,6 +23,7 @@
 | Korean       | `ko`           |
 | Lithuanian   | `lt`           |
 | Norwegian    | `no`           |
+| Marathi      | `mr`           |
 | Persian      | `fa`           |
 | Polish       | `pl`           |
 | Portuguese   | `pt`           |
