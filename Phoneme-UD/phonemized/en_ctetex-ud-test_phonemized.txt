@@ -1,0 +1,896 @@
+ðə interoperable* ˈɪnərˌfeɪs ˈmɑdəl dɪˈfaɪnɪŋ boʊθ ðə npac* tɪ ˈloʊkəl ˌɛˌsɛˈmɛs ənd ðə
+soa* tɪ npac* ˌɛˌsɛˈmɛs ʃæl bi ˈspɛsəˌfaɪd ɪn tərmz əv iso* 10165-4* "ˈgaɪˌdlaɪn fər ðə
+ˌdɛfəˈnɪʃən əv ˈmænɪʤd ˈɑbʤɛkts (gdmo)”*)”.
+
+læg freɪmz –* ðə bi ʃæl rɪˈsiv lta* ər spid dəmp læg freɪmz frəm ðə
+correlator*. fər ə dɪˈteɪld dɪˈskrɪpʃən əv ðə tu dəmp ˈfɔrˌmæts si ˈrɛfərəns 8
+ˈpeɪʤɪz 69 tɪ 71 ðɪs wɪl moʊst ˈlaɪkli bi ɪn ðə fɔrm əv wən ər mɔr freɪmz pər
+udp/ip* ˈpækɪt
+
+ðə ˈsɪstəm ʃæl ˈstrɪktli ˈsɛpərˌeɪt ˈtrænʒənt ər ˈvɑlətəl bæʧ ˌɑpərˈeɪʃən kənˈtroʊl
+ˈrɛkərdz –* e.g*. brɪʤ ˈrɛkərdz tɪ bi ˌɪnˈkludɪd ɪn ə rɪˈpɔrt –* frəm mɔr ˈstætɪk
+kənˈtroʊl ˈrɛkərd –* e.g*. ˈkərəntli checked-out* bridges.19*
+
+ðə kəmˈplɛksɪti əv ðə tɛkst sərʧ ˈælgərˌɪðəm ʃæl nɑt ɪkˈsid o(n2* fər ɛn noʊdz.
+
+ðə ˈsɪstəm ʃæl bi kəmˈpætəbəl wɪθ ə ˈsɛntrəˌlaɪzd hvac* (ˈhitɪŋ, ˌvɛntɪˈleɪʃən ənd
+ɛr kənˈdɪʃənɪŋ) ˈsɪstəmz: gæs, ɔɪl, ɪˌlɛkˈtrɪsəti, ˈsoʊlər, ər ə ˌkɑmbəˈneɪʃən əv tu
+ər mɔr. ðə ˈsɪstəm ʃæl əˈdhɪr tɪ ðə ˈstændərdz, ˈpɑləsiz ənd prəˈsiʤərz əv
+ðə əˈmɛrɪkən soʊˈsaɪɪti əv ˈhitɪŋ, refrigerating* ənd ˈɛrkənˌdɪʃənɪŋ ˈɛnʤəˈnɪrz
+[ashrae* 2010
+
+npac* ˌɛˌsɛˈmɛs ʃæl əˈlaʊ npac* ˌpərsəˈnɛl tɪ vju ˈsərvɪs prəˈvaɪdər ˈdætə.
+
+ðə tcs* ʃæl, ɛz ə ˈmɪnəməm, hæv ðə ˌfəŋkʃəˈnælɪti tɪ prəˈvaɪd ðə ˈfɑloʊɪŋ
+kənˈtroʊl ˌkeɪpəˈbɪlətiz: 1 sɛnd ənd rɪˈsiv ˈtæktɪkəl kəmˌjunəˈkeɪʃən ˈmɛsɪʤɪz.
+[sss222* 2 sɛnd ənd rɪˈsiv ˌænəˈteɪtɪd ənd un-annotated* ˈdɪʤɪtəl ˈɪmɪʤri.
+[sss223* 3 ɪˈstæblɪʃ ˈdɪʤɪtəl kəmˌjunəˈkeɪʃən ənd wɪn kəmˈplitɪd ˈtərməˌneɪt
+kəmˌjunəˈkeɪʃənz tɪ ðə c4i* ˈsɪstəmz ˈspɛsəˌfaɪd ɪn ˈsɛkʃən 3.2.5* [sss224* 4
+ɪˈstæblɪʃ ənd wɪn kəmˈplitɪd ˈtərməˌneɪt ˈdɪʤɪtəl kəmˌjunəˈkeɪʃən tɪ pərˈɪfərəl
+dɪˈvaɪsɪz. [sss225*
+
+ən faq* ˈsɛkʃən –* ə sɛt əv ““frequently* æst questions”*” əˈbaʊt juz ənd ˈmeɪntənəns
+əv ðə digitalhome* ˈsɪstəm (e.g*., ““how* du aɪ ʧeɪnʤ maɪ password?”*?”, ““where* tɪ aɪ goʊ
+tɪ gɪt digitalhome* support?”*?”).
+
+ˈsɪstəmz səˈpɔrtɪŋ om* məst bi ˈeɪbəl tɪ kriˈeɪt ənd sɛnd ˈmɛsɪʤɪz fər ˈlæbrəˌtɔri
+tɛst rɪkˈwɛsts. ðɪs rɪkˈwaɪrmənt ɪz aɪˈdɛntəˌfaɪd ɛz ə ki pərˈfɔrməns ˈmɛʒər fər
+əˈsɛsɪŋ priˈpɛrədnəs ɛz dɪˈskraɪbd ɪn phin* priˈpɛrədnəs ki pərˈfɔrməns
+ˈmɛʒərz, əˈveɪləbəl æt www.cdc.gov/phin*.
+
+əˈpɑn ˌæktəˈveɪʃən əv ðə ˌrɛʤɪˈstreɪʃən ˈfəŋkʃən, ə ussd* ˈmɛsɪʤ (si ˈsɛkʃən 11
+ʃæl bi sɛnt baɪ ðə kæb ˈreɪdiˌoʊ. (ɛm)
+
+wɪn dɪˈspleɪɪŋ ðə vil* prɪˌsɪpɪˈteɪʃən moʊˈzeɪɪk ˈdætə ər ciws* ˈɛkoʊ tɑps moʊˈzeɪɪk ˈdætə
+ɪn ən ˈænəˌmeɪtɪd lup, ðə ˈsɪstəm ʃæl dɪˈspleɪ ðə ˈfɑloʊɪŋ: ə. ˈæbsəˌlut taɪm əv
+ðə deɪ əˈsoʊʃiˌeɪtəd wɪθ ðə ˈɪmɪʤ biɪŋ dɪˈspleɪd bi. ˈrɛlətɪv taɪm  mɪn) əv
+ðə ˈɪmɪʤ biɪŋ dɪˈspleɪd wɪθ rɪˈspɛkt tɪ ðə ˈkɑrənt taɪm.
+
+ðə ˈprɛzəns tɛst ʃæl [srs184* ˈɔlsoʊ ˌæsərˈteɪn ðət ɔl ˈprɑˌsɛsərz ər
+ˈɛksəˌkjutɪŋ ðə seɪm 50 hz*, 10 hz* ənd 1 hz* freɪmz.
+
+npac* ˌɛˌsɛˈmɛs ʃæl əkˈsɛpt ðə ˈfɑloʊɪŋ ˈɔpʃənəl fildz frəm ðə nu ˈsərvɪs
+prəˈvaɪdər ər npac* ˌpərsəˈnɛl fər ən ˈæktɪv səbˈskrɪpʃən ˈvərʒən tɪ bi ˈmɑdəˌfaɪd: •*
+ˈbɪlɪŋ ˈsərvɪs prəˈvaɪdər ˈaɪˈdi •* end-user* loʊˈkeɪʃən  ˈvælju •* end-user* loʊˈkeɪʃən 
+taɪp
+
+fər ˈəðər ˈsɔfˌwɛr ɪkˈsɛpʃənz, rəˈgɑrdləs əv ˈwɛðər ər nɑt ə ˈjuzər ˈrɪtən
+ɪkˈsɛpʃən ˈhændəlɪŋ ruˈtin ɪz ˌɪnˈvoʊkt, ɪf ən ɪkˈsɛpʃən əˈkərz, ðə ˈskɛʤʊlər
+ʃæl [srs173* ˈæftər ˈmeɪkɪŋ əˈveɪləbəl ðə ˈɛrər taɪp ənd ˈkɑntɛkst ˈdætə tɪ ðə
+ˌæpləˈkeɪʃən, ˈrɛzəˌmeɪ ˈprɑsɛsɪŋ (ˈæftər ðə exception-handling* ruˈtin rənz, ɪf
+prəˈvaɪdɪd) æt ðə initialization* pɔɪnt əv ðə əˈfɛndɪŋ tæsk.
+
+ɛz pɑrt əv ˈsɪstəm initialization*  ðə but rɑm ʃæl [srs234* bi kənˈfɪgjərd tɪ,
+ˈæftər kəmˈplitɪŋ ibit*, kɔl ðə manufacturer-supplied* vxworks* bɔrd səˈpɔrt
+ˈpækɪʤ (bsp*) initialization* ˈsɔfˌwɛr ˈfɑloʊd baɪ ə kɔl tɪ ðə ftss* ˈsɪstəm
+initialization* ˈsɔfˌwɛr.
+
+ðə ˈɪnəˌgreɪtɪd ˈɛrˌkræft ˈsɪstəm ʃæl mit ɔl ðə rɪkˈwaɪrmənts əv ðɪs srd* ənd
+əˈpɛndɪks ə. ðə ˌɪnəˈgreɪʃən əv ðə ɛnˈhænst alq-172* ənd lbj* wɪθ ðə ac-130u* ənd
+mc-130h* ˈɛrˌkræft ʃæl nɑt ˈkɑmprəˌmaɪz ðɛr əˈbɪləˌti tɪ ˈseɪfli əˈkɑmplɪʃ ɔl
+ˌɪnˈtɛndɪd ˌɑpərˈeɪʃənəl ˈmɪʃənz dɪˈfaɪnd ɪn ðɛr rɪˈspɛktɪv ˈsɪstəm ˌspɛsəfəˈkeɪʃənz.
+ðə tərmz "ˈmɪnəˌmaɪz ˈʧeɪnʤɪz" ənd "nɑt sɪgˈnɪfɪkəntli dɪˈgreɪd" ər juzd ɪn ðɪs
+ˈkɑntɛkst θruaʊt ðɪs srd*.
+
+ɔl ɪkˈwɪpmənt ʃæl nɑt dɪˈgreɪd photochemically* wɪn ɪkˈspoʊzd tɪ ˈsoʊlər ˌreɪdiˈeɪʃən
+əv əp tɪ 1200 w/m2* (ɛm)
+
+ðə ˈfɑloʊɪŋ treɪn ˈdætə ʃæl bi sɛnt frəm ðə ɔn bɔrd tɪ ðə trackside*: (ɛm)
+treɪn ˈrənɪŋ ˈnəmbər stm* ˈrɛdi fər juz treɪn geɪʤ mæks. ˈæksəl loʊd ˈstætəs əv ɛr
+taɪt ˈsɪstəm taɪp əv ɛl. paʊər ækˈsɛptɪd ˌɪnərˈnæʃənɑl treɪn ˈkætəˌgɔri mæks. treɪn
+spid treɪn lɛŋθ.
+
+ðə tcs* ʃæl əˈlaʊ ðə ˈɑpərˌeɪtər tɪ sɛt ðə lɔl dɪˈleɪ timer(s*) ˈdʊrɪŋ ˈmɪʃən
+ˈplænɪŋ. [sss075* ðə lɔl dɪˈleɪ ɪz ðə taɪm frəm wɪn ðə ˌeɪˈvi dɪˈtɛkts ən
+ənˈplænd lɔl tɪ ðə taɪm ɪt ˌɪˈnɪʃiəts lɔl prəˈsiʤərz.
+
+wɪn ðə treɪn ɪz ˈsteɪʃəˌnɛri ər ˈæftər ə ˈsərtən taɪm (e.g*. ðə taɪm fər "rut
+riˈlisɪŋ" əv ðə ˈoʊvərˌlæp, ðə riˈlis spid ˌkælkjəˈleɪʃən ʃæl bi beɪst ɔn ðə
+ˈdɪstəns tɪ ðə ˈdeɪnʤər pɔɪnt (ɪf ˈkælkjəˌleɪtɪd on-board*). ðə kənˈdɪʃən fər ðɪs
+ʧeɪnʤ ʃæl bi dɪˈfaɪnd fər iʧ ˈtərgət ɛz ˌɪnfrəˈstrəkʧər ˈdætə. (ɛm)
+
+ˈjuzərz wɪl bi ˈeɪbəl tɪ pɪk əp ə taɪl frəm ðə wɔl ɪf ɪt ɪz ðɛr tərn. ɪf ðeɪ
+ʧuz tɪ pɪk əp, ðə multimahjongclient* məst sɛnd ðɪs ˌɪnˌfɔrˈmeɪʃən tɪ ðə
+multimahjongserver*.
+
+ðə kæb ˈreɪdiˌoʊ ʃæl prəˈvaɪd ə minz fər ðə ˈdraɪvər tɪ ˈtərməˌneɪt kɔlz wɪʧ hi
+ɪz authorised* tɪ ˈtərməˌneɪt (ie* ɔl kɔlz ɪkˈsɛpt ˈreɪlˌweɪ ˈimərʤənsi kɔlz nɑt
+ˌɪˈnɪʃiˌeɪtɪd baɪ ðə ˈdraɪvər ənd ˈʃəntɪŋ grup kɔlz). (ɛm)
+
+ɔl ˈjuzərz əv ðə ˈsɪstəm ʃæl login* ˈjuzɪŋ səm fɔrm əv juˈnik aɪˌdɛntəfəˈkeɪʃən.
+(e.g*., username* ənd ˈpæsˌwərd)
+
+ɪf ðə fcp* ɪz kənˈfɪgjərd ɛz ə trɪˈplɛks, ənd ɪf ðə nefu* ɪz nɑt stɪl ˈæktɪv 3
+nɛs ˈæktɪv ˈtoʊtəl), ənd əˈnəðər ˈfeɪljər ɪn ðə fcp* fcr* ɪz ˌdaɪəgˈnoʊst, rɪˈdəndənsi
+ˈmænɪʤmənt ʃæl [srs284* mæsk aʊt ðə ˈprɑˌsɛsərz ɔn ðə feɪld fcr*. ðə ni wɪl
+rɪˈmeɪn ɪn ðə kɔrt ənd noʊ rɪˈkəvəri wɪl teɪk pleɪs. noʊt ðət ə feɪld fcr* kʊd
+bi ˌdaɪəgˈnoʊst ˈjuzɪŋ ˈɛni ˈmɛθəd, ˌɪnˈkludɪŋ (bət nɑt ˈlɪmɪtɪd tɪ) kənˈtɪnjuəs bɪt,
+icp* ˈprɛzəns tɛst, ər ni ˈsɪnˌdroʊm æˈnælɪsɪs.
+
+hæv mæp bi ˈeɪbəl tɪ ʃoʊ kˈwɑntəti əv pumpage*. ˈhəvər ˈoʊvər ər klɪk ə pɔɪnt ɪn ðə
+mæp ənd si ðə ˈævərɪʤ ˈroʊlɪŋ 12 pik mənθ, ənd mæks mənθ kəmˈpɛrd tɪ ðə
+pumpage* əv ðə wɛl. ˈɔlsoʊ gɪt ðə ˈkjumjələtɪv kˈwɑntətiz fər ən ˈɛriə ju ˈɛnər
+ˈmænjuəli.
+
+fər rɪˈkəvəri frəm æbˈnɔrməl tərməˈneɪʃən, tcs* ʃæl prɑmpt ðə ˈɑpərˌeɪtər tɪ səˈlɛkt
+ðə taɪp əv rɪˈkəvəri tɪ bi ˈɛksəˌkjutɪd: 1)resume* ɪn ðə seɪm moʊdz ənd ˈdætə;
+2)resume* ɪn ðə seɪm moʊdz bət ˌrivˈju ənd ˈmɑdəˌfaɪ ðə kəˈmænd ˈdætə ɛz ˈnɛsəˌsɛri;
+ər, 3 pərˈfɔrm ə kəˈmænd ˈʃətˌdaʊn ənd ˈstɑrˌtəp ˈviə ðə ˈnɔrməl ˈstɑrˌtəp moʊd.
+[sss031*
+
+npac* ˌɛˌsɛˈmɛs ʃæl ˌrikˈwaɪər wən əv ðə ˈfɑloʊɪŋ ˈdætə ˈaɪtəmz tɪ aɪˈdɛntəˌfaɪ ðə ˈsərvɪs
+prəˈvaɪdər ˈdætə tɪ bi ˈmɑdəˌfaɪd: ˈsərvɪs prəˈvaɪdər ˈaɪˈdi ər ˈsərvɪs prəˈvaɪdər neɪm ðə
+ˈsərvɪs prəˈvaɪdər ˈaɪˈdi ɪz rikˈwaɪərd ˈoʊvər ðə soa* tɪ npac* ˌɛˌsɛˈmɛs ˈɪnərˌfeɪs ənd ðə npac*
+ˌɛˌsɛˈmɛs tɪ ˈloʊkəl ˌɛˌsɛˈmɛs ˈɪnərˌfeɪs.
+
+ðə ˈjuzər ʃæl bi ˈeɪbəl tɪ haɪd ə sɛt əv səˈlɛktɪd dɪˈspleɪd noʊdz. ðə hats-gui*
+ʃæl ʧeɪnʤ ðə dɪˈspleɪ baɪ riˈmuvɪŋ ðə səˈlɛktɪd noʊdz frəm ðə dɪˈspleɪ ənd
+ˈʧeɪnʤɪŋ ðə ˈpɛrənt ənd dɪˈsɛndənt noʊdz əv ðə riˈmuvd noʊdz tɪ noʊdz wɪθ
+ˈhɪdən dɪˈsɛnɪnts ənd ˈpɛrənts, rɪˈspɛktɪvli.
+
+iʧ lɪŋk dɪˈspleɪd ɔn ðə mæp ʃæl bi ˈkələr ˈkoʊdɪd tɪ prəˈvaɪd ə ˈgræfɪkəl
+dɪˈpɪkʃən əv spidz. ə kənˌfɪgjərˈeɪʃən faɪl ʃæl bi prəˈvaɪdɪd tɪ ˈspɛsəˌfaɪ spɪˈsɪfɪk
+spid ˈvæljuz. ðə ˈkələr ˈkoʊdɪŋ ʃæl bi ɛz ˈfɑloʊz: ·* grin  spidz  tbd* ˈɛmˈpiˈeɪʧ ·*
+ˈjɛloʊ  spidz bɪtˈwin tbd* ənd tbd* ˈɛmˈpiˈeɪʧ ·* rɛd –* spidz bɪˈloʊ tbd* ˈɛmˈpiˈeɪʧ
+
+ðə ˈstɑrˌtəp steɪt ʃæl bi kəmˈpraɪzd əv ðə ˈfɑloʊɪŋ moʊdz: ˈnɔrməl ˈstɑrˌtəp moʊd
+ənd rɪˈkəvəri ˈstɑrˌtəp moʊd. [sss017*
+
+ðə hats-gui* ʃæl əˈlaʊ ðə ˈjuzər tɪ səˈlɛkt ðə ˈkələrz fər taɪps əv dɪˈspleɪd
+noʊdz ɪn ə dɪˈspleɪd græf. æt ə ˈmɪnəməm, ðə ˈsɪstəm ʃæl prəˈvaɪd eɪt ˈkələrz
+(rɛd, ˈjɛloʊ, waɪt, blæk, grin, blu, ˈɔrɪnʤ, ənd ˈvaɪəlɪt) fər dɪˈspleɪd
+noʊdz.
+
+wɪn ðə ˈjuzər səˈlɛkts ““submit”*” ɔn ðə ““create* flaɪt plan”*” skrin, ðə fpms*
+ʃæl du ðə ˈfɑloʊɪŋ: ə. ʧɛk ðət ɔl ˈɛntriz ər ˈvælɪd əˈkɔrdɪŋ tɪ ˈɛni
+kənˈstreɪnts ˈgɪvɪn ɪn ˈteɪbəl 2 bi. seɪv ðə flaɪt plæn ɪn ðə ˈnɑlɪʤ beɪs, ənd
+si. səbˈmɪt ðə flaɪt plæn faɪl tɪ ðə tgf* fər əˈpruvəl.
+
+20 əv ɔl ˈdaʊnˌloʊdz ɛz ˈspɛsəˌfaɪd ɪn r6-28.1* r6-28.2* r6-29.1* ənd r6-29.2* wɪl
+bi ˈprɑsɛst ˈviə reɪnʤ activations*.
+
+wɪn ðə themas* ˈsɪstəm ɪz ˌɪˈnɪʃəˌlaɪzd, ɪt ʃæl fərst tərn ɔf ɔl ðə ˈhitɪŋ
+ənd ˈkulɪŋ ˈjunɪts. ðɛn  ɪt ʃæl ʧɛk ɔl ðə ˈθərməˌstæts ənd dɪˈtərmən ɪf
+ˈɛni thermostat’s* ˈsɛtɪŋz ˌrikˈwaɪər ə ˈhitɪŋ ər ˈkulɪŋ ˈjunɪt tɪ bi tərnd ɔn bæk
+ɔn.
+
+ðə ˈɪnəˌgreɪtɪd ˈɛrˌkræft ˈsɪstəm, ɪkˈskludɪŋ ðə grup bi, ʃæl hæv ə ˈsərvɪs laɪf
+əv 30,000* aʊərz ˈjuzɪŋ ðə ac-130u* ənd mc-130h* ˈsɪstəm ˌspɛsɪfɪˈkeɪʃən dɪˈfaɪnd
+ˈmɪʃən ˈproʊˌfaɪlz. nu, ˈmɑdəˌfaɪd, ənd əˈfɛktɪd ˈstrəkʧər ʃæl bi dɪˈzaɪnd tɪ
+əˈʧiv ðə dɪˈzaɪərd ˈsərvɪs laɪf. ˌɪnstəˈleɪʃən əv ðə ɛnˈhænst alq-172* ənd lbj*
+ʃæl nɑt ˈʃɔrtən ðə ˈsərvɪs lɪvz əv ðə ac-130u* ənd mc-130h* ˈɛrˌkræft.
+
+ðə themas* ˈsɪstəm ʃæl ɪnˈʃʊr ðə ˈtɛmpərəʧər ˌriˈpɔrtəd baɪ ə ˈgɪvɪn ˈθərməˌstæt
+ʃæl nɑt ɪkˈsid ə ˈmæksəməm ˌdiviˈeɪʃən ˈvælju əv 3 dɪˈgriz ˈfɛrənˌhaɪt.
+
+wɪn ðə ˈjuzər səˈlɛkts ““custom* route,”*,” ðə fpms* ʃæl dɪˈspleɪ ðə ““custom* route”*”
+skrin, ɛz ʃoʊn ɪn fɪg. 4 wɪθ ðə ˈfɑloʊɪŋ fildz ˈpɑpjəˌleɪtəd frəm ðə flaɪt
+plæn ˈdætə ˈɛntriz: ə) dɪˈpɑrʧər taɪm bi) spid si) dɪˈpɑrʧər pɔɪnt ˈsɪti, ˈlætəˌtud,
+ənd ˈlɑnʤəˌtud di) dɪˈpɑrʧər pɔɪnt tru kɔrs ənd ˈdɪstəns ər blæŋk i)
+ˌdɛstɪˈneɪʃən ˈsɪti, ˈlætəˌtud ənd ˈlɑnʤəˌtud
+
+ˈsɪstəm initialization* ʃæl [srs215* kɔl ən ˌæpləˈkeɪʃən initialization* ˈfəŋkʃən
+tɪ əˈlaʊ ðə ˌæpləˈkeɪʃən tɪ (æt list) kriˈeɪt tæsks, kriˈeɪt kəmˌjunəˈkeɪʃən
+ˈsɑkəts, ˌɪˈnɪʃəˌlaɪz ðə ˈviɪkəl moʊd, ənd ˌɪˈnɪʃəˌlaɪz ˈmɛməri əˈlaɪnmənt əˈlaʊəns.
+
+ðə tcs* flaɪt rut ˈplænər ʃæl ˌɪnˈklud, ɛz ə ˈmɪnəməm, ðə ˈfɑloʊɪŋ flaɪt
+ˈplænɪŋ tulz: 1 weɪt ənd ˈbæləns teɪk ɔf ˈdætə ˌkælkjəˈleɪʃənz. [sss083* 2
+fjuəl ˌkælkjəˈleɪʃənz. [sss084* 3 təreɪn əˈvɔɪdəns ˈwɔrnɪŋ fər laɪn əv saɪt
+flaɪts. [sss085* 4 ˈmɪnəməm ˈdætə lɪŋk rɪˈsɛpʃən ˈæltəˌtud ˌkælkjəˈleɪʃənz fər laɪn
+əv saɪt flaɪts. [sss554* 5 ˈpeɪˌloʊd sərʧ ˈɛriə ˌɪnˌfɔrˈmeɪʃən səʧ ɛz: ˈvɪʒəwəl
+əˈkjuəti reɪnʤ du tɪ ˌætməsˈfɛrɪk kənˈdɪʃənz, daɪəˈrnəl trænˈzɪʃən ˈpɪriədz fər
+ˈθərməl ˈɪmɪʤri, ənd ˈlunər ənd ˈsoʊlər təreɪn ˈʃædoʊɪŋ. [sss086* 6 əˈbɪləˌti tɪ
+ˈdɛzɪgˌneɪt flaɪt ˈkɔrɪdərz ənd riˈstrɪktɪd ɛr speɪs. [sss087*
+
+ðə ““create* flaɪt plan”*” skrin ʃæl dɪˈspleɪ ðə ˈleɪbəlz ənd gui* ˈɛləmənts ɛz
+dɪˈskraɪbd ɪn ˈteɪbəl 2
+
+wɪn ðə ˈsɪstəm ˈriʤɛkts wən ər mɔr tos* ˈɔpʃənz ɪn ðə tos* ˈmɛsɪʤ, ðə ˈsɪstəm
+ʃæl sɛnd ə tos* ˈɛrər ˈmɛsɪʤ tɪ ðə ərˈɪʤəˌneɪtər əv ðə tos* ˈmɛsɪʤ aɪˈdɛntəˌfaɪɪŋ
+ðə reason(s*) fər error(s*).
+
+ðə juˈtɪləti ˈtaɪmər ʃæl [srs256* hæv ə ˌrɛzəˈluʃən ˈikwəl tɪ ər ˈbɛtər ðən 60.6*
+ˈnænoʊˌsɛkəndz.
+
+iʧ waypoint* ʃæl bi aɪˈdɛntəˌfaɪd wɪθ ə juˈnik neɪm kənˈsɪstɪŋ əv faɪv ˈlɛtərz
+bɪˈgɪnɪŋ wɪθ ðə ˈkɛrɪktərz ““vp.”*.”
+
+kənˈtɪnjuəs bɪt ʃæl [srs097* dɪˈtɛkt ə feɪld icp* ˈprɑˌsɛsər baɪ dɪˈtɛktɪŋ ðə
+ˈæbsəns əv ə ˌpɪriˈɑdɪk ˈmɛsɪʤ fər 2 kənˈsɛkjətɪv ˈmaɪnər ˈsaɪkəlz.
+
+iʧ ˈæktɪv dɪˈspleɪ ˈwɪndoʊ ʃæl hæv ə maʊs ˈkərsər, wɪʧ ˈɪndɪˌkeɪts ðə
+loʊˈkeɪʃən əv ðə ˈpɔɪntɪŋ dɪˈvaɪs ɪn ðə ˈwɪndoʊ.
+
+npac* ˌɛˌsɛˈmɛs ʃæl ˌrikˈwaɪər wən əv ðə ˈfɑloʊɪŋ ˈnɛtˌwərk ˈdætə ˈdaʊnˌloʊd ˈʧɔɪsɪz: •*
+npa-nxx-data* (wɪθ wən əv ðə tu səˈlɛkʃənz bɪˈloʊ)  npa-nxx-range*  ɔl •* lrn*
+ˈdætə (wɪθ wən əv ðə tu səˈlɛkʃənz bɪˈloʊ)  lrn-range*  ɔl •* ɔl ˈnɛtˌwərk ˈdætə
+•* npa-nxx-x-data* (wɪθ wən əv ðə tu səˈlɛkʃənz bɪˈloʊ)  npa-nxx-x-range*  ɔl
+
+kənˈtɪnjuəs bɪt ʃæl [srs094* ˈrisɛt ðə processor’s* ˈbɪlˌtɪn ˈwɑʧˌdɔg ˈtaɪmər æt
+50 hz*. ə ˈfeɪljər tɪ ˈrisɛt ðə ˈwɑʧˌdɔg ˈtaɪmər wɪˈθɪn ðə əˈlɑtɪd taɪm (ˈnɑmənəli
+1.6* ˈsɛkəndz) wɪl ˈʤɛnərˌeɪt ə ˈprɑˌsɛsər ˈrisɛt.
+
+ɔl eirene* ˈmoʊbəl ɪkˈwɪpmənt ʃæl kənˈfɔrm tɪ [ɛn 60950 (ˈseɪfti əv ˌɪnˌfɔrˈmeɪʃən
+tɛkˈnɑləʤi ɪkˈwɪpmənt), ˌɪnˈkludɪŋ ɪˈlɛktrɪkəl ˈbɪznɪs ɪkˈwɪpmənt, 1993 pləs
+əˈmɛndmənts a1* ənd a2* (ɛm)
+
+ˈmɑʤul ˈfiʧərz –* ðə cmib* ʃæl kənˈteɪn 64 mbytes* ər ˈgreɪtər əv sdram*, aɪd hɑrd
+dɪsk ˈɪnərˌfeɪs, ˈmɪnəməm əv wən ˈsɪˌriəl ənd wən ˈpɛrəˌlɛl ˈɪnərˌfeɪs, pci/isa* ˈbəsɪz,
+100baset* ˈnɛtˌwərk ˈɪnərˌfeɪs, kəˈpæsɪti tɪ but ənd rən ə ʤəˈnɛrɪk kɑts ˈɔpərˌeɪtɪŋ
+ˈsɪstəm ɪn ə nɪr ˈrilˌtaɪm ɪnˈvaɪrənmənt frəm ˈloʊkəl nɑnˈvɑlətəl ˈstɔrɪʤ.
+
+ðɛr ʃæl bi ɪgˈzæktli wən faɪl dɪˈskraɪbɪŋ ðə ˈlɛksɪkəl ˌspɛsɪfɪˈkeɪʃən əv ˈɪnˌpʊts
+əˈsoʊʃiˌeɪtəd wɪθ ən ˌæpləˈkeɪʃən. ɪt ʃæl hæv ðə faɪl ɪkˈstɛnʃən .spɛk.
+
+ɪf ə ˈfeɪljər ɪn ən fcr* ˈəðər ðən ðə nefu* ɪz ˌdaɪəgˈnoʊst wɪn ðə fcp* ɪz
+kənˈfɪgjərd ɛz ə dɪˈgreɪdɪd trɪˈplɛks, noʊ ˈækʃən ʃæl [srs254* bi ˈteɪkən. noʊt ðət ə
+feɪld fcr* kʊd bi ˌdaɪəgˈnoʊst ˈjuzɪŋ ˈɛni ˈmɛθəd, ˌɪnˈkludɪŋ (bət nɑt ˈlɪmɪtɪd tɪ)
+kənˈtɪnjuəs bɪt, icp* ˈprɛzəns tɛst, ər ni ˈsɪnˌdroʊm æˈnælɪsɪs.
+
+ɪf ðə ˈjuzər səˈlɛkts ðə ““create* flaɪt plan”*” ˈbətən, ðə ˈsɪstəm ʃæl dɪˈspleɪ
+ðə ““create* flaɪt plan”*” skrin wɪθ ə fɔrm fər ˈdætə ˈɛntri ɛz ˈnoʊtɪd ɪn ˈteɪbəl 2
+
+ˈhænˈdhɛld ˈmoʊbəl ɪkˈwɪpmənt ʃæl bi ˈkeɪpəbəl əv wɪθˈstændɪŋ ðə ˈfɑloʊɪŋ ˈlɛvəlz
+əv kənˈtɪnjuəs ˈsaɪnəˌsɔɪdəl vaɪˈbreɪʃən: (ɛm)  ˈfrikwənsi reɪnʤ: 5-200* hz*; 
+peak-to-peak* ˈæmpləˌtud: 7.5* mm*;  pik ˌækˌsɛlərˈeɪʃən: 1.5g*.
+
+fər ðə nefu*, ɪf ˈɛrərz ər aɪˈdɛntəˌfaɪd ˈæftər ðə ˈprɑˌsɛsər həz bɪn mæskt aʊt,
+ənd ɪf æt list 4 nɛs ər stɪl ˈæktɪv, ðə ni ʃæl [srs283* bi riˈmuvd frəm
+ðə kənˌfɪgjərˈeɪʃən ənd rɪˈkəvəri wɪl bi əˈtɛmptəd. noʊt ðət ðə nefu* rɪˈkəvəri
+dɪz nɑt dɪˈpɛnd ɔn ˈwɛðər əˈlaɪnmənt ɪz pərˈmɪtɪd.
+
+npac* ˌɛˌsɛˈmɛs ʃæl əˈlaʊ ðə ˈfɑloʊɪŋ ˈdætə tɪ bi ˈmɑdəˌfaɪd ɪn ə ˈpɛndɪŋ, ər ˈkɑnflɪkt
+səbˈskrɪpʃən ˈvərʒən fər ə ““porting* tɪ original”*” pɔrt baɪ ðə nu ˈsərvɪs
+prəˈvaɪdər ər npac* ˌpərsəˈnɛl: •* du deɪt  nu ˈsərvɪs prəˈvaɪdər deɪt ɔn wɪʧ
+““port* tɪ original”*” ɪz plænd tɪ əˈkər.
+
+ˈhɑrdˌwɛr ˈvɪʒəwəl hɛlθ ˈmɑnətərɪŋ –* ðə ˈkɛriər bɔrd fər ðə cmib* ʃæl hæv ən
+ɪkˈstərnəli ˈvɪzəbəl ˈɪndəˌkeɪtər (lɛd ər ˈəðər) ðət wɪl prəˈvaɪd ə ˈjuzər wɪθ ə
+ˈfɪzɪkəl ˌɪndəˈkeɪʃən əv cmib* ˌɑpərˈeɪʃənəl ˈstætəs (rɛd  fɔlt, grin  ˈoʊˈkeɪ).
+
+auto-correction* –* ðə cmcs* ʃæl bi self-monitoring*. ɪt wɪl bi ˈkeɪpəbəl əv
+dɪˈtɛktɪŋ, rɪˈpɔrtɪŋ ɔn ənd ˌɔtəˈmætɪkli ˈteɪkɪŋ ˈækʃən tɪ ˈrɛmədi ər ˈlɛsən ðə
+ˌɪmˈpækt əv, æt ə ˈmɪnəməm, ðə ˈfɑloʊɪŋ taɪps əv æbˈnɔrməl kənˈdɪʃənz: ˈprɑˌsɛsər
+ˈhɑrdˌwɛr ˈfeɪljər, ˈɔpərˌeɪtɪŋ ˈsɪstəm hæŋz ər ˈkræʃɪz, ˈtɛmpərəʧər ər ˈvoʊltɪʤ
+diviˈeɪʃənz, ˌkɑmpjuˈteɪʃənəl pərˈfɔrməns bɪˈloʊ ˈmɪnəməm ˌspɛsəfəˈkeɪʃənz,
+ˌkɑmpjuˈteɪʃənəl ˈɛrər reɪts əˈbəv ˈmæksəməm ˌspɛsɪfɪˈkeɪʃən, ˌɪnˈtərnəl kəmˌjunəˈkeɪʃənz
+ˈfeɪljərz, ənd ɪkˈstərnəl (wɪθ ðə evla* m&c*) kəmˌjunəˈkeɪʃənz dɪsˈrəpʃənz.
+
+kəmˌjunəˈkeɪʃən ˈsərvɪsɪz ʃæl [srs064* prəˈvaɪd ðə ˈfɑloʊɪŋ ˈɛrər ˈhændəlɪŋ
+ˌɪnˌfɔrˈmeɪʃən ɛz ˈfidˌbæk tɪ ðə "ˈmɛsɪʤ kju" api* kɔlz: ə) ˌnoʊtəfəˈkeɪʃən əv
+ˌɪnˈvæləd ər aʊt əv reɪnʤ ˌæpləˈkeɪʃən ˈspɛsəˌfaɪd pərˈæmətərz ɔn ɔl ˌɑpərˈeɪʃənz, bi)
+ˌnoʊtəfəˈkeɪʃən əv ən əˈtɛmpt tɪ kriˈeɪt ə ˈbrɔdˌkæst ˈmɛsɪʤ kju, si) ˈmɛsɪʤ kju
+"ˈoʊpən" əv ɛnd pɔɪnt  sender/receiver*  baɪ non-assigned* ˈvərʧuəl grup, di)
+ˈmɛsɪʤ kju ɪz fʊl wɪn pərˈfɔrmɪŋ ə sɛnd ˌɑpərˈeɪʃən, i)
+connection/transmission* ˈɛrər, ɛf) ftss* əˈneɪbəl tɪ create/open* ˈmɛsɪʤ kju, ənd
+ʤi) ˌnoʊtəfəˈkeɪʃən ðət ə rɪˈsivd ˈmɛsɪʤ wɑz ˈtrəŋˌkeɪtɪd tɪ ðə ˈbəfər saɪz
+prəˈvaɪdɪd.
+
+ðə ““route* details”*” skrin ʃæl dɪˈspleɪ ðə rʊts ˈkɑntɛnt ɛz ʃoʊn ɪn fɪg. 3
+
+fər mpcc/ftss* ˈɪnərˌfeɪsɪz si ðə radstone* mpcc01* firmware* ˈmænjuəl, pəb
+#yd681mpcc1* ənd radstone* mpcc01* ˈhɑrdˌwɛr ˈmænjuəl, pəb #hh681mpcc1* ðə təˈlɛmətri
+ˈsɪˌriəl laɪn ɔn ðə mpcc* kɑrdz wɪl bi kənˈfɪgjərd ɛz ˈfɑloʊz: •* moʊd: 0x1103* oʊ
+sldc* moʊd oʊ ˈbəfərd ˈtrænsfər oʊ ˈsɪŋgəl freɪm ˈtrænsfər oʊ rɪˈpɔrt ə breɪk
+ˈkɛrɪktər, bət du nɑt kloʊz ðə rx* ˈʧænəl oʊ ˈnɔrməl ˌɑpərˈeɪʃən  noʊt: crc* ɪz
+ˈɔlˌweɪz ˈʤɛnərˌeɪtɪd ɪn sdlc* moʊd •* bɔd spid: 2,097,152* bps* •* ˈbəfər saɪz: 13,000*
+baɪts •* noʊ ˈpɛrəti, 1 stɑp bɪt, 8 bɪt chars*: 0x80* ðə kəˈmænd ˈsɪˌriəl laɪn ɔn ðə
+mpcc* kɑrdz wɪl bi kənˈfɪgjərd ɛz ˈfɑloʊz: •* moʊd: 0x1103* oʊ sldc* moʊd oʊ ˈbəfərd
+ˈtrænsfər oʊ ˈsɪŋgəl freɪm ˈtrænsfər oʊ rɪˈpɔrt ə breɪk ˈkɛrɪktər, bət du nɑt kloʊz
+ðə rx* ˈʧænəl oʊ ˈnɔrməl ˌɑpərˈeɪʃən  noʊt: crc* ɪz ˈɔlˌweɪz ˈʤɛnərˌeɪtɪd ɪn sdlc* moʊd •*
+ˈbəfər saɪz: 332 baɪts •* bɔd spid: 1,048,576* bps* •* noʊ ˈpɛrəti, 1 stɑp bɪt, 8
+bɪt chars*: 0x80*
+
+npac* ˌɛˌsɛˈmɛs ʃæl, əˈpɑn ˈbrɔdˌkæstɪŋ ðə dɪˈlit əv ðə səbˈskrɪpʃən ˈvərʒən tɪ edr*
+ˈloʊkəl smss*, ənd kriˈeɪt əv səbˈskrɪpʃən ˈvərʒən tɪ non-edr* ˈloʊkəl smss*, sɛt ðə
+ˈstætəs əv ðə ˈpriviəsli ˈæktɪv səbˈskrɪpʃən ˈvərʒən biɪŋ ˌdɪskəˈnɛktɪd du tɪ
+ðə port-to-original* rɪkˈwɛst tɪ: (ˈpriviəsli sv-423.3* •* ˈæktɪv, ɪf ɔl edr* ənd
+non-edr* ˈloʊkəl smss*, feɪl ðə ˈbrɔdˌkæst. •* oʊld, fər ɔl ˈəðər ˈkeɪsɪz.
+
+ðə themas* ʃæl prəˈvaɪd ðə əˈbɪləˌti fər ðə ˈsupərˌvaɪzər tɪ səˈlɛkt bɪtˈwin tu
+ˈdɪfərənt taɪps əv rɪˈpɔrts: 1 ðə ˌɑpərˈeɪʃənəl ˈhɪstəri əv ðə themas* ˈsɪstəm fər
+ðə pæst twɛlv mənθs ənd 2 ə stəˈtɪstɪkəl ˈsəməri fər ˈɛni səˈlɛktɪd mɑnt eɪʧ.
+
+npac* ˌɛˌsɛˈmɛs ʃæl səˈpɔrt wən əv ðə ˈdɪʤɪtəl ˈsɪgnəʧər ˈælgərˌɪðəmz ˈlɪstɪd ɪn ðə oiw*
+ˈsteɪbəl ˌɪmpləmɛnˈteɪʃən əˈgrimənt, pɑrt 12 1995
+
+fər ðə ac-130u* ˈoʊnli, ɪkˈstərnəli ˈmaʊnɪd lrus* ʃæl wɪθˈstænd ðə ˈprɛʃər
+ˈpəlsɪz frəm ˈnɔrməl ˌɑpərˈeɪʃənəl ˈfaɪərrɪŋ ˌkɑmbəˈneɪʃənz əv ðə 25mm*, 40mm*, ənd 105mm*
+gənz æt ðə loʊˈkeɪʃən ɔn ðə ˈɛrˌkræft əˈproʊpriˌeɪt tɪ ðə mountings* ðə lru*. ðə
+ˈmægnəˌtud əv ðə gunblast* ʃæl bi ðət əv ðə ˈpɔɪntɪŋ ənd ˈfaɪərrɪŋ reɪt əv iʧ
+gən ðət prəˈdusɪz ðə ˈmæksəməm ˈprɛʃər ˈpəlsɪz, ər ˈrɛzənənt kənˈdɪʃənz, wɪˈθɪn ər
+ɔn ðə lru*. ðə ˈpɑsəbəl ˌkɑmbəˈneɪʃənz əv ˈfaɪərrɪŋz ər: 25mm*  40 mm*; 25mm* 
+105mm*; 40mm*  105mm*; ənd iʧ ˈsɪŋgli 25mm*, 40mm*, 105mm*).
+
+rɪˈpɔrt ɔn ˈɛni ˈwɔtər juz əˈmaʊnts soʊld ər ˈgɪvɪn frəm wən ˈpərˌmɪt tɪ əˈnəðər ˈpərˌmɪt,
+əˈspɛʃəli riˈkleɪmd ˈwɔtər (riˈkleɪmd ˈwɔtər kən bi ˈteɪkən əˈweɪ, dɪˈpɛndɪŋ ɔn ðə
+ˈkɑnˌtrækt. ɪt ɪz kind-of-like* ““leasing”*” ðə ˈwɔtər, bət kən bi ˈteɪkən əˈweɪ).
+
+ɪt ʃæl bi ˈpɑsəbəl tɪ sɛnd ˌɪnˌfɔrˈmeɪʃən rɪˈgɑrdɪŋ ðə ˌɪnəˈbɪʃən əv ðə
+ˈfɑloʊɪŋ ˈdɪfərənt taɪps əv brake(m*):  regenerative* breɪk,  ˈɛdi ˈkɑrənt
+breɪk,  mægˈnɛtɪk ʃu breɪk.
+
+ðə ˈfəŋkʃən koʊdz juzd ɪn əˌsoʊʃiˈeɪʃən wɪθ ˈmeɪntənəns ˈsərvɪsɪz tim ˈnəmbərz
+(ct=6* ʃæl kənˈfɔrm tɪ ˈteɪbəl 9a-2* (ɛm)
+
+kənˈtɪnjuəs bɪt ʃæl [srs096* ˌdaɪəgˈnoʊs ðə ˈfɔlti fcr* wɪˈθɪn 1 ˈsɛkənd ˈæftər
+dɪˈtɛktɪŋ ə ˈfeɪljər.
+
+wɪn ðə ˈjuzər səˈlɛkts ““edit”*” ənd ə flaɪt plæn həz nɑt bɪn səˈlɛktɪd, fpms* ʃæl
+dɪˈspleɪ ə ˈstændərd ˈoʊˈkeɪ ˈmɛsɪʤ bɑks ðət steɪts ““flight* plæn həz nɑt bɪn
+selected.”*.”
+
+ˈfʊrieɪ ˈtrænsfɔrm ˈprɑsɛsɪŋ –* ðə bi ʃæl bi ˈeɪbəl tɪ pərˈfɔrm ˈfʊrieɪ ˈtrænsfɔrm
+ðə læg sɛt taɪm ˈsɪriz. ə power-of-two* complex-to-complex* fæst ˈfʊrieɪ
+ˈtrænsfɔrm wɪθ riˈtɛnʃən əv ɔl ˈaʊtˌpʊt ˈpɑzətɪv ənd ˈnɛgətɪv ˈfrikwənsiz wɪl bi
+juzd. ðɪs ˈprɔˌsɛs məst bi ˈeɪbəl tɪ əkˈsɛpt ɛz ˈɪnˌpʊt ðə ˈaʊtˌpʊt əv ˈɛni əv ðə taɪm
+doʊˈmeɪn ˈprɑsɛsəz.
+
+ðə algorithmic* ˈækjərəsi əv ɔl flaɪt ˈplænɪŋ ˌkælkjəˈleɪʃənz ʃæl nɑt ˈdiviˌeɪt
+baɪ mɔr ðən 10 wɪn kəmˈpɛrd wɪθ ə ˈmɪʃən floʊn baɪ ə ˈvælədeɪtəd 6
+degree-of-freedom* ɛr ˈviɪkəl ˈsɪmjəˌleɪtər. [sss090*
+
+wɪn ˈɛksəˌkjutɪŋ ɪn ðə ˈnɔrməl ˈstɑrˌtəp moʊd, ðə tcs* ʃæl prəˈvaɪd ðə ˈsɪstəm
+ˌfəŋkʃəˈnælɪti ˈnɛsəˌsɛri tɪ ˌɪˈnɪʃəˌlaɪz ðə ˈsɪstəm tɪ pleɪs ɪt ɪn ðə ˌɑpərˈeɪʃənz
+steɪt wɪˈθɪn 60 ˈsɛkəndz frəm ðə taɪm paʊər ɪz səˈplaɪd ənd ðə tcs* ˌæpləˈkeɪʃən
+ɪz lɔnʧt. [sss024*
+
+ˈhɑrdˌwɛr aɪˌdɛntəfəˈkeɪʃən –* ðə cmib* ʃæl bi ˈkeɪpəbəl əv ˈrɛdɪŋ ə 16-bit*
+aɪˈdɛntəˌfaɪər frəm ðə hoʊst correlator* bɔrd. ðɪs aɪˈdɛntəˌfaɪər wɪl bi juzd tɪ fɔrm
+ə juˈnik ˌaɪˌpi ˈæˌdrɛs fər cmib* ˈnɛtˌwərk æˈdrɛsɪŋ ənd əˈlaʊ ˈkɛri ˈoʊvər ˌaɪˌpi
+æˈdrɛsɪŋ fər hɑt swɑp ˈmɑʤulz.
+
+ðə 3d* poʊz ˌɛstəˈmeɪʃən əv ðə ˈkæmərə ˈmaʊnɪd ɔn ðə ˈwɪljəm kʊd bi kəmˈpjutɪd beɪst
+ɔn ðə ˈɪmɪʤ strim, wɪθ ə min ˈɛrər nɑt ˈlɑrʤər ðən 1 cm* trænzˈleɪʃən ənd 5°*
+roʊˈteɪʃən, wɪθ ə ˈmɪnəməm əv 30 frame/sec*
+
+fər dɪˈspleɪd græf ˈwɪndoʊz, ðə ˈkiˌbɔrd ˈkərsər loʊˈkeɪʃən ʃæl muv əˈkɔrdɪŋ
+ðə ˈfɑloʊɪŋ rulz: •* ə lɛft ˈɛroʊ ki muvz ðə ˈkərsər tɪ ðə nɛkst unhidden*
+noʊd tɪ ðə lɛft. ðə noʊd tɪ ðə lɛft dɪz nɑt nid tɪ bi ə ˈsɪblɪŋ əv ðə
+ˈkɑrənt noʊd, bət ɪt dɪz nid tɪ bi æt ðə seɪm ˈlɛvəl ɛz ðə ˈkɑrənt noʊd. ɪf
+ðɛr ər noʊ noʊdz tɪ ðə lɛft, ðə ˈkərsər dɪz nɑt muv. •* ə raɪt ˈɛroʊ ki
+muvz ðə ˈkərsər tɪ ðə nɛkst unhidden* noʊd tɪ ðə raɪt. ðə noʊd tɪ ðə raɪt
+dɪz nɑt nid tɪ bi ə ˈsɪblɪŋ əv ðə ˈkɑrənt noʊd, bət ɪt dɪz nid tɪ bi æt ðə
+seɪm ˈlɛvəl ɛz ðə ˈkɑrənt noʊd. ɪf ðɛr ər noʊ noʊdz tɪ ðə raɪt, ðə ˈkərsər
+dɪz nɑt muv. •* ən əp ˈɛroʊ ki muvz ðə ˈkərsər tɪ ðə ˈkloʊsəst ˈænˌsɛstər ðət
+ɪz nɑt ˈhɪdən. ɪf ðɛr ɪz noʊ səʧ noʊd, ðə ˈkərsər dɪz nɑt muv. •* ən daʊn
+ˈɛroʊ ki muvz ðə ˈkərsər tɪ ðə leftmost*, ˈnɪrəst dɪˈsɛndənt ðət ɪz nɑt
+ˈhɪdən. ɪf ðɛr ɪz noʊ səʧ noʊd, ðə ˈkərsər dɪz nɑt muv.
+
+ðə ˈsɪstəm ʃæl dɪˈtərmən ðət ə flaɪt ɪz rvsm* non-conformant* ɪn ðə fˈjuʧər ɪf
+ɔl əv ðə ˈfɑloʊɪŋ kənˈdɪʃənz ər mɛt: ə. ðə ˈsɪstəm həz ə faɪld flaɪt plæn
+fər ðə flaɪt bi. ðə flaɪt dɪz nɑt hæv wən əv ðə rvsm* ɪkˈwɪpmənt suffixes* si.
+ðə flaɪt ɪz prɪˈdɪktɪd tɪ bi bɪtˈwin ðə ˈstætɪk əˈdæptəbəl pərˈæmətərz fl-lower*
+ənd fl-upper*, æt ˈɛni taɪm ɪn ðə flaɪts fˈjuʧər.
+
+dɪˈtərmən fər ˈɛpək ˈdætə ðə astrometric* pərˈæmətər (wɪθ ˌɪnstrəˈmɛnəl ənd
+rɪˈdəkʃən ˈɛrərz): ˈtrænzɪt taɪmz ənd fild ˈæŋgəlz ɪn iʧ ccd* min ˈtrænzɪt taɪm
+ənd fild ˈæŋgəl fər ðə transit.gate* ˌæktəˈveɪʃən ənd ˈsɪgnəl lɔs du tɪ ˈwɪndoʊ
+ˈkəˌtɔf məst bi ˈteɪkən ˈɪntu əˈkaʊnt.
+
+ðə ˈnɛtˌwərk ʃæl ˈtərməˌneɪt ðə ˈɔnˌgoʊɪŋ vgcs/vbs* kɔl ɪf ɪt rɪˈsivz ðə 3-digit*
+ˈsikwəns “***”* trænzˈmɪtəd ˈviə dtmf* ˈsɪgnəlz. (ɛm)
+
+rɪˈdəndənsi ˈmænɪʤmənt ʃæl [srs104* ˈɪmpləmənt ðə ˈfɑloʊɪŋ ˈstrætəʤiz tɪ
+ˌrikənˈfɪgjər ˈhɑrdˌwɛr ˈrisɔrsɪz: ə) dɪˈgreɪd ðə fcp* ˈvərʧuəl grup, bi)
+re-integrate* ən fcp* ˈprɑˌsɛsər ˈɪntu ðə fcp* ˈvərʧuəl grup, si) re-integrate* ə
+ˈnɛtˌwərk ˈɛləmənt, ər di) mæsk ə ˈnɛtˌwərk ˈɛləmənt.
+
+ðə dɪˈvɛləpmənt ənd ˈmeɪntənəns ɪnˈvaɪrənmənt ʃæl bi əˈveɪləbəl tɪ æt list 25
+dɪˈvɛləpərz 85 əv ðə taɪm ˈdʊrɪŋ ˈnɔrməl ˈbɪznɪs aʊərz ˈoʊvər ˈɛni kənˈsɛkjətɪv
+twɛlv mənθ ˈpɪriəd. ˈnɔrməl ˈbɪznɪs aʊərz ər 8am* tɪ 4pm* ˈistərn taɪm, ˈmənˌdeɪ
+θru ˈfraɪˌdeɪ.
+
+ðə gui* ʃæl rən ɔn ˈwɪndoʊz 2000 sən soʊˈlɛrɪs 8 ənd ˈlɪnəks ˈɔpərˌeɪtɪŋ ˈsɪstəmz
+wɪˈθaʊt ˌmɑdəfəˈkeɪʃən əv ðə ˈʤɑvə koʊd.
+
+ˈsɪstəmz səˈpɔrtɪŋ om* məst bi ˈeɪbəl tɪ stɔr ˈlæbrəˌtɔri result(s*) ənd lɪŋk ðə
+result(s*) tɪ ðə ərˈɪʤənəl ˈlæbrəˌtɔri tɛst rɪkˈwɛst. mɔr ˌɪnˌfɔrˈmeɪʃən əˈbaʊt
+rɪˈsivɪŋ ənd ˈlɪŋkɪŋ ˈlæbrəˌtɔri tɛst rɪkˈwɛsts ɪz faʊnd ɪn ˈsɛkʃən 2.5* ˈsɪstəm
+ˌɪnəˈgreɪʃən ənd ˈdætə ɪksˈʧeɪnʤ əv ðɪs ˈdɑkjəmɛnt.
+
+ðə mæp ʃæl bi ˈkeɪpəbəl əv dɪˈspleɪɪŋ ðə ˈfɑloʊɪŋ fər ə dms*: 1 loʊˈkeɪʃən 2
+ˈkɑrənt ˈmɛsɪʤ
+
+npac* ˌɛˌsɛˈmɛs ʃæl ˈvælədeɪt ðət ðə oʊld ˈsərvɪs prəˈvaɪdər ɪn ðə kriˈeɪt ˈmɛsɪʤ ɪz
+ðə ˈsərvɪs prəˈvaɪdər tɪ wɪʧ ðə tn’s* npa-nxx* ɪz əˈsaɪnd (ɛz stɔrd ɪn ðə
+npac* ˌɛˌsɛˈmɛs ˈsərvɪs prəˈvaɪdər ˈdætə ˈteɪbəlz) ɪf ðɛr ɪz ˈkərəntli noʊ ˈæktɪv
+səbˈskrɪpʃən ˈvərʒən fər ðə tn* ɪn ðə npac* ˌɛˌsɛˈmɛs.
+
+wɪn ə tos* ˈmɛsɪʤ ɪz rɪˈsivd ənd ɪt dɪz nɑt ˌɪnˈklud æt list wən ˈɔpʃən
+kənˈteɪnɪŋ ə rut ðət kən bi pɑrst frəm dɪˈpɑrʧər tɪ ˌdɛstɪˈneɪʃən beɪst ɔn ðə
+ˈsɪnˌtæks fər icao* fild 15c*, ðə ˈsɪstəm ʃæl ˈriʤɛkt ðə tos* ˈmɛsɪʤ.
+
+wɪn ðə mmi* ɪz swɪʧt ɔn, ðə kənˌfɪgjərˈeɪʃən ʃæl bi dɪˈtərmənd baɪ ðə taɪm
+ɪˈlæpst sɪns ðə mmi* wɑz læst swɪʧt ɔf: (ɛm)  lɛs ðən ti ˈmɪnəts –* ðə mmi*
+ʃæl paʊər əp wɪθ ðə seɪm kənˌfɪgjərˈeɪʃən ɛz wɪn ɪt wɑz læst paʊərd daʊn; 
+ˈgreɪtər ðən ti ˈmɪnəts –* ðə mmi* ʃæl paʊər əp wɪθ dɪˈfɔlt ˈsɛtɪŋz.
+
+ðɛr ər tu ɪˈvɛnts ðət ʃæl rɪˈzəlt ɪn ən əˈlɑrm kənˈdɪʃən: 1 ən ˌɪnˈvæləd
+ˈtɛmpərəʧər ˈvælju ɪz ˌriˈpɔrtəd frəm ə ˈθərməˌstæt, ər 2 ðə ˌriˈpɔrtəd ˈtɛmpərəʧər
+həz ɪkˈsidɪd ðə dɪˈfaɪnd ˈlɪmɪts. ðɪs ˈprɔˌsɛs ʃæl dɪˈtərmən wɪʧ əˈlɑrm ɪˈvɛnt
+ɪz tɪ bi ˈʤɛnərˌeɪtɪd.
+
+ə trænˈzækʃən reɪt əv 2 cmip* trænˈzækʃənz (səˈsteɪnd) pər ˈsɛkənd ʃæl bi
+səˈpɔrtɪd baɪ iʧ soa* tɪ npac* ˌɛˌsɛˈmɛs ˈɪnərˌfeɪs əˌsoʊʃiˈeɪʃən.
+
+əˈpɑn ˌæktəˈveɪʃən əv ðɪs ˈfəŋkʃən, ðə kæb ˈreɪdiˌoʊ ʃæl prəˈvaɪd ðə ˈdraɪvər wɪθ ə
+lɪst əv ‘‘generic’*’ stæf, eg*: (ɛm)  ʧif kənˈdəktər;  kənˈdəktər 1  kənˈdəktər
+2  ˈkeɪtərɪŋ stæf 1
+
+ðə nde* ˌɪnˈʤɛst ˌkeɪpəˈbɪləti ʃæl nɑt bi ˌɪntərˈəptɪd fər mɔr ðən 2 aʊərz ɪn ˈɛni
+kənˈsɛkjətɪv 24 aʊər ˈpɪriəd ənd noʊ mɔr ðən 4 aʊərz ɪn ˈɛni kənˈsɛkjətɪv 30 deɪ
+ˈpɪriəd.
+
+ðə digitalhome* ʃæl bi ɪkˈwɪpt wɪθ ˈvɛriəs ɪnˌvaɪrənˈmɛnəl kənˈtroʊlərz ənd
+ˈsɛnsərz (ˈtɛmpərəʧər controller-sensors*: ˈθərməˌstæts, hjuˈmɪdəti
+controller-sensors*: humidistats*, ˈkɑnˌtækt ˈsɛnsərz, sɪˈkjʊrəti saʊnd ənd laɪt
+əˈlɑrmz, ənd paʊər sˈwɪʧɪz).
+
+trænˈspɛrənsi –* 3.7.1* əˈbəv, ʃæl bi əˈkɑmplɪʃt ɪn ˈmænər ðət ɪz trænˈspɛrənt
+tɪ ˈprɑsɛsɪŋ, kəmˌjunəˈkeɪʃənz ənd i/o* ˈsɔfˌwɛr ˈfəŋkʃənz wɪθ ðə ˈpɑsəbəl
+ɪkˈsɛpʃən əv recompilation* əv executables*.
+
+ðə tɛst fəˈsɪlɪti ʃæl ɪnˈʃʊr ə ˈvɑljum əv 5 ɛm (l)x* 3.5* ɛm (w)x* 3 ɛm (eɪʧ) ɪn ˈɔrdər
+tɪ əˈlaʊ ðə ˌɪnəˈgreɪʃən əv ðə tɛst bɛnʧ ənd ɔl rikˈwaɪərd kəmˈpoʊnənts fər ðə
+ˈrɛgjələr pərˈfɔrməns əv ðə ˌdɛmənˈstreɪʃən
+
+ɪf ðə feɪld fcp* ˈprɑˌsɛsər həz nɑt synced* ɪn 2.5* ˈsɛkəndz ˈæftər ðə sərˈvaɪvɪŋ
+trɪˈplɛks həz dɪˈtɛktɪd ðə lɔs əv ðə fcp*, ðɛn ðə sərˈvaɪvɪŋ trɪˈplɛks ʃæl
+[srs178* wɪˈθɪn 1 ˈsɛkənd, sɛnd ə ˈsɪŋgəl ˈvoʊtɪd vmebus* ˈrisɛt θru ðə ni tɪ
+ðə feɪld fcp*.
+
+wɪn ðə ˈsɪstəm rɪˈsivz ə flaɪt plæn ˈmɛsɪʤ ər ən ˈɛˌrlaɪn flaɪt kriˈeɪt
+ˈmɛsɪʤ tɪ kriˈeɪt ə nu flaɪt ðət həz: ə. seɪm flaɪt ˈaɪˈdi ɛz ən ɪgˈzɪstɪŋ
+flaɪt, ənd bi. seɪm ˌdɛstɪˈneɪʃən (bət wɪθ ˈdɪfərənt ˈɔrəʤən) ɛz ðət ɪgˈzɪstɪŋ
+flaɪt, ənd ðət ɪgˈzɪstɪŋ flaɪt həz: si. ə dɪˈpɑrʧər taɪm wɪˈθɪn 10 aʊərz praɪər
+tɪ ðə nu flaɪts dɪˈpɑrʧər taɪm, ənd di. ə ˈstætəs əv "ˈkænsəld", i.e*.
+'dɪˈvərʒən ˈkænsəld', ðə ˈsɪstəm ʃæl aɪˈdɛntəˌfaɪ ðə nu flaɪt tɪ bi ən 'ˈɔtoʊ'
+dɪˈvərʒən rɪˈkəvəri flaɪt.
+
+ðə məˈkænɪkəl ˈɪnərˌfeɪs ʃæl wɪθˈstænd, ɪn kəˈnɛktɪd moʊd, ɔl məˈkænɪkəl
+loʊdz ˌɪnˈdust baɪ ðə ˌdɛmənˈstreɪʃən ˌɑpərˈeɪʃənz:  ˈæksiəl fɔrs: 250  160 ɛn 
+ˈreɪdiəl fɔrs: 250  160 ɛn  ˈbɛndɪŋ ˈmoʊmənt: 204  84 nm*  ˈtɔrʃən: tbd* nm* ɛz
+ˈfəŋkʃən əv ðə ˈgrævɪti ˌkɑmpənˈseɪʃən əv ðə sm* (tbc*).
+
+ræm skrəb ʃæl [srs187* bi ˈkeɪpəbəl əv ˈskrəbɪŋ æt list 10 ˈmɛgəˌbaɪts ˈɛvəri 8
+ˈmɪnəts, ˈgɪvɪn æt list 1 əv ðə cpu* ɪz əˈveɪləbəl fər ðɪs ˈprɑsɛsɪŋ.
+
+ðə etcs* trainborne* ɪkˈwɪpmənt ʃæl bi ˈkeɪpəbəl əv ˈsupərˌvaɪzɪŋ ðə ˈfɑloʊɪŋ
+ˌɑpərˈeɪʃənəl steɪts: (ɛm) 1 fʊl ˌsupərˈvɪʒən ˌɑpərˈeɪʃən 2 ˈpɑrʃəl ˌsupərˈvɪʒən
+ˌɑpərˈeɪʃən  stæf riˈspɑnsəbəl ˌɑpərˈeɪʃən  ɔn saɪt ˌɑpərˈeɪʃən  unfitted* laɪn
+ˌɑpərˈeɪʃən  treɪn trɪp ˌɑpərˈeɪʃən  poʊst trɪp ˌɑpərˈeɪʃən 3 ˈnæʃənəl ˌɑpərˈeɪʃən
+(stm*) 4 ˈtændəm ˌɑpərˈeɪʃən 5 ˈməltəpəl ˌɑpərˈeɪʃən 6 ˈʃəntɪŋ ˌɑpərˈeɪʃən 7 stænd
+baɪ ˌɑpərˈeɪʃən 8 rɪˈvərsɪŋ ˌɑpərˈeɪʃən
+
+boʊθ ðə soa* tɪ npac* ˌɛˌsɛˈmɛs ənd ðə npac* ˌɛˌsɛˈmɛs tɪ ˈloʊkəl ˌɛˌsɛˈmɛs ˈɪnərˌfeɪsɪz ʃæl bi
+əˈveɪləbəl ɔn ə 24 baɪ 7 ˈbeɪsɪs, kənˈsɪstənt wɪθ ˈəðər əˌveɪləˈbɪlɪti rɪkˈwaɪrmənts ɪn
+ðɪs ˌspɛsɪfɪˈkeɪʃən.
+
+kənˈtɪnjuəs bɪt ʃæl [srs095* ˈɛksərˌsaɪz ðə ˈprɛzəns tɛst æt 50 hz* tɪ ɪnˈʃʊr ðət
+ɔl ˈprɑˌsɛsərz ɪn ðə fcp* ˈvərʧuəl grup ər ˈsɪŋkrəˌnaɪzd.
+
+ðə ˈsɪstəm ʃæl kəmˈplaɪ wɪθ espc* (doc/noaa/nesdis*) prəˈsiʤərz ənd ˈpɑləsiz ɛz
+ˈsteɪtɪd ɪn ðə ˈɛˈnoʊˈeɪˈeɪ ɪt sɪˈkjʊrəti ˈmænjuəl 212-1300* ˈvərʒən 3.3* ˈdeɪtɪd meɪ 15 2007
+
+wɪn ðə ˈnɛtˌwərk həz dɪˈtɛktɪd ðə 3-digit* dtmf* ˈsikwəns “###”* trænzˈmɪtəd ˈviə
+dtmf* frəm ə kənˈtroʊlər ˈtərmənəl ənd ɪf ðə kənˈtroʊlər wɑz nɑt ˈpriviəsli ˈtɔkɪŋ
+ɪt ʃʊd ˈɪndəˌkeɪt ɪts ˌrɛkɪgˈnɪʃən baɪ pleɪɪŋ ə ˈsɪŋgəl dtmf* grænt toʊn “#”* əv
+ˈdʊˈreɪʃən əv 100ms* ±* 5ms* tɪ bi sɛnt tɪ ðət kənˈtroʊlər ˈtərmənəl ˈoʊnli. (oʊ)
+
+ðə ˈsɪstəm ədˈmɪnɪˌstreɪtər ʃæl bi ˈeɪbəl tɪ kənˈfɪgjər ðə riˌkælkjəˈleɪʃən bɪˈheɪvjər
+əv ðə dəraɪvd ˈdætə. ðə ˈɔpʃənz ʃæl ˌɪnˈklud 1 du ˈnəθɪŋ, 2 əˈlərt ˈjuzər ðət
+riˌkælkjəˈleɪʃən ɪz rikˈwaɪərd ənd gɪv ˈɔpʃən tɪ riˈkælkjəˌleɪt ˌbiˈfɔr update/save*, ənd
+3 riˈkælkjəˌleɪt ˈsaɪləntli wɪθ noʊ ˌkɑnfərˈmeɪʃən prɑmpt wɪn ˈjuzər seɪvz ðə
+ˌɪnˈspɛkʃən.
+
+ə dh* ˈjuzər ʃæl bi ˈeɪbəl tɪ sɛt ðə ˈθərməˌstæt ˈtɛmpərəʧərz tɪ bɪtˈwin 60 °* ɛf ənd
+80 °* ɛf, ˌɪnˈklusɪv, æt wən dɪˈgri ˈɪŋkrəˌmɛnts.
+
+træk ðə ˈmuvmənt əv læpst kˈwɑntətiz ɪn ən ˈɛriə, ˌɪnˈkludɪŋ: •* wɪʧ ˈpərˌmɪt
+ənd wɛl əbˈteɪnd ðə læpst kˈwɑntətiz. •* wɛr ðə læpst kˈwɑntətiz ər
+ˈloʊˌkeɪtəd. •* waɪ ðə kˈwɑntətiz ər læpst (i.e*. ɪkˈspaɪrd, ˈkænsəld, rɪˈtaɪrd). •*
+wət mfl* zoʊn ðə læpst kˈwɑntətiz ər ɪn.
+
+kənˈtɪnjuəs bɪt ʃæl [srs098* rɪˈpɔrt ɔl ˌdaɪəgˈnoʊst ˈfeɪljərz ənd rɪˈkəvəri ˈækʃənz
+tɪ ðə ˌæpləˈkeɪʃən fər ˌɪnˌkɔrpərˈeɪʃən ɪn ðə təˈlɛmətri strim.
+
+ðə ˈfɑloʊɪŋ ˈmɪnəməm ˈvæljuz ʃæl əˈplaɪ: (ɛm)  ˈkəvərɪʤ ˌprɑbəˈbɪləˌti əv 95
+beɪst ɔn ə ˈkəvərɪʤ ˈlɛvəl əv 38.5* dbmv/m* 98 dbm*) fər vɔɪs ənd non-safety*
+ˈkrɪtɪkəl ˈdætə;  ˈkəvərɪʤ ˌprɑbəˈbɪləˌti əv 95 beɪst ɔn ə ˈkəvərɪʤ ˈlɛvəl əv 41.5*
+dbmv/m* 95 dbm*) ɔn laɪnz wɪθ etcs* ˈlɛvəlz 2/3* fər spidz loʊər ðən ər ˈikwəl tɪ
+220km/h*.
+
+ɪf ðə hats-gui* əˈtɛmpts tɪ stɑrt ə hats-sml* ˈproʊˌgræm ənd feɪlz, ðə hats-gui*
+ʃæl ˈnoʊtəˌfaɪ ðə ˈjuzər baɪ dɪˈspleɪɪŋ ðə ˈfɑloʊɪŋ ˈmɛsɪʤ: ““unable* tɪ stɑrt
+hats-sml.”*.” ðə hats-gui* ʃæl prəˈvaɪd ˈɛni ˈəðər ˈditeɪlz rɪˈleɪtɪd tɪ ðə ˈfeɪljər
+ðət ər əˈveɪləbəl frəm ðə hoʊst ɑs. ɪgˈzæmpəlz əv ˌɪnˌfɔrˈmeɪʃən əˈveɪləbəl frəm ən
+ˈɔpərˌeɪtɪŋ ˈsɪstəm ˌɪnˈklud ˌɪndəˈkeɪʃənz ðət ə ˈspɛsəˌfaɪd faɪl dɪz ˈoʊˈti ɪgˈzɪst, ðət ə
+faɪl ˈkænɑt bi ˈoʊpənd du tɪ faɪl prəˈtɛkʃən vaɪəˈleɪʃənz, ər ðət ˈɛrərz əˈkərd
+ˈdʊrɪŋ i/o* ˌɑpərˈeɪʃənz.
+
+ɪf ən fcr* ɪz ˌdaɪəgˈnoʊst ɛz ˈfɔlti ˈdʊrɪŋ ˈstɑrˌtəp, rɪˈdəndənsi ˈmænɪʤmənt ʃæl
+[srs102* ɪkˈsklud ðə fcp* ɪn ðə ˈfɔlti ˈʧænəl frəm ðə ˌɪˈnɪʃəl fcp* ˈvərʧuəl
+grup kənˌfɪgjərˈeɪʃən.
+
+ˌɔrgənəˈzeɪʃənəl ˈmeɪntənəns kənˈsɪsts əv fɔlt dɪˈtɛkʃən  ˌaɪsəˈleɪʃən, ˈfɔlti
+kəmˈpoʊnənt rɪˈmuvəl  rɪˈpleɪsmənt, ənd ˈsɪstəm ˈʧɛˌkaʊt. ˈmeɪntənəns ˌpərsəˈnɛl
+ʃæl juz bɪlt ɪn tɛst (bɪt) tɪ fəˈsɪləˌteɪt lbj* ˈmeɪntənəns ənd ˈvɛrəˌfaɪ ɪkˈwɪpmənt
+kənˈdɪʃən ənd operability*. əˈʤəstmənts ənd əˈlaɪnmənts ʃæl nɑt bi rikˈwaɪərd
+ˈæftər lru* rɪˈpleɪsmənt. ðə ɪkˈwɪpmənt ˌɪnstəˈleɪʃən ʃæl bi dɪˈzaɪnd tɪ ˈpərˌmɪt
+ˈmɑʤələr rɪˈpleɪsmənt wɪˈθaʊt rɪˈmuvəl əv əˈʤeɪsənt ˈmɑʤulz. ðə ˈɪnəˌgreɪtɪd ˈɛrˌkræft
+ˈsɪstəm ˌɪnstəˈleɪʃən ʃæl nɑt ˌɪnərˈfɪr wɪθ removal/replacement* əv ˈəðər
+ˈɛrˌkræft ˈsɪstəmz.
+
+kənˈtɪnjuəs bɪt, ɪn kənˈʤəŋkʃən wɪθ rɪˈdəndənsi ˈmænɪʤmənt ənd ˈskɛʤʊlər
+ˌɑpərˈeɪʃənz ˈrənɪŋ ɪn ðə 50 hz* rategroup* ˈæftər ðə ˌæpləˈkeɪʃən tæsks, ʃæl
+[srs091* teɪk lɛs ðən 2 ˈmɪlɪˌsɛkəndz ˈəndər ˈnɑmənəl no-fault* kənˈdɪʃənz.
+
+npac* ˌɛˌsɛˈmɛs ʃæl əkˈsɛpt ðə ˈfɑloʊɪŋ ˈɔpʃənəl fildz frəm npac* ˌpərsəˈnɛl ər ðə
+nu ˈsərvɪs prəˈvaɪdər əˈpɑn səbˈskrɪpʃən ˈvərʒən kriˈeɪʃən fər ən inter-service*
+prəˈvaɪdər pɔrt:  ˈbɪlɪŋ ˈsərvɪs prəˈvaɪdər ˈaɪˈdi  ɛnd ˈjuzər loʊˈkeɪʃən  ˈvælju  ɛnd
+ˈjuzər loʊˈkeɪʃən  taɪp
+
+rɪˈpɔrt kəmˈplaɪəns ɔn ə ˈpərˌmɪt (nɑt wɛlz). krɑp rɪˈpɔrts ɔn ˈpərˌmɪts (nɑt wɛlz).
+
+haʊ ðə aspera-3* ənd mɛks oa* ˈdætə ənd ɪgˈzæktli wət ˈdætə sɛts ər tɪ bi
+dɪˈstrɪbjətəd tɪ iʧ co-i* ʃæl bi dɪˈtərmənd baɪ ðə nidz ənd ˈrisɔrsɪz
+əˈveɪləbəl sɪks mənθs praɪər tɪ mɛks lɔnʧ. ðə ˌdɪstrəˈbjuʃən ˈmɛkəˌnɪzəmz ʃæl bi
+ˈklɪrli defined/described* ɪn ðə apaf* ˌɑpərˈeɪʃən prəˈsiʤərz ˈdɑkjəmɛnt.
+
+ðə ˈjuzər ʃæl nɑt bi rikˈwaɪərd tɪ lɔg ɪn ər ɔˈθɛntəˌkeɪt his/her* aɪˈdɛntəˌti wɪn
+ˈjuzɪŋ ðə ˈsɪstəm.
+
+npac* ˌɛˌsɛˈmɛs ʃæl rɪˈsiv ðə ˈsərvɪs prəˈvaɪdər ˈaɪˈdi, ə rɪkˈwɛst tɪ vju səbˈskrɪpʃən
+ˈdætə, ənd optionally* ðə səbˈskrɪpʃən ˈdætə ˈstætəs taɪps tɪ bi rɪˈtərnd (e.g*.,
+ˈæktɪv ˈoʊnli, ˈæktɪv ər ˈpɛndɪŋ) fər kˈwɪriz rɪˈgɑrdɪŋ səbˈskrɪpʃən ˈdætə fər ə
+spɪˈsɪfɪk ˈsərvɪs prəˈvaɪdər.
+
+ræm skrəb ʃæl [srs043* ˈæktɪvli ˈtrɪgər ðə edac* ˈfəŋkʃən baɪ cyclically*
+ˈrɛdɪŋ (ənd ˈraɪtɪŋ bæk ɪf ən ˈɛrər ɪz faʊnd) ɔl juzd ræm.
+
+ˈsɪstəmz səˈpɔrtɪŋ om* məst hæv ðə ˌkeɪpəˈbɪləti tɪ ˈkæpʧər ˈdætə əˈbaʊt loʊˈkeɪʃənz
+ˌɪnˈvɑlvd ɪn ən om* ˌɪnˌvɛstəˈgeɪʃən, ˌɪnˈkludɪŋ: neɪm (ɪf ˈæpləkəbəl), taɪp (e.g*.,
+flɔr, ˈbɪldɪŋ, rum, stɔr), strit ˈæˌdrɛs, ˈsɪti, steɪt, zɪp koʊd, ˈkəntri,
+ˈgipiˈɛs koʊˈɔrdəˌneɪts, ənd ˈəðər spɪˈsɪfɪk ˈditeɪlz (e.g*., ə spɪˈsɪfɪk ˈbɪldɪŋ ɔn ə
+ˈkæmpəs, ə ˈbɪznɪs brænʧ loʊˈkeɪʃən, ə ˈloʊkəl chapter’s* ˈmitɪŋ hɔl)
+
+ðə graʊnd ˌsɛgˈmɛnt ʃæl noʊ æt ˈɛni ˈmoʊmənt ðə ˈstætəs əv ðə ˈdɪfərənt ˈmɑʤulz
+əv ðə ˈmɑʤələr ˈspeɪˌskræft. ðɪs ˌɪnˌfɔrˈmeɪʃən ɪz pæst θru tu taɪps əv
+telemetries*:  ˌpɪriˈɑdɪk təˈlɛmətri wɪθ ˈstændərˌdaɪzd ˈpækɪts.  ˈeɪˈsɪŋkrənəs
+təˈlɛmətri wɪθ ˈɛrər ˈmɛsɪʤ.
+
+ˈmɑnətər kəmˈpjut ˈɛrərz –* ðə bi ʃæl træp, flæg ənd rɪˈpɛr inf’s*, nan’s*,
+underflows*, ˈoʊvərˌfloʊz ənd ˈəðər ˌkɑmpjəˈteɪʃən ˈɛrərz. əˈkjumjəˌleɪt ˌkɑmpjəˈteɪʃən ˈɛrər
+stəˈtɪstɪks ənd kəmˈpɛr əˈgɛnst ˈtɑlərənsɪz. rɪˈpɔrt ɔl aʊt əv ˈtɑlərəns
+kənˈdɪʃənz.
+
+ˈɪnˌpʊt –* ðə bi ˈsɪstəm ʃæl bi ˈkeɪpəbəl əv əkˈsɛptɪŋ ən ˈægrəgət ˈdætə ˈɪnˌpʊt
+strim frəm ðə correlator* əv ə ˈmɪnəməm əv 1.6* gbytes/sec*. ðɪs məst bi dən
+ˌsaɪməlˈteɪniəsli wɪθ ðə ˈaʊtˌpʊt strim, bət nɑt ˌnɛsəˈsɛrəli ˈoʊvər ðə seɪm
+interconnects*. ðɪs ɪz ən ˌɪˈnɪʃəl dɪˈplɔɪmənt ˌspɛsɪfɪˈkeɪʃən ənd wɪl bi ˌɪnˈkrist
+ˈoʊvər taɪm.
+
+rɪˈpɔrt ðə pər ˈkæpɪtə ˈdeɪli ˈwɔtər ˈfɪgjərz fər ðə pərˈmɪtɪd əˈmaʊnt, ˌriˈpɔrtəd
+əˈmaʊnt ənd əˈʤəstɪd ˈnəmbər fər pər juˈtɪləti. ðə ˈfɔrmjələ fər əˈʤəstɪd groʊs
+ˈkæpɪtə ɪz: wd*  ɪm  ɛks -tl*  su  ɛm  ˌpɑpjəˈleɪʃən wɛr: wd*  graʊnd ˈwɔtər 
+ˈsərfəs ˈwɔtər wɪθˈdrɔəlz ɪm  ˈwɔtər imported/bought* frəm əˈnəðər səˈplaɪər ɛks 
+ˈwɔtər exported/sold* tɪ ˈəðər səˈplaɪərz tl*  ˈtritmənt lɔs (ˈtɪpɪkəli r/o* ər
+sænd fɪlˈtreɪʃən su  sɪgˈnɪfɪkənt ˈjuzɪz ɛm  ɪnˌvaɪrənˈmɛnəl ˌmɪtɪˈgeɪʃən, ɪf rikˈwaɪərd
+ɛz ə ˈdɪstrɪkt ˈpərˌmɪt kənˈdɪʃən. ˌpɑpjəˈleɪʃən  ˈfəŋkʃənəl ˌpɑpjəˈleɪʃən
+
+npac* ˌɛˌsɛˈmɛs ʃæl ˈnoʊtəˌfaɪ npac* ˌpərsəˈnɛl əˈpɑn səkˈsɛsfəl kriˈeɪʃən əv ðə nu ˈsərvɪs
+prəˈvaɪdər.
+
+rɪˈdəndənsi ˈmænɪʤmənt ʃæl [srs208* wɪˈθɪn 60 ˈmɪlɪˌsɛkəndz ˈæftər 1.5* ˈmɪnəts
+həz ɪˈlæpst sɪns ðə ˈvoʊtɪd ˈrisɛt wɑz sɛnt tɪ ðə feɪld ˈʧænəl, ɪf ðə ˈvoʊtɪd
+ˈrisɛt feɪlz tɪ rɪˈkəvər ðə feɪld ˈʧænəl ənd əˈlaɪnmənt ɪz stɪl əˈlaʊd,
+rɪkˈwɛst frəm ðə ˌæpləˈkeɪʃən ə paʊər ˈsaɪkəl əv ðə ˈʧænəl. (noʊt ðət nefu*
+rɪˈkəvəri dɪz nɑt dɪˈpɛnd ɔn ˈwɛðər əˈlaɪnmənt ɪz pərˈmɪtɪd.)
+
+ɪn ðə ˈnɔrməl ˌɑpərˈeɪʃənz moʊd ðə tcs* ʃæl səˈpɔrt ðə ˈfɑloʊɪŋ ˈfəŋkʃənz:
+[sss037* 1 ˈmɪʃən ˈplænɪŋ 2 ˈmɪʃən kənˈtroʊl ənd ˈmɑnətərɪŋ 3 ˈpeɪˌloʊd
+ˈprɑdəkt ˈmænɪʤmənt 4 ˈtərgət koʊˈɔrdəˌneɪt dɪˈvɛləpmənt 5 c4i* ˈsɪstəmz ˈɪnərˌfeɪs
+
+ðə tul ʃæl ʧeɪnʤ ðə ˈɑrˌkaɪv fild ɪn ðə ˈspiʃiz ˈhæbəˌtæt ˈfiʧər ənd
+ˈspiʃiz ˈhæbəˌtæt ˈrɛkərdz tɪ tru.
+
+ðə sof* ˈɪnəˌgreɪtɪd ˈɛrˌkræft ˈsɪstəm ʃæl hæv səˈfɪʃənt ˈstrəkʧərəl ˌɪnˈtɛgrəti,
+beɪst ɔn ðə ərˈɪʤənəl dɪˈzaɪn kraɪˈtɪriə, tɪ ˌɪnˈʃʊr ˈɑptɪməm ˈsɪstəm pərˈfɔrməns ɪn
+ɪts ˈɔpərˌeɪtɪŋ ɪnˈvaɪrənmənt ˈoʊvər ɪts ˈsərvɪs laɪf. ɔl new/modified*
+safety-of-flight*, ˈmeɪntənəns ˈkrɪtɪkəl, ənd ˈmɪʃən ˈkrɪtɪkəl ˈstrəkʧərz, wɪʧ
+ər flaɪt and/or* ˈprɛʃər loʊd dɪˈzaɪn ˈdrɪvən, ʃæl hæv ˈstætɪk ˈmɑrʤənz əv
+ˈseɪfti ˈgreɪtər ðən ər ˈikwəl tɪ 0.25* ɪf nɑt ˈstrəkʧərəli pruf ˈtɛstɪd tɪ
+ˈəltəmət loʊd. ðə rremaining* ˈɛrˌkræft kəmˈpoʊnənts (nɑt ɔn ə ˈkrɪtɪkəl pɑrts lɪst,
+kræʃ loʊd dɪˈzaɪn ˈdrɪvən, ənd ˈpriviəs ɪgˈzɪstɪŋ ˈstrəkʧər) ʃæl nɑt bi dɪˈgreɪdɪd
+bɪˈloʊ 0.0* (ˈpɑzətɪv) ˈstætɪk ˈmɑrʤən əv ˈseɪfti.
+
+kənˈtɪnjuəs bɪt ʃæl [srs093* ˈɛksəˌkjut ɔn ðə fcp* ˈvərʧuəl grup.
+
+ðə ˈsɪstəm ʃæl bi kəmˈplaɪənt wɪθ ðə omb* ˈfɛdərəl ˈɛnərˌpraɪz ˈɑrkəˌtɛkʧər (fea*)
+əˈkɔrdɪŋ tɪ ðə ˈdɑkjəmənts ˈdeɪtɪd dɪˈsɛmbər 2006 ənd əˈveɪləbəl frəm
+http://www.whitehouse.gov/omb/egov/a-2-eamodelsnew2.html* 
+
+ðə mæp ˈjuzər ʃæl bi ˈeɪbəl tɪ ˈɔltər ðə ˈkɑrənt ˌmægnəfəˈkeɪʃən (zum ˈlɛvəl) əv
+ðə mæp.
+
+ðə ““aircraft”*” skrin ˈɪnərˌfeɪs ʃæl dɪˈspleɪ ə checkbox* ˈfɑloʊd baɪ ðə
+ˈfɑloʊɪŋ ˈsəməri əv ðə ˈɛrˌkræft: neɪm, ˈɛrˌkræft ˈaɪˈdi, ˈɛrˌkræft ˈmɑdəl ˈnəmbər,
+ˈɛrˌkræft ˈkələr.
+
+fər ðə nefu*, ɪf ðə fərst ˈfeɪljər ɪz ˌdaɪəgˈnoʊst, rɪˈdəndənsi ˈmænɪʤmənt ʃæl
+[srs245* ˈɪʃu ə kənˌfɪgjərˈeɪʃən ˈəpˌdeɪt tɪ mæsk aʊt ðə feɪld ˈprɑˌsɛsər. noʊt
+ðət ðə ni ɪz əˈlaʊd tɪ rɪˈmeɪn ɪn ðə kənˌfɪgjərˈeɪʃən ənd noʊ rɪˈkəvəri wɪl teɪk
+pleɪs. noʊt ˈɔlsoʊ ðət ðə feɪld nefu* kʊd bi ˌdaɪəgˈnoʊst ˈjuzɪŋ ˈɛni ˈmɛθəd,
+ˌɪnˈkludɪŋ (bət nɑt ˈlɪmɪtɪd tɪ) icp* ˈprɛzəns tɛst, ər ni ˈsɪnˌdroʊm æˈnælɪsɪs.
+
+nɔɪz kənˌsɪdərˈeɪʃən ɔn: •* fləks nɔɪz (ˈpɔɪzsən nɔɪz, ˈtoʊtəl dɪˈtɛkʃən nɔɪz,...)
+•* ccd* ˌkɑmbəˈneɪʃən nɔɪz fər (rvs*) •* ˈweɪvˌlɛŋθ ˌkæləˈbreɪʃən •* multi-transit*
+ˌkɑmbəˈneɪʃən nɔɪz (ˈoʊnli fər kəmˈbaɪnd data)should* bi ˈædɪd
+
+ðə ˈsɪstəm ʃæl prəˈvaɪd ðə ˌkeɪpəˈbɪləti fər ˈjuzər grups tɪ bi kəmˈbaɪnd ənd
+de-combined*.
+
+ˈsɪstəm initialization*, frəm ˈhɑrdˌwɛr ˈrisɛt tɪ ˈstɑrtɪŋ əv ðə 50 hz* ˈtaɪmər, ʃæl
+[srs015* teɪk noʊ ˈlɔŋgər ðən 1.5* ˈmɪnəts.
+
+ˈnɛtˌwərk ˈproʊtəˌkɔl –* ðə ˈɪnərˌfeɪs bɪtˈwin ðə cmib*, mccc*, ənd cpcc* ʃæl bi
+ˈiθərˌnɛt (ieee* 802.3* kəmˈplaɪənt) əv 100 mbits/sec* ər ˈbɛtər ˈdætə reɪt.
+
+ðə dmi* ʃæl ˈɪndəˌkeɪt ðə rɪˈzəlt əv ðə self-test*. (ɛm)
+
+npac* ˌɛˌsɛˈmɛs ʃæl ˈnoʊtəˌfaɪ ɔl əkˈsɛptɪŋ ˈloʊkəl smss* ənd soas* əv ðə npa-nxx*,
+ˈifɛktɪv deɪt, ənd ˈoʊnɪŋ ˈsərvɪs prəˈvaɪdər wɪn ə nu npa-nxx* ˌɪnˈvɑlvd ɪn ən
+npa* splɪt, ɪz biɪŋ ˈpɔrtɪd fər ðə fərst taɪm, ˈæftər ðə stɑrt əv pərˈmɪsɪv
+ˈdaɪəlɪŋ, ˌɪˈmiˌdiətli ˈæftər kriˈeɪʃən ˌvæləˈdeɪʃən əv ə səbˈskrɪpʃən ˈvərʒən.
+
+npac* ˌɛˌsɛˈmɛs ʃæl ˈbrɔdˌkæst ɔl əˈdɪʃənz, ˌmɑdəfəˈkeɪʃənz, ənd dɪˈliʃənz əv npac*
+ˈkəstəmər neɪmz ˈviə ðə npac* ˌɛˌsɛˈmɛs tɪ ˈloʊkəl ˌɛˌsɛˈmɛs ˈɪnərˌfeɪs and/or* soa* tɪ npac* ˌɛˌsɛˈmɛs
+ˈɪnərˌfeɪs.
+
+ðə view/select* tɛkst ˈmɛnju ˈaɪtəm ʃæl prəˈvaɪd ən ˈɪnərˌfeɪs fər səˈlɛktɪŋ
+pretty-printed* tɛkst ər tɛkst strɪŋz əˈsoʊʃiˌeɪtəd wɪθ sdt* dɪˈspleɪz.
+
+ðə ˈsilɪŋ spid ˈvælju fər ðə unfitted* ˌɑpərˈeɪʃən ɪz dɪˈtərmənd baɪ ðə loʊər
+ˈvælju aʊt əv  ˈmæksəməm treɪn spid  ˈnæʃənəl ˈvælju fər unfitted* ˌɑpərˈeɪʃən (ɛm)
+
+rɪˈdəndənsi ˈmænɪʤmənt ʃæl [srs117* riˈɪntəˌgreɪt ə ˈprɑˌsɛsər ðət ɪz ˌtɛmpərˈɛrəli
+dɪˈseɪbəld ˈdʊrɪŋ ə taɪm wɪn əˈlaɪnmənt wɑz nɑt pərˈmɪtɪd, wɪn əˈlaɪnmənt ɪz
+ˈsəbsəkwəntli pərˈmɪtɪd. rɪˈdəndənsi ˈmænɪʤmənt pɪks əp wɛr ɪt lɛft ɔf ɪn
+ðiz əˈtɛmpts. fər ɪgˈzæmpəl, ɪf rɪˈdəndənsi ˈmænɪʤmənt ɪz æt 1 ˈmɪnət ɪn ɪts 1.5*
+ˈmɪnət weɪt fər ə ˈʧænəl ˈæftər ðə fərst paʊər ˈsaɪkəl rɪkˈwɛst, ənd əˈlaɪnmənt ɪz
+nɑt əˈlaʊd, wɪn əˈlaɪnmənt ɪz ˈsəbsəkwəntli əˈlaʊd rɪˈdəndənsi ˈmænɪʤmənt wɪl
+weɪt əˈnəðər hæf ˈmɪnət ənd ðɛn traɪ ðə nɛkst paʊər ˈsaɪkəl rɪkˈwɛst.
+
+npac* ˌɛˌsɛˈmɛs ʃæl ˌrikˈwaɪər npac* ˌpərsəˈnɛl tɪ ˈspɛsəˌfaɪ ə tn* reɪnʤ (npa-nxx-xxxx*
+θru yyyy*, wɛr yyyy* ɪz ˈgreɪtər ðən xxxx*) tɪ aɪˈdɛntəˌfaɪ ˈməltəpəl səbˈskrɪpʃən
+ˈvərʒənz ðət kənˈteɪn ə feɪld sp* lɪst wɪθ wən ər mɔr spids*, tɪ bi rɪˈzɛnt.
+
+npac* ˌɛˌsɛˈmɛs ʃæl ˈəpˌdeɪt ðə ˈstætəs əv ðə səbˈskrɪpʃən version(s*) ənd ðə blɑk,
+ˈspɛsəˌfaɪd ɪn ðə re-send* rɪkˈwɛst fər ə blɑk kriˈeɪʃən, ˌmɑdəfəˈkeɪʃən, ər
+dɪˈliʃən, æt ðə kəmˈpliʃən əv ðə re-send* tɪ ðə ˈloʊkəl ˌɛˌsɛˈmɛs, ənd ə rɪˈspɑns frəm
+ðə ˈloʊkəl ˌɛˌsɛˈmɛs ər ɪf retries* hæv bɪn ɪgˈzɔstɪd, frəm ə ˈsɛndɪŋ ˈstætəs, ɛz
+dɪˈfaɪnd ɪn rr3-137.1* rr3-137.2* rr3-137.3* ənd rr3-137.4* (ˈpriviəsli sv-515*
+
+npac* sms's* login* prəˈsiʤər ʃæl bi ˈeɪbəl tɪ bi rɪˈlaɪəbli ˌɪˈnɪʃiˌeɪtɪd baɪ ðə ˈjuzər,
+i.e*., ə ˈtrəstɪd kəmˌjunəˈkeɪʃənz pæθ ʃʊd ɪgˈzɪst bɪtˈwin npac* ˌɛˌsɛˈmɛs ənd ðə ˈjuzər
+ˈdʊrɪŋ ðə login* prəˈsiʤər.
+
+wɪn ə ˈjuzər səˈlɛkts ðə application/select* ˈmɛnju ˈaɪtəm, ðə hats-gui* ʃæl dɪˈspleɪ
+ə lɪst əv dɪˈrɛktəri neɪmz ɪn ðə ˈkɑrənt ˈwərkɪŋ dɪˈrɛktəri, əˈlaʊ ə ˈjuzər tɪ
+ˈnævəˌgeɪt ðə dɪˈrɛktəri ˈstrəkʧər, ənd əˈlaʊ ə ˈjuzər tɪ səˈlɛkt ə ˈpriviəsli
+kriˈeɪtɪd ˌæpləˈkeɪʃən. ðɪs ˌæpləˈkeɪʃən bɪˈkəmz ðə ˈkərəntli səˈlɛktɪd
+ˌæpləˈkeɪʃən.
+
+npac* ˌɛˌsɛˈmɛs ʃæl səˈpɔrt ðə ˈsərvɪs providers’*’ ækˈnɑlɪʤmənt ˈviə 2 sɪˈkjʊr
+ˌɪˌlɛkˈtrɑnɪk fɔrmz, iˈmeɪl ər ftp* ˈjuzɪŋ ɛnˈkrɪpʃən ˈmɛkəˌnɪzəmz.
+
+səˈpɔrt ˈsərvɪsɪz ʃæl [srs257* juz noʊ mɔr ðən 5.2* ˈmɪlɪˌsɛkəndz əv fcp*
+ˈprɑsɛsɪŋ taɪm tɪ muv ðə təˈlɛmətri ˈdætə tɪ ðə fcc-mpcc* bɔrd ənd kəmˈplit
+kəmˌjunəˈkeɪʃən ənd ˈɛrər ˈhændəlɪŋ fər ðə fcc-mpcc* bɔrd.
+
+ðə ““start* flight”*” skrin ʃæl dɪˈspleɪ ðə flaɪt plan(s*) ˈskɛʤʊld fər ðə
+ˈkɑrənt deɪt ˈjuzɪŋ ðə ˈɪnərˌfeɪs ɛz ʃoʊn ɪn fɪg. 7
+
+wɪn ə ˈvælɪd ˈɛˌrlaɪn flaɪt ˈmɑdəˌfaɪ ˈmɛsɪʤ ɪz rɪˈsivd fər ə flaɪt ˈhævɪŋ ðə
+flaɪt ˈstætəs əv "plænd" ər "ˈæktɪv", ðə ˈsɪstəm ʃæl ˈəpˌdeɪt ðə ɪgˈzɪstɪŋ
+flaɪt ˈɛntri ɪn ðə flaɪt ˈdætə rɪˈteɪnd baɪ ðə ˈsɪstəm.
+
+eirene* ˈmoʊbəl ɪkˈwɪpmənt ʃæl bi ˈkeɪpəbəl əv ˈɔpərˌeɪtɪŋ ˈoʊvər ə ˈstændərd reɪnʤ əv
+ˈtɛmpərəʧərz frəm 20°c* tɪ 55°c*. (ɛm)
+
+ɛz ə ˈmɪnəməm, ðə lbj* ˈprɑˌsɛsərz ʃæl hæv ən ˈævərɪʤ əv 50 pərˈsɛnt spɛr
+ˈmɛməri ənd 50 pərˈsɛnt spɛr θˈruˌpʊt. ɛz ə goʊl, ðə spɛr ˈmɛməri ənd
+θˈruˌpʊt ʃʊd boʊθ bi 75 pərˈsɛnt.
+
+wɪn dɪˈspleɪɪŋ ðə vil* prɪˌsɪpɪˈteɪʃən moʊˈzeɪɪk ˈdætə, ðə ˈsɪstəm ʃæl prəˈvaɪd ðə
+ˌkeɪpəˈbɪləti tɪ dɪˈspleɪ ðə ˈnəmbər əv ðə prɪˌsɪpɪˈteɪʃən ˈlɛvəlz ɛz ðə ˈfɑloʊɪŋ:
+ə. əp tɪ sɪks ˈlɛvəlz 1 2 3 4 5 6 fər dɪˈspleɪɪŋ ðə pæst ənd ˈkɑrənt ˈdætə
+ɪn ˈstændərd moʊd bi. əp tɪ eɪt ˈlɛvəlz 1a*, 1b*, 1c*, 2 3 4 5 6 fər
+dɪˈspleɪɪŋ ðə pæst ənd ˈkɑrənt ˈdætə ɪn ˈwɪntər moʊd si. əp tɪ fɔr ˈlɛvəlz 1 2
+3-4* 5 fər dɪˈspleɪɪŋ ðə ˈfɔrˌkæstɪd ˈdætə ɪn ˈstændərd moʊd di. əp tɪ θri
+ˈlɛvəlz 1a*, 1b*, 1c*+) fər dɪˈspleɪɪŋ ðə ˈfɔrˌkæstɪd ˈdætə ɪn ˈwɪntər moʊd.
+
+ðə hats-gui* ʃæl kəˈlɛkt ˈprɔˌsɛs ˈɛksət koʊdz frəm hats-sml* ˈprɑsɛsəz. ˈprɔˌsɛs
+ˈɛksət koʊdz əv 0 ˈɪndəˌkeɪt ˈnɑmənəl kəmˈpliʃən əv ðə ˈprɔˌsɛs. ˈprɔˌsɛs ˈɛksət koʊdz
+ˈəðər ðən 0 ˈɪndəˌkeɪt ˈfeɪljər.
+
+wəns ən ˈsɛnər ɪz səˈlɛktɪd, ðə ˈjuzər ʃæl bi ˈeɪbəl tɪ səˈlɛkt ə ˈsiˌsiˈtiˌvi frəm ə lɪst
+ənd prəˈvaɪd ðə ˈfɑloʊɪŋ ˌɪnˌfɔrˈmeɪʃən: ·* ˈtərgət ˈsiˌsiˈtiˌvi ·* dɪˈvaɪs kənˈtroʊl ˌɪnˈkludɪŋ:
+ pæn  tɪlt  zum
+
+wɪˈθɪn iʧ gsm-r* ˈnɛtˌwərk, ðə ˈfɑloʊɪŋ riˈleɪʃənˌʃɪps bɪtˈwin ðə msisdn*
+səbˈskraɪbər ˈnəmbər ənd ðə ˈnæʃənəl eirene* ˈnəmbər kən bi aɪˈdɛntəˌfaɪd:  ðə msisdn*
+səbˈskraɪbər ˈnəmbər ʃæl bi ˈikwəl tɪ ðə ˈnæʃənəl eirene* ˈnəmbər fər kɔl taɪp 
+8 (ɛm)  ðə msisdn* ˈnəmbər meɪ bi ˈikwəl tɪ ðə ˈnæʃənəl eirene* ˈnəmbər fər ˈɛni
+ˈəðər kɔl taɪp. (oʊ)
+
+ðə kæb ˈreɪdiˌoʊ ʃæl ˈɑrbəˌtreɪt bɪtˈwin kɔlz wɪn:  ən ˈɪnˌkəmɪŋ kɔl ɪz rɪˈsivd
+waɪlst ðə kæb ˈreɪdiˌoʊ ɪz ɪn ən on-going* kɔl; (ɛm)  ə kæb ˈreɪdiˌoʊ ˈjuzər əˈtɛmpts tɪ
+ˌɪˈnɪʃiˌeɪt ə kɔl waɪlst ðə kæb ˈreɪdiˌoʊ ɪz ɪn ən on-going* kɔl. (ɛm)
+
+wɪn ˈækʧəwəl rut ˈdætə ɪz nɑt əˈveɪləbəl, ðə ˈsɪstəm ʃæl rɪˈteɪn ɛz pɑrt əv ðə
+flaɪt ˌɪnˈtɛnt ˈdætə, ðə moʊst ˈprɑbəbəl ˈpriviəsli juzd rut ˈdætə əˈsoʊʃiˌeɪtəd wɪθ
+ðə city-pair*, ˈjuzər grup, and/or* ˈɛrˌkræft taɪp əv ˈsəbʤɪkt flaɪt.
+
+espc* ˌɑpərˈeɪʃənz ʃæl prəˈvaɪd ən ˈɪnərˌfeɪs bɪtˈwin nde* ənd ðə npoess* ˈmɪʃən
+ˈmænɪʤmənt ˈsɛnər (mmc*) səʧ ðət 100 əv ðə nde* ˌɪnkˈwaɪəriz tɪ ðə mmc* ənd nde*
+rɪˈplaɪz tɪ mmc* rɪkˈwɛsts ər rɪˈsivd baɪ ðə mmc* ɪn ə taɪm nɑt tɪ ɪkˈsid ðət
+ˈspɛsəˌfaɪd ɪn ðə icd*, ənd ðət 100 əv ðə ˌnoʊtəfəˈkeɪʃənz ənd ˌɪnkˈwaɪəriz frəm ðə
+mmc* tɪ nde* ər rɪˈsivd baɪ nde* ɪn ə taɪm nɑt tɪ ɪkˈsid ðət ˈspɛsəˌfaɪd baɪ ðə
+icd*.
+
+ðə ˈjuzər ʃæl bi ˈeɪbəl tɪ ˈɛnər ə wɛr klɔz əv ðə sql* kˈwiri ɪn ðə faɪnd ənd
+ðə ˈfɪltər ˈwɪndoʊ ənd rən ə kˈwiri əˈgɛnst ðə ˈbrɪʤɪz ɪn ðə ˈdætəˌbeɪs. ðə kˈwiri
+wɪl bi ˈvɛrəˌfaɪd baɪ ðə ˌæpləˈkeɪʃən ənd sql* ˈɛrərz wɪl bi ˌriˈpɔrtəd tɪ ðə ˈjuzər
+fər kərˈɛkʃən. ðɪs ˌkeɪpəˈbɪləti ʃæl bi ən ˌæpləˈkeɪʃən ˈprɪvɪlɪʤ. bridge-level*
+sɪˈkjʊrəti əv ðə ˈjuzər ʃæl bi əˈplaɪd ˌɔtəˈmætɪkli.
+
+ðə kəmˈpoʊnənts əv ðə ˈmɑʤələr ˈspeɪˌskræft: ˈsəbˌsɪstəmz, ˈɪnərˌfeɪsɪz ənd ˈstrəkʧərz
+ʃæl bi ˈeɪbəl tɪ wɪθˈstænd ðə speɪs ɪnˈvaɪrənmənt fər ðə hoʊl ˈdʊˈreɪʃən əv ðə
+ˈmɪʃən.
+
+ðə kæb ˈreɪdiˌoʊ ʃæl səˈpɔrt ə ‘‘shunting* mode’*’ əv ˌɑpərˈeɪʃən ðət prəˈvaɪdz ə lɪŋk
+əˈʃʊrəns toʊn tɪ ˌriəˈʃʊr ˈjuzərz əv ðə ˌɪnˈtɛgrəti əv ðə kəmˌjunəˈkeɪʃən lɪŋk (si
+ˈsɛkʃən 14 (ɛm)
+
+ðə ɪkˈwɪpmənt ʃæl bi ˈkeɪpəbəl əv ˈkoʊpɪŋ wɪθ ˈtɛmpərəʧər ˌvɛriˈeɪʃənz əv əp tɪ
+ 1°c/minute*. (ɛm)
+
+rɪˈdəndənsi ˈmænɪʤmənt ʃæl [srs101* dɪˈfaɪn ən ˌɪˈnɪʃəl ˈmæpɪŋ əv ˈfɪzɪkəl
+ˈhɑrdˌwɛr tɪ ˈvərʧuəl grup identifiers* kənˈsɪstɪŋ əv 1 quadruplex* fcp* ˈvərʧuəl
+grup ənd 5 icp* simplexes*.
+
+ðə ˈsɪstəm ʃæl bi ˈeɪbəl tɪ prəˈvaɪd ˌɪnˌfɔrˈmeɪʃən əˈbaʊt ðə steɪt əv ə paʊər
+swɪʧ (ɔf ər ɔn), ˈɪndəˌkeɪtɪŋ ðə ˈwɛðər ən əˈplaɪəns kəˈnɛktɪd tɪ ðə paʊər
+swɪʧ ɪz ɔf ər ɔn.
+
+ðə ˈskɛʤʊlər ʃæl [srs181* sɛt ðə 50 hz* ˈɪntərvəl ˈtaɪmər tɪ ə kaʊnt daʊn ˈvælju
+soʊ ɛz tɪ kɔz ðə nɛkst ˈmaɪnər freɪm ˌɪntərˈəpt æt 20 msec* frəm ðə ˈpriviəs
+ˌɪntərˈəpt congruently* ɪn ɔl ˌɑpərˈeɪʃənəl fcps*.
+
+ðə koʊ məst rɪˈspɑnd wɪˈθɪn 1 ˈmɪnət ɪn boʊθ ˈsɪŋgəl ənd ˈməlti pleɪər moʊdz.
+
+ðɛr ɪz ə kˈwɑləti əv ˈsərvɪs rɪkˈwaɪrmənt fər ˈhændoʊvər ˌɛksəˈkjuʃənz (eg* ə breɪk əv
+10s* wʊd ˈklɪrli bi ˌənækˈsɛptəbəl tɪ ðə ˈjuzər). 300ms* ˌrɛprɪˈzɛnts ɑr ˈkɑrənt
+bɛst ˈɛstəˌmeɪt əv ðə qos* ˈfɪgjər, ˌɔlˈðoʊ ðɪs wɪl nid tɪ bi kənˈfərmd θru
+ˈjuzər traɪəlz. (aɪ)
+
+ˈtrænsfər tɪ ˈʃəntɪŋ ɔn driver’s* səˈlɛkʃən ʃæl ˈoʊnli bi ˈpɑsəbəl wɪn
+ˈsteɪʃəˌnɛri. (ɛm)
+
+ðə ɛnˈhænst alq-172* ənd lbj* ˌɪnstəˈleɪʃən ʃæl bi dɪˈzaɪnd tɪ mit ðə
+rɪkˈwaɪrmənts əv mil-std-464* ˈpɛrəˌgræfs 5.2* 5.7.1* 5.7.2* 5.8* 5.10* θru
+5.10.2* ənd 5.10.4*
+
+aspera-3* ənd mɛks oa* idfs* ˈdætə ənd ˈɛni apaf-generated* ˌɪnərˈmidiɪt faɪlz əv
+aspera-3* ənd mɛks oa* cleaned-up* təˈlɛmətri ʃæl bi prəˈvaɪdɪd tɪ ɔl aspera-3*
+co-i’s*.
+
+ræm skrəb ʃæl [srs044* rɪˈpɔrt dɪˈtɛktɪd ˈɛrərz tɪ ðə ˌæpləˈkeɪʃən, congruently*
+ɔn ɔl ˈʧænəlz, ˈviə ən api* ˈsərvɪs fər ˌɪnˈkluʒən ɪn ðə təˈlɛmətri strim.
+
+npac* ˌɛˌsɛˈmɛs ʃæl dɪˈfɔlt ðə lɔŋ ˌɪˈnɪʃəl kənˈkərəns ˈwɪndoʊ ˈtunəbəl pərˈæmətər tɪ
+9 ˈbɪznɪs aʊərz.
+
+wɪn ðə ˈjuzər səˈlɛkts ““delete”*” ənd ə rut həz bɪn səˈlɛktɪd, fpms* ʃæl dɪˈspleɪ
+ə ˈstændərd yes-no* ˈmɛsɪʤ bɑks ðət steɪts ““are* ju ʃʊr ðət ju wɔnt tɪ dɪˈlit
+ðɪs route?”*?”
+
+ðə ˈwɪljəm ʃæl bi ˈeɪbəl tɪ pɑrs ˌɪnˌfɔrˈmeɪʃən from/to* ɪts ˈdætə ˈɪnərˌfeɪs θru ðə
+tu si ɛkˈstrɛmətiz ənd trænzˈleɪt ɪt ɪn ɪts oʊn ˈloʊkəl bəs fər real-timer* ˈmɑnətər
+ənd kənˈtroʊl əv ɪts ʤɔɪnz.
+
+ðə ˌɪnstəˈleɪʃən əv ðə ɛnˈhænst alq-172* ənd lbj* ʃæl: ˈɔpərˌeɪt ˈdʊrɪŋ
+accelerations*: pər ac-130u* ənd mc-130h* dɪˈzaɪn pərˈæmətərz. ˈɔpərˌeɪt ˈæftər
+accelerations*: pər ac-130u* ənd mc-130h* dɪˈzaɪn pərˈæmətərz. kræʃ loʊdz: ɔl fɪkst
+ənd rɪˈmuvəbəl ɪkˈwɪpmənt ənd ðɛr subcomponent* ˌɪnstəˈleɪʃənz, ʃʊd bi ˈeɪbəl tɪ
+wɪθˈstænd ðə ˈɛrˌkræft dɪˈzaɪn loʊd ˈfæktərz ər ðə ˈfɑloʊɪŋ loʊd ˈfæktərz,
+wɪˈʧɛvər ər ˈgreɪtər: ˌlɑnʤəˈtudənəl: 9.0* ˈfɔrwərd, 1.5* æft ˈlætərəl: 1.5* raɪt ənd
+lɛft ˈvərtɪkəl: 4.5* daʊn, 2.0* əp
+
+ðə ˈskɛʤʊlər ʃæl [srs035* prəˈvaɪd reɪt grups ðət ˈɛksəˌkjut æt 50 hz*, 10 hz*
+ənd 1 hz*., wɪθ ə drɪft reɪt noʊ ˈgreɪtər ðən 50 microseconds* pər ˈsɛkənd, ənd
+wɪθ ə jitter* noʊ ˈgreɪtər ðən 330 microseconds*.
+
+ðə ˈsɪstəm ʃæl ˈkɑnvərt ðə ˈfɑloʊɪŋ ciws* ˈwɛðər ˈprɑdəkts tɪ ə quantized* fɔrm
+ˌbiˈfɔr ˈmeɪkɪŋ ðə ˈdætə əˈveɪləbəl fər dɪˈspleɪ: ə. vil* prɪˌsɪpɪˈteɪʃən moʊˈzeɪɪk bi. vil*
+prɪˌsɪpɪˈteɪʃən ˈfɔrˌkæst moʊˈzeɪɪk si. ciws* ˈɛkoʊ tɑps moʊˈzeɪɪk di. ciws* ˈɛkoʊ tɑps
+ˈfɔrˌkæst moʊˈzeɪɪk.
+
+ðə ˈstrəkʧər əv ðə ˈmɑʤulz ʃæl bi ˈeɪbəl tɪ ˈkɛri ɪts oʊn mæs ˈəndər ðə
+ˈgrævɪti fɔrs ənd ðə loʊdz ˌɪntrəˈdust baɪ ðə ““walking”*” robot-system* ˈdʊrɪŋ ðə
+məˌnɪpjəˈleɪʃən əv ðə ˌɛˌsɛˈmɛs.
+
+træk ənd ˈmɛʒər ɔlˈtərnətɪv sɔrs ˈprɑʤɛkts (noʊt: səm əv ðiz meɪ bi
+ˌɪnˈkludɪd ɪn ˈteɪbəl 8 •* ˈsərfəs ˈwɔtər ər stormwater* ˈprɑʤɛkts. •* riˈkleɪmd ˈwɔtər
+(riˈjuz ˈwɔtər). •* ɑgˈmɛntəd ˈsərfəs ˈwɔtər (ˈrɛzərvˌwɑrz, ˈhɑrvəstɪŋ əv haɪ floʊz
+(ˈflədˌwɔtərz). •* asr* (ˈækwəfər ˈstɔrɪʤ rɪˈkəvəri) •* diˌseɪlɪˈneɪʃən. •* ˌkɑnsərˈveɪʃən
+(dɪˈfaɪnd ɛz ə ˌbɛnəˈfɪʃəl rɪˈdəkʃən əv ˈwɔtər juz rɪˈzəltɪŋ ɪn: oʊ ˌmɑdəfəˈkeɪʃən əv
+ˈwɔtər juz ˈpræktɪsɪz, oʊ rɪˈdəkʃən əv unaccounted-for* ˈlɔsɪz, ər oʊ ˌɪnstəˈleɪʃən
+ənd ˈmeɪntənəns əv loʊ ˈvɑljum ˈwɔtər juz ˈsɪstəmz, ˈprɑsɛsəz, ˈfɪksʧərz, ər
+dɪˈvaɪsɪz.
+
+npac* ˌɛˌsɛˈmɛs ʃæl əˈlaʊ ˈsərvɪs prəˈvaɪdərz tɪ add/delete* ðə npa-nxx* and/or* lrn* ˈdætə
+ˈviə ðə npac* ˌɛˌsɛˈmɛs tɪ ˈloʊkəl ˌɛˌsɛˈmɛs ˈɪnərˌfeɪs ənd soa* tɪ npac* ˌɛˌsɛˈmɛs ˈɪnərˌfeɪs prəˈvaɪdɪd
+ðə ˈʧeɪnʤɪz du nɑt kɔz mæs ˈəpˌdeɪts tɪ ðə səbˈskrɪpʃən ˈvərʒənz.
+
+kɑrd 1 əv ðə ˈgugəl glæs skrin ʃæl dɪˈspleɪ ðə tɛkst ““eta*: ““directly* bɪˈloʊ
+ðə tɛkst ““rta*; ““of* ðə nɛkst waypoint* ðət ðə ˈpaɪlət ɪz əˈproʊʧɪŋ, ˈfɑloʊd baɪ
+ə ˈnəmbər ˈvælju ðət ˌrɛprɪˈzɛnts ðə ˈrilˌtaɪm eta* ˈvælju fər ðət waypoint*.
+
+ðə treɪn ʃæl liv ˈpɑrʃəl ˌsupərˈvɪʒən wɪn ðə trainborne* ɪkˈwɪpmənt ɪz nɑt
+ˈɑpərətɪv ˈɛni ˈlɔŋgər, wɪn ˈʃəntɪŋ ɪz səˈlɛktɪd ər wɪn fʊl ˌsupərˈvɪʒən ɪz
+əˈveɪləbəl. (ɛm)
+
+initialization* əv ðə tcs* hwcis* ʃæl ˌɪnˈklud ˈstɑrˌtəp əv hwcis* [sss542*
+ˈdaʊnˌloʊd əv ˈsɔfˌwɛr [sss026* ˈstɑrˌtəp əv cscis* [sss027* ˌɛksəˈkjuʃən əv ˈstɑrˌtəp
+fd/l* [sss025* ənd ɪˈstæblɪʃmənt əv ðə steɪt əv ˈrɛdinəs əv ɔl ˈɪnərˌfeɪsɪz.
+[sss028*
+
+ˈɛni apaf-generated* ˌɪnərˈmidiɪt faɪlz əv aspera-3* ənd mɛks oa* cleaned-up*
+təˈlɛmətri ðət ər ˌɪˌlɛkˈtrɑnɪkəˌli dɪˈstrɪbjətəd ʃæl bi prəˈvaɪdɪd tɪ ðə aspera-3*
+co-i’s* wɪˈθɪn 24 aʊərz əv əkˈwaɪərɪŋ aspera-3* ənd mɛks oa* təˈlɛmətri ɛz lɔŋ ɛz ðə
+trænzˈmɪʃən ənd ˈprɑsɛsɪŋ ər error-free*.
+
+ˈsɪstəmz səˈpɔrtɪŋ om* məst səˈpɔrt dynamically* dɪˈfaɪnd əˌsoʊʃiˈeɪʃənz bɪtˈwin
+ˈɛntɪtiz fər ðə ˈpərpəs əv dɪˈfaɪnɪŋ riˈleɪʃənˌʃɪps. fər ɪgˈzæmpəl,
+person-to-person* (e.g*., ˈfæməli riˈleɪʃənˌʃɪp, ɪkˈspoʊʒər riˈleɪʃənˌʃɪp),
+person-to-place* (e.g*., ˈhaʊsˌhoʊld, ˈkɑmən pleɪs), animal-to-person*,
+object-to-place*, person-to-travel*.
+
+ræm skrəb ʃæl [srs275* nɑt skrəb ðə ˈɛriə juzd fər təˈlɛmətri ˈdætə.
+
+ðə tcs* wɪl prəˈvaɪd ðə ˈhɑrdˌwɛr ənd ˈsɔfˌwɛr ˈnɛsəˌsɛri tɪ əˈlaʊ ðə ˈɑpərˌeɪtər
+tɪ ˈkɑndəkt ðə ˈfɑloʊɪŋ ˈmeɪʤər ˈfəŋkʃənz 1 ˈmɪʃən ˈplænɪŋ, 2 ˈmɪʃən kənˈtroʊl
+ənd ˈmɑnətərɪŋ, 3 ˈpeɪˌloʊd ˈprɑdəkt ˈmænɪʤmənt, 4 ˈtɑrgətɪŋ, ənd 5 c4i* ˈsɪstəm
+ˈɪnərˌfeɪs.
+
+wɪn ðə ˈsɪstəm rɪˈsivz ən iade* ˈmɛsɪʤ, ðə ˈsɪstəm ʃæl əkˈsɛptəns ʧɛk
+ðoʊz fildz əv ðə rɪˈsivd ˈmɛsɪʤ ˈhævɪŋ ˈpɑsəbəl ˈreɪnʤɪz əv ˈvæljuz, fər biɪŋ
+wɪˈθɪn ðɛr pre-defined* reɪnʤ.
+
+ðə svc* obc* ʃæl bi ˈeɪbəl tɪ dɪˈtɛkt ənd juz əˈdɪʃənəl ˈfəŋkʃənəl ˈmɑʤulz (pləg
+ pleɪ ˈprɪnsəpəl)
+
+wɪn ə ˈvælɪd nas* ˌkænsəˈleɪʃən ˈmɛsɪʤ ər ən iade* flaɪt plæn ˌkænsəˈleɪʃən
+ˈmɛsɪʤ ɪz rɪˈsivd fər ə flaɪt ˈhævɪŋ ðə ˈstætəs əv "plænd" ənd noʊ flaɪt
+kriˈeɪt ər flaɪt ˈmɑdəˌfaɪ ˈmɛsɪʤ həz bɪn rɪˈsivd fər ðə flaɪt ənd noʊ ˈəðər
+flaɪt plæn ɪgˈzɪsts fər ðə flaɪt ɪn ə "non-cancelled*" ˈstætəs, ðə ˈsɪstəm ʃæl
+ˈəpˌdeɪt ðə flaɪts ˈstætəs tɪ "ˈkænsəld".
+
+ðə fpms* ʃæl əbˈteɪn ðə lɪst əv ˈɛrˌpɔrts frəm ðə airport.xml* faɪl əˈpɑn
+initialization* əv ðə ˈsɪstəm.
+
+ˈkɛrɪktərz  ənd  meɪ bi juzd ˈloʊkəli tɪ geɪn ˈækˌsɛs tɪ ˈspɛʃəl fəˈsɪlɪtiz səʧ
+ɛz ʃɔrt koʊd dialling*. ˌhaʊˈɛvər, ðiz ərˈeɪnʤmənts du nɑt fɔrm pɑrt əv ðə
+ˈnɛtˌwərk ˈnəmbərɪŋ plæn. (aɪ)
+
+ðə hats-gui* ʃæl dɪˈspleɪ 1,000,000* noʊd sdts* ɪn ðə seɪm əˈmaʊnt əv taɪm, pləs
+ər ˈmaɪnəs tu ˈsɛkəndz, ɛz ɪt teɪks tɪ dɪˈspleɪ ə 10,000* noʊd sdt*.
+
+sɪˈkjʊrəti  ˈnɛtˌwərk routers/switches* ʃæl bi ɪmˈplɔɪd æt ðə mcccevla* m&c*
+ˈɪnərˌfeɪs ˈlɛvəl (ər haɪər) tɪ prəˈtɛkt ðə mccc* frəm əˈnɔθərˌaɪzd ˈækˌsɛs ənd
+ˌɪˈrɛləvənt ˈnɛtˌwərk ˈtræfɪk.
+
+ˈdætə ˌɪnˈvæləd –* ðə bi ʃæl ˌriˈpleɪs ɔl ˌɪnˈvæləd ˈdætə wɪθ ˈziroʊ ˈvæljuz.

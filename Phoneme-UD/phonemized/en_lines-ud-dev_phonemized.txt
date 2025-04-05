@@ -1,0 +1,1215 @@
+wɪn ə ˈjuzər kəˈnɛkts tɪ ðə sql* ˈsərvər ˈdætəˌbeɪs θru ə ˈmaɪˌkroʊˈsɔft ˈækˌsɛs
+ˈprɑʤɛkt, ðə kəˈnɛkʃən ɪz ɪˈneɪbəld θru ə ˈwɪndoʊz nt* ˈjuzər əˈkaʊnt. sql* ˈsərvər
+ˈvɛrəˌfaɪz ðət ðə əˈkaʊnt neɪm ənd ˈpæsˌwərd wər ˈvælədeɪtəd wɪn ðə ˈjuzər lɔgd
+ɔn tɪ ðə ˈsɪstəm ənd grænts ˈækˌsɛs tɪ ðə ˈdætəˌbeɪs, wɪˈθaʊt rikˈwaɪərɪŋ ə ˈsɛpərˌeɪt
+logon* neɪm ər ˈpæsˌwərd. wɪθ ðə dɪˈfɔlt ˌɪnstəˈleɪʃən əv ðə ˈmaɪˌkroʊˈsɔft sql*
+ˈsərvər 2000 ˈdɛskˌtɑp ˈɪnʤən wɪθ ˈɪnəˌgreɪtɪd sɪˈkjʊrəti, ðə ˈjuzər məst bi ə ˈmɛmbər
+əv ðə ədˈmɪnɪˌstreɪtər grup fər ðə məˈʃin ɔn wɪʧ ðə ˈækˌsɛs ˈprɑʤɛkt rɪˈzaɪdz.
+ðɪs meɪks ɪt ˈdɪfəkəlt tɪ əˈlaʊ ˈəðər ˈjuzərz tɪ geɪn ˈækˌsɛs tɪ ðə ˈækˌsɛs
+ˈprɑʤɛkt. ðɛr ɪz ˈkərəntli noʊ ˈsɪmpəl weɪ fər ðə ˈsɪstəm ədˈmɪnɪˌstreɪtər tɪ kriˈeɪt
+nu logon* əˈkaʊnts tɪ ðə ˈloʊkəli ˌɪnˈstɔld sql* ˈsərvər ˈdætəˌbeɪs ɪkˈsɛpt baɪ ˈjuzɪŋ
+sql* tulz ər transact-sql* (tsql*) kəˈmændz. si ðə
+http://officeupdate.microsoft.com*/, ˈmaɪˌkroʊˈsɔft dɪˈvɛləpər ˈnɛtˌwərk wɛb saɪt fər
+mɔr ˌɪnˌfɔrˈmeɪʃən ɔn tsql*. ju kən ʧeɪnʤ ðə sɪˈkjʊrəti moʊd fər ˈækˌsɛsɪŋ ðə sql*
+ˈsərvər ˈdætəˌbeɪs ɔn ə kəmˈpjutər ˈrənɪŋ ˈwɪndoʊz nt*. baɪ ˈsɛtɪŋ ˈprɑpərtiz frəm ðə
+vju ˈmɛnju, ju kən ɪˈneɪbəl mɪkst moʊd sɪˈkjʊrəti. ˈjuzɪŋ ðə dɪˈfɔlt sɑ əˈkaʊnt,
+ˈjuzərz kən ˈækˌsɛs ðə sql* ˈsərvər ˈdætəˌbeɪs θru ðə ˈækˌsɛs ˈprɑʤɛkt wɪˈθaʊt ˈɛni
+əˈdɪʃənəl sɪˈkjʊrəti rɪkˈwaɪrmənts. ðə ədˈmɪnɪˌstreɪtər əv ðə sql* ˈsərvər kən ˈɔlsoʊ
+æd əˈdɪʃənəl sɪˈkjʊrəti baɪ ˈʧeɪnʤɪŋ ðə dɪˈfɔlt sɑ əˈkaʊnt ˈpæsˌwərd. ɪn ˈɔrdər
+fər ðə ɪˈneɪbəl ˈsɪstəm ədˈmɪnɪˌstreɪtər (sɑ) ˈjuzər neɪm ʧɛk bɑks tɪ bi ɪˈneɪbəld, ðə
+ˈfɑloʊɪŋ məst bi tru. ðə ˈækˌsɛs ˈprɑʤɛkt məst bi kəˈnɛktɪd tɪ ə sql* ˈsərvər 7.0*
+(ər ˈleɪtər) ˈdætəˌbeɪs ər ə ˈmaɪˌkroʊˈsɔft sql* ˈsərvər 2000 ˈdɛskˌtɑp ˈɪnʤən. ðə sql*
+ˈsərvər ˈdætəˌbeɪs məst bi ˈrənɪŋ ɔn ə ˈwɪndoʊz nt* ˈplætˌfɔrm. ðə sql* ˈsərvər məst bi
+ˈrənɪŋ ɔn ðə seɪm kəmˈpjutər ɛz ðə ˈækˌsɛs ˈprɑʤɛkt. ðə ˈkɑrənt ˈwɪndoʊz nt* ˈjuzər
+məst bi ən ədˈmɪnɪˌstreɪtər fər ðə kəmˈpjutər. ðə ˈkɑrənt sql* ˈsərvər ˈjuzər məst bi ə
+ˈmɛmbər əv ðə ˈsɪstəm ədˈmɪnɪˌstreɪtər roʊl. ˈæftər ˈʧeɪnʤɪŋ ðə sɪˈkjʊrəti moʊd, ɪt ɪz
+ˈstrɔŋli ˌrɛkəˈmɛndɪd ðət ðə sɑ ˈpæsˌwərd bi ʧeɪnʤd baɪ ˈjuzɪŋ ðə sɛt login*
+ˈpæsˌwərd kəˈmænd (ɔn ðə tulz ˈmɛnju, pɔɪnt tɪ sɪˈkjʊrəti). səm əv ðə ˈhaɪpərlɪŋks
+ɪn ðɪs ˈtɑpɪk goʊ tɪ ðə wɛb. əˈbaʊt ˌɛkˌsɛˈmɛl ˈdætə ənd ˈækˌsɛs extensible* ˈmɑrˌkəp
+ˈlæŋgwɪʤ (ˌɛkˌsɛˈmɛl) ɪz ðə ˈstændərd ˈlæŋgwɪʤ fər dɪˈskraɪbɪŋ ənd dɪˈlɪvərɪŋ ˈdætə ɔn
+ðə wɛb, ʤɪst ɛz ˈhaɪpərˌtɛkst ˈmɑrˌkəp ˈlæŋgwɪʤ (html*) ɪz ðə ˈstændərd ˈlæŋgwɪʤ fər
+kriˈeɪtɪŋ ənd dɪˈspleɪɪŋ wɛb ˈpeɪʤɪz. ˈmaɪˌkroʊˈsɔft ˈækˌsɛs prəˈvaɪdz weɪz tɪ boʊθ ˌɪmˈpɔrt
+ənd ˈɛkspɔrt ˌɛkˌsɛˈmɛl ˈdætə ɛz wɛl ɛz ˈtrænsfɔrm ðə ˈdætə tɪ ənd frəm ˈəðər ˈfɔrˌmæts
+ˈjuzɪŋ ˌɛkˌsɛˈmɛl rɪˈleɪtɪd faɪlz. əˈbaʊt ˌɛkˌsɛˈmɛl ˈmuvɪŋ ˌɪnˌfɔrˈmeɪʃən əˈkrɔs ðə ˈɪntərˌnɛt ənd
+bɪtˈwin ˈsɔfˌwɛr ˌæpləˈkeɪʃənz həz ˈɔlˌweɪz bɪn ˈdɪfəkəlt du tɪ ˈdɪfərənsɪz ɪn
+ˈdætə ˈfɔrˌmæts ənd prəˈpraɪəˌtɛri ˈstrəkʧərz. html*, waɪl wɛl ˈsutɪd fər prəˈvaɪdɪŋ
+tɛkst ənd ˈɪmɪʤ dɪˈspleɪ ˌɪnˌfɔrˈmeɪʃən fər wɛb ˈbraʊzərz, ɪz ˈlɪmɪtɪd ɪn ɪts əˈbɪləˌti
+tɪ dɪˈfaɪn ˈdætə ənd ˈdætə ˈstrəkʧərz. html* dɪˈskraɪbz haʊ ə wɛb peɪʤ ʃʊd lʊk,
+wɛˈræz ˌɛkˌsɛˈmɛl dɪˈfaɪnz ðə ˈdætə ənd dɪˈskraɪbz haʊ ðə ˈdætə ʃʊd bi ˈstrəkʧərd.
+ˌɛkˌsɛˈmɛl ɪz ə ˈdætə ˌɪnərˈʧeɪnʤ ˈfɔrˌmæt ɪn ðət ɪt əˈlaʊz ju tɪ ɪksˈʧeɪnʤ ˈdætə bɪtˈwin
+dɪˈsɪmələr ˈsɪstəmz ər ˌæpləˈkeɪʃənz. ˌɛkˌsɛˈmɛl ˈsɛpərˌeɪts ðə ˈdætə frəm ðə ˌprɛzənˈteɪʃən
+soʊ ðət ðə seɪm ˌɛkˌsɛˈmɛl ˈdætə kən bi pərˈzɛnəd ɪn ˈməltəpəl weɪz baɪ ˈjuzɪŋ ˈdɪfərənt
+ˌprɛzənˈteɪʃən faɪlz. ˌɛkˌsɛˈmɛl ɪz ə standards-based* ˈproʊtəˌkɔl ðət ɪz ˈgəvərnd baɪ ðə
+wərld waɪd wɛb kənˈsɔrʃjəm (w3c*). ðə ˌɛkˌsɛˈmɛl ˈproʊtəˌkɔl ɪz ə sɛt əv rulz, ˈgaɪˌdlaɪnz,
+ənd kənˈvɛnʃənz fər dɪˈzaɪnɪŋ ˈdætə ˈfɔrˌmæts ənd ˈstrəkʧərz, ɪn ə weɪ ðət
+prəˈdusɪz faɪlz ðət ər ˈizi tɪ ˈʤɛnərˌeɪt ənd ˈizəli rɛd baɪ ˈdɪfərənt kəmˈpjutərz
+ənd ˌæpləˈkeɪʃənz. ɪn əˈdɪʃən, ˌɛkˌsɛˈmɛl dɪˈfaɪnd ˈstrəkʧərz ər ˌənæmˈbɪgjəwəs; ðət ɪz,
+ðeɪ ər self-describing* ənd platform-independent*. laɪk html*, ˌɛkˌsɛˈmɛl meɪks juz əv
+tægz ənd əˈtrɪˌbjuts, bət waɪl html* ˈspɛsəˌfaɪz wət iʧ tæg ənd əˈtrɪˌbjut minz
+(ənd ðəs haʊ ðə ˈdætə bɪtˈwin ðɛm wɪl lʊk ɪn ə ˈbraʊzər), ˌɛkˌsɛˈmɛl ˈjuzɪz ðə tægz
+ˈoʊnli tɪ delimit* ˈpisɪz əv ˈdætə, ənd livz ðə ˌɪnˌtərprɪˈteɪʃən əv ðə ˈdætə
+kəmˈplitli tɪ ðə ˌæpləˈkeɪʃən ðət ridz ɪt. əˈdɪʃənəl ˌɪnˌfɔrˈmeɪʃən əˈbaʊt ˌɛkˌsɛˈmɛl
+kən bi faʊnd ɔn ðə wɛb saɪt. əˈbaʊt ˌɪmˈpɔrtɪŋ ˌɛkˌsɛˈmɛl ˈdætə ˈækˌsɛs prəˈvaɪdz ˈʧɔɪsɪz
+fər ˈjuzɪŋ ˈdætə frəm ˈmɛni ɪkˈstərnəl ˈsɔrsəz. ˌɛkˌsɛˈmɛl meɪks ɪt ˈiziər tɪ ˈtrænsfɔrm ðə
+ˈdætə frəm ˈɔlˌmoʊst ˈɛni ɪkˈstərnəl ˌæpləˈkeɪʃən fər juz baɪ ˈækˌsɛs. ju kən: juz ən
+extensible* stylesheet* ˈlæŋgwɪʤ ˌtrænsfərˈmeɪʃən (xslt*) faɪl tɪ ˈtrænsfɔrm ðə ˈdætə
+ˈɪntu ən ˈækˌsɛs ˈdætə ˈfɔrˌmæt. ju kən juz ðə ˌɪmˈpɔrt kəˈmænd (pɔɪnt tɪ gɪt
+ɪkˈstərnəl ˈdætə ɔn ðə faɪl ˈmɛnju) tɪ ˌɪmˈpɔrt ˌɛkˌsɛˈmɛl ˈdætə faɪlz ˈɪntu ˈækˌsɛs. ðɪs
+kəˈmænd dɪˈspleɪz ðə ˌɪmˈpɔrt ˈdaɪəlɔg bɑks soʊ ðət ju kən səˈlɛkt ən ˌɛkˌsɛˈmɛl ˈdɑkjəmɛnt ɛz
+wɛl ɛz ə ˈskimə, wɪʧ dɪˈskraɪbz ðə ˈstrəkʧər əv ðə ˈdætə. ju kən ˈoʊnli ˌɪmˈpɔrt
+ə ˈsɪŋgəl ˈdɑkjəmɛnt æt ə taɪm ˈɪntu ˈækˌsɛs. ðə ˈdætə məst bi ɪn ə ˈfɔrˌmæt ðət
+ˈækˌsɛs ˈrɛkəgˌnaɪzɪz, ˈiðər ɪn ə ˈneɪtɪv ˈfɔrˌmæt ər θru ðə juz əv ə ˈskimə.
+noʊt ðət wɪn ˌɪmˈpɔrtɪŋ ˌɛkˌsɛˈmɛl ˈdætə, ju kən nɑt ʧuz ə ˈsəbˌsɛt əv ðə ˌɛkˌsɛˈmɛl
+ˈdɑkjəmɛnt; ðə ɪnˈtaɪər faɪl həz tɪ bi ˌɪmˈpɔrtɪd. ju kən ˈtrænsfɔrm ðə ˈneɪtɪv ˌɛkˌsɛˈmɛl
+ˈdætə ˈɪntu ə spɪˈsɪfɪk ˈækˌsɛs ˈfɔrˌmæt baɪ ˈʧuzɪŋ frəm ðə ˈɔpʃənz ɪn ðə ˌɪmˈpɔrt
+ˌɛkˌsɛˈmɛl ˈdaɪəlɔg bɑks. ju kən ˈɔlsoʊ ˈspɛsəˌfaɪ ˈwɛðər tɪ ˌoʊvərˈraɪt ˈɛni ɪgˈzɪstɪŋ ˈteɪbəlz ər
+əˈpɛnd tɪ ɪgˈzɪstɪŋ ˈdætə. wət ər ˌɛkˌsɛˈmɛl ˈskiməz ju juz ˌɛkˌsɛˈmɛl ˈskiməz tɪ dɪˈskraɪb
+ðə ˈstrəkʧər əv ˈdætə ɪn ə ˈkɑmən ˈfɔrˌmæt ðət ˈkəstəmərz, ˈəðər wɛb ˈbraʊzərz, ənd
+ˈɛni ˈnəmbər əv xml-enabled* ˈsɔfˌwɛr ˈproʊˌgræmz kən ˈrɛkəgˌnaɪz. spəˈsɪfɪkli, ˈskiməz
+dɪˈfaɪn ðə rulz əv ən ˌɛkˌsɛˈmɛl ˈdætə ˈdɑkjəmɛnt, ˌɪnˈkludɪŋ ˈɛləmənt neɪmz ənd ˈdætə
+taɪps, wɪʧ ˈɛləmənts kən əˈpɪr ɪn ˌkɑmbəˈneɪʃən, ənd wɪʧ əˈtrɪˌbjuts ər
+əˈveɪləbəl fər iʧ ˈɛləmənt. ˈskiməz prəˈvaɪd ə ˈmɑdəl fər ən ˌɛkˌsɛˈmɛl ˈdætə ˈdɑkjəmɛnt
+wɪʧ dɪˈfaɪnz ðə ərˈeɪnʤmənt əv tægz ənd tɛkst wɪˈθɪn ɔl ˈdɑkjəmənts ˈrɛfərənsɪŋ
+ðə ˈskimə. ˈækˌsɛs səˈpɔrts ðə ˌɛkˌsɛˈmɛl ˈskimə ˈstændərd (xsd*). xsd* ɪz ə prəˈpoʊzd
+wərld waɪd wɛb kənˈsɔrʃjəm (w3c*) ˈstændərd dɪˈzaɪnd ɛz ə ˈbeɪsɪk ˌɪnfrəˈstrəkʧər fər
+dɪˈskraɪbɪŋ ðə taɪp ənd ˈstrəkʧər əv ˌɛkˌsɛˈmɛl ˈdɑkjəmənts. baɪ ˈjuzɪŋ ə ˈskimə, ju kən
+ɪnˈʃʊr ðət ˈɛni ˌɛkˌsɛˈmɛl ˈdɑkjəmɛnt ðət ɪz juzd tɪ ˌɪmˈpɔrt ˈdætə ˈɪntu ˈækˌsɛs ər ˈɛkspɔrt
+frəm ˈækˌsɛs tɪ əˈnəðər ˈfɔrˌmæt kənˈteɪnz spɪˈsɪfɪk ˈdætə ənd kənˈfɔrmz tɪ ə dɪˈfaɪnd
+ˈstrəkʧər. ju kən ˈɔlsoʊ prəˈvaɪd ðə ˈskimə tɪ ˈəðər ˈbɪznɪsɪz ənd ˌæpləˈkeɪʃənz
+soʊ ðət ðeɪ noʊ haʊ ðeɪ ʃʊd ˈstrəkʧər ˈɛni ˈdætə ðeɪ prəˈvaɪd tɪ ju ənd
+ðeɪ, ɪn tərn, kən prəˈvaɪd ðɛr ˈskimə tɪ ju. dɪˈspleɪɪŋ ˌɛkˌsɛˈmɛl ˈdætə ˌɛkˌsɛˈmɛl ˈsɪnˌtæks
+(ðə tægz ənd ðɛr ˈpleɪsmənt ɪn ə ˈdɑkjəmɛnt) dɪˈfaɪnz ənd dɪˈskraɪbz ðə ˈdætə ɪn
+ən ˌɛkˌsɛˈmɛl ˈdɑkjəmɛnt bət ˈdəzənt ˈɪndəˌkeɪt haʊ ðə ˈdætə ʃʊd bi dɪˈspleɪd. ɪn
+ˈərliər ˌæpləˈkeɪʃənz ənd ɪn səm ˈkɑrənt ˈjuzɪz, kæˈskeɪdɪŋ staɪl ʃits (css*) wər
+juzd tɪ tɛl ðə ˈbraʊzər haʊ tɪ dɪˈspleɪ ðə ˌɛkˌsɛˈmɛl ˈdætə. ˌhaʊˈɛvər, ə css* ˈɪzənt
+ˈɔlˌweɪz ə gʊd ʧɔɪs bɪˈkəz ðeɪ ər ˈrɪtən ɪn ə ˈspɛʃəˌlaɪzd ˈlæŋgwɪʤ wɪʧ
+minz ðət ðə dɪˈvɛləpər həz tɪ juz əˈnəðər ˈlæŋgwɪʤ ɪn ˈɔrdər tɪ raɪt, ˈmɑdəˌfaɪ,
+ər ˌəndərˈstænd ðə ˈstrəkʧər əv ðə staɪl ʃit. ə css* ˈmɪrli əˈlaʊz ju tɪ
+ˈspɛsəˌfaɪ ðə formatting* əv iʧ ˌɛkˌsɛˈmɛl ˈɛləmənt wɪˈθaʊt məʧ kənˈtroʊl ˈoʊvər ðə ˈaʊtˌpʊt.
+ɔn ðə ˈəðər hænd, ən extensible* stylesheet* ˈlæŋgwɪʤ (xsl*) staɪl ʃit ɪz
+kənˈsɪdərəbli mɔr ˈflɛksəbəl ðən ə css* faɪl. ɪt əˈlaʊz ju tɪ prɪˈsaɪsli səˈlɛkt
+ðə ˈdætə ðət wɪl bi dɪˈspleɪd, tɪ ˈspɛsəˌfaɪ ðə ˈɔrdər ər ərˈeɪnʤmənt əv ðə
+ˈdætə, ənd tɪ ˈmɑdəˌfaɪ ər æd ˌɪnˌfɔrˈmeɪʃən. ju kən əˈplaɪ ə ˈfɪltər tɪ ə roʊ ər
+ˈkɑləm fild tɪ ʃoʊ ðə tɔp ər ˈbɑtəm ɛn ˈaɪtəmz beɪst ɔn ə ˈtoʊtəl. fər ɪgˈzæmpəl,
+ju kən ˈfɪltər fər ðə tɔp ər ˈbɑtəm 25  əv ˈseɪlzˌpipəl beɪst ɔn ðə ˈnəmbər əv
+ˈɔrdərz ˈhændəld. kəmˈbaɪnɪŋ ˈməltəpəl ˈfɪltərz ˈfɪltərz ər ˈædɪtɪv. iʧ ˈfɪltər ju
+əˈplaɪ ɪz ˈædɪd tɪ ðə wənz ju ɔˈrɛdi hæv ɪn ˈifɛkt. ˌhaʊˈɛvər, wɪn ju əˈplaɪ ə
+ˈfɪltər baɪ səˈlɛkʃən, ðə kənˈdɪʃənəl ˈfɪltər ɔˈrɛdi əˈplaɪd ɔn ðə fild ɪz
+riˈmuvd ˌbiˈfɔr ðə ˈfɪltər baɪ səˈlɛkʃən ɪz əˈplaɪd. kənˈdɪʃənəl ˈfɪltərz ər
+ˌɪndɪˈpɛndənt əv iʧ ˈəðər. ðə rɪˈzəlt əv wən kənˈdɪʃənəl ˈfɪltər dɪz nɑt əˈfɛkt
+ðə rɪˈzəlt əv əˈnəðər. ən autofilter* ɪz ˈɔlˌweɪz əˈplaɪd ˌbiˈfɔr ə kənˈdɪʃənəl
+ˈfɪltər, rəˈgɑrdləs əv ðə ˈɔrdər ɪn wɪʧ ju əˈplaɪd ðɛm. fər ɪgˈzæmpəl, ɪf ju
+sɛt ə kənˈdɪʃənəl ˈfɪltər tɪ ʃoʊ ðə tɔp tu ˈsɪtiz beɪst ɔn seɪlz, ˈfɑloʊd baɪ
+ən autofilter* ɔn ðə shippedcity* fild tɪ ˌɪnˈklud ˈoʊnli faɪv ˈsɪtiz, ðə
+pivottable* vju wɪl ʃoʊ ðə tɔp tu əv ðə faɪv ˈsɪtiz ju səˈlɛktɪd. riˈmuvɪŋ
+ənd reapplying* ə ˈfɪltər ˌhaʊˈɛvər, ðə ˈfɪltər ˈsɛtɪŋz ər rɪˈteɪnd, soʊ ðət wɪn
+ju tərn autofiltering* bæk ɔn, ðə ˈdætə ðət wɑz ˈpriviəsli dɪˈspleɪd ər ˈhɪdən
+ɪz əˈgɛn dɪˈspleɪd ər ˈhɪdən. ˈfɪltər ˈsɛtɪŋz ər rɪˈteɪnd wɪn ju muv fildz
+tɪ ʧeɪnʤ ðə leɪaʊt. ˈɔlsoʊ, ɪf ju riˈmuv ə fild ənd ˈleɪtər æd ðə fild bæk
+tɪ ðə leɪaʊt, ðə seɪm ˈaɪtəmz ər əˈgɛn ˈhɪdən. ɪf ju doʊnt wɔnt tɪ rɪˈteɪn jʊr
+ˈfɪltər səˈlɛkʃənz, meɪk ʃʊr ðə autofilter* ˈbətən ɪz nɑt səˈlɛktɪd ˌbiˈfɔr ju
+stɑrt səˈlɛktɪŋ ˈaɪtəmz tɪ ˈfɪltər. ɪf ðə ˈbətən ɪz nɑt səˈlɛktɪd, səˈlɛktɪŋ nu
+ˈaɪtəmz tɪ ˈfɪltər ˌɔtəˈmætɪkli tərnz ˈfɪltərɪŋ ɔn ənd riˈmuvz jʊr ˈfɔrmər ˈfɪltər
+ˈsɛtɪŋz. aɪˈdɛntəˌfaɪɪŋ ˈfɪltərz ðət ər ˈkərəntli ɪn ˈifɛkt wɪn ˈaɪtəmz ɪn ə fild
+ər ˈhɪdən baɪ autofiltering* ər ˈfɪltər baɪ səˈlɛkʃən, ðə drop-down* ˈɛroʊ fild
+ˈɛroʊ ɪn ðə fild ˈleɪbəl ɪz blu. klɪk ðə blu ˈɛroʊ tɪ si ðə ˈfɪltər ðət ɪz
+ɪn ˈifɛkt. wɪn ˈaɪtəmz ɪn ə fild ər ˈhɪdən baɪ kənˈdɪʃənəl ˈfɪltərɪŋ, ə ˈfənəl
+əˈpɪrz tɪ ðə lɛft əv ðə drop-down* ˈɛroʊ fild ˈɛroʊ. ju kən gɪt mɔr
+ˌɪnˌfɔrˈmeɪʃən əˈbaʊt ðə ˈkɑrənt ˈfɪltər ɪn ðə ˈprɑpərtiz ˈdaɪəlɔg bɑks. ˈifɛkts əv
+ˈfɪltərɪŋ ɔn ˌkælkjəˈleɪʃənz ˈtoʊtəlz kən ˌɪnˈklud ˈoʊnli ðə dɪˈspleɪd ˈdætə, ər boʊθ
+ˈvɪzəbəl ənd ˈhɪdən ˈdætə. əˈbaʊt ˈkəstəˌmaɪzɪŋ ə kənˈtroʊl ɪn dɪˈzaɪn vju əv ə fɔrm,
+rɪˈpɔrt, ər ˈdætə ˈækˌsɛs peɪʤ, ju kən ˈfɔrˌmæt ə kənˈtroʊl ɪn ðə ˈfɑloʊɪŋ weɪz:
+saɪz. ju kən resize* ə kənˈtroʊl baɪ ˈjuzɪŋ ðə ˈsaɪzɪŋ ˈhændəlz, ər ju kən resize* ə
+kənˈtroʊl tɪ ðə haɪt ər wɪdθ əv əˈnəðər kənˈtroʊl. wɪn ju ər ɪn dɪˈzaɪn vju
+əv ə fɔrm ər rɪˈpɔrt, ju kən juz ðə ˈrulər tɪ hɛlp ju resize* kənˈtroʊlz. ðə
+wɪdθ əv ðə ruler's* ˈjunɪt əv ˈmɛʒər ɪz beɪst ɔn ðə ˈriʤənəl ˈsɛtɪŋz ɪn
+ˈmaɪˌkroʊˈsɔft ˈwɪndoʊz kənˈtroʊl ˈpænəl. ˈkələr, trænˈspɛrənsi, ənd ˈspɛʃəl ˈifɛkts. ju
+kən ʧeɪnʤ ðə ˈkələr əv ə kənˈtroʊl ər meɪk ɪt trænˈspɛrənt. ju kən ˈɔlsoʊ ˈɛmfəˌsaɪz
+ðə əˈpɪrəns əv ə kənˈtroʊl baɪ ˈjuzɪŋ ˈspɛʃəl ˈifɛkts. fər ɪgˈzæmpəl, ju kən
+ˈspɛsəˌfaɪ ðət ə kənˈtroʊl ɪz reɪzd, ˈsəŋkən, ər ɛʧt. ɔn ə fɔrm ər rɪˈpɔrt, ju
+kən ˈɔlsoʊ ˈspɛsəˌfaɪ ðət ə kənˈtroʊl ɪz ˈʃædoʊd ər ˈʧɪzəld. ˈbɔrdərz. ju kən sɛt
+ðə ˈkələr ənd wɪdθ əv ˈbɔrdərz əv kənˈtroʊlz. ˈɔlsoʊ, ju kən sɛt ðə laɪn staɪl əv
+ˈbɔrdərz. fər ɪgˈzæmpəl, ju kən ˈspɛsəˌfaɪ ðət ə ˈbɔrdər kənˈsɪsts əv ˈdæʃɪz ər dɑts.
+əˈpɪrəns əv tɛkst. ju kən ˈspɛsəˌfaɪ ðə fɑnt ənd fɑnt saɪz fər tɛkst ɪn ə
+kənˈtroʊl. ˈɔlsoʊ, ju kən meɪk ðə tɛkst ɪn ə kənˈtroʊl boʊld, aɪˈtælɪk, ər ˈəndərˌlaɪnd.
+pəˈzɪʃən. ju kən muv ə kənˈtroʊl ər əˈlaɪn ɪt ˈrɛlətɪv tɪ əˈnəðər kənˈtroʊl. ju
+kən ˌɪnˈkris ər ˈdiˌkris ðə speɪs bɪtˈwin kənˈtroʊlz, ər ju kən ˈspɛsəˌfaɪ ðət
+kənˈtroʊlz ər ˈivənli speɪst. əˈbaʊt ˈʧeɪnʤɪŋ ðə ˈprɑpərtiz əv ˈsɛvərəl kənˈtroʊlz æt
+wəns ju kən ʧeɪnʤ ˈprɑpərti ˈsɛtɪŋz fər ə grup əv kənˈtroʊlz əv ðə seɪm taɪp
+ər fər ə grup əv kənˈtroʊlz əv ˈdɪfərənt taɪps. ɪf ju səˈlɛkt kənˈtroʊlz əv
+ˈdɪfərənt taɪps, ˈmaɪˌkroʊˈsɔft ˈækˌsɛs dɪˈspleɪz ˈoʊnli ðə ˈprɑpərtiz ðət ər ʃɛrd
+baɪ ðə grup ɪn ðə ˈprɑpərti ʃit. ɪf ɔl ðə kənˈtroʊlz ðət juv səˈlɛktɪd
+ʃɛr ðə seɪm ˈprɑpərti ˈsɛtɪŋ, ðət ˈsɛtɪŋ əˈpɪrz ɪn ðə ˈprɑpərti ʃit;
+ˈəðərˌwaɪz, ðət ˈprɑpərti bɑks ɪz blæŋk. ɪf ju ʧeɪnʤ ðə ˈprɑpərti ˈsɛtɪŋ, ðə
+ʧeɪnʤ ɪz əˈplaɪd tɪ ɔl səˈlɛktɪd kənˈtroʊlz. tɪ səˈlɛkt ˈsɛvərəl kənˈtroʊlz æt wəns
+ɪn ə ˈdætə ˈækˌsɛs peɪʤ, ju məst hæv ˈmaɪˌkroʊˈsɔft ˈɪntərˌnɛt ɪkˈsplɔrər 5.5* ˌɪnˈstɔld
+ɔn jʊr kəmˈpjutər. ɪn ə fɔrm ər rɪˈpɔrt, ðə neɪm ˈprɑpərti ˈnɛvər əˈpɪrz wɪn mɔr
+ðən wən kənˈtroʊl ɪz səˈlɛktɪd bɪˈkəz kənˈtroʊl neɪmz məst bi juˈnik. əˈbaʊt
+ˈgrupɪŋ ˈdætə ɪn pivottable* ənd pivotchart* vju ˈgrupɪŋ ɔn ˈɪntərvəlz ɪn
+pivottable* ənd pivotchart* vju ju kən grup ˈaɪtəmz baɪ ˈspɛsəˌfaɪɪŋ ðə taɪp əv
+ˈɪntərvəl ənd ðə saɪz əv ðə ˈɪntərvəl. fər ɪgˈzæmpəl, ju kən grup ə fild wɪθ
+deɪt ˈvæljuz ˈɪntu ˈdɪfərənt mənθs, ənd ˈspɛsəˌfaɪ ðə ˈɪntərvəl ɛz 2 tɪ kriˈeɪt
+grups səʧ ɛz jan-feb*, mar-apr*, ənd soʊ ɔn. ðə taɪp əv ˈɪntərvəl ju kən ˈspɛsəˌfaɪ
+fər ə fild dɪˈpɛndz ɔn ðə ˈdætə taɪp əv ðə fild. nuˈmɛrɪk fildz ju kən grup
+ɪn ˈɪntərvəlz əv ˈɛni ˈɪntəʤər, səʧ ɛz 1 2 5 100 ənd soʊ ɔn. fər ɪgˈzæmpəl, ju
+kən grup ðə employeeid* fild ˈɪntu grups əv 1-100* 101-200* ənd soʊ ɔn. deɪt
+ənd taɪm fildz ju kən grup ɪn ˈɪntərvəlz səʧ ɛz deɪz, wiks, ənd kˈwɔrtərz.
+fər ɪgˈzæmpəl, ju kən grup ðə ˈvæljuz ɪn ðə shippeddate* fild ˈɪntu mənθs tɪ
+ʃoʊ ˈdætə fər ˈɔrdərz ʃɪpt ɪn ˈʤænjuˌɛri, ˈɔrdərz ʃɪpt ɪn ˈfɛbruˌɛri, ənd soʊ ɔn.
+
+hi ˈwəndərd ɪf ðə jəŋ ˈɔstər hæd bɪn ˈɛni ˈbɛtər æt ɪt ðən hi wɑz. əˈkrɔs
+ðə weɪ, ˈɑkjəˌpaɪɪŋ ðə ˈgreɪtər pɑrt əv ðə ˈsteɪʃənz ist wɔl, wɑz ðə ˈkoʊˌdæk
+dɪˈspleɪ ˈfoʊtəˌgræf, wɪθ ɪts braɪt əˈnərθli ˈkələrz. ðə sin ðət mənθ
+ʃoʊd ə strit ɪn səm nu ˈɪŋglənd ˈfɪʃɪŋ ˈvɪlɪʤ, pərˈhæps nænˈtəkɪt. ə
+ˈbjutəfəl spərɪŋ laɪt ʃoʊn ɔn ðə ˈkɑbəlˌstoʊnz, flaʊərz əv ˈmɛni ˈkələrz stʊd
+ɪn ˈwɪndoʊ ˈbɑksɪz əˈlɔŋ ðə haʊs frənts, ənd fɑr daʊn æt ðə ɛnd əv ðə strit
+wɑz ðə ˈoʊʃən, wɪθ ɪts waɪt weɪvz ənd blu, blu ˈwɔtər. kwɪn rɪˈmɛmbərd
+ˈvɪzɪtɪŋ nænˈtəkɪt wɪθ hɪz waɪf lɔŋ əˈgoʊ, ɪn hər fərst mənθ əv ˈprɛgnənsi, wɪn
+hɪz sən wɑz noʊ mɔr ðən ə ˈtaɪni ˈɑmənd ɪn hər ˈbɛli. hi faʊnd ɪt ˈpeɪnfəl tɪ
+θɪŋk əv ðət naʊ, ənd hi traɪd tɪ səˈprɛs ðə ˈpɪkʧərz ðət wər ˈfɔrmɪŋ ɪn
+hɪz hɛd. lʊk æt ɪt θru auster's* aɪz, hi sɛd tɪ hɪmˈsɛlf, ənd doʊnt θɪŋk
+əv ˈɛniˌθɪŋ ɛls. hi tərnd hɪz əˈtɛnʃən tɪ ðə ˈfoʊtəˌgræf əˈgɛn ənd wɑz
+rɪˈlivd tɪ faɪnd hɪz θɔts ˈwɑndərɪŋ tɪ ðə ˈsəbʤɪkt əv weɪlz, tɪ ðə
+ˌɛkspəˈdɪʃənz ðət hæd sɛt aʊt frəm nænˈtəkɪt ɪn ðə læst ˈsɛnʧəri, tɪ ˈmɛlvɪl ənd
+ðə ˈoʊpənɪŋ ˈpeɪʤɪz əv ˈmoʊbi dɪk. frəm ðɛr hɪz maɪnd ˈdrɪftɪd ɔf tɪ ðə əˈkaʊnts
+hi hæd rɛd əv melville's* læst jɪrz –* ðə ˈtæsɪˌtərn oʊld mæn ˈwərkɪŋ ɪn ðə nu
+jɔrk ˈkəstəmz haʊs, wɪθ noʊ ˈridərz, fərˈgɑtən baɪ ˈɛvriˌwən. ðɛn, ˈsədənli, wɪθ
+greɪt ˈklɛrɪti ənd priˈsɪʒən, hi sɔ bartleby's* ˈwɪndoʊ ənd ðə blæŋk brɪk wɔl
+ˌbiˈfɔr ɪm. ˈsəmˌwən tæpt ɪm ɔn ðə ɑrm, ənd ɛz kwɪn wild tɪ mit ðə
+əˈsɔlt, hi sɔ ə ʃɔrt, ˈsaɪlənt mæn ˈhoʊldɪŋ aʊt ə grin ənd rɛd ˈbɔlpɔɪnt pɛn tɪ
+ɪm. ˈsteɪpəld tɪ ðə pɛn wɑz ə ˈlɪtəl waɪt ˈpeɪpər flæg, wən saɪd əv wɪʧ rɛd:
+ðɪs gʊd ˈɑrtɪkəl ɪz ðə ˈkərtəsi əv ə dɛf mjut. peɪ ˈɛni praɪs. θæŋk ju fər
+jʊr hɛlp. ɔn ðə ˈəðər saɪd əv ðə flæg ðɛr wɑz ə ʧɑrt əv ðə ˈmænjuəl
+ˈælfəˌbɛt –* lərn tɪ spik tɪ jʊr frɛndz –* ðət ʃoʊd ðə hænd pəˈzɪʃənz fər
+iʧ əv ðə twenty-six* ˈlɛtərz. kwɪn riʧt ˈɪntu hɪz ˈpɑkət ənd geɪv ðə mæn ə
+ˈdɔlər. ðə dɛf mjut ˈnɑdɪd wəns ˈvɛri ˈbrifli ənd ðɛn muvd ɔn, ˈlivɪŋ kwɪn
+wɪθ ðə pɛn ɪn hɪz hænd. ɪt wɑz naʊ pæst faɪv əˈklɑk. kwɪn ˌdɪˈsaɪdɪd hi wʊd
+bi lɛs ˈvəlnərəbəl ɪn əˈnəðər spɑt ənd riˈmuvd hɪmˈsɛlf tɪ ðə ˈweɪtɪŋ rum. ðɪs
+wɑz ˈʤɛnərəli ə grɪm pleɪs, fɪld wɪθ dəst ənd ˈpipəl wɪθ ˈnoʊˌwɛr tɪ goʊ, bət
+naʊ, wɪθ ðə rəʃ aʊər æt fʊl fɔrs, ɪt hæd bɪn ˈteɪkən ˈoʊvər baɪ mɛn ənd ˈwɪmən
+wɪθ ˈbrifˌkeɪsɪz, bʊks, ənd ˈnuzˌpeɪpərz. kwɪn hæd ˈtrəbəl ˈfaɪndɪŋ ə sit. ˈæftər
+ˈsərʧɪŋ fər tu ər θri ˈmɪnəts, hi ˈfaɪnəli faʊnd ə pleɪs ɔn wən əv ðə
+ˈbɛnʧɪz, wedging* hɪmˈsɛlf bɪtˈwin ə mæn ɪn ə blu sut ənd ə pləmp jəŋ ˈwʊmən.
+ðə mæn wɑz ˈrɛdɪŋ ðə spɔrts ˈsɛkʃən əv ðə taɪmz, ənd kwɪn glænst ˈoʊvər tɪ
+rɛd ðə əˈkaʊnt əv mɛts' lɔs ðə naɪt ˌbiˈfɔr. hi hæd meɪd ɪt tɪ ðə θərd ər
+fɔrθ ˈpɛrəˌgræf wɪn ðə mæn tərnd sˈloʊli təˈwɔrd ɪm, geɪv ɪm ə ˈvɪʃəs
+stɛr, ənd ʤərkt ðə ˈpeɪpər aʊt əv vju. ˈæftər ðət, ə streɪnʤ θɪŋ ˈhæpənd.
+kwɪn tərnd hɪz əˈtɛnʃən tɪ ðə jəŋ ˈwʊmən ɔn hɪz raɪt, tɪ si ɪf ðɛr wɑz
+ˈɛni ˈrɛdɪŋ məˈtɪriəl ɪn ðət dɪˈrɛkʃɪn. kwɪn gɛst hər eɪʤ æt əraʊnd tˈwɛnti.
+ðɛr wər ˈsɛvərəl ˈpɪmpəlz ɔn hər lɛft ʧik, əbˈskjʊrd baɪ ə pimpish* smɪr əv
+ˈpænˌkeɪk ˈmeɪˌkəp, ənd ə wɑd əv ʧuɪŋ gəm wɑz ˈkræklɪŋ ɪn hər maʊθ. ʃi wɑz,
+ˌhaʊˈɛvər, ˈrɛdɪŋ ə bʊk, ə ˈpeɪpərˌbæk wɪθ ə ˈlʊrəd ˈkəvər, ənd kwɪn lind ˈoʊvər
+ˈɛvər soʊ sˈlaɪtli tɪ hɪz raɪt tɪ kæʧ ə glɪmps əv ðə ˈtaɪtəl. əˈgɛnst ɔl hɪz
+ˌɛkspɛkˈteɪʃənz, ɪt wɑz ə bʊk hi hɪmˈsɛlf hæd ˈrɪtən –* ˈsuɪˌsaɪd skwiz baɪ ˈwɪljəm
+ˈwɪlsən, ðə fərst əv ðə mæks wərk ˈnɑvəlz. kwɪn hæd ˈɔfən ˌɪˈmæʤənd ðɪs
+ˌsɪʧuˈeɪʃən: ðə ˈsədən, ˌənɪkˈspɛktɪd ˈplɛʒər əv ɛnˈkaʊnərɪŋ wən əv hɪz ˈridərz.
+hi hæd ˈivɪn ˌɪˈmæʤənd ðə ˌkɑnvərˈseɪʃən ðət wʊd ˈfɑloʊ: hi, suavely* diffident*
+ɛz ðə ˈstreɪnʤər preɪzd ðə bʊk, ənd ðɛn, wɪθ greɪt rɪˈləktəns ənd ˈmɑdəsti,
+əˈgriɪŋ tɪ ˈɔtəˌgræf ðə ˈtaɪtəl peɪʤ, sɪns ju ˌɪnˈsɪst. bət naʊ ðət ðə sin
+wɑz ˈteɪkɪŋ pleɪs, hi fɛlt kwaɪt ˌdɪsəˈpɔɪnɪd, ˈivɪn ˈæŋgri. hi dɪd nɑt laɪk ðə
+gərl ˈsɪtɪŋ nɛkst tɪ ɪm, ənd ɪt əˈfɛndɪd ɪm ðət ʃi ʃʊd bi ˈkæʒəwəli
+ˈskɪmɪŋ ðə ˈpeɪʤɪz ðət hæd kɔst ɪm soʊ məʧ ˈɛfərt. hɪz ˌɪmˈpəls wɑz tɪ tɪr ðə
+bʊk aʊt əv hər hænz ənd rən əˈkrɔs ðə ˈsteɪʃən wɪθ ɪt. hi lʊkt æt hər feɪs
+əˈgɛn, traɪɪŋ tɪ hir ðə wərdz ʃi wɑz ˈsaʊndɪŋ aʊt ɪn hər hɛd, ˈwɑʧɪŋ hər
+aɪz ɛz ðeɪ ˈdɑrtɪd bæk ənd fɔrθ əˈkrɔs ðə peɪʤ. hi məst hæv bɪn ˈlʊkɪŋ
+tu hɑrd, fər ə ˈmoʊmənt ˈleɪtər ʃi tərnd tɪ ɪm wɪθ ən ˈɪrəˌteɪtəd ɪkˈsprɛʃən ɔn
+hər feɪs ənd sɛd, ju gɑt ə ˈprɑbləm, ˈmɪstər? kwɪn smaɪld ˈwikli. noʊ ˈprɑbləm,
+hi sɛd. aɪ wɑz ʤɪst ˈwəndərɪŋ ɪf ju laɪkt ðə bʊk. ðə gərl ʃrəgd. aɪv
+rɛd ˈbɛtər ənd aɪv rɛd wərs. kwɪn ˈwɔntɪd tɪ drɔp ðə ˌkɑnvərˈseɪʃən raɪt
+ðɛr, bət ˈsəmθɪŋ ɪn ɪm pərˈsɪstɪd. ˌbiˈfɔr hi kʊd gɪt əp ənd liv, ðə
+wərdz wər ɔˈrɛdi aʊt əv hɪz maʊθ. du ju faɪnd ɪt ɪkˈsaɪtɪŋ? ðə gərl ʃrəgd
+əˈgɛn ənd krækt hər gəm ˈlaʊdli. sɔrt əv. ðɛrz ə pɑrt wɛr ðə dɪˈtɛktɪv
+gɪts lɔst ðæts kaɪnd əv ˈskɛri. ɪz hi ə smɑrt dɪˈtɛktɪv? jæ, hiz smɑrt. bət
+hi tɔks tu məʧ. jʊd laɪk mɔr ˈækʃən? aɪ gɛs soʊ. ɪf ju doʊnt laɪk ɪt, waɪ
+du ju goʊ ɔn ˈrɛdɪŋ? aɪ doʊnt noʊ. ðə gərl ʃrəgd wəns əˈgɛn. ɪt ˈpæsɪz ðə
+taɪm, aɪ gɛs. ˈɛniˌweɪ, ɪts noʊ bɪg dil. ɪts ʤɪst ə bʊk. hi wɑz əˈbaʊt tɪ tɛl
+hər hu hi wɑz, bət ðɛn hi ˈriəˌlaɪzd ðət ɪt meɪd noʊ ˈdɪfərəns. ðə gərl wɑz
+bɪɔnd hoʊp. fər faɪv jɪrz hi hæd kɛpt ˈwɪljəm ˈwɪlsənz aɪˈdɛntəˌti ə ˈsikrɪt, ənd
+hi ˈwəzənt əˈbaʊt tɪ gɪv ɪt əˈweɪ naʊ, list əv ɔl tɪ ən ˈɪmbəsəl ˈstreɪnʤər.
+stɪl, ɪt wɑz ˈpeɪnfəl, ənd hi ˈstrəgəld ˈdɛspərətli tɪ sˈwɔloʊ hɪz praɪd. ˈrəðər
+ðən pənʧ ðə gərl ɪn ðə feɪs, hi əˈbrəptli stʊd əp frəm hɪz sit ənd wɔkt
+əˈweɪ. æt six-thirty* hi ˈpoʊstɪd hɪmˈsɛlf ɪn frənt əv geɪt tˈwɛntiˌfɔr. ðə treɪn
+wɑz du tɪ əraɪv ɪn taɪm, ənd frəm hɪz ˈvæntɪʤ ɪn ðə ˈsɛnər əv ðə ˈdɔrˌweɪ,
+kwɪn ʤəʤd ðət hɪz ˈʧænsɪz əv siɪŋ ˈstɪlmən wər gʊd. hi tʊk aʊt ðə
+ˈfoʊtəˌgræf frəm hɪz ˈpɑkət ənd ˈstədid ɪt əˈgɛn, peɪɪŋ ˈspɛʃəl əˈtɛnʃən tɪ ðə
+aɪz. hi rɪˈmɛmbərd ˈhævɪŋ rɛd ˈsəmˌwɛr ðət ðə aɪz wər ðə wən ˈfiʧər əv
+ðə feɪs ðət ˈnɛvər ʧeɪnʤd. frəm ˈʧaɪlˌdhʊd tɪ oʊld eɪʤ ðeɪ rɪˈmeɪnd ðə seɪm,
+ənd ə mæn wɪθ ðə hɛd tɪ si ɪt kʊd ˌθiərˈɛtɪkəli lʊk ˈɪntu ðə aɪz əv ə
+bɔɪ ɪn ə ˈfoʊtəˌgræf ənd ˈrɛkəgˌnaɪz ðə seɪm ˈpərsən ɛz ən oʊld mæn. kwɪn hæd hɪz
+daʊts, bət ðɪs wɑz ɔl hi hæd tɪ goʊ ɔn, hɪz ˈoʊnli brɪʤ tɪ ðə ˈprɛzənt. wəns
+əˈgɛn, ˌhaʊˈɛvər, stillman's* feɪs toʊld ɪm ˈnəθɪŋ. ðə treɪn pʊld ˈɪntu ðə
+ˈsteɪʃən, ənd kwɪn fɛlt ðə nɔɪz əv ɪt ʃut θru hɪz ˈbɑdi: ə ˈrændəm, ˈhɛktɪk
+dɪn ðət simd tɪ ʤɔɪn wɪθ hɪz pəls, ˈpəmpɪŋ hɪz bləd ɪn ˈrɔkəs spərts. hɪz
+hɛd ðɛn fɪld wɪθ ˈpitər stillman's* vɔɪs, ɛz ə bərɑʒ əv ˈnɑnsɛns wərdz
+clattered* əˈgɛnst ðə wɔlz əv hɪz skəl. hi toʊld hɪmˈsɛlf tɪ steɪ kɑm. bət ðət
+dɪd ˈlɪtəl gʊd. ɪn spaɪt əv wət hi hæd bɪn ɪkˈspɛktɪŋ əv hɪmˈsɛlf æt ðɪs
+ˈmoʊmənt, hi wɑz ɪkˈsaɪtɪd. ðə treɪn wɑz ˈkraʊdɪd, ənd ɛz ðə ˈpæsənʤərz ˈstɑrtɪd
+ˈfɪlɪŋ ðə ræmp ənd ˈwɔkɪŋ təˈwɔrd ɪm, ðeɪ kˈwɪkli bɪˈkeɪm ə mɑb. kwɪn
+flæpt ðə rɛd ˈnoʊtˌbʊk ˈnərvəsli əˈgɛnst hɪz raɪt θaɪ, stʊd ɔn hɪz
+tiptoes*, ənd pɪrd ˈɪntu ðə θrɔŋ. sun ðə ˈpipəl wər ˈsərʤɪŋ əraʊnd ɪm.
+ðɛr wər mɛn ənd ˈwɪmən, ˈʧɪldrən ənd oʊld ˈpipəl, ˈtiˌneɪʤərz ənd ˈbeɪbiz, rɪʧ
+ˈpipəl ənd pur ˈpipəl, blæk mɛn ənd waɪt ˈwɪmən, waɪt mɛn ənd blæk ˈwɪmən,
+ˌɔriˈɛnəlz ənd ˈærəbz, mɛn ɪn braʊn ənd greɪ ənd blu ənd grin, ˈwɪmən ɪn rɛd ənd
+waɪt ənd ˈjɛloʊ ənd pɪŋk, ˈʧɪldrən ɪn sˈnikərz, ˈʧɪldrən ɪn ʃuz, ˈʧɪldrən ɪn
+ˈkaʊˌbɔɪ buts, fæt ˈpipəl ənd θɪn ˈpipəl, tɔl ˈpipəl ənd ʃɔrt ˈpipəl, iʧ wən
+ˈdɪfərənt frəm ɔl ðə ˈəðərz, iʧ wən irreducibly* hɪmˈsɛlf. kwɪn wɔʧt ðɛm
+ɔl, ˈæŋkərd tɪ hɪz spɑt, ɛz ɪf hɪz hoʊl biɪŋ hæd bɪn ˈɛkˌsaɪld tɪ hɪz aɪz.
+iʧ taɪm ən ˈɛldərli mæn əˈproʊʧt, hi breɪst hɪmˈsɛlf fər ɪt tɪ bi ˈstɪlmən.
+ðeɪ keɪm ənd wɛnt tu kˈwɪkli fər ɪm tɪ ˌɪnˈdəlʤ ɪn ˌdɪsəˈpɔɪntmənt, bət ɪn iʧ
+oʊld feɪs hi simd tɪ faɪnd ən ˈɔgər əv wət ðə ril ˈstɪlmən wʊd bi laɪk, ənd
+hi ˈræpədli ˈʃɪftɪd hɪz ˌɛkspɛkˈteɪʃənz wɪθ iʧ nu feɪs, ɛz ɪf ðə əˌkjumjəˈleɪʃən
+əv oʊld mɛn wɑz ˈhɛrəldɪŋ ðə ˈɪmənənt ərˈaɪvəl əv ˈstɪlmən hɪmˈsɛlf. fər wən brif
+ˈɪnstənt kwɪn θɔt, soʊ ðɪs ɪz wət dɪˈtɛktɪv wərk ɪz laɪk. bət ˈəðər ðən
+ðət hi θɔt ˈnəθɪŋ. hi wɔʧt. ˌɪˈmoʊˌbil əˈməŋ ðə ˈmuvɪŋ kraʊd, hi stʊd
+ðɛr ənd wɔʧt. ðə nɛkst ˈmɔrnɪŋ, ənd fər ˈmɛni ˈmɔrnɪŋz tɪ ˈfɑloʊ, kwɪn
+ˈpoʊstɪd hɪmˈsɛlf ɔn ə bɛnʧ ɪn ðə ˈmɪdəl əv ðə ˈtræfɪk ˈaɪlənd æt ˈbrɔdˌweɪ ənd
+99th* strit. aɪ wɪʃ ɪt wɑz. bət ðɪs həz ˈnəθɪŋ tɪ du wɪθ ˈlɪtərəʧər. wɪθ
+wət, ðɛn? kwɪn pɔzd, lʊkt əraʊnd ðə rum wɪˈθaʊt siɪŋ ˈɛniˌθɪŋ, ənd
+traɪd tɪ stɑrt. aɪv ə ˈfilɪŋ ðɛrz bɪn ə ˈtɛrəbəl mɪˈsteɪk. aɪ keɪm hir
+ˈlʊkɪŋ fər pɔl ˈɔstər, ðə ˈpraɪvət dɪˈtɛktɪv. ðə wət? ˈɔstər læft, ənd ɪn
+ðət læf ˈɛvriˌθɪŋ wɑz ˈsədənli bloʊn tɪ bɪts. kwɪn ˈriəˌlaɪzd ðət hi wɑz
+ˈtɔkɪŋ ˈnɑnsɛns. hi məst ʤɪst ɛz wɛl hæv æst fər ʧif ˈsɪtɪŋ bʊl –* ðə
+ˈifɛkt wʊd hæv bɪn noʊ ˈdɪfərənt. ðə ˈpraɪvət dɪˈtɛktɪv, hi rɪˈpitɪd ˈsɔftli.
+əm əˈfreɪd juv gɑt ðə rɔŋ pɔl ˈɔstər. jʊr ðə ˈoʊnli wən ɪn ðə bʊk.
+ðət maɪt bi, sɛd ˈɔstər. bət əm nɑt ə dɪˈtɛktɪv. hu ər ju ðɛn? wət du
+ju du? əm ə ˈraɪtər. ə ˈraɪtər? kwɪn spoʊk ðə wərd ɛz ðoʊ ɪt wər ə ləˈmɛnt.
+əm ˈsɑri. ˈɔstər sɛd. bət ðæts wət aɪ ˈhæpən tɪ bi. ɪf ðæts tru, ðɛn
+ðɛrz noʊ hoʊp. ðə hoʊl θɪŋ ɪz ə bæd drim. aɪ hæv noʊ aɪˈdiə wət jʊr
+ˈtɔkɪŋ əˈbaʊt. kwɪn toʊld ɪm. hi bɪˈgæn æt ðə bɪˈgɪnɪŋ ənd wɛnt θru ðə
+ɪnˈtaɪər ˈstɔri, stɛp baɪ stɛp. ðə ˈprɛʃər hæd bɪn ˈbɪldɪŋ əp ɪn ɪm sɪns
+stillman's* ˌdɪsəˈpɪrəns ðət ˈmɔrnɪŋ, ənd ɪt keɪm aʊt əv ɪm naʊ ɛz ə ˈtɔrənt
+əv wərdz. hi toʊld əv ðə foʊn kɔlz fər pɔl ˈɔstər, əv hɪz ˌɪnəkˈsplɪkəbəl
+əkˈsɛptəns əv ðə keɪs, əv hɪz ˈmitɪŋ wɪθ ˈpitər ˈstɪlmən, əv hɪz ˌkɑnvərˈseɪʃən
+wɪθ vərˈʤɪnjə ˈstɪlmən, əv hɪz ˈrɛdɪŋ stillman's* bʊk, əv hɪz ˈfɑloʊɪŋ
+ˈstɪlmən frəm grænd ˈsɛntrəl ˈsteɪʃən, əv stillman's* ˈdeɪli ˈwɑndərɪŋz, əv ðə
+carpetbag* ənd ðə ˈbroʊkən ˈɑbʤɛkts, əv ðə dɪskˈwaɪətɪŋ mæps ðət fɔrmd ˈlɛtərz əv
+ðə ˈælfəˌbɛt, əv hɪz tɔks wɪθ ˈstɪlmən, əv stillman's* ˌdɪsəˈpɪrəns frəm ðə
+hoʊˈtɛl. wɪn hi hæd kəm tɪ ðə ɛnd, hi sɛd, du ju θɪŋk əm ˈkreɪzi? noʊ, sɛd
+ˈɔstər, hu hæd ˈlɪsənd əˈtɛntɪvli tɪ kwɪnz ˈmɑnəˌlɔg ɪf aɪ hæd bɪn ɪn jʊr
+pleɪs, aɪ ˈprɑbəˌbli wʊd hæv dən ðə seɪm θɪŋ. ðiz wərdz keɪm ɛz ə greɪt
+rɪˈlif tɪ kwɪn, ɛz ɪf, æt lɔŋ læst, ðə ˈbərdən wɑz noʊ ˈlɔŋgər hɪz əˈloʊn. hi
+fɛlt laɪk ˈteɪkɪŋ ˈɔstər ɪn hɪz ɑrmz ənd dɪˈklɛrɪŋ hɪz ˈfrɛndʃɪp fər laɪf. ju
+si, sɛd kwɪn, əm nɑt ˈmeɪkɪŋ ɪt əp. aɪ ˈivɪn hæv pruf. hi tʊk aʊt hɪz ˈwɔlət
+ənd riˈmuvd ðə five-hundred-dollar* ʧɛk ðət vərˈʤɪnjə ˈstɪlmən hæd ˈrɪtən tu
+wiks ˈərliər. hi ˈhændɪd ɪt tɪ ˈɔstər. ju si, hi sɛd. ɪts ˈivɪn meɪd aʊt tɪ
+ju. ˈɔstər lʊkt ðə ʧɛk ˈoʊvər ˈkɛrfəli ənd ˈnɑdɪd. ɪt simz tɪ bi ə
+ˈpərfəktli ˈnɔrməl ʧɛk. wɛl, ɪts jʊrz, sɛd kwɪn. aɪ wɔnt ju tɪ hæv ɪt. aɪ
+ˈkʊdənt ˈpɑsəbli əkˈsɛpt ɪt. ɪts əv noʊ juz tɪ mi. kwɪn lʊkt əraʊnd ðə
+əˈpɑrtmənt ənd ˈʤɛsʧərd ˈveɪgli. baɪ ˈjɔrsɛlf səm mɔr bʊks. ər ə fju tɔɪz fər
+jʊr kɪd. ðɪs ɪz ˈməni juv ərnd. ju dɪˈzərv tɪ hæv ɪt ˈjɔrsɛlf. ˈɔstər
+pɔzd fər ə ˈmoʊmənt. ðɛrz wən θɪŋ aɪl du fər ju, ðoʊ. sɪns ðə ʧɛk
+ɪz ɪn maɪ neɪm, aɪl kæʃ ɪt fər ju. aɪl teɪk ɪt tɪ maɪ bæŋk təˈmɑˌroʊ ˈmɔrnɪŋ,
+dɪˈpɑzət ɪt ɪn maɪ əˈkaʊnt, ənd gɪv ju ðə ˈməni wɪn ɪt klɪrz. kwɪn dɪd nɑt
+seɪ ˈɛniˌθɪŋ. ɔl raɪt? ˈɔstər æst. ɪz ɪt əˈgrid? ɔl raɪt, sɛd kwɪn æt
+læst. wɪl si wət ˈhæpənz. ˈɔstər pʊt ðə ʧɛk ɔn ðə ˈkɔfi ˈteɪbəl, ɛz ɪf tɪ
+seɪ ðə ˈmætər hæd bɪn ˈsɛtəld. ðɛn hi lind bæk ɔn ðə ˈsoʊfə ənd lʊkt
+kwɪn ɪn ðə aɪz. ðɛrz ə məʧ mɔr ˌɪmˈpɔrtənt kˈwɛʃən ðən ðə ʧɛk, hi
+sɛd. ðə fækt ðət maɪ neɪm həz bɪn mɪkst əp ɪn ðɪs. aɪ doʊnt ˌəndərˈstænd ɪt æt
+ɔl. aɪ ˈwəndər ɪf juv hæd ˈɛni ˈtrəbəl wɪθ jʊr foʊn ˈleɪtli. waɪərz ˈsəmˌtaɪmz
+gɪt krɔst. ə ˈpərsən traɪz tɪ kɔl ə ˈnəmbər, ənd ˈivɪn ðoʊ hi daɪəlz
+kərˈɛktli, hi gɪts ˈsəmˌwən ɛls. jɛs, ðæts ˈhæpənd tɪ mi ˌbiˈfɔr. bət ˈivɪn ɪf
+maɪ foʊn wɑz ˈbroʊkən, ðət ˈdəzənt ɪkˈspleɪn ðə ril ˈprɑbləm. ɪt wʊd tɛl ˈjuˈɛs waɪ
+ðə kɔl wɛnt tɪ ju, bət nɑt waɪ ðeɪ ˈwɔntɪd tɪ spik tɪ mi ɪn ðə fərst pleɪs.
+ɪz ɪt ˈpɑsəbəl ðət ju noʊ ðə ˈpipəl ˌɪnˈvɑlvd? aɪv ˈnɛvər hərd əv ðə
+stillmans*. ˈmeɪbi ˈsəmˌwən ˈwɔntɪd tɪ pleɪ ə ˈpræktɪkəl ʤoʊk ɔn ju. aɪ doʊnt hæŋ
+əraʊnd wɪθ ˈpipəl laɪk ðət. ju ˈnɛvər noʊ. bət ðə fækt ɪz, ɪts nɑt ə ʤoʊk.
+ɪts ə ril keɪs wɪθ ril ˈpipəl. jɛs, sɛd kwɪn ˈæftər ə lɔŋ ˈsaɪləns. əm
+əˈwɛr əv ðət. ðeɪ hæd kəm tɪ ðə ɛnd əv wət ðeɪ kʊd tɔk əˈbaʊt. bɪɔnd
+ðət pɔɪnt ðɛr wɑz ˈnəθɪŋ: ðə ˈrændəm θɔts əv mɛn hu nu ˈnəθɪŋ. kwɪn
+ˈriəˌlaɪzd ðət hi ʃʊd bi goʊɪŋ. hi hæd bɪn ðɛr ˈɔlˌmoʊst ən aʊər, ənd ðə taɪm
+wɑz əˈproʊʧɪŋ fər hɪz kɔl tɪ vərˈʤɪnjə ˈstɪlmən. ˌnɛvərðəˈlɛs, hi wɑz
+rɪˈləktənt tɪ muv. ðə ʧɛr wɑz ˈkəmfərtəbəl, ənd ðə bɪr hæd gɔn sˈlaɪtli tɪ
+hɪz hɛd. ðɪs ˈɔstər wɑz ðə fərst ˌɪnˈtɛləʤənt ˈpərsən hi hæd ˈspoʊkən tɪ ɪn ə
+lɔŋ taɪm. hi hæd rɛd kwɪnz oʊld wərk, hi hæd ədˈmaɪərd ɪt, hi hæd bɪn ˈlʊkɪŋ
+ˈfɔrwərd tɪ mɔr.
+
+ðə ˈɑrʧˈbɪʃəp ɪz ˈrɪli ˈvɛri ˈhænsəm, wɪθ hɪz fʊl ʧiks, hɪz lɔŋ klɪr
+dark-green* aɪz, ənd ðə ʃɔrt strɔŋ bɪrd. hɪz ʧərʧ ɪz ˈvɛnərəbəl rɪʧ ənd
+ˈbjutəfəl. ɪt kənˈteɪnz ðə hɛd əv seɪnt ʤeɪmz ðə ˈbrəðər əv ʤɑn ənd ˈmɛni
+ˈrɛlɪks. ðə haʊs əv ˈænəz, ɪn wɪʧ ˈʤizəs wɑz kˈwɛsʧənd ənd strək, ɪz wɪˈθɪn
+ðə ˈkɑmpaʊnd. ðə ˈʧərʧəz ˈmænjəˌskrɪpt kəˈlɛkʃən ɪz ðə ˈlɑrʤəst ˈaʊtˈsaɪd ˈsoʊviˌɛt
+ɑrˈminiə. ðə ænˈtik taɪlz ər ˈgɔrʤəs. bət ɔl ðiz θɪŋz ər ɪn səm weɪ
+ɪkˈstərnəl. wi aʊtˈsaɪdərz ər nɑt ˈsteɪbəl ɪˈnəf tɪ əˈpriʃiˌeɪt ðɛm. wi ˌɪnˈhɛrət ɑr
+moʊd əv əˌpriʃiˈeɪʃən frəm ðə vɪkˈtɔriənz, frəm ə taɪm əv ˈseɪfti ənd ˈlɛʒər,
+wɪn ˈdɪnər gɛsts nu ˈbɛtər ðən tɪ smoʊk ˈæftər ðə meɪn kɔrs, wɪn
+levantines* wər levantines* ənd ˈkəlʧər wɑz stɪl ˈkəlʧər. bət ɪn ðiz deɪz əv
+ˈɑrmərd əˈtæks ɔn jɑm ˈkɪpər, əv vietnams*, watergates*, mansons*, amins*,
+ˈtɛrərɪst ˈmæsɪkərz æt oʊˈlɪmpɪk geɪmz, wət ər ˌɪˈluməˌneɪtəd ˈmænjəˌskrɪpts, wət ər
+ˈmæstərˌpisɪz əv rɔt aɪərn, wət ər ˈhoʊli ˈpleɪsɪz? wi sun gɪt əraʊnd tɪ
+kənˈtɛmpərˌɛri ˈmætərz. ə kɔl tɪ ðə ˈtɛləˌfoʊn; ðə ˈɑrʧˈbɪʃəp ɪkˈskjuzɪz hɪmˈsɛlf ɪn
+tu ˈlæŋgwɪʤɪz ənd tɛlz ˈjuˈɛs wɪn hi kəmz bæk ðət hi həz bɪn ˈspikɪŋ tɪ wən
+əv hɪz ˈlɛbəˌniz frɛndz ˈkɔlɪŋ frəm ˈsaɪprəs ər frəm gris. hi sɪts daʊn, seɪɪŋ
+ðət ðə ˈɪnfluəns əv ˌjɑˈsɪr ˈɑrəˌfɑt ɪz ˈɛvədəntli ˈwikənɪŋ ənd ˈfeɪdɪŋ. ˈɑrəˌfɑt wɑz
+əˈneɪbəl tɪ kəmˈplit ðə ˈklæsɪk gərˈɪlə ˈpætərn ənd brɪŋ ðə ˈmæsɪz ˈɪntu ðə
+ˈstrəgəl. ðɛn ˈsəmˌwən sɪz ðət ɪt kænt bi lɔŋ naʊ ˌbiˈfɔr ðə ˈrəʃənz raɪt
+ˈɑrəˌfɑt ɔf. ðeɪ hæv ənˈdaʊtɪdli ˈrɛkəgˌnaɪzd ðɛr ˈfeɪljər ɪn ðə ˈærəb wərld ənd
+meɪ ˈivɪn bi pərˈpɛrɪŋ tɪ riˈoʊpən ˌdɪpləˈmætɪk riˈleɪʃənz wɪθ ˈɪzriəl. moʊst əv ðə
+ˈdɪnər gɛsts əˈgri ðət ˈrəʃəz ˌɪnˈtərnəl ˈdɪfɪˌkəltiz ər soʊ greɪv ɪt meɪ hæv
+tɪ drɔ əˈweɪ frəm ˈsɪriə. ˌɪnˈdid, ɪt meɪ bi fɔrst tɪ riˈtrit frəm ðə ˈmɪdəl
+ist ənd ˈkɑnsənˌtreɪt ɔn ɪts dəˈmɛstɪk ˈprɑbləmz. tɪ əˈvɔɪd kəˈlæps ðə ˈrəʃənz
+meɪ bi ˈdrɪvən ˈɪntu ə wɔr wɪθ ˈʧaɪnə. secretary-of-state* ˈhɛnri ˈkɪsɪnʤər həz wən
+ðə ˈmɪdəl ˈistərn ˈstrəgəl baɪ drɔɪŋ ˈiʤɪpt ˈɪntu ðə əˈmɛrɪkən kæmp. hi ɪz ə
+ˈʤinjəs. ðə ˈrəʃənz ər ɪn ˌdɪsəˈreɪ, pərˈhæps ɪn riˈtrit. aɪ hæv bɪn ˈhirɪŋ
+ˌkɑnvərˈseɪʃənz laɪk ðɪs wən fər hæf ə ˈsɛnʧəri. aɪ wɛl rɪˈmɛmbər wət
+ˌɪnˈtɛləʤənt, ˌɪnˈfɔrmd ˈpipəl wər seɪɪŋ ɪn ðə læst jɪrz əv ðə ˈvaɪmɑr
+riˈpəblɪk, wət ðeɪ toʊld wən əˈnəðər ɪn ðə fərst deɪz ˈæftər hindenburg* hæd
+brɔt ɪn ˈhɪtlər. aɪ ˈriˌkɔl ˈteɪbəl tɔk frəm ðə taɪmz əv liɑn blum ənd ˈɛduɑrd
+daladier*. aɪ rɪˈmɛmbər wət ˈpipəl sɛd əˈbaʊt ðə ˌɪˈtæljən ədˈvɛnʧər ɪn ˌiθiˈoʊpiə
+ənd əˈbaʊt ðə ˈspænɪʃ ˈsɪvəl wɔr ənd ðə ˈbætəl əv ˈbrɪtən. səʧ ˌɪnˈtɛləʤənt
+dɪˈskəʃən ˈhæzənt ˈɔlˌweɪz bɪn rɔŋ. wət ɪz rɔŋ wɪθ ɪt ɪz ðət ðə
+discussants* ˌɪnˈvɛriəbli ˌɪmˈpɑrt ðɛr oʊn ˌɪnˈtɛləʤəns tɪ wət ðeɪ ər
+dɪˈskəsɪŋ. ˈleɪtər, hɪˈstɔrɪkəl ˈstədiz ʃoʊ ðət wət ˈæˌkʧuəli ˈhæpənd wɑz
+dɪˈvɔɪd əv ˈɛniˌθɪŋ laɪk səʧ ˌɪnˈtɛləʤəns. ɪt wɑz ˈæbsənt frəm ˈflændərz fild ənd
+frəm vɛrˈseɪlz, ˈæbsənt wɪn ðə rʊr wɑz ˈteɪkən, ˈæbsənt frəm ˌtɛhərˈɑn, ˈjɔltə,
+ˈpɑtsˌdæm, ˈæbsənt frəm ˈbrɪtɪʃ ˈpɑləsi æt ðə taɪm əv ðə ˈpæləˌstaɪn ˈmænˌdeɪt, ˈæbsənt
+ˌbiˈfɔr, ˈdʊrɪŋ, ənd ˈæftər ðə ˈhɔləˌkɔst. ˈhɪstəri ənd ˈpɑləˌtɪks ər nɑt æt ɔl
+laɪk ðə ˈnoʊʃənz dɪˈvɛləpt baɪ ˌɪnˈtɛləʤənt, ˌɪnˈfɔrmd ˈpipəl. tolstoi* meɪd ðɪs
+klɪr ɪn ðə ˈoʊpənɪŋ ˈpeɪʤɪz əv wɔr ənd pis. ɪn ˈænə ˈʃɛrərz səˈlɑn, ðə
+ˈɛləgənt gɛsts ər dɪˈskəsɪŋ ðə ˈskændəl əv nəˈpoʊljən ənd ðə dək d'enghien*, ənd
+prɪns ˈænˌdreɪ sɪz ðət ˈæftər ɔl ðɛr ɪz ə greɪt ˈdɪfərəns bɪtˈwin nəˈpoʊljən
+ðə ˈɛmpərər ənd nəˈpoʊljən ðə ˈpraɪvət ˈpərsən. ðɛr ər raisons* ˌdɛˈtɑ ənd ðɛr
+ər ˈpraɪvət kraɪmz. ənd ðə tɔk goʊz ɔn. wət ɪz stɪl biɪŋ pərˈpɛʧəˌweɪtɪd ɪn ɔl
+ˈsɪvəˌlaɪzd dɪˈskəʃən ɪz ðə ˈrɪʧuəl əv ˈsɪvəˌlaɪzd dɪˈskəʃən ˌɪtˈsɛlf. ˌtɑˈtu əˈgriz
+wɪθ ðə ˈɑrʧˈbɪʃəp əˈbaʊt ðə ˈrəʃənz. soʊ ðət, ɛz ðeɪ seɪ ɪn ʃəˈkɑˌgoʊ, ɪz
+wɛr ðə smɑrt ˈməni ɪz. ðə ˈvætɪkən ɪz ðə nɛkst ˈtɑpɪk ənd rɪˈsivz ˈsɪmələr
+ˈtritmənt. səm ɑrˈminiən ˈprɛlɪts hæv ʤɔɪnd ˈjuˈɛs fər ˈkɔfi ənd teɪk pɑrt ɪn ðə
+dɪˈskəʃən. ˈsəmˌwən əbˈzərvz ðət ðə ʧərʧ ɪz ə ˈwərʃəpər əv səkˈsɛs ənd
+ˈɔlˌweɪz ˈfɑloʊz ðə məˈʤɔrɪtiz. si wət ɪt ɪz duɪŋ naʊ ɪn ðə ˈwɔrˌsɔ pækt
+ˈkəntriz, ɪt ɪz ˈmeɪkɪŋ dilz wɪθ ðə ˈkɑmjənəsts. ʃʊd ˈkɑmjəˌnɪzəm swip ˈɪtəli,
+wʊd ðə poʊp muv tɪ ʤərˈusələm? ˈrəðər, sɪz wən əv ðə ˈprɛlɪts, hi wʊd
+steɪ ɪn roʊm ənd bɪˈkəm ˈpɑrti ˈsɛkrəˌtɛri. ənd ðɛr wi ər, ˈkɪsɪnʤər həz
+ɪnˈtaɪərli rɛkt ˈrəʃəz ˈmɪdəl ist ˈpɑləsi ənd ðə poʊp ɪz əˈbaʊt tɪ swɑp ðə
+ˈvætɪkən fər ðə ˈkrɛmlɪn. dɪˈzərt ɪz sərvd. ɪn maɪ ˈlɛtər tɪ lə mɑnd aɪ hæd sɛd
+ðət ɪn ðə frɛnʧ trəˈdɪʃən ðɛr wər tu ˈætəˌtudz təˈwɔrd ðə ʤuz: ə
+ˌrɛvəˈluʃəˌnɛri ˈætəˌtud wɪʧ hæd rɪˈzəltɪd ɪn ðɛr enfranchisement*, ənd ən
+anti-semitic* wən. ðə ˌɪnəˈlɛkʧuəl ˈlidərz əv ðə ˌɛnˈlaɪtənmənt wər ˌdɪˈsaɪdədli
+anti-semitic*. aɪ æst wɪʧ əv ðə tu ˈætəˌtudz wʊd prɪˈveɪl ɪn
+twentieth-century* fræns ðə ˈsɛnʧəri əv ðə ˈdreɪfəs əˈfɛr ənd əv ðə ˈviʃi
+ˈgəvərnmənt. ðə pəˈzɪʃən ˈteɪkən baɪ ˈfɔrən ˈmɪnɪstər ˈmɑrɪs jobert* ɪn ðə ɑkˈtoʊbər
+wɔr əv 1973 wɑz ðət ðə ˌpælɪˈstɪniən ˈærəbz hæd ə ˈnæʧərəl ənd ˈʤəstəˌfaɪd dɪˈzaɪər tɪ
+"goʊ hoʊm." aɪ ɪkˈsprɛst, pəˈlaɪtli, ðə hoʊp ðət ðə ˈəðər ˈætəˌtud, ðə
+ˌrɛvəˈluʃəˌnɛri wən, wʊd nɑt bi əˈbændənd. aɪ meɪd ʃʊr ðət maɪ ˈlɛtər wʊd bi
+dɪˈlɪvərd. ˈjuʤin ionescu* geɪv ðə ˈɛdɪtərz wən ˈkɑpi əv ɪt; əˈnəðər wɑz ˈhændɪd tɪ
+ðɛm baɪ meɪnz ˈspərbər, ðə ˈnɑvələst. ðə ˈlɛtər wɑz ˈnɛvər ækˈnɑlɪʤd. sɪns
+1973 lə mɑnd həz ˈoʊpənli ˈteɪkən ðə saɪd əv ðə ˈærəbz ɪn ðɛr ˈstrəgəl wɪθ
+ˈɪzriəl. ɪt səˈpɔrts ˈtɛrəˌrɪsts. ɪt ɪz ˈfrɛndliər tɪ ɑˈmin ðən tɪ ˌrɑˈbin. ə ˈrisənt
+ˌrivˈju əv ðə ˌɔtəbaɪˈɑgrəfi əv ə fedayeen* spiks əv ðə ˌɪzˈreɪliz ɛz
+kəˈloʊniəlɪsts. ɔn ˌʤuˈlaɪ 3 1976 ˌbiˈfɔr ˈɪzriəl hæd frid ðə ˈhɑstəʤəz æt ˌɛnˈtɛbi,
+ðə ˈpeɪpər əbˈzərvd wɪθ səm ˌsætɪsˈfækʃən ðət ɑˈmin, "ðə dɪskˈwaɪətɪŋ ˈmɑrʃəl,"
+məˈlaɪnd baɪ ˈɛvriˌwən, hæd naʊ bɪˈkəm ðə səˈpɔrt ənd ðə hoʊp əv hɪz ˈfulɪʃ
+dɪˈtræktərz. ðə greɪt ˈgoʊldən geɪt ðət wɪl ˈoʊpən wɪn ðə redeemer* əˈpɪrz
+stændz sild. ʤɪst bɪɔnd, ðə ˈgɑrdən əv gethsemane*. ɛz ɪts neɪm ˈɪndɪˌkeɪts, ɪt
+wɑz ən ˈɑlɪv groʊv. naʊ paɪnz, cypresses*, ənd ˌjukəˈlɪptəs triz groʊ ðɛr bɪˈloʊ
+ðə doʊmz əv ðə ˈrəʃən ˈɔrθəˌdɑks ʧərʧ. ˈɑpəzɪt ɪt ðɛr ər ˈɑlɪvz stɪl,
+wɪʧ ˈærəbz ər ˈhɑrvəstɪŋ wɪθ lɔŋ poʊlz. ðeɪ hɪt ðə ˈbrænʧɪz, ðeɪ θrɛʃ
+ðə livz wɪθ ðɛr stɪks, ənd ðə frut reɪnz daʊn. ɛz wi goʊ əp ˈɪntu ðə ˈviə
+doʊlərˈoʊsə, wi hir ən ɪkˈsaɪtɪŋ ˈʤɪŋgəl. ˈærəb bɔɪz ər ˈreɪsɪŋ ðɛr ˈdɑŋkiz daʊn
+ðə hɪl. ju lʊk fər sleighs* ənd frɔst wɪn ju hir ðɪs jingle-belling*.
+ˌɪnˈstɛd, ðɛr ər bɔɪz stərn ənd ʤɔɪəs, ˈgæləpɪŋ hell-bent* ɔn ðɛr ˈdɑŋkiz
+təˈwɔrd ðə laɪənz' geɪt. "roʊd frəm ramlah* tɪ lydda*," ˈhərmən ˈmɛlvɪl roʊt ɪn
+hɪz ˈtrævəl ˈʤərnəl əv 1857 ə ˈmaʊnɪd ˈɛskɔrt əv səm 30 mɛn, ɔl ɑrmd. faɪn
+ˈraɪdɪŋ. musket-shooting*. curvetting* &æmp; caracoling* əv ðə ˈhɔrsmən. ˈaʊˌtraɪdərz.
+ˈhɔrsmən ˈraɪdɪŋ tɪ wən saɪd, scorning* ðə ˈpɛrəlz." ənd ə fju deɪz ˈleɪtər, ɔn ðə
+barrenness* əv ʤuˈdiə, "ˈwaɪtɪʃ ˈmɪlˌdu pərˈveɪdɪŋ hoʊl trækts əv ˈlænˌskeɪp.
+ˈvɪlɪʤ əv ˈlɛpərz ˈhaʊsɪz ˈfeɪsɪŋ ðə wɔl zaɪən. ðɛr pɑrk, ə dung-heap*. ðeɪ sɪt
+baɪ ðə geɪts ˈæskɪŋ ɑmz, ðɛn waɪn əˈvɔɪdəns əv ðɛm &æmp; ˈhɔrər. ˈwɑndərɪŋ
+əˈməŋ ðə tumz tɪl aɪ bɪˈgæn tɪ θɪŋk ˌmaɪˈsɛlf wən əv ðə pəˈzɛst wɪθ ˈdɛvəlz."
+ˈɑnwɑr səˈdæts əˈmɛrɪkən ˈvɪzɪt. ju hæv tɪ dɪˈskəs ðɪs wɪθ ˌɪzˈreɪliz ˌbiˈfɔr ðeɪ
+wɪl kənˈsɛnt tɪ tɔk əˈbaʊt ˈɛniˌθɪŋ ɛls. ən ˌɪnˈdɪgnənt laɪˈbrɛˌriən, ə ˈmɪdəˌleɪgd
+ˈwʊmən huz feɪs ɪz soʊ hɑt ɪt ɪz ˈɔlˌmoʊst ˈfreɪgrənt wɪθ ˌɪndɪgˈneɪʃən, dɪˈmændz əv mi
+ɪn ə superdistinguished* ɔl bət oxonian* ˈækˌsɛnt, "haʊ du ju əˈkaʊnt fər ɪt!" aɪ
+ʃrəg. ðɪs ɪz wət aɪ wʊd seɪ ɪf aɪ dɪd ˈænsər hər: əˈmɛrɪkənz ləv tɪ ˈoʊpən
+ðɛr hɑrts tɪ ˈfɔrən ˈvɪzɪtərz. ðiz ˈvɪzɪtərz ər ˈsəmˌtaɪmz ˈtritɪd ɛz ɪf
+ðeɪ wər ðə ˈhɪroʊz əv ən əˈreɪbiən naɪts' teɪl. wɪl ʃoʊ ðɛm haʊ gʊd wi ɔl
+ər ənd well-meaning* ənd ˈʤɛnərəs ənd open-minded* ənd ˈivənˈhændɪd. wi wɪl bi
+fʊl əv ˈiˌmoʊʃən ənd ðə ˈvɪzɪtərz wɪl bi ˌkɔrəˈspɑndɪŋli fʊl əv ˈiˌmoʊʃən, ənd
+ˈæftər ðeɪ hæv bɪn waɪnd ənd ˈfeɪtɪd ənd daɪnd ənd ˈtoʊstɪd ənd ˈtɛləˌvaɪzd ənd
+pərˈeɪdɪd ənd klæpt ənd ðə səˈplaɪɪŋ əv loʊnz ənd əˈtɑmɪk plænts ənd ˈmɪlɪˌtɛri
+ˈhɑrdˌwɛr həz bɪn dɪˈskəst ðeɪ wɪl ləv ˈjuˈɛs. aɪ trəst ðət ðeɪ wɪl gɪv ˈjuˈɛs
+ˈbɛtər ləv ðən ðeɪ ər ˈgɪtɪŋ frəm ˈjuˈɛs, fər ɑrz ɪz ə ˈvɛri low-quality*
+upward-seeping* vegetable-sap* sɔrt əv ləv, ɛz ˌʃɔrˈtlɪvd ɛz ɪt ɪz spɑnˈteɪniəs.
+ɛz sun ɛz ðeɪ liv ðeɪ ər fərˈgɑtən. ən oʊld ˈmɔrmən ˈmɪʃəˌnɛri ɪn nauvoo*
+wəns grɪpt maɪ ni hɑrd ɛz wi sæt saɪd baɪ saɪd, ənd hi pʊt hɪz ɑrm əˈbaʊt mi
+ənd kɔld mi "ˈbrəðər." wid ˈoʊnli mɛt tɛn ˈmɪnəts ˌbiˈfɔr. hi tʊk mi tɪ hɪz
+gʊd ˈbʊzəm. hɪz aɪz bɪˈgæn tɪ mɪst. aɪ wɑz ə ˈprɑspɛkt, ən ɪgˈzɑtɪk ˈprɑspɛkt ɪn oʊld
+ˈtɛnɪs ʃuz ənd ə sˈwɛtˌʃərt. hɪz hɑrt ˈoʊpənd tɪ mi. ɪt ˈoʊpənd laɪk ə ˈkəˌku
+klɑk. bət ɪt dɪd nɑt gɪv mi ðə taɪm əv deɪ. "bət doʊnt əˈmɛrɪkənz noʊ ðət
+səˈdæt wɑz ə ˈnɑtsi?" ðə laɪˈbrɛˌriən sɪz. wɛl, jɛs, well-informed* ˈpipəl du hæv
+ðɪs ˌɪnˌfɔrˈmeɪʃən ɪn ðɛr faɪlz. ðə nu jɔrk taɪmz ɪz ʃʊr tɪ hæv ɪt, bət ðə
+taɪmz ɛz aɪ si ɪt ɪz ə ˈgəvərnmənt wɪˈθɪn ə ˈgəvərnmənt ɪt həz ə steɪt dɪˈpɑrtmənt
+əv ɪts oʊn, ənd ɪts haɪ ˈkaʊnsɪlz hæv ˈprɑbəˌbli ˌdɪˈsaɪdɪd ðət ɪt wʊd bi
+ˌɪmpɔˈlɪˌtɪk æt ðɪs ˈmoʊmənt tɪ kɔl əˈtɛnʃən tɪ səˈdæts ˌædmərˈeɪʃən fər ˈhɪtlər. aɪ
+tɛl ðə ˈleɪdi ðət aɪ hæv sɛnt ə ˈkɑpi əv ə ˈjuləʤi əv ˈhɪtlər ˈrɪtən baɪ səˈdæt ɪn
+1953 tɪ ˈsɪdni gruson* əv ðə taɪmz ənd ˈɔlsoʊ tɪ ˈkæθrɪn græm əv ðə
+ˈwɔʃɪŋtən poʊst. "wɪl ðeɪ prɪnt ɪt?" ʃi æst. "ˈdɪfəkəlt tɪ gɛs," aɪ tɛl
+hər. "ðə taɪmz ɔt tɪ bi ˈstrɔŋgər ɪn ˈpɑləˌtɪks ðən ɪt ɪz ɪn ˈlɪtərəʧər, bət
+hu noʊz. əv kɔrs ɪt məst du ˌfaɪˈnænʃəl nuz ənd spɔrts wɛl ɪˈnəf. ɪf ɪt
+ˈkəvərd bɔl geɪmz ɛz ˈbædli ɛz ɪt rəvˈjuz bʊks, ðə fænz wʊd stɔrm ɪt laɪk
+ðə ˌbæˈstɪl. bʊk ˈridərz ˈɛvədəntli ˈhævənt gɑt ðə ˈpæʃənət ˌɪnˈtɛnsɪti əv
+spɔrts fænz." wət dɪˈstərbz ɪz ˈwɛðər əˈmɛrɪkənz ˌəndərˈstænd ðə wərld æt ɔl,
+ˈwɛðər ðeɪ ər ə mæʧ fər ðə ˈrəʃənz ðə sadats* ər ɪn ðɛmˈsɛlvz
+kəmˈpærətɪvˌli ənɪmˈpɔrtənt. tɪ ˈdɪsədɪnt ˈrəʃən ˈraɪtərz laɪk lɛv navrozov*, ðə
+əˈmɛrɪkənz kən ˈnɛvər bi ə mæʧ fər ðə ˈrəʃənz. hi kwoʊts frəm dostoevski's* ðə
+haʊs əv ðə dɛd ə ˌkɑnvərˈseɪʃən bɪtˈwin ðə ˈraɪtər ənd ə ˈbrutəl ˈmərdərər, wən
+əv ðoʊz ˈkrɪmənəlz hu ˈfæsəˌneɪtɪd ɪm. aɪ ˈhævənt ðə bʊk ˈhændi, soʊ aɪ
+ˈpɛrəˌfreɪz. "waɪ ər ju soʊ kaɪnd tɪ mi?" ˌdɔˈstoʊvski æsks. ənd ðə ˈmərdərər,
+ˈspikɪŋ tɪ wən əv ðə ˈʤinjəsɪz əv ðə ˈnaɪnˈtinθ ˈsɛnʧəri, ˈænsərz, "bɪˈkəz ju
+ər soʊ ˈsɪmpəl ðət wən kən nɑt hɛlp ˈfilɪŋ ˈsɑri fər ju." ˈivɪn wɪn hi rɑbd
+ˌdɔˈstoʊvski, hi ˈpɪˌtid ɪm ɛz wən maɪt "ə ˈlɪtəl cherub-like* ʧaɪld." navrozov*,
+ɪkˈsidɪŋli ˌɪnˈtɛləʤənt bət, tɪ ə ˈwɛstərnər, ˈkjʊriəsli dɪˈfɔrmd (haʊ kʊd ən
+ˌɪndɪˈpɛndənt ˌɪnəˈlɛkʧuəl ɪn ðə ˈsoʊviˌɛt ˈjunjən ɪˈskeɪp dɪˈfɔrməti?), siz ˈjuˈɛs, ðə
+əˈmɛrɪkənz, ɛz ˈʧɪldrən æt hum ðə stalins* smaɪl θru ðɛr mustachios*.
+pərˈhæps ðɛr ɪz ə ˈsərtən vautrin-admiring* roʊˈmæntəˌsɪzəm ɪn ðɪs.
+
+ˈpipəl wər ərˈaɪvɪŋ, ənd ðə ˈjəŋgər wən wɑz ˈwɔkɪŋ bæk ənd fɔrθ ˌɪntrəˈdusɪŋ
+ðɛm. ðə oʊld wən sæt ɔn hər ʧɛr. hər flæt klɔθ sˈlɪpərz wər prɑpt əp ɔn ə
+foot-warmer*, ənd ə kæt reposed* ɔn hər læp. ʃi wɔr ə stɑrʧt waɪt əˈfɛr ɔn
+hər hɛd, hæd ə wɔrt ɔn wən ʧik, ənd silver-rimmed* ˈspɛktəkəlz həŋ ɔn ðə tɪp
+əv hər noʊz. ʃi glænst æt mi əˈbəv ðə ˈglæsɪz. ðə swɪft ənd ˌɪnˈdɪfərənt
+placidity* əv ðət lʊk ˈtrəbəld mi. tu juθs wɪθ ˈfulɪʃ ənd ˈʧɪri
+ˈkaʊntənənsɪz wər biɪŋ ˈpaɪlətɪd ˈoʊvər, ənd ʃi θru æt ðɛm ðə seɪm kwɪk
+glæns əv ˌənkənˈsərnd ˈwɪzdəm. ʃi simd tɪ noʊ ɔl əˈbaʊt ðɛm ənd əˈbaʊt mi
+tu. ən ˈɪri ˈfilɪŋ keɪm ˈoʊvər mi. ʃi simd ənˈkæni ənd ˈfeɪtfəl. ˈɔfən fɑr
+əˈweɪ ðɛr aɪ θɔt əv ðiz tu, ˈgɑrdɪŋ ðə dɔr əv ˈdɑrknəs, ˈnɪtɪŋ blæk
+wʊl ɛz fər ə wɔrm pɔl, wən ˌɪntrəˈdusɪŋ, ˌɪntrəˈdusɪŋ kənˈtɪnjuəsli tɪ ðə
+ənˈnoʊn, ðə ˈəðər ˈskrutəˌnaɪzɪŋ ðə ˈʧɪri ənd ˈfulɪʃ ˈfeɪsɪz wɪθ ˌənkənˈsərnd
+oʊld aɪz. ˈɑˌveɪ! oʊld ˈnɪtər əv blæk wʊl. morituri* ti salutant*. nɑt ˈmɛni əv
+ðoʊz ʃi lʊkt æt ˈɛvər sɔ hər əˈgɛn –* nɑt hæf, baɪ ə lɔŋ weɪ. ðɛr wɑz jɛt
+ə ˈvɪzɪt tɪ ðə ˈdɔktər. ə ˈsɪmpəl fɔrˈmæləti əˈʃʊrd mi ðə ˈsɛkrəˌtɛri, wɪθ ən ɛr
+əv ˈteɪkɪŋ ən ˌɪˈmɛns pɑrt ɪn ɔl maɪ ˈsɑroʊz. əˈkɔrdɪŋli ə jəŋ ʧæp ˈwɛrɪŋ
+hɪz hæt ˈoʊvər ðə lɛft ˈaɪˌbraʊ, səm klərk aɪ səˈpoʊz, –* ðɛr məst hæv bɪn
+klərks ɪn ðə ˈbɪznɪs, ðoʊ ðə haʊs wɑz ɛz stɪl ɛz ə haʊs ɪn ə ˈsɪti əv
+ðə dɛd, –* keɪm frəm ˈsəmˌwɛr up-stairs*, ənd lɛd mi fɔrθ. hi wɑz ˈʃæbi ənd
+ˈkɛrlɛs, wɪθ ink-stains* ɔn ðə slivz əv hɪz ˈʤækɪt, ənd hɪz cravat* wɑz lɑrʤ
+ənd billowy*, ˈəndər ə ʧɪn ʃeɪpt laɪk ðə toʊ əv ən oʊld but. ɪt wɑz ə ˈlɪtəl
+tu ˈərli fər ðə ˈdɔktər, soʊ aɪ prəˈpoʊzd ə drɪŋk, ənd ˌðɛrəˈpɑn hi dɪˈvɛləpt ə
+veɪn əv joviality*. ɛz wi sæt ˈoʊvər ɑr vermouths* hi ˈglɔrəˌfaɪd ðə ˈkəmpəniz
+ˈbɪznɪs, ənd by-and-by* aɪ ɪkˈsprɛst ˈkæʒəwəli maɪ səˈpraɪz æt ɪm nɑt goʊɪŋ aʊt
+ðɛr. hi bɪˈkeɪm ˈvɛri kul ənd kəˈlɛktəd ɔl æt wəns. aɪ æm nɑt səʧ ə ful ɛz aɪ
+lʊk, kwoʊθ ˈpleɪtoʊ tɪ hɪz dɪˈsaɪpəlz, hi sɛd sententiously*, ˈɛmtid hɪz glæs
+wɪθ greɪt ˌrɛzəˈluʃən, ənd wi roʊz. ðə oʊld ˈdɔktər fɛlt maɪ pəls, ˈɛvədəntli
+ˈθɪŋkɪŋ əv ˈsəmθɪŋ ɛls ðə waɪl. gʊd, gʊd fər ðɛr, hi ˈməmbəld, ənd ðɛn
+wɪθ ə ˈsərtən ˈigərnəs æst mi ˈwɛðər aɪ wʊd lɛt ɪm ˈmɛʒər maɪ hɛd.
+ˈrəðər səˈpraɪzd, aɪ sɛd jɛs, wɪn hi prəˈdust ə θɪŋ laɪk ˈkæləpərz ənd gɑt ðə
+dɪˈmɛnʃənz bæk ənd frənt ənd ˈɛvəri weɪ, ˈteɪkɪŋ noʊts ˈkɛrfəli. hi wɑz ən
+ənˈʃeɪvən ˈlɪtəl mæn ɪn ə θˈrɛdˌbɛr koʊt laɪk ə gaberdine*, wɪθ hɪz fit ɪn
+sˈlɪpərz, ənd aɪ θɔt ɪm ə ˈhɑrmləs ful. aɪ ˈɔlˌweɪz æsk liv, ɪn ðə
+ˈɪntərɪsts əv saɪəns, tɪ ˈmɛʒər ðə crania* əv ðoʊz goʊɪŋ aʊt ðɛr, hi sɛd.
+ənd wɪn ðeɪ kəm bæk, tu? aɪ æst. oʊ, aɪ ˈnɛvər si ðɛm, hi rɪˈmɑrkt; 'ənd,
+mɔˈroʊvər, ðə ˈʧeɪnʤɪz teɪk pleɪs ˌɪnˈsaɪd, ju noʊ. hi smaɪld, ɛz ɪf æt səm
+kwaɪət ʤoʊk. soʊ ju ər goʊɪŋ aʊt ðɛr. ˈfeɪməs. ˈɪntəˌrɛstɪŋ tu. hi geɪv mi ə
+ˈsərʧɪŋ glæns, ənd meɪd əˈnəðər noʊt. ˈɛvər ˈɛni ˈmædnəs ɪn jʊr ˈfæməli?' hi
+æst, ɪn ə matter-of-fact* toʊn. aɪ fɛlt ˈvɛri əˈnɔɪd. ɪz ðət kˈwɛʃən ɪn ðə
+ˈɪntərɪsts əv saɪəns tu? ɪt wʊd bi, hi sɛd, wɪˈθaʊt ˈteɪkɪŋ ˈnoʊtɪs əv maɪ
+ˌɪrɪˈteɪʃən, 'ˈɪntəˌrɛstɪŋ fər saɪəns tɪ wɔʧ ðə ˈmɛntəl ˈʧeɪnʤɪz əv ˌɪndəˈvɪʤəwəlz,
+ɔn ðə spɑt, bət... ər ju ən alienist*? aɪ ˌɪntərˈəptɪd. ˈɛvəri ˈdɔktər ʃʊd bi –*
+ə ˈlɪtəl, ˈænsərd ðət ərˈɪʤənəl, imperturbably*. 'aɪ hæv ə ˈlɪtəl ˈθɪri wɪʧ
+ju meɪsˈjərz hu goʊ aʊt ðɛr məst hɛlp mi tɪ pruv. ðɪs ɪz maɪ ʃɛr ɪn ðə
+ædˈvæntɪʤɪz maɪ ˈkəntri ʃæl rip frəm ðə pəˈzɛʃən əv səʧ ə mægˈnɪfɪsənt
+dɪˈpɛndənsi. ðə mɪr wɛlθ aɪ liv tɪ ˈəðərz. ˈpɑrdən maɪ kˈwɛsʧənz, bət ju ər
+ðə fərst ˈɪŋglɪʃmən ˈkəmɪŋ ˈəndər maɪ ˌɑbzərˈveɪʃən.... 'aɪ ˈheɪsənd tɪ əˈʃʊr ɪm aɪ
+wɑz nɑt ɪn ðə list ˈtɪpɪkəl. ɪf aɪ wər, sɛd aɪ, aɪ ˈwʊdənt bi ˈtɔkɪŋ laɪk ðɪs
+wɪθ ju. wət ju seɪ ɪz ˈrəðər proʊˈfaʊnd, ənd ˈprɑbəˌbli ɛˈroʊniəs, hi sɛd, wɪθ
+ə læf. əˈvɔɪd ˌɪrɪˈteɪʃən mɔr ðən ɪkˈspoʊʒər tɪ ðə sən. əˈdu. haʊ du ju
+ˈɪŋlɪʃ seɪ, ɛ? good-by*. ɑ! good-by*. əˈdu. ɪn ðə ˈtrɑpɪks wən məst ˌbiˈfɔr
+ˈɛvriˌθɪŋ kip kɑm.  hi ˈlɪftɪd ə ˈwɔrnɪŋ ˈfɔrˌfɪŋgər.... 'də calme*, də
+calme*. əˈdu. wən θɪŋ mɔr rɪˈmeɪnd tɪ du –* seɪ good-by* tɪ maɪ ˈɛksələnt ɔnt.
+aɪ faʊnd hər traɪˈəmfənt. aɪ hæd ə kəp əv ti –* ðə læst ˈdisənt kəp əv ti fər ˈmɛni
+deɪz –* ənd ɪn ə rum ðət moʊst ˈsuðɪŋli lʊkt ʤɪst ɛz ju wʊd ɪkˈspɛkt ə
+ˈleɪdiz drawing-room* tɪ lʊk, wi hæd ə lɔŋ kwaɪət ʧæt baɪ ðə ˈfaɪərˌsaɪd. ɪn ðə
+kɔrs əv ðiz ˈkɑnfəˌdɛnsɪz ɪt bɪˈkeɪm kwaɪt pleɪn tɪ mi aɪ hæd bɪn ˌrɛprɪˈzɛnɪd
+tɪ ðə waɪf əv ðə haɪ ˈdɪgnəˌtɛri, ənd ˈgʊdnɪs noʊz tɪ haʊ ˈmɛni mɔr ˈpipəl
+ˌbiˈsaɪdz, ɛz ən ɪkˈsɛpʃənəl ənd ˈgɪftɪd ˈkriʧər –* ə pis əv gʊd ˈfɔrʧən fər ðə
+ˈkəmpəˌni –* ə mæn ju doʊnt gɪt hoʊld əv ˈɛvəri deɪ. gʊd ˈhɛvənz! ənd aɪ wɑz goʊɪŋ
+tɪ teɪk ʧɑrʤ əv ə two-penny-halfpenny* river-steamboat* wɪθ ə ˈpɛni ˈwɪsəl
+əˈtæʧt! ɪt əˈpɪrd, ˌhaʊˈɛvər, aɪ wɑz ˈɔlsoʊ wən əv ðə ˈwərkərz, wɪθ ə ˈkæpɪtəl –*
+ju noʊ. ˈsəmθɪŋ laɪk ən ˈɛməˌsɛri əv laɪt, ˈsəmθɪŋ laɪk ə loʊər sɔrt əv
+əˈpɔsəl. ðɛr hæd bɪn ə lɔt əv səʧ rɑt lɛt lus ɪn prɪnt ənd tɔk ʤɪst əˈbaʊt
+ðət taɪm, ənd ðə ˈɛksələnt ˈwʊmən, ˈlɪvɪŋ raɪt ɪn ðə rəʃ əv ɔl ðət ˈhəmˌbəg,
+gɑt ˈkɛrid ɔf hər fit. ʃi tɔkt əˈbaʊt 'ˈwinɪŋ ðoʊz ˈɪgnərənt ˈmɪljənz frəm
+ðɛr ˈhɔrəd weɪz', tɪl, əˈpɑn maɪ wərd, ʃi meɪd mi kwaɪt ənˈkəmfərtəbəl. əˈnəðər
+maɪn ɔn ðə klɪf wɛnt ɔf, ˈfɑloʊd baɪ ə slaɪt ˈʃədər əv ðə sɔɪl ˈəndər maɪ
+fit. ðə wərk wɑz goʊɪŋ ɔn. ðə wərk! ənd ðɪs wɑz ðə pleɪs wɛr səm əv ðə
+ˈhɛlpərz hæd wɪθˈdrɔn tɪ daɪ. ðeɪ wər daɪɪŋ sˈloʊli –* ɪt wɑz ˈvɛri klɪr. ðeɪ
+wər nɑt ˈɛnəmiz, ðeɪ wər nɑt ˈkrɪmənəlz, ðeɪ wər ˈnəθɪŋ ˈərθli naʊ, –*
+ˈnəθɪŋ bət blæk ˈʃæˌdoʊz əv dɪˈziz ənd stɑrˈveɪʃən, laɪɪŋ confusedly* ɪn ðə
+ˈgrinɪʃ glum. brɔt frəm ɔl ðə ˈrisɛsəz əv ðə koʊst ɪn ɔl ðə liˈgæləti
+əv taɪm ˈkɑnˌtrækts, lɔst ɪn uncongenial* sərˈaʊndɪŋz, fɛd ɔn ˌənfəˈmɪljər fud,
+ðeɪ ˈsɪkənd, bɪˈkeɪm ˌɪnɪˈfɪʃənt, ənd wər ðɛn əˈlaʊd tɪ krɔl əˈweɪ ənd rɛst.
+ðiz ˈmɔrəbənd ʃeɪps wər fri ɛz ɛr –* ənd ˈnɪrli ɛz θɪn. aɪ bɪˈgæn tɪ
+dɪˈstɪŋgwɪʃ ðə glim əv aɪz ˈəndər ðə triz. ðɛn, ˈglænsɪŋ daʊn, aɪ sɔ ə feɪs
+nɪr maɪ hænd. ðə blæk boʊnz rɪˈklaɪnd æt fʊl lɛŋθ wɪθ wən ˈʃoʊldər əˈgɛnst
+ðə tri, ənd sˈloʊli ðə ˈaɪˌlɪdz roʊz ənd ðə ˈsəŋkən aɪz lʊkt əp æt mi,
+ɪˈnɔrmɪs ənd ˈveɪkənt, ə kaɪnd əv blaɪnd, waɪt ˈflɪkər ɪn ðə dɛpθs əv ðə orbs*,
+wɪʧ daɪd aʊt sˈloʊli. ðə mæn simd jəŋ –* ˈɔlˌmoʊst ə bɔɪ –* bət ju noʊ wɪθ
+ðɛm ɪts hɑrd tɪ tɛl. aɪ faʊnd ˈnəθɪŋ ɛls tɪ du bət tɪ ˈɔfər ɪm wən əv maɪ
+gʊd swede's* ʃɪps ˈbɪskəts aɪ hæd ɪn maɪ ˈpɑkət. ðə ˈfɪŋgərz kloʊzd sˈloʊli ɔn ɪt
+ənd hɛld –* ðɛr wɑz noʊ ˈəðər ˈmuvmənt ənd noʊ ˈəðər glæns. hi hæd taɪd ə bɪt əv
+waɪt ˈwərstɪd raʊnd hɪz nɛk –* waɪ? wɛr dɪd hi gɪt ɪt? wɑz ɪt ə bæʤ –* ən
+ˈɔrnəmənt –* ə ʧɑrm –* ə propitiatory* ækt? wɑz ðɛr ˈɛni aɪˈdiə æt ɔl kəˈnɛktɪd
+wɪθ ɪt? ɪt lʊkt ˈstɑrtlɪŋ raʊnd hɪz blæk nɛk, ðɪs bɪt əv waɪt θrɛd frəm
+bɪɔnd ðə siz. nɪr ðə seɪm tri tu mɔr ˈbəndəlz əv əˈkjut ˈæŋgəlz sæt wɪθ
+ðɛr lɛgz drɔn əp. wən, wɪθ hɪz ʧɪn prɑpt ɔn hɪz niz, stɛrd æt ˈnəθɪŋ,
+ɪn ən ˌɪnˈtɑlərəbəl ənd əˈpɔlɪŋ ˈmænər: hɪz ˈbrəðər ˈfænəm ˈrɛstɪd ɪts ˈfɔrhɛd,
+ɛz ɪf ˈoʊvərˌkəm wɪθ ə greɪt ˈwɪrinəs; ənd ɔl əˈbaʊt ˈəðərz wər ˈskætərd ɪn
+ˈɛvəri poʊz əv kənˈtɔrtəd kəˈlæps, ɛz ɪn səm ˈpɪkʧər əv ə ˈmæsəkər ər ə
+ˈpɛstələns. waɪl aɪ stʊd horror-struck*, wən əv ðiz ˈkriʧərz roʊz tɪ hɪz
+hænz ənd niz, ənd wɛnt ɔf ɔn all-fours* təˈwɔrdz ðə ˈrɪvər tɪ drɪŋk. hi læpt
+aʊt əv hɪz hænd, ðɛn sæt əp ɪn ðə ˈsənˌlaɪt, ˈkrɔsɪŋ hɪz shins* ɪn frənt əv
+ɪm, ənd ˈæftər ə taɪm lɛt hɪz ˈwʊli hɛd fɔl ɔn hɪz breastbone*. aɪ ˈdɪdənt wɔnt
+ˈɛni mɔr ˈlɔɪtərɪŋ ɪn ðə ʃeɪd, ənd aɪ meɪd heɪst təˈwɔrdz ðə ˈsteɪʃən. wɪn nɪr
+ðə ˈbɪldɪŋz aɪ mɛt ə waɪt mæn, ɪn səʧ ən ˌənɪkˈspɛktɪd ˈɛləgəns əv get-up* ðət
+ɪn ðə fərst ˈmoʊmənt aɪ tʊk ɪm fər ə sɔrt əv ˈvɪʒən. aɪ sɔ ə haɪ stɑrʧt
+ˈkɑlər, waɪt kəfs, ə laɪt ælˈpækə ˈʤækɪt, snoʊi ˈtraʊzərz, ə klɪr ˈnɛkˌtaɪ, ənd
+ˈvɑrnɪʃt buts. noʊ hæt. hɛr ˈpɑrtɪd, brəʃt, ɔɪld, ˈəndər ə green-lined*
+parasol* hɛld ɪn ə bɪg waɪt hænd. hi wɑz əˈmeɪzɪŋ, ənd hæd ə penholder* bɪˈhaɪnd hɪz
+ɪr. aɪ ʃʊk hænz wɪθ ðɪs ˈmɪrəkəl, ənd aɪ ˈlərnɪd hi wɑz ðə ˈkəmpəniz ʧif
+əˈkaʊntənt, ənd ðət ɔl ðə ˈbʊkˌkipɪŋ wɑz dən æt ðɪs ˈsteɪʃən. hi hæd kəm
+aʊt fər ə ˈmoʊmənt, hi sɛd, 'tɪ gɪt ə brɛθ əv frɛʃ ɛr.' ðə ɪkˈsprɛʃən
+ˈsaʊndɪd ˈwəndərfəli ɑd, wɪθ ɪts səˈʤɛsʧən əv ˈsɛdənˌtɛri desk-life*. aɪ ˈwʊdənt
+hæv ˈmɛnʃənd ðə ˈfɛloʊ tɪ ju æt ɔl, ˈoʊnli ɪt wɑz frəm hɪz lɪps ðət aɪ fərst
+hərd ðə neɪm əv ðə mæn hu ɪz soʊ indissolubly* kəˈnɛktɪd wɪθ ðə ˈmɛməriz əv
+ðət taɪm. mɔˈroʊvər, aɪ rɪˈspɛktɪd ðə ˈfɛloʊ. jɛs; aɪ rɪˈspɛktɪd hɪz ˈkɑlərz, hɪz
+væst kəfs, hɪz brəʃt hɛr. hɪz əˈpɪrəns wɑz ˈsərtənli ðət əv ə
+hairdresser's* ˈdəmi; bət ɪn ðə greɪt dɪˌmɔrəlɪˈzeɪʃən əv ðə lænd hi kɛpt əp hɪz
+əˈpɪrəns. ðæts ˈbækˌboʊn. hɪz stɑrʧt ˈkɑlərz ənd got-up* shirt-fronts* wər
+əˈʧivmənts əv ˈkɛrɪktər. hi hæd bɪn aʊt ˈnɪrli θri jɪrz; ənd, ˈleɪtər ɔn, aɪ
+kʊd nɑt hɛlp ˈæskɪŋ ɪm haʊ hi ˈmænɪʤd tɪ spɔrt səʧ ˈlɪnən. hi hæd ʤɪst ðə
+ˈfeɪntəst bləʃ, ənd sɛd ˈmɑdəstli, aɪv bɪn ˈtiʧɪŋ wən əv ðə ˈneɪtɪv ˈwɪmən
+əˈbaʊt ðə ˈsteɪʃən. ɪt wɑz ˈdɪfəkəlt. ʃi hæd ə dɪˈsteɪst fər ðə wərk. ðɪs mæn
+hæd verily* əˈkɑmplɪʃt ˈsəmθɪŋ. ənd hi wɑz dɪˈvoʊtɪd tɪ hɪz bʊks, wɪʧ wər
+ɪn apple-pie* ˈɔrdər. ˈɛvriˌθɪŋ ɛls ɪn ðə ˈsteɪʃən wɑz ɪn ə ˈmədəl, –* hɛdz,
+θɪŋz, ˈbɪldɪŋz. strɪŋz əv ˈdəsti ˈnɪgərz wɪθ splay* fit əraɪvd ənd
+dɪˈpɑrtɪd; ə strim əv ˌmænjəˈfækʧərd gʊdz, rubbishy* ˈkɑtənz, bidz, ənd
+brass-wire* sɛt ˈɪntu ðə dɛpθs əv ˈdɑrknəs, ənd ɪn rɪˈtərn keɪm ə ˈprɛʃəs
+ˈtrɪkəl əv ˈaɪvəri. aɪ hæd tɪ weɪt ɪn ðə ˈsteɪʃən fər tɛn deɪz –* ən ɪˈtərnəti. aɪ
+lɪvd ɪn ə hət ɪn ðə jɑrd, bət tɪ bi aʊt əv ðə keɪɑs aɪ wʊd ˈsəmˌtaɪmz gɪt
+ˈɪntu ðə əˈkaʊntənts ˈɔfəs. ɪt wɑz bɪlt əv ˌhɔrəˈzɑntəl plæŋks, ənd soʊ ˈbædli
+pʊt təˈgɛðər ðət, ɛz hi bɛnt ˈoʊvər hɪz haɪ dɛsk, hi wɑz bɑrd frəm nɛk tɪ
+hilz wɪθ ˈnɛroʊ strɪps əv ˈsənˌlaɪt. ðɛr wɑz noʊ nid tɪ ˈoʊpən ðə bɪg ˈʃətər
+tɪ si. ɪt wɑz hɑt ðɛr tu; bɪg flaɪz bəzd fiendishly*, ənd dɪd nɑt stɪŋ,
+bət stæbd. aɪ sæt ˈʤɛnərəli ɔn ðə flɔr, waɪl, əv faultless* əˈpɪrəns (ənd
+ˈivɪn sˈlaɪtli ˈsɛntɪd), perching* ɔn ə haɪ stul, hi roʊt, hi roʊt. ˈsəmˌtaɪmz
+hi stʊd əp fər ˈɛksərˌsaɪz. wɪn ə truckle-bed* wɪθ ə sɪk mæn (səm invalided*
+ˈeɪʤənt frəm up-country*) wɑz pʊt ɪn ðɛr, hi ɪgˈzɪbətəd ə ˈʤɛnəl əˈnɔɪəns. ðə
+groʊnz əv ðɪs sɪk ˈpərsən, hi sɛd, dɪˈstrækt maɪ əˈtɛnʃən. ənd wɪˈθaʊt ðət ɪt
+ɪz ɪkˈstrimli ˈdɪfəkəlt tɪ gɑrd əˈgɛnst ˈklɛrɪkəl ˈɛrərz ɪn ðɪs ˈklaɪmɪt. wən deɪ
+hi rɪˈmɑrkt, wɪˈθaʊt ˈlɪftɪŋ hɪz hɛd, 'ɪn ðə ˌɪnˈtɪriər ju wɪl noʊ daʊt mit
+ˈmɪstər. kərts.' ɔn maɪ ˈæskɪŋ hu ˈmɪstər. kərts wɑz, hi sɛd hi wɑz ə ˌfərstˈklæs ˈeɪʤənt;
+ənd siɪŋ maɪ ˌdɪsəˈpɔɪntmənt æt ðɪs ˌɪnˌfɔrˈmeɪʃən, hi ˈædɪd sˈloʊli, leɪɪŋ daʊn
+hɪz pɛn, 'hi ɪz ə ˈvɛri rɪˈmɑrkəbəl ˈpərsən.' ˈfərðər kˈwɛsʧənz ɪˈlɪsɪtɪd frəm ɪm
+ðət ˈmɪstər. kərts wɑz æt ˈprɛzənt ɪn ʧɑrʤ əv ə ˈtreɪdɪŋ poʊst, ə ˈvɛri ˌɪmˈpɔrtənt wən,
+ɪn ðə tru ivory-country*, æt 'ðə ˈvɛri ˈbɑtəm əv ðɛr. sɛndz ɪn ɛz məʧ ˈaɪvəri
+ɛz ɔl ðə ˈəðərz pʊt təˈgɛðər.... hi bɪˈgæn tɪ raɪt əˈgɛn. ðə sɪk mæn wɑz tu
+ɪl tɪ groʊn. ðə flaɪz bəzd ɪn ə greɪt pis. ˈsədənli ðɛr wɑz ə groʊɪŋ
+ˈmərmər əv ˈvɔɪsɪz ənd ə greɪt ˈtræmpɪŋ əv fit.
+
+ˈfɔrθli, du nɑt seɪ wi wər nɑt əˈveɪləbəl! ɪt wʊd ˈsərtənli bi
+ˈkaʊnərprəˌdəktɪv tɪ meɪk ən ˈɔfər, ɛz səm hæv ɔˈrɛdi traɪd, wɪn ðə
+ˈrəʃənz wɔnt ˈnəθɪŋ tɪ du wɪθ ɪt. ɪn ɑr prəˈpoʊzəlz ɪn riˈleɪʃən tɪ əˈʤɛndə 2000
+wi kənˈsɪdərd ðə ˈprɑbəbəl fˈjuʧər trɛnd əv ˌkɑmpəˈtɪʃən bɪtˈwin pigmeat* ənd bif.
+ʃʊd wi faɪnd æt ˈɛni pɔɪnt ðət ðɪs ɪz nɑt ðə keɪs, wi wɪl teɪk ðə
+əˈproʊpriˌeɪt stɛps. aɪ məst ədˈmɪt aɪ si ðə kˈwɛʃən əv ə wərld ˈmɑrkɪt ˌɔriɛnˈteɪʃən
+ˈrəðər ˈdɪfərˈɛntli frəm ðə weɪ ɪt wɑz pərˈzɛnəd ə ˈmoʊmənt əˈgoʊ. ʤɔɪnt ˈmoʊʃən fər
+ə ˌrɛzəˈluʃən ɔn ðə ˈkraɪsəs ɪn ðə pigmeat* ˈsɛktər wi ˈfeɪvər ə rɪˈfɔrm ˌɪnˈvɑlvɪŋ
+ðə əˈlaɪnmənt əv ˈpraɪsɪz tɪ wərld ˈmɑrkɪt ˈpraɪsɪz ənd ə rɪˈdəkʃən ɪn ˈɛkspɔrt
+ˈriˌfəndz. ˈfaɪnəli, aɪ ʃʊd laɪk tɪ pɔɪnt aʊt hir ðə sɪgˈnɪfɪkəns əv ə prəˈpoʊzəl
+pʊt ˈfɔrwərd baɪ ɑr ˈkɑlig ˈɛduɑrd dɪ ˈpleɪsɪz. aɪ si ðɪs prəˈpoʊzəl ɛz
+ɪˈstæblɪʃɪŋ səm sɔrt əv ˈprɛsɪdənt. ɪt wɑz kwaɪt ə ˈpɔɪnjənt fækt ðət aɪ wɑz
+əˈweɪ ɔn ðət ˌpɑˈtɪkjələr ˈfraɪˌdeɪ. wi nid ˈfɔrən ˌɪnˈvɛstərz ɪn ˈpleɪsɪz səʧ ɛz
+ˈtɛlfərd, nɔrθ ʃˈrɑpˌʃaɪr, ˈhɛrəfərd, ross-on-wye* ənd waɪr ˈfɔrɪst. aɪ wʊd
+ˈsərtənli nɑt wɔnt ˈfɑrmərz ɪn ˈkəntriz ðət du nɑt wɔnt tɪ ʤɔɪn ðə ˈjʊrə tɪ bi
+penalised*. ðə 2.6*  ˈmɑrʤən əv ˌfləkʧuˈeɪʃən ɪz ˈnəθɪŋ nu; ɪt ɔˈrɛdi ɪgˈzɪsts
+wɪˈθɪn ðə ˈprɛzənt ˈsɪstəm ənd ɪz ɔˈrɛdi biɪŋ əˈplaɪd. ðə flat-rate* əˈproʊʧ
+prəˈdusɪz mɔr rɪsk əv overcompensation*, wɪʧ ɪz waɪ wi hæv sɛt ðə ˈmɑrʤən æt
+2.6*  ə strɔŋ ˈjʊrə wɪl ˈðɛrˌfɔr penalise* ˌjʊrəˈpiən ˌægrɪˈkəlʧərəl ˈɛkspɔrts.
+ˈəndər ðiz kənˈdɪʃənz, wət wɪl ðə fˈjuʧər əv ðə ˈrʊrəl ˈɛriəz əv ˈjʊrəp bi
+laɪk ɛz ə ˈkɑnsəkwəns? wi ɪn ðə kəˈmɪti ɔn ˈægrɪˌkəlʧər ənd ˈrʊrəl dɪˈvɛləpmənt
+fil ðət ðɪs fɔrm əv pərˈdəkʃən ʃʊd bi ɪnˈkərəʤd. tu ˈlɪtəl ɪz biɪŋ dən
+ɪn ðɪs ˈɛriə. mɔr nidz tɪ bi dən, bət wi məst əˈvɔɪd kriˈeɪtɪŋ mɔr
+bjʊˈrɑkrəsi. aɪ hæv ˈnəθɪŋ əˈgɛnst ˈpʊtɪŋ kˈwɑləti gʊdz ɔn ðə wərld ˈmɑrkɪt
+wɪn ɪt ɪz ə ˈmætər əv ˌkɑmpəˈtɪʃən. ˈfərstli, ɪt prəˈpoʊzɪz ðə əˈdɑpʃən əv ə
+ˌrɛgjəˈleɪʃən ˌɪmˈpruvɪŋ ðə trænˈspɛrənsi ənd ˌɔθənˈtɪsɪti əv kˈwɑləti mɑrks. ɪt ðɛn
+prəˈpoʊzɪz ðə kriˈeɪʃən əv ə ˌjʊrəˈpiən kˈwɑləti mɑrk beɪst ɔn rɪˈspɛkt fər ðə
+ɪnˌvaɪrənˈmɛnəl kraɪˈtɪriə fər pərˈdəkʃən. ðə ˈmɑrkɪt ɪn ˌægrɪˈkəlʧərəl ˈprɑdəkts ɪz
+ˈðɛrˌfɔr noʊ ˈlɔŋgər lɪŋkt ɪkˈsklusɪvli tɪ praɪs, bət tɪ ðə ˈriʤən. wi ɪn
+ˈpɑrləmɛnt wʊd laɪk tɪ æd ə θərd ˈkætəˌgɔri ˈkəvərɪŋ ɔrˈgænɪk ˈprɑdəkts ðət
+ˈɔlsoʊ kəmˈplaɪ wɪθ ɪnˌvaɪrənˈmɛnəl ənd ˈænəməl prəˈtɛkʃən kraɪˈtɪriə. aɪ wɑz ˈrisəntli ɪn
+ˈpoʊlənd fər ðə ʤɔɪnt ˌpɑrləˈmɛntəri kəˈmɪti. bət ðət ɪz prɪˈsaɪsli waɪ wi fərst
+nid ə klɪr ˈstrætəʤi. æt ðɪs steɪʤ, ɪt stɪl simz ə ˈlɪtəl tu sun tɪ teɪk ə
+ˈfaɪnəl pəˈzɪʃən ɔn ðɪs kˈwɛʃən. wi səˈpɔrt ðə ˌɪntrəˈdəkʃən əv ə ˌjʊrəˈpiən
+kˈwɑləti mɑrk, wɪʧ teɪks əˈkaʊnt əv ˈænəməl ˈwɛlˌfɛr ənd ðə ɪnˈvaɪrənmənt.
+ˈsɛkəndli, wi kən nɑt səˈpɔrt prəˈpoʊzəlz fər ðə splɪt ɪn ˈfəndɪŋ ər kraɪˈtɪriə ɪn
+riˈleɪʃən tɪ ðə nu ˈstrəkʧərəl fənd ˌrɛgjəˈleɪʃən. wi ˈwɛlkəm ðə ˌɪntrəˈdəkʃən əv
+kənˈdɪʃənəl ˈklɔzɪz fər ðə ˈsɛkənd ˈpeɪmənt. ðə rɪˈzəlts əv ðə fɔrθ feɪz əv
+ðə əˈbʤɛktɪv 2 ˈproʊˌgræm, huz praɪˈɔrəti ɪz ʤɑb kriˈeɪʃən, ər ˈrɛlətɪvli
+ˈplizɪŋ. θæŋk ju, ˈmɪstər ˈdɑneɪ. ˈmɪstər escola* hərˈnɑndoʊ ɪz ˈspikɪŋ fər ðə fərst
+taɪm ɪn ðɪs haʊs. ˈmɪstər ˈprɛzɪdənt, aɪ ʃʊd ˈmɪrli laɪk tɪ ˈænsər ˈmɪstər
+kellett-bowman* ɪn wən ˈsɛntəns. ðə ʧɛr həz ɔˈrɛdi ˈsteɪtɪd ðət ðə prəˈpoʊzəl
+wɑz meɪd ɪn əˈkɔrdəns wɪθ ðə rulz, soʊ ðɛr ər noʊ graʊnz fər ˈʧeɪnʤɪŋ
+ˈɛniˌθɪŋ. ɑr grup həz ˈteɪbəld ˈsɛvərəl əˈmɛndmənts ɪn ðɪs dɪˈrɛkʃɪn. ðə
+ˈproʊˌgræm həz ˈɔlsoʊ kənˈtrɪbjutɪd tɪ ðə ækˈtɪvɪtiz əv 50000 kriˈeɪtɪv ər pərˈfɔrmɪŋ
+ˈɑrtɪsts ənd ˈəðər ˈspɛʃəlɪsts ɪn ðə ˈkəlʧərəl ˈsɛktər. ðə dɪˈsɪʒənz wər əˈdɑptəd
+juˈnænəməsli. ðə ʤɔɪnt dəˈbeɪt ɪz kloʊzd. ðət kənˈkludz ˈpɑrləmɛnts əˈʤɛndə.
+əˈʤərnmənt əv ðə ˈsɛʃən ˈjɛstərˌdeɪ ɪt wɑz maɪ ˈprɪvɪlɪʤ ənd ˈplɛʒər tɪ bi
+pərˈmɪtɪd tu ˈmɪnəts' ˈspikɪŋ taɪm ɪn ðɪs haʊs. ɪt wɑz ˈɑbviəsli aʊt əv
+ɪkˈsaɪtmənt æt ðɪs greɪt ɪˈvɛnt ðət aɪ fərˈgɑt tɪ saɪn ðə ˈrɛʤɪstər. ˈleɪdiz ənd
+ˈʤɛnəlmɪn, ɪt ɪz ə gʊd θɪŋ ðət ðə ˈditeɪlz əv ˈmɛmbərz' əˈtɛndəns ər
+kərˈɛktɪd. ðət ɪz rɔŋ. ðɪs ˈaɪtəm həz bɪn kərˈɛktli pleɪst ɔn ðə əˈʤɛndə ənd
+wɪl bi pʊt tɪ ðə voʊt æt 12 nun təˈdeɪ. ðə ˈdɛˌdlaɪn ɪkˈspaɪərz təˈdeɪ, soʊ ɪf wi
+du nɑt voʊt, wi ʃæl mɪs ðə ˌɑpərˈtunəti tɪ dɪˈlɪvər ɑr əˈpɪnjən. pərˈpɛrɪŋ ə
+union-wide* harmonising* dɪˈrɛktɪv ɔn ɛz ˈkɑmplɛks ə ˈmætər ɛz ˈɛnərʤi ɪz ˈsərtənli ə
+ˈkɑmpləˌkeɪtəd ˈbɪznɪs. aɪ bɪˈliv ðət ðə kəˈmɪʃənz ˌɪˈnɪʃəl əˈproʊʧ wɑz waɪz,
+bɪˈkəz ðə ˈprɑbləm kɔlz fər ˈkaʊntləs ɪkˈsɛpʃənz tɪ ðə ˈʤɛnərəl rul. ˈmædəm
+ˈprɛzɪdənt, ɑr ˈkɑlig, ˈmɪstər kɑks, həz dən səm ˈɛksələnt wərk ɔn ðə
+kəˈmɪʃənz prəˈpoʊzəl. ðə grin grup ˈfʊli əˈgriz wɪθ ˈmɪstər ˈspɛnsər ðət wi məst
+prɪˈzərv ðɪs prəˈpoʊzəl fər ə co2* tæks. ðə ˈtæksɪz wɪl ɛnd əp ɪn ðə ˈʤərmən
+ˈtrɛʒəri ˌɪnˈstɛd əv ðə ˈdeɪnɪʃ ˈtrɛʒəri. ˌnənðəˈlɛs, aɪ ʃʊd laɪk tɪ teɪk əp
+tu pɔɪnts wɪʧ ər ˈmɛnʃənd ɪn ðə ɪnˈvaɪrənmənt kəˈmɪtiz rɪˈpɔrt. aɪ ʃʊd
+ˈɔlsoʊ laɪk tɪ noʊ haʊ ju vju ðə ˈtaɪmɪŋ. ðɪs ɪz ˌlɛʤəsˈleɪʃən rikˈwaɪərɪŋ ə
+juˈnænəməs voʊt ɪn ðə ˈkaʊnsəl, wɪʧ ɪz ˈjuʒəwəli ə ˌgɛrənˈti əv ˌɪˈnækʃən. ðɪs
+ˈɪndɛksɪŋ ˈɔlsoʊ ˌɪnˈkludz ðə ˈnoʊʃən əv ən ækˈsɛlərˌeɪtər. ɪn ˈəðər wərdz, ðɛr ɪz ə
+ˈkɑnflɪkt bɪtˈwin ðə parafiscal* ənd ˈfɪskəl eɪmz; ju kən nɑt hæv jʊr keɪk ənd
+it ɪt. ðət ˌtɛknəˈlɑʤɪkəl ˈɛfərt wʊd bi penalised* ənd kəmˈpɛtɪtɪvnɪs ɔn ðə
+ˌɪnərˈnæʃənɑl fild jeopardised*. ɪn laɪt əv ðɪs ˌsɪʧuˈeɪʃən, wi faɪnd ɪt
+ˈdɪfəkəlt tɪ əkˈsɛpt ə ˈnəmbər əv ˌjunəˈlætərəl prəˈpoʊzəlz ðət wər pʊt ˈfɔrwərd. ɪt
+ɪz ˈðɛrˌfɔr ˌənækˈsɛptəbəl tɪ kəmˈpɛl ðə ˈmɛmbər steɪts tɪ əˈplaɪ ˌɪnˈkrisɪz ðət
+ər ˈæˌkʧuəli əˈbəv ðə reɪt əv ˌɪnˈfleɪʃən. ju kən ˈrɛgjəˌleɪt ðə ˈmɑrkɪt, bət ju
+kən nɑt ˈrɛgjəˌleɪt ˈneɪʧər, ðə ˈwɛðər ənd ðə ˈhɑrvəst. ɪn wən əˈmɛndmənt, ðɛr ɪz
+ə kɔl fər ðə ˌɪnˈkluʒən əv pjʊr ənd ˈsɪmpəl rɪˈnuəl əv ˈvɪnjərdz ɪn ðə
+riˈstrəkʧərɪŋ ˈmɛʒərz. ˌnɛvərðəˈlɛs, wi wɔnt tɪ ˈlɪmət ðə ˈkaʊnsəl ˌrɛgjəˈleɪʃənz
+tɪ ˈʤɛnərəl prəˈvɪʒənz ənd tɪ ˈkəvər ðə rɪˈmeɪnɪŋ prəˈvɪʒənz ɪn ˈɪmpləˌmɛnɪŋ
+ˌrɛgjəˈleɪʃənz. ˈɛvriˌwən wɪl ˈðɛrˌfɔr ˌəndərˈstænd waɪ aɪ æm rɪˈʤɛktɪŋ ðɛm. aɪ wʊd
+laɪk tɪ stɑrt wɪθ ðə kənˈvɛnʃən ɔn third-country* ˈnæʃənəlz, wɪʧ ɪz ˈsərtənli
+ðə mɔr ˈkɑmplɛks ˈlɛʤəsˌleɪtɪv ˈprɑʤɛkt. ðə mɪr ˈɔfər əv ə ʤɑb wɑz tɪ bi
+səˈfɪʃənt tɪ ˈʤəstəˌfaɪ ˌɪməˈgreɪʃən raɪts. ðeɪ hæv nɑt ɔl bɪn mɛt, bət ə
+greɪt ˈmɛni hæv. ˈsɛkəndli, aɪ bɪˈliv ðət ɪt ɪz taɪm fər ðə ˌjʊrəˈpiən ˈpɑrləmɛnt
+tɪ sɛt ən ɪgˈzæmpəl. ɔn ðə ˈəðər hænd, ðiz ˌɪˈnɪʃəl kraɪˈtɪriə ʃʊd ˈɔlsoʊ ˌɪnˈklud
+prəˈvɪʒənz əˈlaʊɪŋ fər ðə lɪst tɪ bi əˈbɑlɪʃt. səʧ ə ˌsɪʧuˈeɪʃən ɪz
+ˌənækˈsɛptəbəl. aɪ æm ɔl fər θɔt biɪŋ ˈgɪvɪn tɪ ðɪs ənd fər ˈsikɪŋ
+səˈluʃənz. wi məst hɛlp ðɛm tɪ ˌɪmˈpruv ðɛr ˈbɔrdər sɪˈkjʊrəti. ɪt ɪz ðə hoʊl
+pəˈlɪtɪkəl klæs ðət ɪz biɪŋ kˈwɛsʧənd əˈbaʊt ðə weɪ ɪn wɪʧ ɪt məst teɪk əp
+ðiz ˈʧælənʤɪz. ˈfaɪnəli, aɪ ʃʊd laɪk tɪ seɪ ðət ðə ˈpɑləsiz æt ðə ˈsɛntər
+əv ɑr dəˈbeɪt ər pɑrt əv ən ˈoʊvərˌɔl ˈpɪkʧər. aɪ wʊd ˈɔlsoʊ laɪk tɪ seɪ ˈsəmθɪŋ
+əˈbaʊt ðə tu əˈmɛndmənts ˈteɪbəld baɪ maɪ grup. wi wɔnt θɪŋz tɪ bi ˈrɛgjəˌleɪtɪd
+ˈprɑpərli soʊ ðət ðə ˈprɑbləm kən bi brɔt ˈəndər kənˈtroʊl. hi həz kənˈsɪstəntli
+lɪŋkt ˌɪməˈgreɪʃən wɪθ ˌənɪmˈplɔɪmənt, ˌɪnsɪˈkjʊrɪti ənd ˌkrɪməˈnælɪti, ɛz ɪf ˈivəl
+ˈɔlˌweɪz kəmz frəm ˈɛlsˌwɛr. aɪ wʊd ˈrɪli laɪk tɪ noʊ haʊ ju kən ɪˈskeɪp ˈɪntu
+ˈjʊrəp. wi hæv bɪn dɪˈskəsɪŋ ðɪs ˈsəbʤɪkt ˈɛvər sɪns aɪ hæv bɪn ɪn
+ˈpɑrləmɛnt. aɪ hoʊp ðeɪ wɪl bi rɪˈʤɛktɪd bɪˈkəz ðeɪ ər ˈrɪli ðə ɪˈpɪtəmi əv
+wət ˈpɑrləmɛnt ɪz nɑt ˈeɪbəl tɪ du. ˈkɑnsəkˌwɛntli, aɪ hæd hoʊpt tɪ bi ˈeɪbəl tɪ kaʊnt
+ɔn ə klɪr ɪkˈsprɛʃən əv səˈpɔrt frəm ðə ˌjʊrəˈpiən ˈpɑrləmɛnt. ˈnæʧərəli ðə
+kəˈmɪʃən wɪl du ɪts bɛst tɪ ɪnˈʃʊr ðət ˈprɑˌgrɛs ɪz meɪd. ðə ˌrɛgjəˈleɪʃən ðət
+wɑz ˈænəld wɑz beɪst ɔn ˈɑrtɪkəl 100c* əv ðə ˈmɑˌstrɪkt ˈtriti. ðə dəˈbeɪt ɪz
+kloʊzd. aɪ θɔt ɪt əˈproʊpriˌeɪt tɪ retable* æt ˈsɛkənd ˈrɛdɪŋ θri əv ðə 12
+əˈmɛndmənts rɪˈʤɛktɪd baɪ ðə ˈkaʊnsəl. aɪ hæv tɪ ədˈmɪt ðət aɪ hæd ˈsɪriəs
+mɪsˈgɪvɪŋz ˈdʊrɪŋ ðə fərst ˈrɛdɪŋ əv ðə dɪˈrɛktɪv. pərˈhæps wi ər ˈoʊnli
+ˈfərðər ˈkɑmpləˌkeɪtɪŋ ə ˈmætər wɪʧ ʃʊd ˈrɪli hæv lɛft ˈpɑrləmɛnt ɛz
+kˈwɪkli ɛz ˈpɑsəbəl wəns ə dɪˈsɪʒən hæd bɪn riʧt. ˈkɛmɪkəlz ər stɪl ɔn ɑr
+əˈʤɛndə ɪn ðə eu*. ðɛr həz bɪn ˈɛksələnt kˌwɔpərˈeɪʃən ɔn ðɪs ˈhaɪli ˈtɛknɪkəl
+prəˈpoʊzəl. θæŋk ˈgʊdnɪs wi hæv ˈfaɪnəli riʧt ðə læst steɪʤ ˌbiˈfɔr əˈdɑpʃən.
+ˈpɑrləmɛnt əˈgrid tɪ ˈərʤənt prəˈsiʤər fər 22 mɑrʧ əˈmɛndmənt əv ðə rulz əv
+prəˈsiʤər ðeɪ liv speɪs ənd gæps tɪ fɪl ɪn. ðɪs nu ˈligəli ˈbaɪndɪŋ voʊt ɪz
+ˈhaɪˌlaɪtɪd ɪn ðə riˈvɪʒən əv ðə rulz baɪ dɪˈskraɪbɪŋ ɪt ɛz ðə ɪˈlɛkʃən əv ðə
+kəˈmɪʃən. ðeɪ ˌɪnˈklud prəˈvɪʒənz fər ˈdilɪŋ wɪθ ðə nu haɪ ˌrɛprɪˈzɛnətɪv
+fər ðə ˈkɑmən ˈfɔrən ənd sɪˈkjʊrəti ˈpɑləsi. aɪ ʃæl nɑt goʊ ˈɪntu ˈditeɪlz ɔn ðə
+haɪ ˌrɛprɪˈzɛnətɪv, ɛz hɪz ər hər ˈfəŋkʃən həz ɔˈrɛdi bɪn ɪkˈstɛnsɪvli
+dəˈbeɪtɪd. ˈfaɪnəli, naʊ ðət aɪ æm dɪˈskəsɪŋ ˈrisɔrsɪz, nu tɛkˈnɑləʤiz ənd
+ˈspikɪŋ taɪm, maɪ oʊn ˈspikɪŋ taɪm həz ɪˈlæpst. ðə ˈsɛkənd pɑrt meɪks ɪt klɪr
+ðət ˈbɛnəfɪts əv ə ˈvælju ˈgreɪtər ðən ecu* 100 məst bi dɪˈklɛrd. ðə rɪˈpɔrt ɪz
+ˈɔlsoʊ ˌɪmˈprudənt ɪn ˌɪntrəˈdusɪŋ ˈɪʃuz nɑt ˌɪnˈkludɪd ɪn ðə ˈmænˌdeɪt ˈgɪvɪn baɪ ðə
+ˈkɑnfərəns əv ˈprɛzɪˌdɛnts. ðə əˈpɪnjən məst bi ɪkˈsprɛst wɪn ðə voʊt ɔn ðə
+fʊl tɛkst ɪz ˈteɪkən ɪn kəˈmɪti. bət ðət ɪz nɑt ˈrɪli maɪ ˈprɑbləm. wət aɪ
+criticise* ɪz ðə ˈspɪrɪt ˌəndərˈlaɪɪŋ ðiz əˈmɛndmənts. ðɪs ɪz ðə læst rul ɪn
+ɑr rulz əv prəˈsiʤər ənd ɪt kənˈsərnz ðə ˈæˌnɛksɪz. lɛt mi bɪˈgɪn baɪ seɪɪŋ ðət
+aɪ du nɑt ˌɪnˈtɛnd tɪ tɔk əˈbaʊt maɪ oʊn rɪˈpɔrt. ˌnɑtwɪθˈstændɪŋ ðɪs, wi ʃæl
+ˈsərtənli kənˈsɪdər ðə səˈʤɛsʧənz pʊt ˈfɔrwərd baɪ ðə ˈsoʊʃəlɪst grup. ðə fərst
+kənˈsərnz ðə prəˈpoʊzəl ðət wʊd prɪˈvɛnt pəˈlɪtɪkəl grups biɪŋ fɔrmd əv
+ˈmɛmbərz frəm wən ˈkəntri ˈoʊnli. ðə ˈsɛkənd ˈɪʃu ɪz ðət əv ˌɪnˈsɪnɪvz. aɪ bɪˈliv
+ɪt ɪz ˈwərkəbəl, ðoʊ ɪt meɪ bi ˈsəmˈwət ˈkɑmpləˌkeɪtəd. aɪ æm noʊ fəˈnætɪkəl
+dɪˈfɛndər əv ˈprɑfɪts fər ˌfɑrməˈsutɪkəl ˈɪndəstri ˌməlˌtiˈnæʃənəlz. wi səˈpɔrt
+prəˈfɛsər cabrol's* əˈtɛmpt tɪ gɪt θɪŋz ˈmuvɪŋ ənd pʊt ðə ənˈsərtəntiz bɪˈhaɪnd
+ˈjuˈɛs. ˈmɪstər ˈprɛzɪdənt, ˈleɪdiz ənd ˈʤɛnəlmɪn, ðə ˈprɛzənt prəˈpoʊzəl fər ə ˌrɛgjəˈleɪʃən ɪz
+ˈsərtənli tɪ bi ˈwɛlkəmd. əv kɔrs wi kən du soʊ dɪˈrɛkli θru səˈpɔrt fər
+ˈrisərʧ, ənd wi ʃæl kənˈtɪnju tɪ du soʊ ɪn fˈjuʧər. bət wi ˈɔlsoʊ wɔnt tɪ kriˈeɪt ə
+reɪnʤ əv əˈdɪʃənəl ˌɪnˈsɪnɪvz, fər ˈɪnstəns θru ðə ten-year* ˈmɑrkɪt
+ˌɛkˌskluˈsɪvəti raɪt. ðə ˈmɛmbər steɪts wʊd hæv tɪ du soʊ. aɪ æm ˈvɛri glæd ðət
+səm ˈmɛmbərz ˈɔlsoʊ spoʊk ɪn ˈfeɪvər əv ə ˈspɛʃəl kəˈmɪti, ˈdʊrɪŋ ðə dəˈbeɪt. bət
+ðɛn ju məst rɪˈmɛmbər ðə eɪm əv ɑr prəˈpoʊzəl. ðət ɪz waɪ wi wɔnt tɪ səˈpɔrt
+ˈrisərʧ ˈrəðər ðən meɪk ɪt mɔr ˈdɪfəkəlt. wi bɪˈliv ðət ɪz ə rɪsk wi ʃʊd
+nɑt ˌnɛsəˈsɛrəli teɪk ɔn. fər baɪ ˌdɛfəˈnɪʃən ən ˈɔrfən drəg ɪz prɪˈsaɪsli ə drəg
+ðət ˈɔfərz ˈvɛri ˈlɪmɪtɪd ˈprɑspɛkts əv ˈmeɪkɪŋ ə ˈprɑfɪt.
+
+ðə steɪl kul ɛr əv ðə rum hæd ˈhitɪd; jɛt ˈwɪrinəs rɪˈsidɪd, hɪz hɛd wɑz
+lɛft haɪ ənd draɪ əv ɪt. ðɛr wɑz ˈsaɪləns ənd ðɛn hi hərd ðət ðɛr wər
+ˈvɔɪsɪz ɪn ðə ˈsaɪləns ˈdroʊnɪŋ ˈsəmˌwɛr, ˈbreɪkɪŋ ɔf fər brɛθ, ˈlæfɪŋ –* nɑt
+ˈsɔftli, bət ˈsɔfənd baɪ biɪŋ ˈɔlˌmoʊst aʊt əv ˈɪrˌʃɑt. nɑt kwaɪt. ə vɔɪs
+ˈsɛpərˌeɪtɪd, wund ˈnɪrər, ðɛr wɑz ðə ˈstɑrtɪŋ əp əv ə hɪs (ə hoʊz, hi
+θɔt) ənd hi meɪd aʊt ə wərd: nɑt ʤɪst ɛz ə ˌpɑˈtɪkjələr ˌkɑmbəˈneɪʃən əv
+ɑrˈtɪkjəˌleɪtəd saʊnz, bət ə ˈminɪŋ: ðə ˈkɑmpaʊnd wərd fər ðɪs freɪz, ɪn ðə
+ˈlæŋgwɪʤ ðət wɑz ˈspoʊkən raʊnd ðə ˈkæpɪtəl, ənd ðət hi hæd ˈnɛvər ˈrɪli noʊn
+wɛl. hi gɑt əp ənd wɛnt ˈoʊvər tɪ ðə meɪn haʊs fər ə bæθ. ðə sən ɪn ðə
+ˈgɑrdən wɑz ˈbərnɪŋ, ˈdæzəlɪŋ, ˈsizɪŋ. ɪn ðə ˈbæθˌrum flaɪz wər ˈbəzɪŋ
+ðɛmˈsɛlvz tɪ dɛθ əˈgɛnst ðə ˈwɪndoʊˌpeɪnz. roly* wɑz ə ˈbæʧələr ənd hɪz haʊs
+wɑz ðə ˌpɑˈtɪkjələr ˈmɪksʧər əv ˈtræŋkwɪl ˈləgʒəri ənd unchangeable* ˈdririnəs ðət
+ɪz ə kənˈdɪʃən əv ˈhaʊsˌhoʊldz wɛr waɪt mɛn lɪv ˌɪnˈdəlʤd ɪn ðə soʊl ʧɑrʤ əv
+blæk meɪl ˈsərvənts. ðə ˈsɪstərn əv ðə ˈlævəˌtɔri drizzled* ˈɪntu ðə pæn
+ˈkɑnstəntli ənd ˈkʊdənt bi fləʃt ˈprɑpərli, ənd ðə taʊəlz wər stɪf ɛz ə
+dress-shirt* (oʊˈlɪviə hæd ˈteɪkən jɪrz tɪ gɪt ˈpipəl tɪ lərn tɪ rɪns ðə soʊp aʊt
+əv ðə ˈwɑʃɪŋ), bət ən oʊld ˈfɛloʊ ɪn ə kʊks hæt pʊt ti ˈəndər ðə triz fər
+ɪm ənd ˈkɛrid ɔf hɪz ˈkrəmpəld sut tɪ bi prɛst wɪˈθaʊt biɪŋ æst. ə juθ
+wɑz ˈkətɪŋ ðə təf græs wɪθ ə lɛŋθ əv aɪərn bɛnt æt ðə ɛnd. kɔrs ənd
+ˈflɔrəd ʃrəbz, hibiscus* wɪθ ɪts bɪg flaʊərz sluttish* wɪθ ˈpɑlən ənd ænts ənd
+ˌpɔɪnˈsɛˌtiə ˈuzɪŋ ˈmɪlki səˈkriʃən, blumd ˈgɪvɪŋ ə ʃoʊ əv fəˈkəndɪti tɪ ðə
+rɛd, pur sɔɪl ˈrənɪŋ beɪkt bɔld ˈəndər ðə græs, ˈbitən sˈlaɪmi baɪ ðə reɪnz
+ˈəndər ðə triz, ənd friable* ˈoʊnli wɛr ænts hæd ˈdaɪˌʤɛstɪd ɪt ənd meɪd ˈlɪtəl
+ˈkrəsti ˈtənəlz. ə rɪʧ stɪŋk əv dɛd ˈænəməl roʊz self-dispersed*, laɪk ə gæs,
+ˈɛvəri naʊ ənd ðɛn ɛz hi dræŋk hɪz ti, ənd hi gɑt əp ənd lʊkt əraʊnd, ɛz hi
+hæd dən soʊ ˈmɛni taɪmz ˌbiˈfɔr, ənd wɪθ ɛz ˈlɪtəl səkˈsɛs, tɪ si ɪf ə ræt ər
+moʊl wər ˈrɑtɪŋ ˈsəmˌwɛr. ˌwəˈtɛvər ɪt wɑz kʊd ˈnɛvər bi faʊnd; ɪt wɑz ðə
+smɛl əv groʊθ, ðeɪ hæd lɔŋ əˈgoʊ ˌdɪˈsaɪdɪd, æt ˈgælə, ðə ˈprɔˌsɛs əv dɪˈkeɪ ənd
+riˈʤɛnərˈeɪʃən soʊ ækˈsɛlərˌeɪtɪd, brɔt soʊ kloʊz təˈgɛðər ðət ɪt prəˈdust ðə rik
+əv death-and-life*, ɔl æt wəns. hi stroʊld tɪ ðə ˈlɪmɪts əv ðə ˈgɑrdən ənd
+klaɪmd θru ðə ˈbɑrbdˈwaɪr fɛns, bət ðə ˈgræsɪz ənd thornbush* ɔn ðə
+ˈəðər saɪd (dando's* pleɪs wɑz eɪt maɪəlz aʊt əv taʊn) wər tu ɛnˈtæŋgəld fər
+ˈwɔkɪŋ wɛr ðɛr wɑz noʊ pæθ. hi ˈlɪsənd tɪ ðə bʊʃ ənd hæd ðə oʊld
+ˈfilɪŋ, ɪn ðə bʊʃ, əv biɪŋ ˈlɪsənd fər. ðɛr wər –* ər juzd tɪ bi –*
+ˈlɛpərdz ɔn ðə ˈaʊtˌskərts əv ðə taʊn; ˈdændoʊ hæd wəns hæd hɪz dɔg ˈteɪkən. hi
+wɔkt ə ˈhənərd jɑrdz ər soʊ əp ðə roʊd, ənd, ˈmitɪŋ ə mæn ɔn ə ˈbaɪsɪkəl,
+ˈgritɪd ɪm ɪn ðə ˈlæŋgwɪʤ ðət hæd kəm bæk tɪ ɪm ɛz hi leɪ ɪn ðə rum. æt
+sɪks ˈroʊlənd ˈdændoʊ keɪm hoʊm. hi geɪzd ˈæŋkʃəsli frəm ðə kɑr ɛz ɪf, dɪˈspaɪt ðə
+ˈtɛləˌfoʊn kɔl, hi wər nɑt ʃʊr ɪf breɪ hæd bɪn ˈseɪfli rɪˈsivd, bət wəns hi
+sɛt aɪz ɔn ɪm bɪˈheɪvd ɛz ɪf ðeɪ hæd sin iʧ ˈəðər ə wik əˈgoʊ. hi wɑz
+ˌɪndɪˈskrit, laɪk ˈmɛni ˈpipəl hu lɪv əˈloʊn, ənd brɔt bæk wɪθ ɪm frəm ðə
+taʊn –* ə ʧaɪld ˈbəlʤɪŋ wɪθ ˈfeɪvərz frəm ə ˈpɑrti –* ɔl ðə ˈænɪkˌdoʊts ənd ˈgɑsəp
+əv ðə ˌɪndɪˈpɛndəns ˌsɛləˈbreɪʃənz, prəˈdusɪŋ, ɪn ə ˈklɪŋɪŋ fləf əv ˌsəpəˈzɪʃən
+ənd ˈrumər, bɪts ənd ˈpisɪz əv ril ˌɪnˌfɔrˈmeɪʃən ənd əˈpɪnjən əˈbaʊt mweta's*
+pəˈzɪʃən ənd ðə sɔrt əv tim hi hæd ˈgæðərd əraʊnd ɪm. əˈnəðər treɪ keɪm aʊt
+ˈəndər ðə triz, ðɪs taɪm wɪθ ˈwɪski ənd ʤɪn. ən oʊld blæk ˈlæbrəˌdɔr wɪθ kɔrnz
+ɔn hɪz ˈɛlˌboʊz stʊd sˈloʊli sˈwɪŋɪŋ hɪz teɪl ˌbiˈfɔr ˈdændoʊ ɛz hi tɔkt. ˈʤeɪsən
+ˈwʊdənt brɪŋ hoʊm ˈɛni ˈgoʊldən flis, bɪˈliv ju mi (ˈʤeɪsən malenga* wɑz ðə nu
+ˈmɪnɪstər əv ˈfaɪˌnæns); noʊ, ɪt ˈwəzənt ə bæd θɪŋ ðət ðə ˈbrɪtɪʃ ʧif əv pəˈlis
+ˈwəzənt biɪŋ kɛpt ɔn, ˈpipəl ˈɔlˌweɪz ʤəʤd baɪ ðə ˈkɑŋgoʊ, ðə ˈɪˌdiəts, bət ðə
+ˈæfrɪkɑn ˈdɛpjəti, ˈɛrən onabu*, wɑz ˈpərfəktli ˈkeɪpəbəl əv ˈteɪkɪŋ ˈoʊvər frəm ðət
+dodderer* ˈɛniˌweɪ; ˈtælɪsmən gwenzi* wɑz fərst klæs, ənd ə ril mweta* mæn, ˈdeɪvɪd
+sambata* wɑz ən ənˈnoʊn kˈwɑntəti fər ˈægrɪˌkəlʧər ˈdændoʊ pʊld tɪks ɔf ðə dɔgz
+nɛk ənd bərst ðɛm ˈəndər hɪz ʃu waɪl hi dræŋk ənd dɛlt aʊt ˈʤəʤmənts. aʊt
+əv ə kaɪnd əv ˈʤɛləsi əv ðə nu jəŋ mɛn frəm ˈbrɪtən ənd əˈmɛrɪkə hu wər soʊ
+ˈkɛrfəl tɪ ʃoʊ ðɛr læk əv colour-feeling* baɪ əˈvɔɪdɪŋ ˈteɪntɪd wərdz ənd
+æˈdrɛsɪŋ ˈpipəl baɪ pəˈlaɪt fɔrmz, hi ecklessly* juzd ðə oʊld ˈsɛtələr voʊˈkæbjəˌlɛri
+ðət rɪˈflɛktɪd ən ˈætəˌtud hi hæd hæd noʊ pɑrt əv, ˈɛvər. roly* ˈdændoʊ kʊd seɪ
+wət hi laɪkt: roly* ˈdændoʊ ˈhædənt dɪˈskəvərd ðə blæks ɛz hɪz ˈfɛloʊz ˈoʊnli
+ˈjɛstərˌdeɪ. əv kɔrs, mweta* həz tɪ hænd aʊt ə ʤɑb tɪ ˈɛvriˌbɑdi. ˈɛvəri ˈpɑmpəs
+ˈʤæˌkæs frəm ðə bʊʃ hu fɪld hɪz paɪp wɪθ təˈbæˌkoʊ bɔt wɪθ duz frəm ðə
+ˈloʊkəl ˈpɑrti brænʧ. ðɛr ɔl ˈhɪroʊz, ju noʊ, ˈhɪroʊz əv ðə ˈstrəgəl.
+ˈstrəgəl maɪ ɑrs. ˈɛdwərd shinza's* wən əv ðə fju hu dɪd hɪz strɛʧ ənd gɑt hɪz
+hɛd splɪt ˈoʊpən ðət taɪm baɪ hər ˈmæʤəstiz breɪv bɔɪz, ənd wɛrz hi... bæk ɪn
+ðə bashi* flæts əˈməŋ hɪz oʊld waɪvz, fər ɔl aɪ noʊ, noʊ wən ˈivɪn ˈmɛnʃənz hɪz
+neɪm. bət shinza's* hir fər ðə ˌɪndɪˈpɛndəns ˈsɛrəˌmoʊni? roly* glɛrd. ˈnoʊˌbɑˌdi gɪvz
+ə dæm wɛr hi ɪz. bət hi ɪz ɪn taʊn, naʊ? aɪ doʊnt noʊ wɛr ðə hɛl hi meɪ
+bi. ju min ˈɛdwərdz nɑt goʊɪŋ tɪ teɪk pɑrt ɪn ðə ˌsɛləˈbreɪʃənz? ðæts nɑt
+ˈpɑsəbəl. hiz nɑt kəm əp tɪ taʊn? ju kən si hi ˈhæzənt bɪn ˈgɪvɪn ə ˈkæbənət
+poʊst. aɪ doʊnt səˈpoʊz hiz goʊɪŋ tɪ tərn əp fər ðə ˈɑnər əv ˈstændɪŋ ɪn ðə
+kraʊd ənd ˈweɪvɪŋ ə flæg, ɛ? bət ðæts rɪˈdɪkjələs, roly*. ju noʊ shinza*. hi
+noʊz wət hi wɔnts. aɪ hæd ðə ˌɪmˈprɛʃən hil bi æmˈbæsədər tɪ u.n*. gɪv taɪm
+fər mweta* tɪ ʃaɪn ɔn hɪz oʊn fər ə bɪt, ənd ˈɛni ˈtɛnʃən bɪtˈwin ðɛm tɪ daɪ
+daʊn. əv kɔrs hi ʃʊd hæv gɑt ˈfɔrən əˈfɛrz. bət ðæts bɪtˈwin ðə tu
+əv ðɛm. ju maɪt æsk mweta*, ɪf ju gɪt ə ʧæns tɪ tɔk tɪ ɪm, æsk ɪm ɪf hi
+ˈɪzənt goʊɪŋ tɪ faɪnd ə ˈpɪdəlɪŋ ˈlɪtəl ʤɑb ˈsəmˌwɛr, ˈsəmθɪŋ wɪθ ə ˈdisənt
+ˈleɪbəl tɪ ɪt, fər pur oʊld shinza*, hi wɑz ˈbæŋɪŋ ɔn ðə kəˈloʊniəl ˈsɛkrəˌtɛriz
+dɔr wɪθ ə panga* waɪl mweta* wɑz ə sˈnɔˌti picannin* ˈsɪŋɪŋ hɪmz əp æt ðə
+ˈmɪʃən skul. ˈdændoʊ glaʊərd pettishly* ˈoʊvər hɪz θərd ər fɔrθ ʤɪn ənd ˈʤɪnʤər
+bɪr. hi wɑz ˈgɪvɪn tɪ ˈpʊtɪŋ hɪmˈsɛlf ɔn streɪnʤ ˈmɪksʧərz. hi wʊd drɪŋk wən
+fər ˈsɛvərəl mənθs ənd ðɛn swɪʧ, fər ˈsɪmələr gʊd ˈrizənz (ɪt wɑz mɔr
+daɪˈʤɛstəbəl, ɪt wɑz lɛs ˈlaɪkli tɪ ˈproʊdus ən after-thirst*) tɪ əˈnəðər. oʊ
+mweta's* nɑt laɪk ðət. ju noʊ mweta*. aɪ noʊ mweta*. bət ðɛrz ðə ˈprɛzɪdənt,
+naʊ. ɪf ðɛrz ə ˈfɑðər əv ðə steɪt, ɪts gɑt tɪ bi ɪm ər noʊ wən. aɪ ˈsərtənli
+hæd ðə ˌɪmˈprɛʃən ˌwəˈtɛvər ˈtɛnʃən ðɛr wɑz hæd izd əp, læst taɪm aɪ sɔ
+mweta* ɪn ˈləndən. jɛs, pur oʊld shinza*, ðæts wət ˈɛvriˌwən sɪz. pur oʊld
+ˈdændoʊ. ˈdændoʊ dɪd nɑt ɪkˈspleɪn ðə ʃɪft əv ˈrɛfərəns. pərˈhæps hi ˈsɪmpli rɪˈmɑrkt
+əˈpɑn hɪz oʊn ˈgɪtɪŋ ˈoʊldər; ənˈdaʊtɪdli hi lʊkt ˈoʊldər. hɪz smɔl noʊz ʃoʊd
+ˌənɪkˈspɛktɪdli beaky* naʊ ðət ðə skɪn hæd səŋk ɔn ˈiðər saɪd. breɪ hæd ə lɔt əv
+kˈwɛsʧənz, nɑt ɔl əv ðɛm kaɪnd, tɪ æsk əˈbaʊt ˈəðər ˈpipəl. səm əv ðə ˈænsərz
+wər ˌɛkstrəˈɔrdəˌnɛri; ðə tu mɛn kˈwɪkənd tɪ ðə ɪksˈʧeɪnʤ əv əˈstɑnɪʃmənt,
+aɪˈrɑnɪk əmˈjuzmənt, ənd (ɔn dando's* pɑrt) ˈskɔrnfəl ˌɪndɪgˈneɪʃən wɪθ wɪʧ hi toʊld
+ənd breɪ ˈlərnɪd əv ðə swɪft about-face* baɪ wɪʧ səm waɪt ˈpipəl tərnd ə
+smaɪl ɔn ðə nu rəˈʒim, waɪl ˈəðərz hæd ɔˈrɛdi pækt əp ənd lɛft ðə
+ˈkəntri. sər ˈrɛʤənəld hɪmˈsɛlf wɪl ˈprɛzənt mweta* wɪθ ə buta-wood* ˈlɛktərn ənd
+ˈsɪlvər inkstand*, ɪts daʊn fər ˈtuzˌdeɪ ˌæftərˈnun. ˈdændoʊ wɑz ˈglifəl. sər
+ˈrɛʤənəld ˈhɑrvi wɑz ˈprɛzɪdənt əv ðə kənˈsɔrʃjəm əv ðə θri ˈmaɪnɪŋ
+kənˌsɛʃəˈnɛr ˈkəmpəˌniz, ənd ɪt wɑz ˈkɑmən ˈnɑlɪʤ ðət, ɛz ə ˈpərsɪnəl frɛnd
+əv redvers* ledley*, ðə moʊst ˌənˈpɑpjələr ˈgəvərnər ðə ˈtɛrɪˌtɔri hæd ˈɛvər hæd, hi
+hæd ˈɪnfluənst ðə ˈgəvərnər tɪ ˈaʊˌtlɔ ðə ˈmaɪnərz' ˈjunjən æt ə taɪm wɪn mweta* ənd
+shinza* wər ˈjuzɪŋ ɪt tɪ prəˈmoʊt ðə ˌɪndɪˈpɛndəns ˈmuvmənt. ðɛr wɑz ə ˈfeɪməs
+ˈnuzˌpeɪpər ˈɪntərvˌju wɛr hi hæd kɔld mweta* ðət golliwog* frəm ˈgælə, ˈreɪzɪŋ
+ɪts ənˈruli ənd mɪsˈgaɪdɪd hɛd ɪn ðə ˈnərsəri əv ˌɪnˈdəstriəl riˈleɪʃənz ɪn ðɪs
+jəŋ ˈkəntri. ɪts ɪˈnəf tɪ meɪk jʊr hɛr stænd ɔn ɛnd, sɛd ˈdændoʊ; ənd
+ˌɛnˈʤɔɪd ðə ˈifɛkt. ðə ˈpipəlz ˌɪndɪˈpɛndəns ˈpɑrti, æt ðə taɪm, hæd ˈteɪkən
+ˈhɑrviz rɪˈmɑrk ɛz ən ˌɪnˈsəltɪŋ ˈrɛfərəns tɪ mweta's* hɛr; hi stɪl hæd ɪt ɔl,
+ənd ɪt ˈsərtənli wʊd bi ɪn ˈɛvədəns ɔn ˈtuzˌdeɪ. breɪ rɪˈpitɪd wət hæd bɪn
+sɛd tɪ ɪm æt ðə ˈɛrˌpɔrt ðət ˈmɔrnɪŋ –* ðət səm əv ðə waɪt ˈpipəl stɪl
+ˈlɪvɪŋ ɪn ðə ˈkæpɪtəl wʊd bi mɔr æt hoʊm daʊn saʊθ, ɪn roʊˈdiʒə ər saʊθ
+ˈæfrɪkɑ. ræs asahe* mɛnt ðə waɪts –* ɔl noʊ ðət ˈæftər ðə ɛnd əv ðə jɪr
+ðɛl bi ɔn ˈkɑnˌtrækt, ənd ðət minz ðɛl bi ˌriˈpleɪst ɪn θri jɪrz. nɑt
+ðət ðeɪ ˈɛvər meɪd ən ˈɛfərt. ˈʃɛltərd ɪmˈplɔɪmənt ɔl ðiz jɪrz, wət di' ju
+ɪkˈspɛkt? ju doʊnt nid aɪˈdiəz, ju doʊnt nid tɪ muv aʊt əv jʊr ʧɛr, ju
+ˈsɪmpli goʊ ɔn prəˈdusɪŋ ə nɔɪz aʊt əv ðə ˈmæʤɪk bɑks tɪ kip ðə ˈneɪtɪvz kwaɪət –*
+ənd naʊ, bum, ɪts ɔl gɔn, ˌɪnˈkludɪŋ ðə ˈoʊnli ˌɪnˈsɛnɪv ðeɪ ˈɛvər hæd, ðɛr
+ˈpɛnʃən. ðɛr pəˈθɛtɪk, mæn; ˈsərtənli ðeɪ ˈhævənt məʧ tɪ ˈɔfər wɪn ðeɪ
+lʊk fər ʤɑbz wɪθ ðə ˌbibiˈsi. ðɛr ʤɪst nɑt goʊɪŋ tɪ faɪnd ˈɛni. ðeɪ wɔnt tɪ goʊ,
+ðɛr ˈlɔŋɪŋ tɪ, ju kən si ðeɪ kænt stænd ðə saɪt əv jʊr feɪs wɪn
+jʊr ˈwərkɪŋ təˈgɛðər... wɪʧ meɪks θɪŋz ˈvɛri ˈplɛzənt, ju kən ˌɪˈmæʤən...
+ə slɪm ˈlɪtəl waɪt gərl slɪpt bɪtˈwin ðɛm ənd tʊk əp ræs asahe's* hænd wɪθ
+ðə gold-metal* watch-bracelet* ɛz ɪf ɪt wər səm pəˈzɛʃən ʃi hæd pʊt daʊn...
+seɪv mi frəm ˈdædi ˈdændoʊ. aɪ kʊd gɪv ju ə ˈdəzən ɪgˈzæmpəlz əv ðə sɔrt əv θɪŋ
+ðət ˈhæpənz –* ðə ˈsɛrəˌmoʊni ðɪs ˌæftərˈnun: laɪk ə horse-race*, mæn –* ðə
+ərˈeɪnʤmənts wər ɪgˈzæktli wət ðeɪ juzd tɪ juz fər ðə ˈʧɛrɪti ˈkrɪsməs
+ˈhændiˌkæp, wət ɛls du ðeɪ noʊ? səˈʤɛst wət ju laɪk, ðeɪ ʤɪst tɔk ɪt əˈweɪ
+ˈɪntu ðə ˌsɪgəˈrɛt smoʊk, ˈnoʊˌbɑˌdi ˈivɪn ˈlɪsənz. ðə gərl wɑz ðɛr ɪn ðɛr
+ˌkɑnvərˈseɪʃən laɪk ə ˈfoʊtəˌgræf kəm əˈpɑn laɪɪŋ bɪtˈwin ðə ˈpeɪʤɪz əv ə bʊk; breɪ
+wɑz nɑt ʃʊr ˈwɛðər ʃi wɑz ʧaɪld ər ˈwʊmən: θɪn collar-bones*, ə lɔŋ nɛk wɪθ
+ə feɪs ˈhɑrdli ˈwaɪdər, peɪl ənd sallow*, ə bɪg, θɪn, ənˈpeɪntɪd maʊθ, blæk hɛr
+ənd ˈglɪtərɪŋ, ˈsɑroʊfəl blæk aɪz. ʃi wɔr ə drɛs meɪd əv ˈkɑŋgoʊ klɔθ.
+səˈpoʊz æt ðə ɛnd əv ðə jɪr ðeɪ wər nɑt pʊt ɔn ˈkɑnˌtrækt? wət əˈbaʊt ðə
+ˈgoʊldən ˈhændˌʃeɪk –* ˈwʊdənt ɪt bi ˈʧipər, ɪn ðə ɛnd? nɑt ɪf ðɛrz noʊ
+ˌprɛpərˈeɪʃən əv riˈpleɪsmənts biɪŋ dən ɪn ðə ˈminˌtaɪm. aɪ traɪd tu jɪrz əˈgoʊ tɪ
+ˌɪˈnɪʃiˌeɪt ə ˈpaɪlət skim tɪ sɛnd ˈloʊkəl ˈpipəl əˈweɪ fər ˈtreɪnɪŋ ɪn ˈbrɔdˌkæstɪŋ
+tɛkˈniks –* ɪf aɪ hæd tɪ teɪk ˈoʊvər ðə english-language* ˈsərvɪsɪz təˈmɑˌroʊ, ju
+noʊ wət aɪd hæv tɪ du ɪt wɪθ ə bənʧ əv lambala* ənd ˈspikərz frəm ðə
+vərˈnækjələr ˈsɛkʃənz ənd səm ˈrɛfjuʤi school-teachers* frəm saʊθ ˈæfrɪkɑ. ðə gərl
+sæt ənd sɔ ˈnəθɪŋ, laɪk ən ˈænəməl aʊt əv brɛθ, hoʊld əp əˈgɛnst ˈdeɪnʤər. breɪ
+hæd tɪ raɪz tɪ bi ˌɪntrəˈdust tɪ ə bɪg ˈwʊmən ˈmɑrkɪŋ taɪm ɔn ðə ɛʤ əv ðə
+ˈdænsərz wɪθ ðə əˈmɛrɪkən, ˈkərtɪs ˈpɛtɪˌgru: ʃi wɑz ə wɛst ˈæfrɪkɑn hum ˈtɪməθi
+odara* hæd ˈmɛrid sɪns breɪ sɔ ɪm læst.. ʃi spoʊk wɪθ ən əˈmɛrɪkən
+ˌɪntəˈneɪʃən, tu, ənd ɪn hər flæmˈbɔɪənt ˈnæʃənəl drɛs, drægd raʊnd hər ɛz ɪf
+snæʧt streɪt frəm ðə ˈbrɪljənt boʊlt ɔn ə ʃɑp ˈkaʊntər, ʃi simd ɪn ˈɛvəri
+weɪ twaɪs ðə saɪz əv ðə ˈloʊkəl ˈæfrɪkɑn ˈwɪmən, hu wər ˈjuʒəwəli kɛpt æt hoʊm,
+ənd ʃoʊd ɪt. ˈpɛtɪˌgru wɑz heɪld baɪ ˈsəmˌwən, ənd breɪ ənd ðə ˈwʊmən wər lɛft
+ˈfeɪsɪŋ iʧ ˈəðər laɪk ðə ˈdænsərz; ʃi pʊt hər hænd ɔn hɪz ɑrm. waɪl ðeɪ
+muvd ɔf, ʃi sɛd, gɛs wət maɪ neɪm ɪz? seɪm ɛz jʊrz, aɪ bɪˈliv. bət ðeɪ
+kɔl mi ʤeɪmz. aɪ ʃʊd dæm wɛl hoʊp soʊ. wɛl, aɪv pɪkt ˈsəmˌwən maɪ oʊn saɪz
+æt læst təˈnaɪt. wi kʊd ʤɪst swip ðə ˈəðərz ɔf ðə flɔr. ʃi meɪnˈteɪnd
+ˈkɑnˌtækt ɔl raʊnd hər ɛz ðeɪ dænst, ˈtɔkɪŋ ˈoʊvər hɪz ˈʃoʊldər tɪ ðɪs wən,
+ˈpʊtɪŋ aʊt ə brɔd ˈkæləst braʊn fʊt ɪn ə goʊld ˈsændəl tɪ nəʤ ðət wən ɪn
+ðə kæf. gɪt hər tɪ sɪŋ, ˈdændoʊ kɔld aʊt ˈpraʊdli. nɑt təˈnaɪt, dandy-roly* əm
+ɔn maɪ bɛst bɪˈheɪvjər. wʊd ɪt ɪmˈbɛrəs ˈɛvəlɪn ɪf ˈɛvəlɪn sæŋ? ʃi æst breɪ.
+nɑt ɪn ðə list. wət sɔrt əv θɪŋ? wɛl, ˈwətɪd ju θɪŋk? wət du aɪ lʊk ɛz
+ɪf aɪd sɪŋ? ʃi hæd ðə ˌsɛlfˈkɑnfədəns əv ə ˈwʊmən əv daɪˈnæmɪk ˈəglinəs. ə snɔrt
+əv ˈplɛʒər: goʊ ɔn! aɪv gɑt ə vɔɪs laɪk ə ˈbʊlˌfrɔg. ɪts ˈtɛrəbəl wɪn aɪ sɪŋ
+ðə oʊld ʧænts frəm hoʊm bət ɪts nɑt soʊ bæd ɪn ˈɪŋlɪʃ –* ˈɪŋlɪʃ ɪz səʧ ə
+rough-sounding* ˈlæŋgwɪʤ ˈɛniˌweɪ. ˈvɪviən bayley's* ˈərʤənt feɪs tʊk əp ˌkɑnvərˈseɪʃən
+ɪn ˈpæsɪŋ,... ðæts hjalmar* wentz's* ˈdɔtər... ju wər ˈsɪtɪŋ wɪθ. ðə
+oriental-looking* ˈlɪtəl gərl wɪθ ræs? jɛs, ˈləvli ˈkriʧər, ˈɪzənt ʃi? ˈmɑrgoʊ
+wʊd ˈoʊnli lɛt hər kəm ɪf aɪ ˈprɑməst tɪ kip hər wholesomely* ˈɑkjəˌpaɪd. ju
+ˈdɪdənt liv hər wɪθ ræs? hi muvd hɪz ˈʃoʊldərz ˈhɛlpləsli. ðə ˈdænsərz wər
+ˈfɑlɪŋ bæk raʊnd ə ˈpɑlɪʃ ˌægrɪˈkəlʧərələst hu wɑz ˈtiʧɪŋ ə gangling*
+ˈɪŋglɪʃmən ənd tu jəŋ ˈæfrɪkənz ən ˈistərn ˌjʊrəˈpiən ˈpɛzənt dæns. ðə
+ˌkɑngəˈliz bænd hæd noʊ aɪˈdiə wət mˈjuzɪk wʊd du, ənd prəˈdust ə ˈstɑmpɪŋ
+krɪˈʃɛndoʊ; ðɛn wən əv ðə poʊlz pleɪd ðə piˈænə, ənd nil ˈbeɪli muvd ɪn ɔn
+ðə drəmz. ðə ˌəndərˈgræʤəwət fɔrm əv ˌsɛlfɪkˈsprɛʃən ðət ˈimərʤɪz wɛr
+ˌɛŋˈlɪʃmən wɔnt tɪ gɪv ðɛmˈsɛlvz tɪ ˌsɛləˈbreɪʃən ˌɪmˈpoʊzd ˌɪtˈsɛlf fər ə waɪl.
+ˈsəmˌwən lɛft, ənd ˌriəˈpɪrd wɪθ əˈnəðər keɪs əv ʃæmˈpeɪn. ðə waɪn wɑz wɔrm,
+bət ən early-hours-of-the-morning* reɪn keɪm aʊt laɪk swɛt, ənd ˈkulnəs blu ɪn
+ɔn nɛks ənd ˈfeɪsɪz. ˈleɪtər ðə odara* ˈwʊmən sæŋ ðə nu ˈnæʃənəl ˈænθəm ɪn ə
+ˈbjutəfəl contralto*, hər bɪg ˈbɛli ˈtrɛmbəlɪŋ ˈəndər ðə roʊb. ðə jəŋ ˈbæʧlərz
+romped* ənd ðə tousled* gərlz, ˈpæsɪŋ kloʊz baɪ, ər sˈmaɪlɪŋ ˈsədənli æt ˈpipəl
+ðeɪ wərənt əˈwɛr əv, geɪv əp ðə sɛnt əv kɑzˈmɛtɪks ənd pərfˈjum ˈhitɪd ɔn
+ðɛr ˈbɑdiz. ðɛn ðɛr wɑz ˈbrɛkfəst æt ðə bayleys*'; ə ˈθɪnɪŋ əv ˈfeɪsɪz, bət
+səm hæd kɛpt reappearing* ɔl θru ðə naɪt ɪn ðə ˈʧeɪnʤɪŋ laɪt. ðeɪ sɛd
+gʊd naɪt tɪ iʧ ˈəðər ɪn ðə braɪt sˈlæntɪŋ sən ənd ðə ˈbeɪli ˈʧɪldrən wər
+ɔˈrɛdi aʊt ɔn ðə græs ɪn ðɛr pyjamas*, ˈraɪdɪŋ ˈbaɪsɪkəlz. ɪn ə fju deɪz ðə
+ˈfeɪsɪz hæd lɔst ðə ˈstaɪˌlaɪzd, apparition-quality* əv ðət fərst naɪt, ðə naɪt
+əv ðə ˌɪndɪˈpɛndəns bɔl, ənd bɪˈkəm, ɪf nɑt fəˈmɪljər, æt list ɪkˈspɛktɪd. ə
+jəŋ ˈwʊmən wɑz ɪn ənd aʊt ðə bayleys*' haʊs, ˈsəmˌtaɪmz ˈædɪŋ tɪ, ˈsəmˌtaɪmz
+ˈkɛriɪŋ ɔf wɪθ hər ðə ˈmɛni ˈʧɪldrən hu pleɪd ðɛr. ʃi wɑz rəˈbɛkə,
+rəˈbɛkə ˈɛdwərdz, laɪk ə bɪg, ənˈtaɪdi ˈskulˌgərl ɪn hər ˈkɔtən ʃərt ənd ˈsændəlz,
+ðə kɑr ki ɔn hər ˈfɔrˌfɪŋgər jingling* harassedly*. ʃi wɑz ˈɔlˌweɪz biɪŋ sɛnt tɪ
+pɪk əp ˈpipəl wɪn ərˈeɪnʤmənts wɛnt rɔŋ; ʃi keɪm fər breɪ wən ˌæftərˈnun ɪn
+ən oʊld ˈsteɪʃən ˈwægən ˈlɪtərd wɪθ sweet-papers*, ɑd sɑks, ənd ˈdɪŋki tɔɪz. ɪt
+wɑz ʃi hu hæd ˈgɪvɪn hər glæs tɪ ɪm ðət naɪt æt ðə ˌɪndɪˈpɛndəns ˈpɑrti; ðə
+poʊl hu hæd dænst ðə gazatska* bɪˈkeɪm ðə mæn wɪθ hum hi ˈgrævəˌteɪtɪd tɪ ə
+kwaɪət ˈkɔrnər soʊ ðət ðeɪ kʊd tɔk əˈbaʊt ðə ˈkjʊriəs grammar-structure* əv ˈgælə
+ənd ðə lambala* grup əv ˈlæŋgwɪʤɪz. ðə ˈætməsˌfɪr æt ðə ˈpɑrtiz wɑz wət hi
+θɔt ɪt məst hæv bɪn æt ˈgæðərɪŋz dɪˈskraɪbd ɪn nineteenth-century* ˈrəʃən
+ˈnɑvəlz. ˈʧɪldrən swɛpt ɪn ənd aʊt, belligerently* pleasure-seeking*. ˈbeɪbiz slɛpt
+ɪn dɑrk rumz. fud wɑz kʊkt baɪ ˈmɛni hænz. ˌɪnvɪˈteɪʃənz wər ˈmɛʒərd ˈoʊnli baɪ
+haʊ lɔŋ ðə bɪr ənd waɪn ˈlæstɪd aʊt. hi fɛlt hɪmˈsɛlf ðə ˈmɪdəˌleɪgd ˈrɛlətɪv,
+ə mæn əv veɪg riˈpjut kəm frəm əˈfɑr tɪ ðə ˈwɛdɪŋ ənd drɔn ˈhɛlpləsli ənd nɑt
+unenjoyably* ˈɪntu ˈɛvriˌθɪŋ. ɪt wɑz, ɪn ə ˈkjʊriəs weɪ, ən ɪkˈstɛnʃən əv wət hi
+wɑz æt ðə əˈfɪʃəl rɪˈsɛpʃənz wɛr ˈmɛni ˈpipəl hæd ˈlɪtəl aɪˈdiə hu ðə waɪt
+ˈstreɪnʤər wɑz, ˈsɪtɪŋ ɪn ə ˈmɑdəst pleɪs əv ˈɑnər; ənd wəns, æt ə prɛs ˈdɪnər
+mweta's* ˈrɛfərəns tɪ ðə ˈprɛzəns əv wən əv ðə ˈfɛri ˈgɑdˌməðərz' hu hæd bɪn
+ˈprɛzənt æt ðə ˈkrɪsənɪŋ ənd hæd rɪˈtərnd fər ðə coming-of-age* əv ðə steɪt
+wɛnt, θæŋk gɑd, ənˈnoʊtɪst ɛz ə ˈrɛfərəns tɪ hɪmˈsɛlf. ɪt bɪˈkeɪm hɪz ˌɪndɪˈpɛndəns
+ˈstɔri; ɛz ðə ˈstɔri əv ðə ˌsɪgəˈrɛt ˈkəmpəniz ˈhɛlɪˌkɑptər wɑz nil bayley's*,
+rɪˈleɪtɪd əˈgɛn ənd əˈgɛn waɪl ðə ˈpraɪvət ˈdrɑmə bɪtˈwin ˈhəzbənd ənd waɪf ðət
+hæd meɪd ɪt pæs ənrɪˈmɑrkt æt ðə taɪm wɑz kwaɪt drɑpt aʊt əv ðə ˈkɑntɛkst.
+breɪ æst ˈɛvriˌwɛr əˈbaʊt ˈɛdwərd shinza*; ˈsərtənli hi wɑz nɑt ɪn ˈɛvədəns æt
+ˈɛni əˈfɪʃəl əˈkeɪʒən.
+
+dobby* blɪŋkt ˈæŋkʃəsli əp æt ˈhɛri. ˈhɛri ˈwəzənt ˈlɪsənɪŋ. hi meɪd ə græb fər
+ðə ˈlɛtərz, bət dobby* ʤəmpt aʊt əv riʧ. ɑ, sər, ðɪs ɪz ə ˈdeɪnʤər ju məst
+nɑt feɪs! gɪv mi maɪ frɛndz' ˈlɛtərz! ˌbiˈfɔr ˈhɛri kʊd muv, dobby* hæd ˈdɑrtɪd
+tɪ ðə ˈbɛˌdrum dɔr, pʊld ɪt ˈoʊpən –* ənd ˈsprɪntɪd daʊn ðə stɛrz. maʊθ draɪ,
+ˈstəmək ˈlərʧɪŋ, ˈhɛri spræŋ ˈæftər ɪm, traɪɪŋ nɑt tɪ meɪk ə saʊnd. hi ʤəmpt
+ðə læst sɪks stɛrz, ˈlændɪŋ ˈkæˌtlaɪk ɔn ðə hɔl ˈkɑrpət, ˈlʊkɪŋ əraʊnd fər
+dobby*. ˈhɛri ræn əp ðə hɔl ˈɪntu ðə ˈkɪʧən ənd fɛlt hɪz ˈstəmək ˌdɪsəˈpɪr.
+ɔnt petunia's* ˈmæstərˌpis əv ə ˈpʊdɪŋ, ðə ˈmaʊntən əv krim ənd ˈʃʊgərd
+ˈvaɪələts, wɑz ˈfloʊtɪŋ əp nɪr ðə ˈsilɪŋ. ɔn tɔp əv ə ˈkəbərd ɪn ðə ˈkɔrnər
+kraʊʧt dobby*. ˈhɛri ˈpɑtər məst seɪ hiz nɑt goʊɪŋ bæk tɪ skul –* dobby* geɪv
+ɪm ə ˈtræʤɪk lʊk. ðə ˈpʊdɪŋ fɛl tɪ ðə flɔr wɪθ ə heart-stopping* kræʃ.
+krim ˈsplætərd ðə ˈwɪndoʊz ənd wɔlz ɛz ðə dɪʃ ˈʃætərd. wɪθ ə kræk laɪk
+ə wɪp, dobby* ˈvænɪʃt. ðɛr wər skrimz frəm ðə ˈdaɪnɪŋ rum ənd ˈəŋkəl ˈvərnən
+bərst ˈɪntu ðə ˈkɪʧən tɪ faɪnd ˈhɛri, ˈrɪʤɪd wɪθ ʃɑk, ˈkəvərd frəm hɛd tɪ
+fʊt ɪn ɔnt petunia's* ˈpʊdɪŋ. æt fərst, ɪt lʊkt ɛz ðoʊ ˈəŋkəl ˈvərnən wʊd
+ˈmænɪʤ tɪ glɔs ðə hoʊl θɪŋ ˈoʊvər (ʤɪst ɑr ˈnɛfju –* ˈvɛri dɪˈstərbd ˈmitɪŋ
+ˈstreɪnʤərz ˈəpˌsɛts ɪm, soʊ wi kɛpt ɪm əpˈstɛrz) hi ʃud ðə ʃɑkt ˈmeɪsənz bæk
+ˈɪntu ðə ˈdaɪnɪŋ rum, ˈprɑməst ˈhɛri hi wʊd fleɪ ɪm tɪ wɪˈθɪn ən ɪnʧ əv hɪz
+laɪf wɪn ðə ˈmeɪsənz hæd lɛft, ənd ˈhændɪd ɪm ə mɑp. ɔnt pəˈtunjə dəg səm
+ˈaɪˌskrim aʊt əv ðə ˈfrizər ənd ˈhɛri, stɪl ˈʃeɪkɪŋ, ˈstɑrtɪd ˈskrəbɪŋ ðə
+ˈkɪʧən klin. ˈəŋkəl ˈvərnən maɪt stɪl hæv bɪn ˈeɪbəl tɪ meɪk hɪz dil –* ɪf ɪt
+ˈhædənt bɪn fər ðə aʊl. ɔnt pəˈtunjə wɑz ʤɪst ˈhændɪŋ raʊnd ə bɑks əv
+after-dinner* mɪnts wɪn ə juʤ bɑrn aʊl swupt θru ðə ˈdaɪnɪŋ rum ˈwɪndoʊ,
+drɑpt ə ˈlɛtər ɔn ˈmɪsɪz ˈmeɪsənz hɛd ənd swupt aʊt əˈgɛn. ˈmɪsɪz ˈmeɪsən skrimd
+laɪk ə ˈbænʃi ənd ræn frəm ðə haʊs, ˈʃaʊtɪŋ əˈbaʊt ˈlunəˌtɪks. ˈmɪstər ˈmeɪsən steɪd
+ʤɪst lɔŋ ɪˈnəf tɪ tɛl ðə dursleys* ðət hɪz waɪf wɑz ˈmɔrtəli əˈfreɪd əv bərdz
+əv ɔl ʃeɪps ənd ˈsaɪzɪz, ənd tɪ æsk ˈwɛðər ðɪs wɑz ðɛr aɪˈdiə əv ə ʤoʊk. ˈhɛri
+stʊd ɪn ðə ˈkɪʧən, ˈkləʧɪŋ ðə mɑp fər səˈpɔrt ɛz ˈəŋkəl ˈvərnən ədˈvænst ɔn
+ɪm, ə dɪˈmɑnɪk glɪnt ɪn hɪz ˈtaɪni aɪz. ˈhɛri tʊk ɪt. ɪt dɪd nɑt kənˈteɪn
+ˈbərθˌdeɪ ˈgritɪŋz. dɪr ˈmɪstər ˈpɑtər, wi hæv rɪˈsivd ˌɪnˈtɛləʤəns ðət ə ˈhəvər
+ʧɑrm wɑz juzd æt jʊr pleɪs əv ˈrɛzɪdəns ðɪs ˈivnɪŋ æt twɛlv ˈmɪnəts pæst
+naɪn. ɛz ju noʊ, ˈəndərɪʤ ˈwɪzərdz ər nɑt pərˈmɪtɪd tɪ pərˈfɔrm spɛlz ˈaʊtˈsaɪd
+skul, ənd ˈfərðər spellwork* ɔn jʊr pɑrt meɪ lɛd tɪ ɪkˈspəlʃən frəm sɛd
+skul (dɪˈkri fər ðə ˈrizənəbəl riˈstrɪkʃən əv ˈəndərɪʤ ˈsɔrsəri, 1875
+ˈpɛrəˌgræf si). wi wʊd ˈɔlsoʊ æsk ju tɪ rɪˈmɛmbər ðət ˈɛni ˈmæʤɪkəl ækˈtɪvɪti ðət
+rɪsks ˈnoʊtɪs baɪ ˈmɛmbərz əv ðə non-magical* kəmˈjunɪti (muggles*) ɪz ə ˈsɪriəs
+offence*, ˈəndər ˈsɛkʃən 13 əv ðə ˌɪnərˈnæʃənɑl kənˌfɛdərˈeɪʃən əv ˈwɔˌrlɔks'
+ˈstæʧut əv ˈsikrəsi. ˌɛnˈʤɔɪ jʊr ˈhɑləˌdeɪz! jʊrz sɪnˈsɪrli, mafalda* hopkirk*
+ˌɪmˈprɑpər juz əv ˈmæʤɪk ˈɔfəs ˈhɛri lʊkt əp frəm ðə ˈlɛtər ənd gəlpt. hi wɑz
+ˈbɛrɪŋ daʊn ɔn ˈhɛri laɪk ə greɪt ˈbʊlˌdɔg, ɔl hɪz tiθ bɛrd. wɛl, aɪv gɑt
+nuz fər ju, bɔɪ. əm ˈlɑkɪŋ ju əp jʊr ˈnɛvər goʊɪŋ bæk tɪ ðət skul.
+ˈnɛvər. ənd ɪf ju traɪ ənd ˈmæʤɪk ˈjɔrsɛlf aʊt –* ðɛl ɪkˈspɛl ju! ənd ˈlæfɪŋ
+laɪk ə ˈmeɪniˌæk, hi drægd ˈhɛri bæk əpˈstɛrz. ˈəŋkəl ˈvərnən wɑz ɛz bæd ɛz hɪz
+wərd. ðə ˈfɑloʊɪŋ ˈmɔrnɪŋ, hi peɪd ə mæn tɪ fɪt bɑrz ɔn ˈhɛriz ˈwɪndoʊ. hi
+hɪmˈsɛlf ˈfɪtɪd ə cat-flap* ɪn ðə ˈbɛˌdrum dɔr, soʊ ðət smɔl əˈmaʊnts əv fud
+kʊd bi pʊʃt ˌɪnˈsaɪd θri taɪmz ə deɪ. ðeɪ lɛt ˈhɛri aʊt tɪ juz ðə ˈbæθˌrum
+ˈmɔrnɪŋ ənd ˈivnɪŋ. ˈəðərˌwaɪz, hi wɑz lɑkt ɪn hɪz rum əraʊnd ðə klɑk.
+θri deɪz ˈleɪtər, ðə dursleys* wər ʃoʊɪŋ noʊ saɪn əv rɪˈlɛntɪŋ ənd ˈhɛri
+ˈkʊdənt si ˈɛni weɪ aʊt əv hɪz ˌsɪʧuˈeɪʃən. hi leɪ ɔn hɪz bɛd ˈwɑʧɪŋ ðə sən
+ˈsɪŋkɪŋ bɪˈhaɪnd ðə bɑrz ɔn ðə ˈwɪndoʊ ənd ˈwəndərd ˈmɪzərəbli wət wɑz goʊɪŋ tɪ
+ˈhæpən tɪ ɪm. wət wɑz ðə gʊd əv magicking* hɪmˈsɛlf aʊt əv hɪz rum ɪf
+ˈhɑgˌwɔrts wʊd ɪkˈspɛl ɪm fər duɪŋ ɪt? jɛt laɪf æt privet* draɪv hæd riʧt ən
+ˌɔlˈtaɪm loʊ. naʊ ðət ðə dursleys* nu ðeɪ wərənt goʊɪŋ tɪ weɪk əp ɛz
+fruitbats*, hi hæd lɔst hɪz ˈoʊnli ˈwɛpən. dobby* maɪt hæv seɪvd ˈhɛri frəm
+ˈhɔrəbəl ˈhæpənɪŋz æt ˈhɑgˌwɔrts, bət ðə weɪ θɪŋz wər goʊɪŋ, hid ˈprɑbəˌbli
+stɑrv tɪ dɛθ ˈɛniˌweɪ. ðə cat-flap* ˈrætəld ənd ɔnt petunia's* hænd əˈpɪrd,
+ˈpʊʃɪŋ ə boʊl əv tinned* sup ˈɪntu ðə rum. ˈhɛri, huz ˌɪnˈsaɪdz wər ˈeɪkɪŋ
+wɪθ ˈhəŋgər, ʤəmpt ɔf hɪz bɛd ənd sizd ɪt. ðə sup wɑz stoʊn koʊld, bət hi
+dræŋk hæf əv ɪt ɪn wən gəlp. ðɛn hi krɔst ðə rum tɪ hedwig's* keɪʤ ənd
+tɪpt ðə ˈsɑgi ˈvɛʤtəbəlz æt ðə ˈbɑtəm əv ðə boʊl ˈɪntu hər ˈɛmti fud treɪ.
+ʃi ˈrəfəld hər ˈfɛðərz ənd geɪv ɪm ə lʊk əv dip dɪsˈgəst. hi pʊt ðə ˈɛmti
+boʊl bæk ɔn ðə flɔr nɛkst tɪ ðə cat-flap* ənd leɪ bæk daʊn ɔn ðə bɛd,
+ˈsəmˌhaʊ ˈivɪn ˈhəŋgriər ðən hi hæd bɪn ˌbiˈfɔr ðə sup. səˈpoʊzɪŋ hi wɑz stɪl
+əˈlaɪv ɪn əˈnəðər fɔr wiks, wət wʊd ˈhæpən ɪf hi ˈdɪdənt tərn əp æt ˈhɑgˌwɔrts?
+wʊd ˈsəmˌwən bi sɛnt tɪ si waɪ hi ˈhædənt kəm bæk? wʊd ðeɪ bi ˈeɪbəl tɪ meɪk
+ðə dursleys* lɛt ɪm goʊ? ðə rum wɑz groʊɪŋ dɑrk. ɪgˈzɔstɪd, ˈstəmək ˈrəmbəlɪŋ,
+maɪnd ˈspɪnɪŋ ˈoʊvər ðə seɪm ˌəˈnænsərəbəl kˈwɛsʧənz, ˈhɛri fɛl ˈɪntu ən əˈnizi
+slip. ðɛr wɑz ə bɪg ˈfoʊtəˌgræf ɔn ðə frənt əv ə ˈvɛri ˈgʊˌdlʊkɪŋ ˈwɪzərd
+wɪθ ˈweɪvi blɑnd hɛr ənd braɪt blu aɪz. ɛz ˈɔlˌweɪz ɪn ðə wizarding* wərld, ðə
+ˈfoʊtəˌgræf wɑz ˈmuvɪŋ; ðə ˈwɪzərd, hu ˈhɛri səˈpoʊzd wɑz gilderoy* ˈlɑˌkhɑrt,
+kɛpt ˈwɪŋkɪŋ cheekily* əp æt ðɛm ɔl. ˈmɪsɪz weasley* bimd daʊn æt ɪm. doʊnt bi
+soʊ rɪˈdɪkjələs, frɛd, sɛd ˈmɪsɪz weasley*, hər ʧiks ˈrəðər pɪŋk. ˈjɔnɪŋ ənd
+ˈgrəmbəlɪŋ, ðə weasleys* slouched* ˈaʊtˈsaɪd wɪθ ˈhɛri bɪˈhaɪnd ðɛm. ðə ˈgɑrdən wɑz
+lɑrʤ, ənd ɪn ˈhɛriz aɪz, ɪgˈzæktli wət ə ˈgɑrdən ʃʊd bi. ðə dursleys*
+ˈwʊdənt hæv laɪkt ɪt –* ðɛr wər ˈplɛnti əv widz, ənd ðə græs ˈnidɪd
+ˈkətɪŋ –* bət ðɛr wər nɑrld triz ɔl əraʊnd ðə wɔlz, plænts ˈhɛri hæd
+ˈnɛvər sin ˈspɪlɪŋ frəm ˈɛvəri flowerbed* ənd ə bɪg grin pɑnd fʊl əv frɑgz.
+ðɛr wɑz ə ˈvaɪələnt ˈskəfəlɪŋ nɔɪz, ðə ˈpiəni bʊʃ ˈʃədərd ənd rɑn
+ˈstreɪtənd əp. ðɪs ɪz ə noʊm, hi sɛd ˈgrɪmli. ɪt wɑz ˈsərtənli ˈnəθɪŋ laɪk
+ˈfɑðər ˈkrɪsməs. ɪt wɑz smɔl ənd leathery-looking*, wɪθ ə lɑrʤ, knobbly*, bɔld
+hɛd ɪgˈzæktli laɪk ə pəˈteɪˌtoʊ. rɑn hɛld ɪt æt ɑrmz lɛŋθ ɛz ɪt kɪkt aʊt æt ɪm
+wɪθ ɪts ˈhɔrni ˈlɪtəl fit; hi græspt ɪt əraʊnd ðə ˈæŋkəlz ənd tərnd ɪt
+ˌəpˈsaɪˌdaʊn. siɪŋ ðə ʃɑkt lʊk ɔn ˈhɛriz feɪs, rɑn ˈædɪd, ɪt ˈdəzənt hərt
+ðɛm –* juv ʤɪst gɑt tɪ meɪk ðɛm ˈrɪli ˈdɪzi soʊ ðeɪ kænt faɪnd ðɛr weɪ
+bæk tɪ ðə gnomeholes*. hi lɛt goʊ əv ðə gnome's* ˈæŋkəlz: ɪt flu tˈwɛnti fit
+ˈɪntu ðə ɛr ənd ˈlændɪd wɪθ ə θəd ɪn ðə fild ˈoʊvər ðə hɛʤ. ˈhɛri ˈlərnɪd
+kˈwɪkli nɑt tɪ fil tu ˈsɑri fər ðə noʊmz. hi ˌdɪˈsaɪdɪd ʤɪst tɪ drɔp ðə fərst
+wən hi kɔt ˈoʊvər ðə hɛʤ, bət ðə noʊm, ˈsɛnsɪŋ ˈwiknəs, sæŋk ɪts
+razor-sharp* tiθ ˈɪntu ˈhɛriz ˈfɪŋgər ənd hi hæd ə hɑrd ʤɑb ˈʃeɪkɪŋ ɪt ɔf ənˈtɪl
+–* ðə ɛr wɑz sun θɪk wɪθ flaɪɪŋ noʊmz. ðə ˈmoʊmənt ðeɪ noʊ ðə
+de-gnoming's* goʊɪŋ ɔn ðeɪ stɔrm əp tɪ hæv ə lʊk. sun, ðə kraʊd əv noʊmz ɪn
+ðə fild ˈstɑrtɪd ˈwɔkɪŋ əˈweɪ ɪn ə straggling* laɪn, ðɛr ˈlɪtəl ˈʃoʊldərz
+hənʧt. ʤɪst ðɛn, ðə frənt dɔr slæmd. hiz bæk! sɛd ʤɔrʤ. ðeɪ ˈhərid
+θru ðə ˈgɑrdən ənd bæk ˈɪntu ðə haʊs. ˈmɪstər weasley* wɑz sləmpt ɪn ə ˈkɪʧən
+ʧɛr wɪθ hɪz ˈglæsɪz ɔf ənd hɪz aɪz kloʊzd. hi wɑz ə θɪn mæn, goʊɪŋ bɔld,
+bət ðə ˈlɪtəl hɛr hi hæd wɑz ɛz rɛd ɛz ˈɛni əv hɪz ˈʧɪldrənz. hi wɑz ˈwɛrɪŋ
+lɔŋ grin roʊbz wɪʧ wər ˈdəsti ənd travel-worn*. ˈmɪstər weasley* tʊk ə lɔŋ gəlp
+əv ti ənd saɪd. faɪnd ˈɛniˌθɪŋ, dæd? sɛd frɛd ˈigərli. ʤɪst muggle-baiting*,
+saɪd ˈmɪstər weasley*. əv kɔrs, ɪts ˈvɛri hɑrd tɪ ˈkɑnvɪkt ˈɛniˌwən bɪˈkəz noʊ muggle*
+wʊd ədˈmɪt ðɛr ki kips ʃˈrɪŋkɪŋ –* ðɛl ˌɪnˈsɪst ðeɪ ʤɪst kip ˈluzɪŋ ɪt.
+ˈmɪsɪz weasley* hæd əˈpɪrd, ˈhoʊldɪŋ ə lɔŋ ˈpoʊkər laɪk ə sɔrd. ˈmɪstər weasley's* aɪz
+ʤərkt ˈoʊpən. hi stɛrd guiltily* æt hɪz waɪf. jɛs, ˈɑrθər, kɑz, sɛd ˈmɪsɪz
+weasley*, hər aɪz ˈflæʃɪŋ. ˈmɪstər weasley* blɪŋkt. ʤɪst soʊ ju kʊd ˈkɛri ɔn
+ˈtɪŋkərɪŋ wɪθ ɔl ðət muggle* ˈrəbɪʃ ɪn jʊr ʃɛd! hi lʊkt əraʊnd, sɔ
+ˈhɛri, ənd ʤəmpt. ˈvɛri plizd tɪ mit ju, rɑnz toʊld ˈjuˈɛs soʊ məʧ əˈbaʊt –* aɪ –* aɪ
+min, hi ˈfɑltərd ɛz spɑrks flu frəm ˈmɪsɪz weasley's* aɪz, ðət –* ðət wɑz ˈvɛri
+rɔŋ, bɔɪz –* ˈvɛri rɔŋ ˌɪnˈdid ðeɪ slɪpt aʊt əv ðə ˈkɪʧən ənd daʊn ə
+ˈnɛroʊ ˈpæsɪʤˌweɪ tɪ ən əˈnivən ˈstɛrˌkeɪs, wɪʧ ˈzɪgzægd ɪts weɪ əp θru ðə
+haʊs. ɔn ðə θərd ˈlændɪŋ, ə dɔr stʊd əˈʤɑr. ˈhɛri ʤɪst kɔt saɪt əv ə
+pɛr əv braɪt braʊn aɪz ˈstɛrɪŋ æt ɪm ˌbiˈfɔr ɪt kloʊzd wɪθ ə snæp. ðeɪ
+klaɪmd tu mɔr flaɪts ənˈtɪl ðeɪ riʧt ə dɔr wɪθ ˈpilɪŋ peɪnt ənd ə
+smɔl plæk ɔn ɪt, seɪɪŋ ronald's* rum. ˈhɛri stɛpt ɪn, hɪz hɛd ˈɔlˌmoʊst
+ˈtəʧɪŋ ðə sˈloʊpɪŋ ˈsilɪŋ, ənd blɪŋkt. ɪt wɑz laɪk ˈwɔkɪŋ ˈɪntu ə ˈfərnəs:
+ˈnɪrli ˈɛvriˌθɪŋ ɪn rɑnz rum simd tɪ bi ə ˈvaɪələnt ʃeɪd əv ˈɔrɪnʤ: ðə
+ˈbɛdˌsprɛd, ðə wɔlz, ˈivɪn ðə ˈsilɪŋ. ðɛn ˈhɛri ˈriəˌlaɪzd ðət rɑn hæd ˈkəvərd
+ˈnɪrli ˈɛvəri ɪnʧ əv ðə ˈʃæbi ˈwɔlˌpeɪpər wɪθ ˈpoʊstərz əv ðə seɪm ˈsɛvən ˈwɪʧɪz
+ənd ˈwɪzərdz, ɔl ˈwɛrɪŋ braɪt ˈɔrɪnʤ roʊbz, ˈkɛriɪŋ ˈbrumˌstɪks, ənd ˈweɪvɪŋ
+ˌɛnərˈʤɛtɪkli. rɑnz skul spellbooks* wər stækt untidily* ɪn ə ˈkɔrnər, nɛkst
+tɪ ə paɪl əv ˈkɑmɪks ðət ɔl simd tɪ ˈfiʧər ðə ædˈvɛnʧərz əv ˈmɑrtɪn miggs*,
+ðə mæd muggle*. rɑnz ˈmæʤɪk wɑnd wɑz laɪɪŋ ɔn tɔp əv ə fɪʃ tæŋk fʊl əv frɑg
+spɔn ɔn ðə window-sill*, nɛkst tɪ hɪz fæt greɪ ræt, scabbers*, hu wɑz sˈnuzɪŋ
+ɪn ə pæʧ əv sən. ˈhɛri stɛpt ˈoʊvər ə pæk əv self-shuffling* pleɪɪŋ kɑrdz ɔn
+ðə flɔr ənd lʊkt aʊt əv ðə ˈtaɪni ˈwɪndoʊ. ɪn ðə fild fɑr bɪˈloʊ hi kʊd si
+ə gæŋ əv noʊmz sˈnikɪŋ, wən baɪ wən, bæk θru ðə weasleys* hɛʤ. ðɛn hi
+tərnd tɪ lʊk æt rɑn, hu wɑz ˈwɑʧɪŋ ɪm ˈɔlˌmoʊst ˈnərvəsli, ɛz ðoʊ ˈweɪtɪŋ
+fər hɪz əˈpɪnjən. nɑt laɪk ðət rum ju hæd wɪθ ðə muggles*. rɑnz ɪrz wɛnt
+pɪŋk. laɪf æt ðə bəroʊ wɑz ɛz ˈdɪfərənt ɛz ˈpɑsəbəl frəm laɪf ɪn privet* draɪv.
+ðə dursleys* laɪkt ˈɛvriˌθɪŋ nit ənd ˈɔrdərd; ðə weasleys* haʊs bərst wɪθ
+ðə streɪnʤ ənd ˌənɪkˈspɛktɪd. ðə gul ɪn ðə ˈætɪk haʊld ənd drɑpt paɪps
+wɛˈnɛvər hi fɛlt θɪŋz wər ˈgɪtɪŋ tu kwaɪət, ənd smɔl ɪkˈsploʊʒənz frəm frɛd
+ənd ˈʤɔrʤɪz ˈbɛˌdrum wər kənˈsɪdərd ˈpərfəktli ˈnɔrməl. wət ˈhɛri faʊnd moʊst
+ənˈjuˌʒuəl əˈbaʊt laɪf æt rɑnz, ˌhaʊˈɛvər, ˈwəzənt ðə ˈtɔkɪŋ ˈmɪrər ər ðə ˈklæŋkɪŋ
+gul: ɪt wɑz ðə fækt ðət ˈɛvriˌbɑdi ðɛr simd tɪ laɪk ɪm. ˈmɪsɪz weasley*
+fəst ˈoʊvər ðə steɪt əv hɪz sɑks ənd traɪd tɪ fɔrs ɪm tɪ it fɔrθ ˈhɛlpɪŋz
+æt ˈɛvəri mil. ˈmɪstər weasley* laɪkt ˈhɛri tɪ sɪt nɛkst tɪ ɪm æt ðə ˈdɪnər ˈteɪbəl soʊ
+ðət hi kʊd bɑmˈbɑrd ɪm wɪθ kˈwɛsʧənz əˈbaʊt laɪf wɪθ muggles*, ˈæskɪŋ ɪm tɪ
+ɪkˈspleɪn haʊ θɪŋz laɪk pləgz ənd ðə ˈpoʊstəl ˈsərvɪs wərkt. ˌɪnˈʤinjəs, ˈrɪli,
+haʊ ˈmɛni weɪz muggles* hæv faʊnd əv ˈgɪtɪŋ əˈlɔŋ wɪˈθaʊt ˈmæʤɪk. ˈhɛri hərd
+frəm ˈhɑgˌwɔrts wən ˈsəni ˈmɔrnɪŋ əˈbaʊt ə wik ˈæftər hi hæd əraɪvd æt ðə bəroʊ.
+hi ənd rɑn wɛnt daʊn tɪ ˈbrɛkfəst tɪ faɪnd ˈmɪstər ənd ˈmɪsɪz weasley* ənd ˈʤɪni ɔˈrɛdi
+ˈsɪtɪŋ æt ðə ˈkɪʧən ˈteɪbəl.
+
+'ənd dɪd hi?' 'wət?' 'bɪˈkəm ˈsəmˌbɑdi ɛls.' 'jɛs. jɛs hi dɪd.' ðɛr wər
+ˌkɑmpənˈseɪʃənz. naʊ ðət aɪ wɑz əˈfɪʃəli nɑt ˈklɛvər maɪ ˈfɑðər bɪˈgæn tɪ teɪk mi
+wɪθ ɪm ɔn hɪz ˈbɪznɪs trɪps. hi ˈrɛkənd ðət ɪf aɪ kʊd nɑt ˈbɛnəfɪt frəm ən
+ɪkˈspɛnsɪv ˌɛʤəˈkeɪʃən aɪ kʊd pərˈhæps ˈbɛnəfɪt frəm ɪkˈspɪriəns. maɪ ˈsɪstərz wər
+sɛnt tɪ bɔrd æt benenden*, aɪ wɛnt tɪ ðə ˈloʊkəl ˈkæθlɪk skul, frəm huz ˈpaɪəti
+ənd hoʊm ˌɛkəˈnɑmɪks ˈlɛsənz aɪ wɑz ˈfrikwɛntli riˈmuvd tɪ əˈkəmpəni maɪ ˈfɑðər. ɪn
+1973 wɪn aɪ wɑz ˈθərˈtin, wi flu tɪ nu jɔrk tɪ ʤɔɪn ðə qe2* ɔn ə ˈkɑmət wɔʧ.
+ɪt wɑz ðɪs ðət constellated* maɪ fˈjuʧər. ənd ɪf ʃi wɑz ˈθɪŋkɪŋ əv ðə skul,
+ər hɪz fərst ʤɑb ɪn ə ˈkɑlər ənd taɪ waɪl hɪz meɪts wər æt ðə boʊts, ər ðə
+ˈɔrdəˌnɛri gərl hu hæd ləvd ɪm, ər hər oʊn praɪd, ʃi ˈnɛvər toʊld mi, ðɛn ər æt
+ˈɛni taɪm. laɪk maɪ ˈfɑðər ʃi kʊd nɑt spik wət ʃi fɛlt. ənˈlaɪk ɪm ʃi nu
+ðɪs ənd sæt ˈmɛni aʊərz wɪθ hər hɛd ɪn hər hænz, aɪ θɔt ðɛn, tɪ meɪk ðə
+wərdz fɔl aʊt. bət ðə wərdz dɪd nɑt fɔl aʊt ənd hər ˈfilɪŋz həŋ ˌɪnˈsaɪd hər,
+prɪˈzərvd. 'oʊ nɑt jɛt,' sɛd maɪ ˈməðər. ˈfɑðər sɛd: 'ðɛr wɑz ˈnəθɪŋ tɪ
+tɛl.' aɪ fɛlt ðət maɪ ˈfɑðər hæd gɔn tɪ hɪz dɛθ. 'aɪ ʃʊd hæv tidied* əp
+fərst,' ʃi sɛd. alluvia*: ðə dɪˈpɑzəts kəˈlɛktəd ənd ˈʤɛtɪd baɪ ðə ˈrɪvər. 'ju
+wər bɔrn ɪn 1940 hi wɑz bɔrn ɪn 1947 aɪ wɛr ə waɪt koʊt, taɪ maɪ hɛr bæk
+ənd əˈsum ðə ˈprɑpər ˈætəˌtud tɪ wət aɪ kɔl maɪ laɪf. aɪ wɪl ɪgˈzæmɪn ɪt, bət
+ˌəndərˈniθ ðə dɑrk θɪŋz stər. wət wʊd ˈhæpən ɪf aɪ keɪm feɪs tɪ feɪs wɪθ
+wət aɪ æm? aɪ θɪŋk ɪt ɪz ˈhæpənɪŋ bət bɪˈkəz aɪ du nɑt ˈrɛkəgˌnaɪz ˌmaɪˈsɛlf aɪ seɪ
+ɪt ɪz ˈsəmˌbɑdi ɛls; ɪm, hər, ðɛm, hu ər riˈspɑnsəbəl. riˈspɑnsəbəl fər maɪ
+ˈtɛrər. ˈɛvəri pis əv ˈfərnɪʧər ɪn ðə rum həz bɪn dɪˈstrɔɪd. ɪt wɑz naɪt,
+əˈbaʊt ə kˈwɔrtər tɪ twɛlv, ðə skaɪ dɪˈvaɪdɪd ɪn hævz, wən ˈklaʊdi, ðə ˈəðər
+fɛr. ðə stɑrz wər dip ˈriˈsɛst, nɑt laɪɪŋ ɔn ðə ˈsərfəs əv ðə naɪt bət
+ˈhæmərd ˈɪntu ɪt. ðə ˈwɔtər, wɛr ðə ʃɪp cutted* ɪt, wɑz ˈbroʊkən ənd waɪt, bət
+wəns ðə ʃɪp hæd pæst ðə ˈwɔtər hild ðə ˌɪnˈtruʒən ənd aɪ kʊd nɑt si
+wɛr ðə blæk əv ðə skaɪ ənd ðə blæk əv ðə ˈwɔtər ʧeɪnʤd ˈɪntu iʧ ˈəðər. aɪ
+θɔt əv maɪ often-dream* wɛr taɪm pɔrd ðə ˈfɪʃɪz ˈɪntu ðə skaɪ ənd ðə skaɪ
+wɑz fʊl əv stɑr fɪʃ; ˈstɛlə ˈmɑrɪs əv ðə ˈəpər ɛr. ðɛr ər ˈmɛni ˈlɛʤəndz
+əˈməŋ seafaring* ˈpipəl əv ə braɪt fɪʃ soʊ hɑt ðət ɪt ʃaɪnz ɪn ðə ˈdipəst
+ˈwɔtər, ə stɑr drɑpt ənd finned* frəm gɑd, ən alchemical* ˈmɪstəri, ðə ˈjunjən əv
+faɪər ənd ˈwɔtər, coniuntis* oppositorum* ðət trænsˈfɔrmz ˌɪtˈsɛlf ənd ˈəðərz. səm
+ˈraɪtərz mɪks ðə ˈstɛlə ˈmɑrɪs wɪθ ðə remora*, ə ˈtaɪni fɪʃ ðət stɪks tɪ ðə
+ˈrədər əv ə ˈvɛsəl ənd brɪŋz ɪt tɪ ə hɔlt. ˌwəˈtɛvər ɪt ɪz, ðə ˈfeɪtfəl dɪˈsaɪsɪv
+θɪŋ ðət ˈətərli ˈɔltərz ə ˈkɑnfədənt kɔrs. 'ɪz ðət waɪ jʊr duɪŋ ɪt?' tɪ
+mit: tɪ kəm feɪs tɪ feɪs wɪθ. tɪ bɪˈkəm əkˈweɪnɪd wɪθ. tɪ bi ˌɪntrəˈdust. tɪ
+faɪnd. tɪ ɪkˈspɪriəns. tɪ rɪˈsiv. tɪ əˈweɪt ðə ərˈaɪvəl əv. tɪ ɪnˈkaʊnər. tɪ
+ɪnˈkaʊnər ɪn ˈkɑnflɪkt. maɪ ˈməðər leɪ əˈweɪk ˈpɑndərɪŋ ðə ˈmætər ənd əˈplaɪd wɪθ
+səm ˈərʤənsi tɪ hər ˈfɑðər nɛkst ˈmɔrnɪŋ. wət kʊd bi dən? ˈnəθɪŋ. ðə jəŋ
+mæn hæd ˈoʊnli ˈrisəntli bɪn prəˈmoʊtəd ɪn ʧɑrʤ əv ðə əˈtlæntɪk ˈkrɔsɪŋz. hi
+wʊd hæv tɪ pruv hɪmˈsɛlf ðɛr. ənˈfɔrʧənətli hi rɪˈzɪstɪd ɔl əˈtɛmpts baɪ maɪ
+ˈməðər tɪ pruv hɪmˈsɛlf ˈɛlsˌwɛr. ɪn dɪˈspɛr maɪ ˈməðər kənˈsəltɪd maɪ ˈgrændˌməðər
+hu səˈʤɛstɪd ðeɪ traɪ ðə ˈneɪvi pəˈzɪʃən. ðɪs down-to-earth* ədˈvaɪs wɑz nɑt wɛl
+rɪˈsivd baɪ maɪ ˈfɑðər hu hæd ɔˈrɛdi ˈædɪd ə vəˈnɪr əv kənˈvɛnʃənəl ˌmɔˈræləˌti tɪ
+hɪz kənˈvɛnʃənəl riˌspɛktəˈbɪlɪti. 'bət jove* ɪz ˈjəŋgər ðən ju.' ðɛr hi ɪz,
+bɪlt laɪk kɪŋ kɔŋg, ɛz æmˈbɪʃəs ɛz ðə ˈɛmpaɪər steɪt ˈbɪldɪŋ, ɛz wide-eyed* ɛz
+feɪ reɪ, ənd ɛz məʧ ə drim, ən ˌɪnˈvɛnʃən, ɛz ðə ˈmuviz ənd əˈmɛrɪkə ˌɪtˈsɛlf.
+hi wɑz ə ʤaɪənt prɑˈʤɛkʃən ɔn ðə blæŋk skrin əv ˈəðər ˈpipəl ənd ðət wɑz hɪz
+səkˈsɛs. hi wɑz nɑt ə ˈruθləs mæn bət hi bɪˈlivd ɪn hɪmˈsɛlf. ðət mɑrkt ɪm
+aʊt frəm ðə ˈmɛni ˈəðərz hu bɪˈlivd ɪn ˈnəθɪŋ æt ɔl. maɪ ˈgrændˌməðər, hu wɑz
+nɑt ə ˈnərvəs taɪp, sɛd tɪ hərˈsɛlf, 'ˈdeɪvɪd məst hæv gɑt hɪz pərˈmoʊʃən.'
+ˈnɑdɪŋ, ʃi ˈfɪnɪʃt ðə ˈʧæptər, lɛt aʊt ðə bæθ ˈwɔtər ənd trəʤd hoʊm. hi
+slɛpt ɪn hɪz ˈdrɛsɪŋ rum fər ðə fərst ˈkəpəl əv mənθs. ˈæftər maɪ ˈməðər hæd
+fɛd mi, ˈsəmˌtaɪm əraʊnd 5 a.m*., ʃi wʊd fɔl ˈɪntu ə dip slip ənd maɪ ˈfɑðər
+juzd tɪ krip ɪn ənd pɪk mi əp ɪn hɪz juʤ hænz ənd teɪk mi tɪ hɪz rum wɛr
+ðə faɪər gloʊd. pərˈhæps ɪt wɑz ðɛr, hɛld baɪ ɪm, ɪn frənt əv ðə ˈmɪrər, ðə
+streɪnʤ rum ɪn rɪˈflɛkʃən bɪˈhaɪnd, ðət aɪ keɪm tɪ ˌɪˈmæʤən ˈəðər ˈpleɪsɪz, gloʊɪŋ
+ˈstɛdəli, ʤɪst aʊt əv riʧ. aɪ wʊd ˈɑrgju wɪθ ðət. 'ˈləndən,' sɛd maɪ
+ˈgrændˌməðər, prəˈnaʊnsɪŋ ɪt hɛl. 'wɛrz ðə ˈdɪfɪˌkəlti ɪn ðət?' aɪ wɔnt tɪ
+fil bət wɪθ ˈfilɪŋ kəmz peɪn. aɪ kʊd ədˈvaɪz ˌmaɪˈsɛlf tɪ kip aʊt əv
+ˌkɑmpləˈkeɪʃənz ənd aɪ woʊnt priˈtɛnd ðət aɪ hæv hæd noʊ ʧɔɪs ɪn ˈɛni əv ðɪs. aɪ
+hæv ˈnoʊtɪst ðət ˈʧɔɪsɪz sim tɪ bi meɪd ɪn ədˈvæns əv wət ɪz ˈʧoʊzən. ðə taɪm
+gæp ɪn bɪtˈwin ðə dɪˈtərmənɪŋ wɪl ənd ðə dɪˈtərmənd ɪˈvɛnt ɪz ə ˈhændi ɪkˈskjuz
+tɪ dɪˈnaɪ ˌkɔˈzɑlɪti. ɪn ˈspeɪˌstaɪm ðɛr ɪz ˈɔlˌweɪz ə læg bɪtˈwin priˈdɪkʃən ənd
+rɪˈspɑns (sɪŋkrəˈnɪsɪti ɪz ə haɪər dɪˈmɛnʃən fəˈnɑməˌnɑn wɛr ðə rulz əv
+ˈspeɪˌstaɪm du nɑt əˈplaɪ), ˈsəmˌtaɪmz əv ˈsɛkəndz, ˈsəmˌtaɪmz əv jɪrz, bət wi
+ˈproʊˌgræm ɪˈvɛnts fɑr mɔr ðən wi laɪk tɪ θɪŋk. aɪ du nɑt seɪ ðɪs ɪz ˈkɑnʃəs,
+ˈjuʒəwəli ɪt ɪz nɑt, ənd ðɛr laɪz ðə ˈdɪfɪˌkəlti. aɪ hæv sin maɪ ˈfɑðər ˈpʊʃɪŋ
+ðə wərld, hi kwaɪt ˌənəˈwɛr əv wət wɑz ˈpʊʃɪŋ ɪm. hi dɪd nɑt bɪˈliv ɪn ðə
+ˌənˈkɑnʃəs, ɪkˈsɛpt ɛz ə sup əv ˈfænəsi ənd half-memories* ðət ˌɛnərˈteɪnd hɪz
+slip. tɪ səˈʤɛst, ɛz aɪ dɪd, ðət ðə maɪnd ɪz ə self-regulating* ˈsɪstəm, wɛr
+ˈkɑnʃəsnəs ənd ˌənˈkɑnʃəsnɪs wərk ɛz load-balancing* ˈpʊliz, raʊzd ˈæŋgər
+ɪˈnəf tɪ meɪk mi θɪŋk aɪ hæd təʧt ˈsəmθɪŋ ˈrɛləvənt. aɪ kənˈtɪnjud maɪ
+ˈrɛdɪŋ: paracelsus*, jʊŋ, ˈaɪnstaɪn, frɔɪd, ˈkæprə, ənd ˌɔlˈðoʊ aɪ stɪl noʊ
+ˈnəθɪŋ, aɪ æm noʊ ˈlɔŋgər ə dɪˈsaɪpəl əv feɪt. 'aɪ si waɪ hi laɪks ju,' sɛd
+ˈstɛlə, ɪgˈzæmɪnɪŋ maɪ nɛk wɪθ hər ˈfɪŋgərz. wət kən ə ˈlɪtəl gərl si ðət
+əˈstrɑnəmərz ənd ˈtɛləˌskoʊps ˈkænɑt? ðɛr wɑz noʊ ˈkɑmət ˈsaɪtɪd ɔn ðə əˈfɪʃəl
+lɔg əv ðə ˈʤərni. wət wɑz ɪt ðɛn ðət hooped* təˈgɛðər ˈɔrdəˌnɛri naɪt wɪθ
+ˌɪnˈfɪnɪti? aɪ sɔ ðə ˈsɪlvər praʊ pæs ˈoʊvər mi ənd ðə seɪlz ɪn ˈtætərd klɔθ.
+mɛn ənd ˈwɪmən ˈkraʊdɪd æt ðə dɛk. ðɛr wɑz ə ˈʃədərɪŋ, ɛz ðoʊ ðə
+world-clock* hæd stɑpt, ðoʊ ɪn fækt ɪt wɑz ɑr oʊn ʃɪp ðət hæd θroʊn ɪts
+ˈɛnʤənz ɪn rɪˈvərs. ɪn ðə ˈmɔrnɪŋ maɪ ˈfɑðər toʊld mi ðət wi hæd aɪˈdɛntəˌfaɪd ən
+ənˈnoʊn ˈsɪgnəl, θɔt tɪ bi ə ˈvɛsəl ʤɪst əˈhɛd əv ˈjuˈɛs, ðoʊ ˈnəθɪŋ æt ɔl
+wɑz faʊnd. ənd ʃi toʊld mi haʊ ʃi ənd hər ˈməðər hæd ˈvɪzɪtɪd ðə ˈdaɪnər wəns ə
+wik, ɔn ə ˈsæˌtɪˌdeɪ, fər ðə nɛkst ˈilɛvən jɪrz. ɪt hæd tɪ bi ˈsæˌtɪˌdeɪ. ðə
+ʤuɪʃ shabbat*. ˈpɑˌpɑz ˈɛkstəsi. ˈmɑməz dɪˈfaɪəns. hər ˈdɔtər wɑz nɑt ʤuɪʃ.
+ˈʤuɪʃnəs ɪz kənˈtɪnjud θru ðə ˈfiˌmeɪl laɪn. ˈmɑmə wʊd nɑt hæv hər
+ˈdɔtər ˈgɪvɪn əp tɪ ˈpɑˌpɑz ˈpæʃən. hi lɛft hɪz dɛsk wɪθ ɪts fɔr blæk
+ˈtɛləˌfoʊnz ənd ˈfaɪlɪŋ treɪ, ənd wɪˈθaʊt ˈstɑpɪŋ tɪ kəˈlɛkt ˈɛni ˈləgɪʤ, bɔt
+ən aeroplane* ˈtɪkɪt fər ðə ˈivnɪŋ flaɪt. ɪn 1959 flaɪɪŋ wɑz ɑd, ˈglæmərəs,
+ɪkˈspɛnsɪv ənd ˈblɪsfəl. ðɛr wɑz ə fifteen-minute* check-in* taɪm ənd maɪ ˈfɑðər
+wɔkt əˈkrɔs ðə ˈtɑrˌmæk ənd ˈbɔrdɪd ðə twin-propeller* pleɪn wɪθ ˈoʊnli hɪz
+ˈtuθbrəʃ tɪ dɪˈklɛr. hər brɛsts ɛz maɪ brɛsts, hər maʊθ ɛz maɪ maʊθ, wər
+mɔr ðən nɑrˈsɪsəs hypnotised* baɪ hɪz oʊn ˈlaɪknəs. ˈɛvriˌbɑdi noʊz haʊ ðə
+ˈstɔri ˈʧeɪnʤɪz wɪn hi dɪˈstərbz ðə ˈwɔtər. aɪ dɪd dɪˈstərb ðə ˈwɔtər ənd ðə
+ˈpərˌfɪkt ˈpɪkʧər broʊk. ju si, aɪ kʊd hæv ˈrɛstɪd ðɛr ˌbiˈsaɪd hər, pərˈhæps
+fərˈɛvər, ɪt fɛlt laɪk fərˈɛvər, ə ˈmɪrər kənfˈjuʒən əv ˈbɑdiz ənd saɪz,
+ənˌdɪfəˈrɛnʃiˌeɪtɪd, ʃi ɪn mi, mi ɪn ʃi ənd noʊ ˈlɔŋgər ɪgˈzɔstɪd baɪ ˈsəmˌwən ˈɛlsɪz
+ʃeɪp ˈoʊvər maɪn. ənd aɪ hæd nɑt ɪkˈspɛktɪd səʧ ˌɪnˈtɛns ˈfɪzɪkəl ˈplɛʒər. ðə
+ˈlɪtəl bɔɪ hæd ˈnɛvər sin ə ˈbeɪbi pɪŋk ɛz ə wʊlfs təŋ. 'tu pəˈlaɪt tɪ bi ən
+əˈmɛrɪkən.' 'aɪ səˈpoʊz aɪ æm. maɪ ˈfɑðər juzd tɪ kəm hir. hi ləvd nu jɔrk. hi
+sɛd ɪt wɑz ðə ˈoʊnli pleɪs ɪn ðə wərld wɛr ə mæn kʊd bi hɪmˈsɛlf waɪl
+ˈwərkɪŋ hɪz ʃərt ɔf tɪ bɪˈkəm ˈsəmˌbɑdi ɛls.' ðə drim tɪ pæn ðə ˈlɪvɪŋ kleɪ
+ðət ju ər ənd faɪnd goʊld ɪn ɪt. pərˈhæps maɪ ˈfɑðər wɑz ə ˈtrɛʒər ʧɛst bɪˈkəz
+hi simd tɪ bi ˈeɪbəl tɪ leɪ əp fər hɪmˈsɛlf ˌɪnɪgˈzɔstəbəl ˈrɪʧɪz. ˌwəˈtɛvər hi
+traɪd səkˈsidɪd. hi ʃʊd hæv bɪn ə vəˈniʃən ˈmərʧənt ˈpeɪsɪŋ ðə rialto*. hi
+ʃʊd hæv bɪn ˈmɑrkoʊ ˈpoʊloʊ ˈwɪnɪŋ fərz aʊt əv muscovy*. ɪz ðət ɪm, ɔn ðə lɔg
+ræfts ɪn kwəˈbɛk? ɪz ðət ɪm ˈraɪdɪŋ ˈræpɪdz wɪθ ðə snoʊ mantling* hɪz ˈʃoʊldərz?
+hi wɑz ə mæn hu bɪˈlɔŋd wɪθ ən ɛlk, wɪθ ə mus. ə weɪl mæn, ə bɛr mæn.
+ˌɪnˈstɛd hi wɔr ə lus sut ənd ə ˈtrɪlbi ənd ˈlərnɪd haʊ tɪ nɛt ə ˈprɑfɪt. hɪz
+hɔlz wər ðə ˈbɪgəst ɪn ðə ˈkəmpəˌni ənd hi tərnd ðɛm ɪn laɪk ə ˈlɪtəl bɔɪ.
+ɪn ðoʊz deɪz hɪz tru sɛlf wɑz stɪl ˈfaɪtɪŋ wɪθ hɪz əˈsumd sɛlf, ənd
+ˈwɪnɪŋ. ˈpərsən ənd pərˈsoʊnə, ðə mæn ənd hɪz mæsk hæd ˈsɛpərˌeɪt aɪˈdɛntɪˌtiz ðɛn,
+hi nu wɪʧ wɑz wɪʧ. ˈleɪtər, ðə mæn maɪ ˈməðər ˈmɛrid daɪd ˌbiˈfɔr hɪz dɛθ
+ənd ðə mæn hu hæd kəm tɪ bi hɪz ˈkaʊnərˌfɪt wɔr hɪz kloʊðz. 'aɪ doʊnt noʊ
+wət əm duɪŋ.' baɪ deɪ maɪ ˈfɑðər wɑz ə smɑrt ənd ˌɪnˈkrisɪŋgli sˈmɑrtər mæn. baɪ
+naɪt, ər tɪ bi ˈtruθfəl, baɪ θri naɪts ə wik, hi mænd ə tug-boat*. ðɛr hi
+ɪz ɪn ə ˈgrisi ˈdɔŋki ˈʤækɪt ənd ˈsimənz balaclava*. ˈspɪnɪŋ ðə θɪk ˈkeɪbəl
+frəm ðə ˈwɪndləs ənd ˈbrɪŋɪŋ ɪn ðə bəˈnænə boʊts, ðə greɪn boʊts, ðə boʊts
+əv ˈtərkɪʃ ˈsɪlvər, ənd ðə boʊts fʊl əv ˈaɪrɪʃ, shamrocks* raʊnd ðɛr hɑrts.
+'hɑrˈpun əˈhɔɪ!' sɛd maɪ ˈfɑðər. ənd ˈsəmˌwɛr ɪn ɔl ðɪs aɪ wɑz. aɪ æm maɪ
+ˈfɑðərz ˈdɔtər. væˈleɪ də kup. ə juθ stɛrz ˈæŋkʃəsli ˈɪntu ən ɪˈlæbərˌeɪt
+kəp huz ˈkɑntɛnts ər kənˈsild. ðɛr meɪ bi noʊ ˈkɑntɛnts. ˌnɛvərðəˈlɛs hi
+hoʊldz ˈɔntu ðə kəp. ˈkɛriɪŋ ɪt wɪθ ɪm ɛz hi wɔks.
