@@ -4,6 +4,11 @@ Raw Test Universal Dependencies – train, test, dev from  Universal Dependenci
 
 We use a corpus phonemicizer – G2P+ (https://github.com/codebyzeb/g2p-plus) – to convert raw UD into phonemic representations. 
 
+
+Arabic - Epitran 
+Afrikaans - Phonemizer 
+
+
 ## Epitran 
 
 | Code | Language (Script) | Notes |
