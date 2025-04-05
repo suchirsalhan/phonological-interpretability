@@ -166,6 +166,33 @@
 | Scottish Gaelic             | `gd`          |
 | Sanskrit Vedic              | `sa`          |
 | UFAL Sanskrit               | `sa`          |
+| Pomak-Philotis     | `qpm`          |
+| Phrygian           | `xpg`          |
+| Pesh               | `pay`          |
+| Paumari            | `pad`          |
+| Pashto             | `ps`           |
+| Ottoman Turkish    | `ota`          |
+| Old Turkish        | `otk`          |
+| Old Irish          | `sga`          |
+| Old French         | `fro`          |
+| Old East Slavic    | `orv`          |
+| Old Church Slavonic| `crv`          |
+| North Sami         | `sme`          |
+| Nheengatu          | `yrl`          |
+| Naija              | `pcm`          |
+| Munduruku          | `myu`          |
+| Moksha             | `mdf`          |
+| Middle French      | `frm`          |
+| Manx               | `gv`           |
+| Maltese            | `mt`           |
+| Makurap            | `mpu`          |
+| Maghrebi Arabic    | `qaf`          |
+| Madi Jarawara      | `jaa`          |
+| Macedonian         | `mk`           |
+| Latin              | `la`           |
+| Irish              | `ga`           |
+| Icelandic          | `is`           |
+| Indonesian         | `id`           |
 ## 🧏 Miscellaneous
 
 | Language               | ISO 639-1 Code |
