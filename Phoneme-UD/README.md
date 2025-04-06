@@ -34,11 +34,9 @@ We use a corpus phonemicizer – G2P+ (https://github.com/codebyzeb/g2p-plus) �
 | Chinese       | zh       | cmn-Hans, cmn-Hant                       | Simplified and Traditional available.   |
 
 
-**| Language    | ISO Code | Phonemizer Mode(s)                     | Notes                                 |**
+| Language      | ISO Code | Phonemizer Mode(s)                          | Notes                                 |
 |---------------|----------|------------------------------------------|----------------------------------------|
-| Afrikaans       | af     |      | Naive, Precise phonemic, Reduced modes |
-
-
+| Afrikaans       | af       |      | Naive, Precise phonemic, Reduced modes |
 
 
 ## Epitran 
