@@ -5,8 +5,40 @@ Raw Test Universal Dependencies – train, test, dev from  Universal Dependenci
 We use a corpus phonemicizer – G2P+ (https://github.com/codebyzeb/g2p-plus) – to convert raw UD into phonemic representations. 
 
 
-Arabic - Epitran 
-Afrikaans - Phonemizer 
+| Language      | ISO Code | Epitran Mode(s)                          | Notes                                 |
+|---------------|----------|------------------------------------------|----------------------------------------|
+| Amharic       | am       | amh-Ethi, amh-Ethi-pp, amh-Ethi-red      | Naive, Precise phonemic, Reduced modes |
+| Azerbaijani   | az       | aze-Cyrl, aze-Latn                       | —                                      |
+| Catalan       | ca       | cat-Latn                                 | —                                      |
+| German        | de       | deu-Latn, deu-Latn-np                    | Naive phonemic mode available          |
+| English       | en       | eng-Latn                                 | —                                      |
+| Spanish       | es       | spa-Latn                                 | —                                      |
+| Farsi         | fa       | fas-Arab                                 | No short vowels                        |
+| French        | fr       | fra-Latn, fra-Latn-np                    | Provisional, Naive phonemic            |
+| Hindi         | hi       | hin-Deva                                 | —                                      |
+| Hungarian     | hu       | hun-Latn                                 | —                                      |
+| Italian       | it       | ita-Latn                                 | —                                      |
+| Marathi       | mr       | mar-Deva                                 | —                                      |
+| Polish        | pl       | pol-Latn                                 | —                                      |
+| Portuguese    | pt       | por-Latn                                 | —                                      |
+| Russian       | ru       | rus-Cyrl                                 | Provisional                            |
+| Swedish       | sv       | swe-Latn                                 | —                                      |
+| Tamil         | ta       | tam-Taml                                 | —                                      |
+| Telugu        | te       | tel-Telu                                 | —                                      |
+| Thai          | th       | tha-Thai                                 | —                                      |
+| Tagalog       | tl       | tgl-Latn                                 | —                                      |
+| Turkish       | tr       | tur-Latn, tur-Latn-bab                   | “Following Babel” mode available       |
+| Uyghur        | ug       | uig-Arab                                 | —                                      |
+| Ukrainian     | uk       | ukr-Cyrl                                 | Provisional                            |
+| Vietnamese    | vi       | vie-Latn                                 | —                                      |
+| Chinese       | zh       | cmn-Hans, cmn-Hant                       | Simplified and Traditional available.   |
+
+
+**| Language    | ISO Code | Phonemizer Mode(s)                     | Notes                                 |**
+|---------------|----------|------------------------------------------|----------------------------------------|
+| Afrikaans       | af     |      | Naive, Precise phonemic, Reduced modes |
+
+
 
 
 ## Epitran 
