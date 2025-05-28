@@ -1,7 +1,7 @@
 {
   "lang": "it",
-  "entropy": 0.0,
-  "mean_word_length": 0.0,
+  "entropy": 17.2678,
+  "mean_word_length": 12.2641,
   "phoneme_counts": {
     "rː": 9836,
     "ie": 22382,
