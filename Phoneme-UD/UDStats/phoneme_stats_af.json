@@ -1,7 +1,7 @@
 {
   "lang": "af",
-  "entropy": 0.0,
-  "mean_word_length": 0.0,
+  "entropy": 13.683,
+  "mean_word_length": 11.94,
   "phoneme_counts": {
     "m": 11192,
     "i": 39262,
