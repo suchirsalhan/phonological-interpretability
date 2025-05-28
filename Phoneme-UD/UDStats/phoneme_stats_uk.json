@@ -1,7 +1,7 @@
 {
   "lang": "uk",
-  "entropy": 0.0,
-  "mean_word_length": 0.0,
+  "entropy": 12.1348,
+  "mean_word_length":8.2114,
   "phoneme_counts": {
     "sʲ": 26519,
     "m": 48570,
