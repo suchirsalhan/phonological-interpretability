@@ -1,7 +1,7 @@
 {
   "lang": "ar",
-  "entropy": 0.0,
-  "mean_word_length": 0.0,
+  "entropy": 10.8742,
+  "mean_word_length": 8.0327,
   "phoneme_counts": {
     "aː": 326942,
     "m": 125902,
