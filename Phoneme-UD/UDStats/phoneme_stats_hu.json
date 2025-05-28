@@ -1,7 +1,7 @@
 {
   "lang": "hu",
-  "entropy": 0.0,
-  "mean_word_length": 0.0,
+  "entropy": 15.6549,
+  "mean_word_length": 10.3311,
   "phoneme_counts": {
     "iː": 2620,
     "aː": 17276,
