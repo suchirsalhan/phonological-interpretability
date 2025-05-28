@@ -1,7 +1,7 @@
 {
   "lang": "mr",
-  "entropy": 0.0,
-  "mean_word_length": 0.0,
+  "entropy": 10.114,
+  "mean_word_length": 12.6881,
   "phoneme_counts": {
     "iː": 1392,
     "uː": 498,
