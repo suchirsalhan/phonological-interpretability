@@ -1,7 +1,7 @@
 {
   "lang": "ca",
-  "entropy": 0.0,
-  "mean_word_length": 0.0,
+  "entropy": 16.3872,
+  "mean_word_length": 12.1238,
   "phoneme_counts": {
     "m": 123330,
     "i": 282528,
