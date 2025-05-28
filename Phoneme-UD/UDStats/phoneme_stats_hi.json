@@ -1,7 +1,7 @@
 {
   "lang": "hi",
-  "entropy": 0.0,
-  "mean_word_length": 0.0,
+  "entropy": 19.1573,
+  "mean_word_length": 15.5911,
   "phoneme_counts": {
     "iː": 120802,
     "aː": 266206,
