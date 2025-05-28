@@ -1,7 +1,7 @@
 {
   "lang": "zh",
-  "entropy": 0.0,
-  "mean_word_length": 0.0,
+  "entropy": 8.6961,
+  "mean_word_length":52.6506,
   "phoneme_counts": {
     "a˧˩˧": 21286,
     "y˧˩˧": 6456,
